@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#10131f" />
+    <title>TFS4 · 2025 模拟考试</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <a class="brand" href="#" aria-label="返回首页"><span>tfs</span><b>4</b></a>
+        <div class="exam-meta"><strong>2025 法语专四</strong><span>Partie II · Compréhension orale</span></div>
+        <div class="timer" aria-label="考试计时"><small>已用时间</small><strong id="timer">00:00:00</strong></div>
+      </header>
+
+      <section class="intro-card">
+        <div><p class="eyebrow">原型 · 单次模拟</p><h1>听力理解</h1><p>选择答案，并用直觉记录这一题的把握程度。</p></div>
+        <div class="progress-wrap"><div class="progress-label"><span id="progressText">0 / 20 已作答</span><span id="pageText">第 1 / 2 页</span></div><div class="progress"><i id="progressBar"></i></div></div>
+      </section>
+
+      <section id="questionList" class="questions" aria-live="polite"></section>
+
+      <nav class="pager" aria-label="试卷翻页">
+        <button id="previous" class="ghost" type="button">← 上一页</button>
+        <div id="pageDots" class="dots"></div>
+        <button id="next" class="primary" type="button">下一页 →</button>
+      </nav>
+    </main>
+
+    <footer class="bottom-bar"><span><i></i> 自动保存至本设备</span><button id="submit" class="submit" type="button">交卷并查看结果</button></footer>
+
+    <dialog id="resultDialog">
+      <article>
+        <button id="closeDialog" class="close" type="button" aria-label="关闭">×</button>
+        <p class="eyebrow">本次记录已存档</p><h2 id="resultTitle">完成得分</h2>
+        <div class="score"><strong id="score">0</strong><span>/ 20</span></div>
+        <div class="result-grid"><div><small>考试用时</small><b id="resultTime">00:00:00</b></div><div><small>已作答</small><b id="resultAnswered">0 / 20</b></div><div><small>肯定作答</small><b id="resultCertain">0</b></div></div>
+        <p class="notice">分数依据母文档的“工作答案”计算，并非官方标准答案。</p>
+        <button id="restart" class="primary wide" type="button">重新开始一次</button>
+      </article>
+    </dialog>
+    <script src="./app.js"></script>
+  </body>
+</html>

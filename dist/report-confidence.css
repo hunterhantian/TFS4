@@ -1,0 +1,1 @@
+.result-row{grid-template-columns:35px 1fr auto auto auto}.report-confidence{color:#d8e2f0;font-size:12px;white-space:nowrap}.result-row.empty .report-confidence{color:#738198}@media(max-width:580px){.result-row{grid-template-columns:27px 1fr auto auto}.result-row .report-confidence{grid-column:2;font-size:11px}.result-row .time{grid-column:4;grid-row:1/3}}

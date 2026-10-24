@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">软柿子</title><desc id="desc">一只扁扁的、被捏出收腰凹痕的柿子</desc>
+  <defs>
+    <linearGradient id="fruit" x1="31" y1="40" x2="91" y2="111" gradientUnits="userSpaceOnUse"><stop stop-color="#ffd35d"/><stop offset=".48" stop-color="#ff9a35"/><stop offset="1" stop-color="#e9502c"/></linearGradient>
+    <linearGradient id="calyx" x1="45" y1="17" x2="84" y2="50" gradientUnits="userSpaceOnUse"><stop stop-color="#b9e778"/><stop offset="1" stop-color="#3d8756"/></linearGradient>
+  </defs>
+  <path d="M63 27c-3-10 1-18 8-21 4 8 1 16-5 22" fill="#6e4932" stroke="#553724" stroke-width="2" stroke-linecap="round"/>
+  <path d="M64 33c-11-14-24-13-31-5 11 6 20 9 31 11-2-2-2-4 0-6Z" fill="url(#calyx)" stroke="#347247" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M65 33c12-14 25-13 31-5-12 6-21 9-32 11 2-3 2-5 1-6Z" fill="url(#calyx)" stroke="#347247" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M35 46c15-8 43-8 58 0 12 6 17 14 14 23-2 7-12 7-14 14-3 10 3 17-7 23-12 7-32 8-45 1-10-6-4-15-7-24-2-7-13-8-13-16 0-9 4-16 13-21Z" fill="url(#fruit)" stroke="#c9452e" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M25 64c5-6 11-7 16-2-7 5-8 11-3 18-8 1-14-6-13-16Z" fill="#df6037" opacity=".9"/>
+  <path d="M103 64c-5-6-11-7-16-2 7 5 8 11 3 18 8 1 14-6 13-16Z" fill="#d95734" opacity=".9"/>
+  <path d="M40 52c9-6 19-7 29-6" fill="none" stroke="#ffe59a" stroke-width="6" stroke-linecap="round" opacity=".8"/>
+  <path d="M43 75c5-4 11-4 16 0" fill="none" stroke="#4b2a35" stroke-width="4" stroke-linecap="round"/>
+  <path d="M72 75c5-4 11-4 16 0" fill="none" stroke="#4b2a35" stroke-width="4" stroke-linecap="round"/>
+  <path d="M48 91c10 8 24 8 34 0-8 2-18 1-28-3" fill="none" stroke="#4b2a35" stroke-width="4.5" stroke-linecap="round"/>
+  <path d="M34 88c2 8 8 13 17 15M95 88c-2 8-8 13-17 15" fill="none" stroke="#bc402f" stroke-width="3" stroke-linecap="round" opacity=".65"/>
+</svg>

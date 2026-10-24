@@ -3,14 +3,15 @@
 <head>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <meta name="theme-color" content="#121825"><title>2025 法语专四 · 模考</title>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="reading.css"><link rel="stylesheet" href="archive.css"><link rel="stylesheet" href="brand.css"><link rel="stylesheet" href="report-confidence.css">
 </head>
 <body>
   <main class="shell">
-    <header class="topbar"><a class="brand" href="#" aria-label="返回首页"><span>F4</span><b>2025 法语专四</b></a><div class="timer" aria-label="考试计时"><i></i><strong id="clock">00:00:00</strong></div></header>
+    <header class="topbar"><a class="brand" href="#" aria-label="返回首页"><img class="brand-logo" src="ruanshizi-logo-cutout.png" alt="软柿子 logo"><span class="brand-copy"><b>软柿子</b><small>2025 法语专四</small></span></a><div class="timer" aria-label="考试计时"><i></i><strong id="clock">00:00:00</strong></div></header>
     <section id="welcome" class="welcome">
-      <p class="kicker">TFS4 · 选择题模考</p><h1>把注意力，留给这一题。</h1>
-      <p>100 道选择题 · 深色专注界面 · 每题记录答案、信心和答题时间。</p>
+      <p class="kicker">TFS4 · 选择题模考</p><h1>软柿子</h1>
+      <p class="welcome-subtitle">专注法语专四考试</p>
+      <p>100 道选择题 · 自动保存进度 · 每题记录答案、信心和答题时间。</p>
       <div class="notice"><span>⚑</span><div><b>工作答案键</b><br>第 55、62、100 题在提交结果中会标记为「待复核」。</div></div>
       <button id="start" class="primary">开始本次考试 <span>→</span></button>
       <button id="open-history" class="text-button">查看本机存档</button>
@@ -23,6 +24,7 @@
       <button id="submit" class="submit">交卷并存档</button>
     </section>
     <section id="history" hidden class="history"><div class="view-title"><div><p class="kicker">ARCHIVE</p><h1>考试存档</h1></div><button class="secondary back">返回考试</button></div><div id="history-list"></div></section>
+    <section id="archive-detail" hidden class="history"><div class="view-title"><div><p class="kicker">ARCHIVE REPORT</p><h1>本次考试报告</h1></div><button id="archive-back" class="secondary">返回存档</button></div><div id="archive-content"></div></section>
   </main>
   <dialog id="result"><div id="result-content"></div><button id="result-close" class="primary">完成</button></dialog>
   <script src="exam-data.js"></script><script src="app.js"></script>

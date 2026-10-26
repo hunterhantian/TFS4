@@ -1,0 +1,23 @@
+[Unit]
+Description=Ruanshizi exam application
+After=network.target
+
+[Service]
+Type=simple
+User=ruanshizi
+Group=ruanshizi
+WorkingDirectory=/opt/ruanshizi/current
+EnvironmentFile=/etc/ruanshizi/app.env
+ExecStart=/opt/ruanshizi/node/bin/node server/main.mjs
+Restart=on-failure
+RestartSec=3
+TimeoutStopSec=30
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/var/lib/ruanshizi /var/backups/ruanshizi
+
+[Install]
+WantedBy=multi-user.target

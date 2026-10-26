@@ -1,0 +1,24 @@
+{
+  "checkedAt": "2026-10-26T09:11:02.123Z",
+  "passed": 17,
+  "checks": [
+    "HTTP redirects to HTTPS",
+    "Public trusted HTTPS page loads",
+    "Existing account logs in",
+    "Production session cookie is Secure HttpOnly Strict",
+    "Cloud has all seven baseline reports",
+    "Every archived report payload matches baseline exactly",
+    "Existing report renders 100 table rows",
+    "Shared listening audio loads and seeks over HTTPS",
+    "Public audio range returns 206 and exact bytes",
+    "Private route blocked: /exam-data.js",
+    "Private route blocked: /.local/stage1/app.sqlite",
+    "Private route blocked: /server/app.mjs",
+    "Private route blocked: /data/2025-candidate.json",
+    "Untrusted write Origin rejected",
+    "Mobile report has no page overflow",
+    "Cloud smoke session logged out",
+    "No browser script errors"
+  ],
+  "baselineReports": 7
+}

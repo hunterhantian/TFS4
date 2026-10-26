@@ -1,5 +1,5 @@
 {
-  "passed": 40,
+  "passed": 50,
   "checks": [
     "no static answer data in browser",
     "answer selection does not trigger server save",
@@ -40,6 +40,16 @@
     "closed offline tab draft recovers after explicit takeover",
     "confirmed restored draft removes unchanged old cache",
     "administrator creates account through UI",
+    "report has exact six requested columns",
+    "report tables contain all 100 actual rows",
+    "unanswered row and missing time remain explicit",
+    "completed wrong row preserves both answers",
+    "table renders recorded independent question time",
+    "four clickable subsection score overviews",
+    "progress bar uses correct count over total question count",
+    "overview colors match corresponding detailed Parts",
+    "report table fits mobile viewport",
+    "overview click expands and jumps to matching table",
     "no page script errors"
   ]
 }

@@ -43,7 +43,7 @@ $('#takeover').onclick=()=>run(async()=>{
 $('#use-cloud').onclick=()=>run(async()=>{if(!sync)return;const id=sync.attempt.id;download(`软柿子-待同步备份-${id}.json`,{attemptId:id,...readDraft(user.id,id),baseRevision:sync.attempt.revision,progress:structuredClone(sync.progress)});discardDraft(user.id,id);await openAttempt(id);});
 $('#reauth').onclick=()=>{destroy();show('login-view');};
 $('#listening-audio').addEventListener('error',()=>$('#audio-status').textContent='音频暂不可用，请联系管理员检查音频文件。');
-setInterval(()=>{if(sync?.running){sync.advance();updateExam(sync);}},1000);setInterval(()=>{if(sync?.running&&!sync.frozen)sync.flush().catch(()=>{});},10000);
+setInterval(()=>{if(sync?.running){sync.advance();updateExam(sync);}},1000);setInterval(()=>{if(sync?.autoSaveDue())sync.flush().catch(()=>{});},1000);
 document.addEventListener('visibilitychange',()=>{if(document.hidden&&sync?.running){pause().catch(()=>{});}});
 window.addEventListener('pagehide',()=>{if(sync?.running){$('#listening-audio').pause();sync.flush('pause').catch(()=>{});}});
 window.addEventListener('online',()=>{if(sync&&!sync.frozen){const paused=sync.pendingAction==='pause';sync.flush().then(()=>paused?home():null).catch(()=>{});}});

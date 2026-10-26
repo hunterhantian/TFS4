@@ -15,7 +15,7 @@ export async function createApp(options={}){
  const backupDir=path.resolve(options.backupDir||process.env.BACKUP_DIR||path.join(projectRoot,'.local/stage1/backups'));
  for(const publicDir of ['web','dist'])if(backupDir.toLowerCase()===path.join(projectRoot,publicDir).toLowerCase()||backupDir.toLowerCase().startsWith(path.join(projectRoot,publicDir).toLowerCase()+path.sep))throw Error('Backups must be outside public directories');
  fs.mkdirSync(backupDir,{recursive:true,mode:0o700});
- const now=options.now||Date.now;const leaseMs=options.leaseMs||120000;const sessionMs=options.sessionMs||12*3600000;
+ const now=options.now||Date.now;const leaseMs=options.leaseMs||600000;const sessionMs=options.sessionMs||12*3600000;
  const app=Fastify({logger:options.logger||false,bodyLimit:1024*1024,requestTimeout:15000,genReqId:()=>randomUUID()});
  const cookieName=production?'__Host-rsz_session':'rsz_session';
  const cookie=(value,maxAge)=>`${cookieName}=${value}; Path=/; HttpOnly; SameSite=Strict; Max-Age=${maxAge}${production?'; Secure':''}`;

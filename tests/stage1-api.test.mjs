@@ -56,7 +56,7 @@ test('progress validation, pause recovery and expired lease protect saved state'
  a=(await call(alice,'POST',`/api/attempts/${a.id}/pause`,progress(a,[response(61,'A')],{materialTimes:{'listening-2025':1000}}))).json();assert.equal(a.status,'paused');
  a=(await call(alice,'POST',`/api/attempts/${a.id}/resume`,{expectedRevision:a.revision,deviceId:'device-a'})).json();
  assert.equal((await call(alice,'PATCH',`/api/attempts/${a.id}/progress`,progress(a,[],{materialTimes:{'listening-2025':1000}}))).statusCode,400);
- clock+=120001;assert.equal((await call(alice,'PATCH',`/api/attempts/${a.id}/progress`,progress(a,[response(61,'B')],{materialTimes:{'listening-2025':1000}}))).statusCode,409);
+ clock+=600001;assert.equal((await call(alice,'PATCH',`/api/attempts/${a.id}/progress`,progress(a,[response(61,'B')],{materialTimes:{'listening-2025':1000}}))).statusCode,409);
  a=(await call(alice,'POST',`/api/attempts/${a.id}/resume`,{expectedRevision:a.revision,deviceId:'device-a'})).json();assert.equal(a.progress.answers[0].choice,'A');
  },{now:()=>clock});
 });

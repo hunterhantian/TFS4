@@ -1,5 +1,5 @@
 {
-  "passed": 45,
+  "passed": 46,
   "checks": [
     "audio metadata and duration",
     "audio actually plays",
@@ -44,7 +44,8 @@
     "refresh excludes paused wall time",
     "partial report wrong answer",
     "partial report unanswered",
-    "report review flags for 55 61 62 100",
-    "legacy missing time stays unknown"
+    "reference answers have no pending grading flags",
+    "legacy missing time stays unknown",
+    "legacy 61 D stays correct under old key"
   ]
 }

@@ -27,7 +27,10 @@ const contexts = {
   91: extractContext('### Texte 3. L\'exposition', '\n91.'),
   96: extractContext('### Texte 4. Le Projet Voltaire', '\n96.')
 };
-const answers = Object.fromEntries([...source.matchAll(/^\|\s*(\d+)\s*\|\s*([A-D])\*?\s*\|/gm)].map(m => [m[1], m[2]]));
+// User accepted the supplied official reference as the grading authority.
+// Keep this separate from the older digital master's derived working key.
+const reference = JSON.parse(fs.readFileSync(new URL('./data/2025-reference-answers.json', import.meta.url), 'utf8'));
+const answers = reference.answers;
 const blocks = paper.split(/(?=^\d+\.\s)/m).map(block => {
   const match = block.match(/^(\d+)\.\s*([\s\S]*)$/);
   return match && { no: Number(match[1]), raw: match[2].trim() };

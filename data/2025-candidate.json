@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "dataset": "candidate",
   "sourceId": "tfs4-2025-working",
-  "sourceSha256": "ea4145bf697975ebae869a68e819e4e2cc51e7f1adc423649e890246a7650c97",
-  "officialProvenance": "unconfirmed",
+  "sourceSha256": "5397af776f8525b3dcf76a5838f5e0bccb8f7e0dd9b0eb3abde7d3292bd6edd5",
+  "officialProvenance": "user_confirmed_reference_answers; explanations_unconfirmed",
   "materials": [
     {
       "id": "cloze-31",
@@ -44,8 +44,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -66,8 +66,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -88,8 +88,8 @@
       "answer": {
         "value": "A",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -110,8 +110,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -132,8 +132,8 @@
       "answer": {
         "value": "A",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -154,8 +154,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -176,8 +176,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -198,8 +198,8 @@
       "answer": {
         "value": "A",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -220,8 +220,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -242,8 +242,8 @@
       "answer": {
         "value": "A",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -264,8 +264,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -286,8 +286,8 @@
       "answer": {
         "value": "A",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -308,8 +308,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -330,8 +330,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -352,8 +352,8 @@
       "answer": {
         "value": "A",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -374,8 +374,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -396,8 +396,8 @@
       "answer": {
         "value": "A",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -418,8 +418,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -440,8 +440,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -462,8 +462,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -485,8 +485,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -508,8 +508,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -531,8 +531,8 @@
       "answer": {
         "value": "A",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -554,8 +554,8 @@
       "answer": {
         "value": "A",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -577,8 +577,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -600,8 +600,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -623,8 +623,8 @@
       "answer": {
         "value": "A",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -646,8 +646,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -669,8 +669,8 @@
       "answer": {
         "value": "A",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -692,8 +692,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -715,8 +715,8 @@
       "answer": {
         "value": "A",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -738,8 +738,8 @@
       "answer": {
         "value": "D",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -761,8 +761,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -784,8 +784,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -807,8 +807,8 @@
       "answer": {
         "value": "D",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -830,8 +830,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -853,8 +853,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -876,8 +876,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -899,8 +899,8 @@
       "answer": {
         "value": "A",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -922,8 +922,8 @@
       "answer": {
         "value": "D",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -945,8 +945,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -968,8 +968,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -991,8 +991,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1014,8 +1014,8 @@
       "answer": {
         "value": "D",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1037,8 +1037,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1060,8 +1060,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1083,8 +1083,8 @@
       "answer": {
         "value": "A",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1106,8 +1106,8 @@
       "answer": {
         "value": "D",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1129,8 +1129,8 @@
       "answer": {
         "value": "A",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1152,8 +1152,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1175,8 +1175,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1198,8 +1198,8 @@
       "answer": {
         "value": "A",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1221,8 +1221,8 @@
       "answer": {
         "value": "D",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1244,8 +1244,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1267,8 +1267,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "review_required",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1290,8 +1290,8 @@
       "answer": {
         "value": "A",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1313,8 +1313,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1336,8 +1336,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1359,8 +1359,8 @@
       "answer": {
         "value": "D",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1382,8 +1382,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1403,10 +1403,10 @@
         "D": "En adhérant"
       },
       "answer": {
-        "value": "D",
-        "version": 1,
-        "status": "review_required",
-        "source": "digital-master-v4"
+        "value": "A",
+        "version": 2,
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1426,10 +1426,10 @@
         "D": "s'améliorera"
       },
       "answer": {
-        "value": "D",
-        "version": 1,
-        "status": "review_required",
-        "source": "digital-master-v4"
+        "value": "B",
+        "version": 2,
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1451,8 +1451,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1474,8 +1474,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1497,8 +1497,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1520,8 +1520,8 @@
       "answer": {
         "value": "A",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1543,8 +1543,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1566,8 +1566,8 @@
       "answer": {
         "value": "A",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1589,8 +1589,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1612,8 +1612,8 @@
       "answer": {
         "value": "A",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1635,8 +1635,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1658,8 +1658,8 @@
       "answer": {
         "value": "D",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1681,8 +1681,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1704,8 +1704,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1727,8 +1727,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1750,8 +1750,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1773,8 +1773,8 @@
       "answer": {
         "value": "A",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1796,8 +1796,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1819,8 +1819,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1842,8 +1842,8 @@
       "answer": {
         "value": "D",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1865,8 +1865,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1888,8 +1888,8 @@
       "answer": {
         "value": "D",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1911,8 +1911,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1934,8 +1934,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1957,8 +1957,8 @@
       "answer": {
         "value": "D",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -1980,8 +1980,8 @@
       "answer": {
         "value": "D",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -2003,8 +2003,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -2026,8 +2026,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -2049,8 +2049,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -2072,8 +2072,8 @@
       "answer": {
         "value": "D",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -2095,8 +2095,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -2118,8 +2118,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -2141,8 +2141,8 @@
       "answer": {
         "value": "B",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -2164,8 +2164,8 @@
       "answer": {
         "value": "A",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -2187,8 +2187,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -2210,8 +2210,8 @@
       "answer": {
         "value": "A",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -2233,8 +2233,8 @@
       "answer": {
         "value": "D",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -2256,8 +2256,8 @@
       "answer": {
         "value": "D",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -2279,8 +2279,8 @@
       "answer": {
         "value": "D",
         "version": 1,
-        "status": "working_key",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     },
@@ -2302,8 +2302,8 @@
       "answer": {
         "value": "C",
         "version": 1,
-        "status": "review_required",
-        "source": "digital-master-v4"
+        "status": "reference_confirmed",
+        "source": "2025-reference-v1"
       },
       "knowledgeLinks": []
     }

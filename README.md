@@ -10,7 +10,7 @@ node scripts/prepare-local-review.mjs
 ./scripts/task.ps1 dev
 ```
 
-本机体验账号位于Git忽略的 `.local/stage1/体验账号说明.txt`。数据库默认 `.local/stage1/app.sqlite`，备份在私有目录，均不进Git。`./scripts/task.ps1 test`运行26项自动测试。实际实现、76个浏览器检查、最终验收步骤和部署前置见[阶段1交付与测试报告](docs/阶段1交付与测试报告.md)。当前为阶段分支，未发布线上。
+本机体验账号位于Git忽略的 `.local/stage1/体验账号说明.txt`。数据库默认 `.local/stage1/app.sqlite`，备份在私有目录，均不进Git。`./scripts/task.ps1 test`运行26项自动测试。实际实现、83个浏览器检查、最终验收步骤和部署前置见[阶段1交付与测试报告](docs/阶段1交付与测试报告.md)。当前为阶段分支，未发布线上。
 
 以下原型说明保留供历史入口与资料整理参考。
 

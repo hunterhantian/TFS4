@@ -1,5 +1,5 @@
 {
-  "passed": 76,
+  "passed": 83,
   "checks": [
     "no static answer data in browser",
     "answer selection does not trigger server save",
@@ -59,15 +59,21 @@
     "table renders recorded independent question time",
     "confidence column contains icons only",
     "question details are not rendered before opening",
+    "one shared audio player belongs to listening Part",
     "clicking row opens one lazy detail",
+    "individual question details do not create audio players",
+    "opening listening question preserves shared playback",
     "expanded detail shows corresponding question text",
     "chosen wrong answer is marked separately",
     "standard answer is highlighted",
     "related question mount receives stable question context",
     "opening next question removes previous detail",
     "related placeholder cleans up when another question opens",
+    "switching listening questions keeps one audio node and progress",
     "correct selected answer carries both markers",
     "keyboard toggles question closed",
+    "closing question detail does not stop shared player",
+    "collapsing listening Part pauses without resetting progress",
     "details can open across different Parts",
     "expanded question fits mobile viewport",
     "four clickable subsection score overviews",
@@ -76,6 +82,7 @@
     "report table fits mobile viewport",
     "overview click expands and jumps to matching table",
     "logout clears candidate list and prior report DOM",
+    "leaving report pauses shared audio",
     "no page script errors"
   ]
 }

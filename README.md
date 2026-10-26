@@ -1,5 +1,20 @@
 # 2025 法语专四模考原型
 
+## 当前开发版：阶段1（待用户验收）
+
+新服务入口 **http://127.0.0.1:4174/**，实现账号、服务器保存、暂停恢复、冲突保护、后端报告和旧记录导入。原阶段0静态原型仍在dist/，通过 `./scripts/task.ps1 prototype` 在4173查看；新服务只公开web/，不提供dist/exam-data.js。
+
+```powershell
+./scripts/task.ps1 install
+node scripts/prepare-local-review.mjs
+./scripts/task.ps1 dev
+```
+
+本机体验账号位于Git忽略的 `.local/stage1/体验账号说明.txt`。数据库默认 `.local/stage1/app.sqlite`，备份在私有目录，均不进Git。`./scripts/task.ps1 test`运行18项自动测试。实际实现、31个浏览器检查、最终验收步骤和部署前置见[阶段1交付与测试报告](docs/阶段1交付与测试报告.md)。当前为阶段分支，未发布线上。
+
+以下原型说明保留供历史入口与资料整理参考。
+
+
 一个静态、移动优先的 2025 TFS4 选择题考试原型。答题草稿、计时和交卷存档均保存在当前浏览器的本机存储中。
 
 ## 已确认产品规划
@@ -12,7 +27,7 @@
 
 [软柿子技术路线](docs/软柿子技术路线.md)为已确认版本，采用原生前端＋Node.js 24 LTS＋Fastify 5＋SQLite＋Nginx。此前技术方案与该文档冲突时，以该文档为准；产品行为与范围以已确认产品规划为准。
 
-技术路线描述后续实现方式，尚未实施，不代表当前原型已具备后端、账号或云端数据库。
+阶段1服务端已经在本机实现并交付自测，尚未发布线上。旧dist原型继续仅保存本机记录；当前状态以本文顶部与阶段1交付文档为准。
 
 ## 已确认工作流程与开发清单
 
@@ -20,7 +35,7 @@
 
 清单是后续执行基准，任务仅在具备验证证据并满足验收条件后标记完成。
 
-## 本机预览
+## 阶段0静态原型预览
 
 在此目录执行：
 
@@ -38,7 +53,7 @@ node build-data.mjs 'E:\Users\Administrator\Downloads\2025法语专四_完整数
 
 该命令会从母文档生成 `dist/exam-data.js`，导入 100 道选择题及其工作答案键。
 
-## 当前边界
+## 阶段0历史原型边界（dist）
 
 - 覆盖选择题 1–100；题目自动按 10/5 题相关组分页。
 - 每题可选择答案与 🟢 肯定 / 🟡 犹豫 / 🔴 猜测。
@@ -53,7 +68,7 @@ node build-data.mjs 'E:\Users\Administrator\Downloads\2025法语专四_完整数
 使用 Node.js 24 LTS 与 pnpm 11.25.0，首次执行 `pnpm install --frozen-lockfile`。未有全局 pnpm 的当前环境可运行 `./scripts/task.ps1 install`。随后：
 
 ```powershell
-./scripts/task.ps1 dev
+./scripts/task.ps1 prototype
 ./scripts/task.ps1 test
 ./scripts/task.ps1 data:check
 ```

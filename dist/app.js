@@ -45,3 +45,5 @@ $('#pause-exam').onclick=()=>{pauseSession();$('#exam').hidden=true;$('#welcome'
 $('#listening-audio').addEventListener('error',()=>{$('#audio-status').textContent='音频暂不可用，请检查本机音频配置。';});
 document.addEventListener('visibilitychange',()=>{if(document.hidden&&session.started)$('#pause-exam').click();});
 window.addEventListener('pagehide',()=>{if(session.started)pauseSession();});
+
+$('#export-history').onclick=()=>{const raw=localStorage.getItem(archiveKey);if(!raw||raw==='[]'){alert('当前浏览器来源没有旧考试存档。');return;}const blob=new Blob([raw],{type:'application/json'});const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='软柿子-本机考试存档.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);};

@@ -1,1 +1,22 @@
-{"name":"ruanshizi","version":"0.0.0","private":true,"type":"module","engines":{"node":">=24 <25"},"packageManager":"pnpm@11.25.0","scripts":{"dev":"node scripts/preview.mjs","start":"node scripts/preview.mjs","test":"node --test tests/*.test.mjs","data:check":"node scripts/prepare-data.mjs"},"dependencies":{"fastify":"^5.0.0","better-sqlite3":"^12.0.0"}}
+{
+  "name": "ruanshizi",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24 <25"
+  },
+  "packageManager": "pnpm@11.25.0",
+  "scripts": {
+    "dev": "node server/main.mjs",
+    "start": "node server/main.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "data:check": "node scripts/prepare-data.mjs",
+    "prototype": "node scripts/preview.mjs",
+    "db:seed": "node scripts/manage.mjs seed"
+  },
+  "dependencies": {
+    "fastify": "^5.0.0",
+    "better-sqlite3": "^12.0.0"
+  }
+}

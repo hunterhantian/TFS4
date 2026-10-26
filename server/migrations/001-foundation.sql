@@ -1,0 +1,16 @@
+PRAGMA foreign_keys=ON;
+CREATE TABLE users(id TEXT PRIMARY KEY, username TEXT NOT NULL UNIQUE, password_hash TEXT NOT NULL, role TEXT NOT NULL CHECK(role IN ('admin','user')), created_at TEXT NOT NULL);
+CREATE TABLE sessions(token_hash TEXT PRIMARY KEY,user_id TEXT NOT NULL REFERENCES users(id),csrf TEXT NOT NULL,expires_at INTEGER NOT NULL);
+CREATE TABLE sources(id TEXT PRIMARY KEY, revision TEXT NOT NULL, payload TEXT NOT NULL, created_at TEXT NOT NULL);
+CREATE TABLE attempts(id TEXT PRIMARY KEY,owner_id TEXT NOT NULL REFERENCES users(id),request_id TEXT NOT NULL,mode TEXT NOT NULL,origin TEXT NOT NULL,status TEXT NOT NULL CHECK(status IN ('active','paused','submitted')),created_at TEXT NOT NULL,started_at TEXT NOT NULL,submitted_at TEXT,revision INTEGER NOT NULL DEFAULT 0,lease_device TEXT,lease_until INTEGER,snapshot TEXT NOT NULL,progress TEXT NOT NULL, UNIQUE(owner_id,request_id));
+CREATE INDEX attempts_owner ON attempts(owner_id,created_at);
+CREATE TABLE reports(id TEXT PRIMARY KEY,attempt_id TEXT UNIQUE REFERENCES attempts(id),owner_id TEXT NOT NULL REFERENCES users(id),title TEXT NOT NULL,payload TEXT NOT NULL,created_at TEXT NOT NULL,legacy_hash TEXT,UNIQUE(owner_id,legacy_hash));
+CREATE INDEX reports_owner ON reports(owner_id,created_at);
+CREATE TABLE response_events(id TEXT PRIMARY KEY,owner_id TEXT NOT NULL REFERENCES users(id),attempt_id TEXT NOT NULL REFERENCES attempts(id),question_id TEXT NOT NULL,question_version INTEGER NOT NULL,answer_version INTEGER NOT NULL,formal_part TEXT NOT NULL,component TEXT NOT NULL,choice TEXT,confidence TEXT,effective_ms INTEGER,result TEXT NOT NULL,occurred_at TEXT NOT NULL,origin TEXT NOT NULL,prior_count INTEGER NOT NULL,prior_event_id TEXT REFERENCES response_events(id),UNIQUE(attempt_id,question_id));
+CREATE INDEX events_owner_question ON response_events(owner_id,question_id,occurred_at);
+CREATE TABLE error_events(id TEXT PRIMARY KEY,response_event_id TEXT NOT NULL UNIQUE REFERENCES response_events(id),created_at TEXT NOT NULL);
+CREATE TABLE training_sources(training_attempt_id TEXT REFERENCES attempts(id),source_event_id TEXT REFERENCES response_events(id),completed_at TEXT,PRIMARY KEY(training_attempt_id,source_event_id));
+CREATE TABLE practice_plans(id TEXT PRIMARY KEY,owner_id TEXT NOT NULL REFERENCES users(id),source_training_id TEXT NOT NULL REFERENCES attempts(id),training_completed_at TEXT NOT NULL,created_at TEXT NOT NULL,status TEXT NOT NULL,delayed_attempt_id TEXT REFERENCES attempts(id));
+CREATE TABLE analysis_rule_versions(id TEXT PRIMARY KEY,parameters TEXT NOT NULL,confirmed_at TEXT NOT NULL);
+CREATE TABLE analysis_runs(id TEXT PRIMARY KEY,owner_id TEXT NOT NULL REFERENCES users(id),rule_id TEXT NOT NULL REFERENCES analysis_rule_versions(id),event_scope TEXT NOT NULL,created_at TEXT NOT NULL);
+CREATE TABLE legacy_previews(id TEXT PRIMARY KEY,owner_id TEXT NOT NULL REFERENCES users(id),file_hash TEXT NOT NULL,backup_path TEXT NOT NULL,payload TEXT NOT NULL,created_at INTEGER NOT NULL);

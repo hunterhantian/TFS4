@@ -1,0 +1,11 @@
+node_modules/
+.local/
+backups/
+tmp/
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+.env
+.env.*
+!.env.example

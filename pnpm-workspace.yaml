@@ -1,0 +1,4 @@
+allowBuilds:
+  better-sqlite3: true
+storeDir: .local/pnpm-store
+verifyDepsBeforeRun: false

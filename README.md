@@ -45,3 +45,26 @@ node build-data.mjs 'E:\Users\Administrator\Downloads\2025法语专四_完整数
 - 记录考试总用时、各题首次答题与最后修改的相对时间，并在交卷后存档。
 - 存档仅在本浏览器/设备可用；没有登录、云同步或听力音频播放。
 - 第 55、62、100 题在结果页标注为工作答案键的待复核题。
+
+## 阶段0开发入口（2026-10-26）
+
+唯一继续开发入口是 `dist/index.html`。根目录 `index.html/app.js/styles.css` 为早期听力实验，保留作历史参考；不要用仓库根目录静态服务作为产品入口。
+
+使用 Node.js 24 LTS 与 pnpm 11.25.0，首次执行 `pnpm install --frozen-lockfile`。未有全局 pnpm 的当前环境可运行 `./scripts/task.ps1 install`。随后：
+
+```powershell
+./scripts/task.ps1 dev
+./scripts/task.ps1 test
+./scripts/task.ps1 data:check
+```
+
+也可以直接运行 `node scripts/preview.mjs`、`node --test tests/*.test.mjs`、`node scripts/prepare-data.mjs`。预览默认 http://127.0.0.1:4173 ，只提供dist文件，不公开仓库资料或夹具。该服务为静态预览，不是后端账号服务。
+
+- `server/`：阶段1接口校验基础，尚无业务服务。
+- `data/`：2025候选数据、来源清单与答案差异，未正式导入。
+- `tests/fixtures/`：明确标为fixture的合成数据，不允许发布。
+- `scripts/`：统一运行、候选提取、资料审计与浏览器烟测。
+- `deploy/`：部署约定；尚未改动线上。
+- `backups/`、`tmp/`、`.local/`：本机备份、验证产物、缓存，全部忽略。
+
+阶段0结果、缺口、复现证据和下一阶段估算见[阶段0交付与验收](docs/阶段0交付与验收.md)；[阶段1数据接口约定](docs/阶段1数据接口约定.md)为后续实现基础。

@@ -1,0 +1,25 @@
+{
+  "sourceSha256": "61a764af553e0fa0900e5d36705bb0ef59b795ef289ec1221ccd27fc3f925f45",
+  "sourcePage": 1,
+  "officialProvenance": "unconfirmed",
+  "compared": 100,
+  "differences": [
+    {
+      "questionNo": 61,
+      "working": "D",
+      "providedPdf": "A",
+      "status": "review_required"
+    },
+    {
+      "questionNo": 62,
+      "working": "D",
+      "providedPdf": "B",
+      "status": "review_required"
+    }
+  ],
+  "preservedReviewFlags": [
+    55,
+    62,
+    100
+  ]
+}

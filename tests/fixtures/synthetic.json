@@ -1,0 +1,1 @@
+{"dataset":"fixture","reviewStatus":"approved","questions":[{"id":"fixture-q1","version":1,"originalNo":1,"text":"Synthetic fixture only","options":{"A":"one","B":"two"},"materialId":null,"answer":{"value":"A"},"knowledgeLinks":["secret-target"],"target":true,"trainingSource":"fixture-training"}]}

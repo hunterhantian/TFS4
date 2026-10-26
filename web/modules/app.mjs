@@ -1,3 +1,4 @@
+import {renderArchiveCards} from './archive-cards.mjs';
 import {api,setCsrf} from './api.mjs';
 import {ExamSync,deviceId,readDraft,discardDraft,listDrafts} from './sync.mjs';
 import {renderExam,updateExam,renderReport,closeReportQuestion} from './views.mjs';
@@ -38,7 +39,7 @@ async function loadReportList(scope=reportScope){
  $('#report-list').innerHTML='<p class="muted">正在筛选…</p>';let data;try{data=await api('GET',(scope==='all'?'/admin/reports':'/reports')+'?'+params);}catch(e){if(request!==reportRequest)return;$('#report-list').replaceChildren();$('#archive-range-hint').textContent='筛选未完成';throw e;}
  if(request!==reportRequest||scope!==reportScope||$('#reports-view').hidden)return;
  message('');$('#archive-range-hint').textContent=data.filters.fromDate?`${data.filters.fromDate} — ${data.filters.toDate} · 按提交时间（北京时间）`:'全部提交时间（含时间未记录的旧存档）';
- $('#report-list').innerHTML=data.reports.map(r=>`<div class="report-card"><b>${escape(r.title)}</b><p>${r.ownerUsername?`考生：${escape(r.ownerUsername)} · `:''}${date(r.submittedAt)} · ${r.stats.correct}/${r.stats.total} · ${r.origin==='legacy'?'导入记录':'普通测试'}</p><button class="secondary" data-report="${r.id}">查看报告</button></div>`).join('')||'<p>当前筛选条件下暂无存档。</p>';
+ $('#report-list').innerHTML=renderArchiveCards(data.reports);
  $('#report-list').querySelectorAll('button').forEach(b=>b.onclick=()=>run(()=>showReport(b.dataset.report,scope)));
 }
 async function showReports(scope='mine'){

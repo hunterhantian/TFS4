@@ -1,5 +1,5 @@
 {
-  "passed": 83,
+  "passed": 88,
   "checks": [
     "no static answer data in browser",
     "answer selection does not trigger server save",
@@ -39,6 +39,11 @@
     "full 100-question browser exam scores 100",
     "legacy raw file backed up before confirmation",
     "legacy browser preview and confirm",
+    "archive card separates date time completion and type",
+    "five archive information roles have distinct colors",
+    "archive type reflects the actual full-exam mode",
+    "archive date is clearly separated",
+    "archive clock time is clearly separated",
     "ordinary archive list has no candidate selector",
     "recent week filter excludes old imported archive",
     "custom archive dates include the selected end day",

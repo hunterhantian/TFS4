@@ -1,3 +1,4 @@
+import {newClientId} from './client-id.mjs';
 import {renderArchiveCards} from './archive-cards.mjs';
 import {api,setCsrf} from './api.mjs';
 import {ExamSync,deviceId,readDraft,discardDraft,listDrafts} from './sync.mjs';
@@ -16,7 +17,7 @@ function clearAccountViews(){
  $('#archive-owner').innerHTML='<option value="">全部考生</option>';$('#report-owner').textContent='';$('#report-owner').hidden=true;$('#report-title').textContent='';$('#report-user-filter').hidden=true;
 }
 async function home(){if(sync?.running){await pause();return;}destroy();show('home-view');message('');const [sources,attempts]=await Promise.all([api('GET','/sources'),api('GET','/attempts')]);$('#source-list').innerHTML=sources.sources.map(s=>`<div class="attempt-card"><b>${escape(s.title)}</b><p>${s.total}题</p><button data-source="${s.id}" class="primary">开始完整考试</button></div>`).join('')||'<p>题库尚未初始化，请联系管理员。</p>';$('#attempt-list').innerHTML=attempts.attempts.map(a=>`<div class="attempt-card"><p>${date(a.createdAt)} · ${a.status==='paused'?'已暂停':'未完成'}</p><button data-attempt="${a.id}" class="secondary">继续考试</button></div>`).join('')||'<p>暂无未完成考试。</p>';
- $('#source-list').querySelectorAll('[data-source]').forEach(b=>b.onclick=()=>run(async()=>{b.disabled=true;createRequest||=crypto.randomUUID();try{const a=await api('POST','/attempts',{sourceId:b.dataset.source,mode:'full',deviceId,requestId:createRequest});createRequest=null;await openAttempt(a.id,true);}finally{b.disabled=false;}}));
+ $('#source-list').querySelectorAll('[data-source]').forEach(b=>b.onclick=()=>run(async()=>{b.disabled=true;createRequest||=newClientId();try{const a=await api('POST','/attempts',{sourceId:b.dataset.source,mode:'full',deviceId,requestId:createRequest});createRequest=null;await openAttempt(a.id,true);}finally{b.disabled=false;}}));
  $('#attempt-list').querySelectorAll('[data-attempt]').forEach(b=>b.onclick=()=>run(()=>openAttempt(b.dataset.attempt)));
  const drafts=listDrafts(user.id);$('#draft-list').innerHTML=drafts.map((d,i)=>`<div class="attempt-card"><p>本机尚未同步 · 已选${d.progress.answers.filter(a=>a.choice).length}题</p><button data-draft="${i}" class="secondary">恢复本机未同步草稿</button></div>`).join('')||'<p>暂无待同步草稿。</p>';$('#draft-list').querySelectorAll('[data-draft]').forEach(b=>b.onclick=()=>run(async()=>{const d=drafts[Number(b.dataset.draft)];await openAttempt(d.attemptId,false,d);}));
 }

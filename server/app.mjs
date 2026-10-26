@@ -12,6 +12,7 @@ export async function createApp(options={}){
  const production=options.production??process.env.NODE_ENV==='production';
  const publicOrigin=options.publicOrigin||process.env.PUBLIC_ORIGIN||'http://127.0.0.1:4174';
  if(production&&!publicOrigin.startsWith('https://'))throw Error('Production requires an HTTPS PUBLIC_ORIGIN');
+ const lanOrigin=!production?(options.lanOrigin||process.env.LAN_ORIGIN||null):null;
  const db=options.db||openDatabase(options.dbFile||process.env.DB_FILE||path.join(projectRoot,'.local/stage1/app.sqlite'));
  const backupDir=path.resolve(options.backupDir||process.env.BACKUP_DIR||path.join(projectRoot,'.local/stage1/backups'));
  for(const publicDir of ['web','dist'])if(backupDir.toLowerCase()===path.join(projectRoot,publicDir).toLowerCase()||backupDir.toLowerCase().startsWith(path.join(projectRoot,publicDir).toLowerCase()+path.sep))throw Error('Backups must be outside public directories');
@@ -26,7 +27,7 @@ export async function createApp(options={}){
  app.addHook('onRequest',async(req,reply)=>{
   reply.header('X-Content-Type-Options','nosniff').header('Referrer-Policy','same-origin').header('Content-Security-Policy',"default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self'; media-src 'self'; connect-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'self'");
   if(req.url.startsWith('/api/'))reply.header('Cache-Control','no-store');
-  if(req.url.startsWith('/api/')&&!['GET','HEAD'].includes(req.method)&&req.headers.origin!==publicOrigin)fail(403,'ORIGIN_REJECTED','请求来源不受信任');
+  if(req.url.startsWith('/api/')&&!['GET','HEAD'].includes(req.method)&&req.headers.origin!==publicOrigin&&req.headers.origin!==lanOrigin)fail(403,'ORIGIN_REJECTED','请求来源不受信任');
  });
  app.addHook('preHandler',async(req)=>{
   if(!req.url.startsWith('/api/')||['/api/health','/api/auth/login'].includes(req.url.split('?')[0]))return;

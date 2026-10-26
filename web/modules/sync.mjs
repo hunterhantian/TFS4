@@ -1,12 +1,13 @@
+import {newClientId} from './client-id.mjs';
 import {api} from './api.mjs';
 import {AUTOSAVE_MS,PAGE_RANGES} from './policy.mjs';
-export const deviceId=sessionStorage.getItem('rsz-device')||crypto.randomUUID();sessionStorage.setItem('rsz-device',deviceId);
+export const deviceId=sessionStorage.getItem('rsz-device')||newClientId();sessionStorage.setItem('rsz-device',deviceId);
 const key=(owner,id)=>`rsz-draft-v1:${owner}:${id}:${deviceId}`;
 export function readDraft(owner,id){try{return JSON.parse(localStorage.getItem(key(owner,id))||'null');}catch{return null;}}
 export function listDrafts(owner){const result=[];for(let i=0;i<localStorage.length;i++){const storageKey=localStorage.key(i);if(!storageKey?.startsWith(`rsz-draft-v1:${owner}:`))continue;try{const raw=localStorage.getItem(storageKey),draft=JSON.parse(raw);if(draft?.dirty&&draft.progress&&Number.isInteger(draft.baseRevision))result.push({...draft,attemptId:storageKey.split(':')[2],storageKey,raw});}catch{}}return result;}
 export function discardDraft(owner,id){localStorage.removeItem(key(owner,id));}
 export class ExamSync{
- constructor(owner,attempt,{onStatus,onConflict,onSubmitted,onStorageError}){this.owner=owner;this.attempt=attempt;this.progress=structuredClone(attempt.progress);this.running=false;this.dirty=false;this.sequence=0;this.activeId=attempt.questions[this.progress.position]?.id;this.onStatus=onStatus;this.onConflict=onConflict;this.onSubmitted=onSubmitted;this.onStorageError=onStorageError;this.pendingAction=null;this.chain=Promise.resolve();this.frozen=false;this.submitRequestId=crypto.randomUUID();this.lastSaveAttemptAt=performance.now();this.ensureTiming();}
+ constructor(owner,attempt,{onStatus,onConflict,onSubmitted,onStorageError}){this.owner=owner;this.attempt=attempt;this.progress=structuredClone(attempt.progress);this.running=false;this.dirty=false;this.sequence=0;this.activeId=attempt.questions[this.progress.position]?.id;this.onStatus=onStatus;this.onConflict=onConflict;this.onSubmitted=onSubmitted;this.onStorageError=onStorageError;this.pendingAction=null;this.chain=Promise.resolve();this.frozen=false;this.submitRequestId=newClientId();this.lastSaveAttemptAt=performance.now();this.ensureTiming();}
  persist(){try{localStorage.setItem(key(this.owner,this.attempt.id),JSON.stringify({baseRevision:this.attempt.revision,progress:this.progress,dirty:this.dirty,deviceId,pendingAction:this.pendingAction,submitRequestId:this.submitRequestId}));return true;}catch{this.running=false;this.frozen=true;this.onStorageError('本机缓存不可写，请导出待同步内容并处理存储空间；当前已停止计时');return false;}}
  change(){this.dirty=true;this.sequence++;this.persist();this.onStatus('已保存本机 · 每5分钟自动同步服务器','pending');}
  ensureTiming(){

@@ -1,19 +1,44 @@
 import {api} from './api.mjs';
-import {AUTOSAVE_MS} from './policy.mjs';
+import {AUTOSAVE_MS,PAGE_RANGES} from './policy.mjs';
 export const deviceId=sessionStorage.getItem('rsz-device')||crypto.randomUUID();sessionStorage.setItem('rsz-device',deviceId);
 const key=(owner,id)=>`rsz-draft-v1:${owner}:${id}:${deviceId}`;
 export function readDraft(owner,id){try{return JSON.parse(localStorage.getItem(key(owner,id))||'null');}catch{return null;}}
 export function listDrafts(owner){const result=[];for(let i=0;i<localStorage.length;i++){const storageKey=localStorage.key(i);if(!storageKey?.startsWith(`rsz-draft-v1:${owner}:`))continue;try{const raw=localStorage.getItem(storageKey),draft=JSON.parse(raw);if(draft?.dirty&&draft.progress&&Number.isInteger(draft.baseRevision))result.push({...draft,attemptId:storageKey.split(':')[2],storageKey,raw});}catch{}}return result;}
 export function discardDraft(owner,id){localStorage.removeItem(key(owner,id));}
 export class ExamSync{
- constructor(owner,attempt,{onStatus,onConflict,onSubmitted,onStorageError}){this.owner=owner;this.attempt=attempt;this.progress=structuredClone(attempt.progress);this.running=false;this.dirty=false;this.sequence=0;this.activeId=attempt.questions[this.progress.position]?.id;this.onStatus=onStatus;this.onConflict=onConflict;this.onSubmitted=onSubmitted;this.onStorageError=onStorageError;this.pendingAction=null;this.chain=Promise.resolve();this.frozen=false;this.submitRequestId=crypto.randomUUID();this.lastSaveAttemptAt=performance.now();}
+ constructor(owner,attempt,{onStatus,onConflict,onSubmitted,onStorageError}){this.owner=owner;this.attempt=attempt;this.progress=structuredClone(attempt.progress);this.running=false;this.dirty=false;this.sequence=0;this.activeId=attempt.questions[this.progress.position]?.id;this.onStatus=onStatus;this.onConflict=onConflict;this.onSubmitted=onSubmitted;this.onStorageError=onStorageError;this.pendingAction=null;this.chain=Promise.resolve();this.frozen=false;this.submitRequestId=crypto.randomUUID();this.lastSaveAttemptAt=performance.now();this.ensureTiming();}
  persist(){try{localStorage.setItem(key(this.owner,this.attempt.id),JSON.stringify({baseRevision:this.attempt.revision,progress:this.progress,dirty:this.dirty,deviceId,pendingAction:this.pendingAction,submitRequestId:this.submitRequestId}));return true;}catch{this.running=false;this.frozen=true;this.onStorageError('本机缓存不可写，请导出待同步内容并处理存储空间；当前已停止计时');return false;}}
  change(){this.dirty=true;this.sequence++;this.persist();this.onStatus('已保存本机 · 每5分钟自动同步服务器','pending');}
- advance(){const clock=performance.now();if(this.running){const ms=Math.max(0,Math.floor(clock-this.lastTick));this.lastTick+=ms;if(ms){this.progress.effectiveMs+=ms;const q=this.attempt.questions.find(q=>q.id===this.activeId);if(q?.materialId)this.progress.materialTimes[q.materialId]=(this.progress.materialTimes[q.materialId]||0)+ms;else if(q){let r=this.progress.answers.find(r=>r.questionId===q.id);if(!r){r={questionId:q.id,choice:null,confidence:null,effectiveMs:0};this.progress.answers.push(r);}r.effectiveMs=(r.effectiveMs||0)+ms;}this.change();}}else this.lastTick=clock;}
+ ensureTiming(){
+  if(!this.progress.timingMode||this.progress.timingMode==='explicit_focus_v1')this.progress.timingMode=this.progress.effectiveMs>0?'mixed-explicit-and-automatic-v1':'automatic-answer-interval-v1';
+  this.activeId=this.progress.pendingTiming?.questionId||this.attempt.questions[this.progress.position]?.id;
+  const q=this.attempt.questions.find(q=>q.id===this.activeId);
+  if(!this.progress.pendingTiming)this.progress.pendingTiming=q?{questionId:q.id,ms:0}:null;
+ }
+ response(id){let r=this.progress.answers.find(r=>r.questionId===id);if(!r){r={questionId:id,choice:null,confidence:null,effectiveMs:null};this.progress.answers.push(r);}return r;}
+ commitPending(id=this.activeId,includeZero=false){
+  const q=this.attempt.questions.find(q=>q.id===id),pending=this.progress.pendingTiming;
+  if(q&&pending&&(pending.ms>0||includeZero)){const r=this.response(id);r.effectiveMs=(r.effectiveMs||0)+pending.ms;}
+  this.progress.pendingTiming=null;
+ }
+ setTarget(id){this.activeId=id;this.progress.position=this.attempt.questions.findIndex(q=>q.id===id);const q=this.attempt.questions.find(q=>q.id===id);this.progress.pendingTiming=q?{questionId:id,ms:0}:null;}
+ advance(){const clock=performance.now();if(this.running){const ms=Math.max(0,Math.floor(clock-this.lastTick));this.lastTick+=ms;if(ms){this.progress.effectiveMs+=ms;const q=this.attempt.questions.find(q=>q.id===this.activeId);if(q?.materialId)this.progress.materialTimes[q.materialId]=(this.progress.materialTimes[q.materialId]||0)+ms;if(q){this.progress.pendingTiming||={questionId:q.id,ms:0};this.progress.pendingTiming.ms+=ms;}this.change();}}else this.lastTick=clock;}
  start(){if(this.frozen)return;this.lastTick=performance.now();this.lastSaveAttemptAt=performance.now();this.running=true;}
- stop(){this.advance();this.running=false;}
- select(questionId,field,value){if(this.frozen)return;this.advance();this.activeId=questionId;let r=this.progress.answers.find(r=>r.questionId===questionId);if(!r){r={questionId,choice:null,confidence:null,effectiveMs:null};this.progress.answers.push(r);}r[field]=value;this.change();}
- focus(id){if(this.frozen)return;this.advance();this.activeId=id;this.progress.position=this.attempt.questions.findIndex(q=>q.id===id);this.change();}
+ stop(){this.advance();this.commitPending();this.running=false;this.persist();}
+ select(questionId,field,value){
+  if(this.frozen)return;this.advance();
+  if(field==='choice'){
+   this.commitPending(questionId,true);this.response(questionId)[field]=value;
+   const q=this.attempt.questions.find(q=>q.id===questionId);const no=q.originalNo||this.attempt.questions.indexOf(q)+1;
+   const bounds=PAGE_RANGES.find(([a,b])=>no>=a&&no<=b)||[1,100];
+   const page=this.attempt.questions.filter((q,i)=>(q.originalNo||i+1)>=bounds[0]&&(q.originalNo||i+1)<=bounds[1]);
+   const unanswered=q=>!this.progress.answers.find(r=>r.questionId===q.id)?.choice;
+   const next=page.find(q=>(q.originalNo||this.attempt.questions.indexOf(q)+1)>no&&unanswered(q))||page.find(unanswered)||q;
+   this.setTarget(next.id);
+  }else this.response(questionId)[field]=value;
+  this.change();
+ }
+ focus(id){if(this.frozen)return;this.advance();this.commitPending();this.setTarget(id);this.change();}
  autoSaveDue(){return this.running&&!this.frozen&&performance.now()-this.lastSaveAttemptAt>=AUTOSAVE_MS;}
  body(){return {expectedRevision:this.attempt.revision,deviceId,...structuredClone(this.progress)};}
  flush(action='progress'){
@@ -34,6 +59,6 @@ export class ExamSync{
   };
   this.chain=this.chain.catch(()=>{}).then(perform);return this.chain;
  }
- restore(draft,{rebase=false}={}){if(!rebase)this.attempt.revision=draft.baseRevision;if(draft.storageKey)this.sourceCache={key:draft.storageKey,raw:draft.raw};this.progress=structuredClone(draft.progress);this.dirty=true;this.pendingAction=draft.pendingAction;this.submitRequestId=draft.submitRequestId||this.submitRequestId;this.sequence++;this.persist();}
+ restore(draft,{rebase=false}={}){if(!rebase)this.attempt.revision=draft.baseRevision;if(draft.storageKey)this.sourceCache={key:draft.storageKey,raw:draft.raw};this.progress=structuredClone(draft.progress);this.ensureTiming();this.dirty=true;this.pendingAction=draft.pendingAction;this.submitRequestId=draft.submitRequestId||this.submitRequestId;this.sequence++;this.persist();}
  destroy(){this.stop();this.frozen=true;}
 }

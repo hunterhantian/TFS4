@@ -4,7 +4,7 @@ import path from 'node:path';
 import {randomUUID} from 'node:crypto';
 import {openDatabase,projectRoot} from './db.mjs';
 import {token,hashToken,hashPassword,verifyPassword,createUser,fail,exact,string,integer} from './security.mjs';
-import {ownedAttempt,visibleAttempt,checkLease,checkedProgress,makeReport,nowIso} from './domain.mjs';
+import {ownedAttempt,visibleAttempt,checkLease,checkedProgress,makeReport,nowIso,settlePending,archiveTitle} from './domain.mjs';
 import {serveAudio} from '../scripts/audio-route.mjs';
 import {registerLegacy} from './legacy.mjs';
 export async function createApp(options={}){
@@ -37,7 +37,8 @@ export async function createApp(options={}){
   if(!['GET','HEAD'].includes(req.method)&&req.headers['x-csrf-token']!==session.csrf)fail(403,'CSRF_REJECTED');
  });
  const admin=req=>{if(req.account.role!=='admin')fail(403,'ADMIN_REQUIRED');};
- const report=(id,owner)=>{const r=db.prepare('SELECT * FROM reports WHERE id=? AND owner_id=?').get(id,owner);if(!r)fail(404,'NOT_FOUND');return {id:r.id,title:r.title,...JSON.parse(r.payload)};};
+ const reportTitle=r=>{const p=JSON.parse(r.payload);return ['2025 法语专四考试','导入的本机考试存档'].includes(r.title)?archiveTitle(p.sourceTitle||'2025 法语专四考试',p.submittedAt):r.title;};
+ const report=(id,owner)=>{const r=db.prepare('SELECT * FROM reports WHERE id=? AND owner_id=?').get(id,owner);if(!r)fail(404,'NOT_FOUND');return {id:r.id,title:reportTitle(r),...JSON.parse(r.payload)};};
  app.get('/api/health',async()=>({ok:db.prepare('SELECT 1 AS ok').get().ok===1}));
  app.post('/api/auth/login',async(req,reply)=>{
   exact(req.body,['username','password']);string(req.body.username,1,64);string(req.body.password,1,256);
@@ -69,17 +70,17 @@ export async function createApp(options={}){
  });
  app.get('/api/attempts/:id',async req=>visibleAttempt(ownedAttempt(db,req.params.id,req.account.id)));
  const save=(req,action)=>db.transaction(()=>{
-  const allowed=['expectedRevision','deviceId','answers','position','effectiveMs','materialTimes',...(action==='submit'?['requestId','confirmIncomplete']:[])];exact(req.body,allowed,allowed.filter(k=>k!=='confirmIncomplete'));
+  const allowed=['expectedRevision','deviceId','answers','position','effectiveMs','materialTimes',...(action==='submit'?['requestId','confirmIncomplete']:[])];allowed.push('pendingTiming','timingMode');exact(req.body,allowed,allowed.filter(k=>!['confirmIncomplete','pendingTiming','timingMode'].includes(k)));
   if(action==='submit')string(req.body.requestId,1,128);
   const a=ownedAttempt(db,req.params.id,req.account.id);
   if(action==='submit'&&a.status==='submitted'){const r=db.prepare('SELECT id FROM reports WHERE attempt_id=?').get(a.id);return {reportId:r.id};}
-  checkLease(a,req.body,now());const progress=checkedProgress(a,req.body);const date=nowIso();
+  checkLease(a,req.body,now());const progress=checkedProgress(a,req.body);if(action==='pause'||action==='submit')settlePending(progress);const date=nowIso();
   if(action==='submit'&&progress.answers.filter(r=>r.choice).length<a.snapshot.questions.length&&req.body.confirmIncomplete!==true)fail(400,'CONFIRM_INCOMPLETE','请确认提交不完整试卷');
   const submitted=action==='submit',paused=action==='pause';
   db.prepare('UPDATE attempts SET progress=?,revision=revision+1,status=?,submitted_at=?,lease_device=?,lease_until=? WHERE id=?').run(JSON.stringify(progress),submitted?'submitted':paused?'paused':'active',submitted?date:null,submitted||paused?null:req.body.deviceId,submitted||paused?null:now()+leaseMs,a.id);
   if(!submitted)return visibleAttempt(ownedAttempt(db,a.id,req.account.id));
   const final=ownedAttempt(db,a.id,req.account.id);const payload=makeReport(final);const reportId=token();
-  db.prepare('INSERT INTO reports(id,attempt_id,owner_id,title,payload,created_at) VALUES (?,?,?,?,?,?)').run(reportId,a.id,req.account.id,'2025 法语专四考试',JSON.stringify(payload),date);
+  db.prepare('INSERT INTO reports(id,attempt_id,owner_id,title,payload,created_at) VALUES (?,?,?,?,?,?)').run(reportId,a.id,req.account.id,archiveTitle(a.snapshot.title,date),JSON.stringify(payload),date);
   for(const item of payload.items){
    const prior=db.prepare('SELECT id FROM response_events WHERE owner_id=? AND question_id=? AND choice IS NOT NULL ORDER BY rowid DESC LIMIT 1').get(req.account.id,item.question.id);const count=db.prepare('SELECT COUNT(*) AS n FROM response_events WHERE owner_id=? AND question_id=? AND choice IS NOT NULL').get(req.account.id,item.question.id).n;const eventId=token();
    db.prepare('INSERT INTO response_events VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)').run(eventId,req.account.id,a.id,item.question.id,item.question.version,item.question.answer.version,item.question.formalPart,item.question.component,item.choice,item.confidence,item.effectiveMs,item.result,date,a.origin,count,prior?.id||null);
@@ -94,9 +95,11 @@ export async function createApp(options={}){
   exact(req.body,['expectedRevision','deviceId',...(action==='takeover'?['confirmed']:[])]);integer(req.body.expectedRevision);string(req.body.deviceId,1,128);if(action==='takeover'&&req.body.confirmed!==true)fail(400,'CONFIRM_TAKEOVER');
   return db.transaction(()=>{const a=ownedAttempt(db,req.params.id,req.account.id);if(a.status==='submitted')fail(409,'ALREADY_SUBMITTED');if(a.revision!==req.body.expectedRevision)fail(409,'REVISION_CONFLICT');if(action!=='takeover'&&a.lease_device&&a.lease_device!==req.body.deviceId&&a.lease_until>now())fail(409,'LEASE_CONFLICT','另一台设备正在作答，需要明确接管');db.prepare("UPDATE attempts SET status='active',revision=revision+1,lease_device=?,lease_until=? WHERE id=?").run(req.body.deviceId,now()+leaseMs,a.id);return visibleAttempt(ownedAttempt(db,a.id,req.account.id));})();
  });
- app.get('/api/reports',async req=>({reports:db.prepare('SELECT id,title,created_at AS createdAt,payload FROM reports WHERE owner_id=? ORDER BY created_at DESC,rowid DESC').all(req.account.id).map(r=>({id:r.id,title:r.title,createdAt:r.createdAt,attemptId:JSON.parse(r.payload).attemptId,stats:JSON.parse(r.payload).stats,origin:JSON.parse(r.payload).origin}))}));
+ app.get('/api/reports',async req=>({reports:db.prepare('SELECT id,title,created_at AS createdAt,payload FROM reports WHERE owner_id=? ORDER BY created_at DESC,rowid DESC').all(req.account.id).map(r=>({id:r.id,title:reportTitle(r),createdAt:r.createdAt,attemptId:JSON.parse(r.payload).attemptId,stats:JSON.parse(r.payload).stats,origin:JSON.parse(r.payload).origin}))}));
  app.get('/api/reports/:id',async req=>report(req.params.id,req.account.id));
  app.patch('/api/reports/:id',async req=>{exact(req.body,['title']);string(req.body.title,1,100);report(req.params.id,req.account.id);db.prepare('UPDATE reports SET title=? WHERE id=? AND owner_id=?').run(req.body.title,req.params.id,req.account.id);return report(req.params.id,req.account.id);});
+ app.get('/api/admin/reports',async req=>{admin(req);return {reports:db.prepare('SELECT r.*,u.username AS ownerUsername FROM reports r JOIN users u ON u.id=r.owner_id ORDER BY r.created_at DESC,r.rowid DESC').all().map(r=>{const p=JSON.parse(r.payload);return {id:r.id,title:reportTitle(r),ownerId:r.owner_id,ownerUsername:r.ownerUsername,createdAt:r.created_at,submittedAt:p.submittedAt,stats:p.stats,origin:p.origin,attemptId:p.attemptId};})};});
+ app.get('/api/admin/reports/:id',async req=>{admin(req);const r=db.prepare('SELECT r.*,u.username AS ownerUsername FROM reports r JOIN users u ON u.id=r.owner_id WHERE r.id=?').get(req.params.id);if(!r)fail(404,'NOT_FOUND');return {id:r.id,title:reportTitle(r),ownerUsername:r.ownerUsername,...JSON.parse(r.payload)};});
  registerLegacy(app,{db,backupDir,now});
  app.get('/media/2025-listening.mp3',async(req,reply)=>{reply.hijack();serveAudio(req.raw,reply.raw,options.audioFile||process.env.AUDIO_FILE||path.join(projectRoot,'.local/media/2025-listening.mp3'));});
  const mime={'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.mjs':'text/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.png':'image/png','.svg':'image/svg+xml'};

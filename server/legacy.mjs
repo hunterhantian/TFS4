@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import {createHash} from 'node:crypto';
 import {token,fail,exact,string,integer} from './security.mjs';
-import {makeReport} from './domain.mjs';
+import {makeReport,archiveTitle} from './domain.mjs';
 const digest=x=>createHash('sha256').update(x).digest('hex');
 const confidenceMap={'肯定':'certain','犹豫':'hesitant','猜测':'guess',certain:'certain',hesitant:'hesitant',guess:'guess'};
 function normalize(record,snapshot){
@@ -54,7 +54,7 @@ export function registerLegacy(app,{db,backupDir,now}){
     const progress={answers:r.answers,position:0,effectiveMs:r.effectiveMs,materialTimes:{}};
     db.prepare('INSERT INTO attempts(id,owner_id,request_id,mode,origin,status,created_at,started_at,submitted_at,snapshot,progress) VALUES (?,?,?,?,?,?,?,?,?,?,?)').run(attemptId,req.account.id,`legacy-${row.hash}`,'full','legacy','submitted',date,date,r.submittedAt,JSON.stringify(frozen),JSON.stringify(progress));
     const report=makeReport({id:attemptId,snapshot:frozen,progress,origin:'legacy',created_at:null,started_at:null,submitted_at:r.submittedAt});report.legacy={fileHash:preview.file_hash,recordHash:row.hash,originalScore:r.originalScore,calculatedScore:r.calculatedScore,warnings:r.warnings,importedAt:date,questionSnapshotOrigin:'current_text_with_legacy_answer_key',timingOrigin:'legacy_approximate_or_missing',analysisEligibility:'requires_D39_review'};
-    db.prepare('INSERT INTO reports VALUES (?,?,?,?,?,?,?)').run(id,attemptId,req.account.id,'导入的本机考试存档',JSON.stringify(report),date,row.hash);reports.push(id);
+    db.prepare('INSERT INTO reports VALUES (?,?,?,?,?,?,?)').run(id,attemptId,req.account.id,archiveTitle(snapshot.title,r.submittedAt),JSON.stringify(report),date,row.hash);reports.push(id);
    }
    return {reportIds:reports,imported:reports.length-skipped,skipped};
   })();

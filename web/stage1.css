@@ -44,3 +44,4 @@
 .score-table tbody tr:nth-child(even){background:#1b283b}.score-table tbody tr:hover{background:#27374e}.score-table tr.correct .report-choice{color:#74dfba;font-weight:750}.score-table tr.wrong .report-choice{color:#ff97ab;font-weight:750}.score-table tr.unanswered td{color:#91a0b8}.report-completion{color:#c6d5e9}.report-time{font-size:13px}
 @media(min-width:760px){.part-progress-overview{grid-template-columns:repeat(4,minmax(0,1fr))}}
 @media(max-width:580px){.part-progress-overview{gap:9px}.part-progress-card{padding:12px 10px}.progress-card-title{gap:5px}.progress-card-title strong{font-size:22px}.progress-card-title>span small{font-size:11px}.score-table{font-size:11px}.score-table th,.score-table td{padding:9px 3px}.score-table .report-time{font-size:10px}.report-part-body{padding:4px 7px 12px}}
+.archive-title{font-size:18px;line-height:1.6;margin:20px 0 8px;color:#dbe4f5;overflow-wrap:anywhere}

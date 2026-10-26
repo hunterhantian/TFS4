@@ -6,6 +6,7 @@ import {openDatabase,projectRoot} from './db.mjs';
 import {token,hashToken,hashPassword,verifyPassword,createUser,fail,exact,string,integer} from './security.mjs';
 import {ownedAttempt,visibleAttempt,checkLease,checkedProgress,makeReport,nowIso,settlePending,archiveTitle} from './domain.mjs';
 import {serveAudio} from '../scripts/audio-route.mjs';
+import {archiveFilters,queryArchives} from './archive-filters.mjs';
 import {registerLegacy} from './legacy.mjs';
 export async function createApp(options={}){
  const production=options.production??process.env.NODE_ENV==='production';
@@ -95,10 +96,11 @@ export async function createApp(options={}){
   exact(req.body,['expectedRevision','deviceId',...(action==='takeover'?['confirmed']:[])]);integer(req.body.expectedRevision);string(req.body.deviceId,1,128);if(action==='takeover'&&req.body.confirmed!==true)fail(400,'CONFIRM_TAKEOVER');
   return db.transaction(()=>{const a=ownedAttempt(db,req.params.id,req.account.id);if(a.status==='submitted')fail(409,'ALREADY_SUBMITTED');if(a.revision!==req.body.expectedRevision)fail(409,'REVISION_CONFLICT');if(action!=='takeover'&&a.lease_device&&a.lease_device!==req.body.deviceId&&a.lease_until>now())fail(409,'LEASE_CONFLICT','另一台设备正在作答，需要明确接管');db.prepare("UPDATE attempts SET status='active',revision=revision+1,lease_device=?,lease_until=? WHERE id=?").run(req.body.deviceId,now()+leaseMs,a.id);return visibleAttempt(ownedAttempt(db,a.id,req.account.id));})();
  });
- app.get('/api/reports',async req=>({reports:db.prepare('SELECT id,title,created_at AS createdAt,payload FROM reports WHERE owner_id=? ORDER BY created_at DESC,rowid DESC').all(req.account.id).map(r=>({id:r.id,title:reportTitle(r),createdAt:r.createdAt,attemptId:JSON.parse(r.payload).attemptId,stats:JSON.parse(r.payload).stats,origin:JSON.parse(r.payload).origin}))}));
+ const reportSummary=r=>{const p=JSON.parse(r.payload);return {id:r.id,title:reportTitle(r),createdAt:r.created_at,submittedAt:p.submittedAt,attemptId:p.attemptId,stats:p.stats,origin:p.origin};};
+ app.get('/api/reports',async req=>{const filters=archiveFilters(req.query,now());return {filters,reports:queryArchives(db,filters,req.account.id).map(reportSummary)};});
  app.get('/api/reports/:id',async req=>report(req.params.id,req.account.id));
  app.patch('/api/reports/:id',async req=>{exact(req.body,['title']);string(req.body.title,1,100);report(req.params.id,req.account.id);db.prepare('UPDATE reports SET title=? WHERE id=? AND owner_id=?').run(req.body.title,req.params.id,req.account.id);return report(req.params.id,req.account.id);});
- app.get('/api/admin/reports',async req=>{admin(req);return {reports:db.prepare('SELECT r.*,u.username AS ownerUsername FROM reports r JOIN users u ON u.id=r.owner_id ORDER BY r.created_at DESC,r.rowid DESC').all().map(r=>{const p=JSON.parse(r.payload);return {id:r.id,title:reportTitle(r),ownerId:r.owner_id,ownerUsername:r.ownerUsername,createdAt:r.created_at,submittedAt:p.submittedAt,stats:p.stats,origin:p.origin,attemptId:p.attemptId};})};});
+ app.get('/api/admin/reports',async req=>{admin(req);const filters=archiveFilters(req.query,now(),true);return {filters,reports:queryArchives(db,filters,filters.ownerId).map(r=>({...reportSummary(r),ownerId:r.owner_id,ownerUsername:r.ownerUsername}))};});
  app.get('/api/admin/reports/:id',async req=>{admin(req);const r=db.prepare('SELECT r.*,u.username AS ownerUsername FROM reports r JOIN users u ON u.id=r.owner_id WHERE r.id=?').get(req.params.id);if(!r)fail(404,'NOT_FOUND');return {id:r.id,title:reportTitle(r),ownerUsername:r.ownerUsername,...JSON.parse(r.payload)};});
  registerLegacy(app,{db,backupDir,now});
  app.get('/media/2025-listening.mp3',async(req,reply)=>{reply.hijack();serveAudio(req.raw,reply.raw,options.audioFile||process.env.AUDIO_FILE||path.join(projectRoot,'.local/media/2025-listening.mp3'));});

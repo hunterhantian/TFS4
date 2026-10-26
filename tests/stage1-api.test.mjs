@@ -111,3 +111,21 @@ test('administrators can read all submitted archives while ordinary accounts rem
  const list=await call(admin,'GET','/api/admin/reports');assert.equal(list.statusCode,200);assert.deepEqual(list.json().reports.map(r=>r.ownerUsername).sort(),['alice','bob']);assert.equal((await call(alice,'GET','/api/reports')).json().reports.length,1);assert.equal((await call(admin,'GET','/api/reports')).json().reports.length,0);
  const detail=(await call(admin,'GET',`/api/admin/reports/${ids[0]}`)).json();assert.equal(detail.ownerUsername,'alice');assert.equal(detail.items.length,100);assert.equal((await call(admin,'PATCH',`/api/reports/${ids[0]}`,{title:'not-authorized'})).statusCode,404);
 }));
+test('archive date ranges use Shanghai calendar boundaries and admin-only owner filters',async()=>{
+ const clock=Date.parse('2026-10-26T04:00:00Z');await fixture(async({db,alice,bob,admin,call})=>{
+ const aliceId=db.prepare('SELECT id FROM users WHERE username=?').get('alice').id,bobId=db.prepare('SELECT id FROM users WHERE username=?').get('bob').id;
+ const samples=[['today','2026-10-26T01:00:00.000Z'],['yesterday','2026-10-25T15:59:59.999Z'],['weekstart','2026-10-19T16:00:00.000Z'],['previousMonday','2026-10-18T16:00:00.000Z'],['monthstart','2026-09-26T16:00:00.000Z'],['beforemonth','2026-09-26T15:59:59.999Z'],['unknown',null]];
+ const insert=(id,owner,date)=>db.prepare('INSERT INTO reports(id,owner_id,title,payload,created_at) VALUES (?,?,?,?,?)').run(id,owner,'filter-fixture',JSON.stringify({submittedAt:date,stats:{total:100,correct:1,answered:1},origin:'ordinary',attemptId:id}),new Date(clock).toISOString());
+ for(const [id,date] of samples)insert(id,aliceId,date);insert('bob-today',bobId,'2026-10-26T01:00:00.000Z');
+ const mine=range=>call(alice,'GET','/api/reports?range='+range);
+ assert.equal((await mine('all')).json().reports.length,7);
+ assert.deepEqual((await mine('last7')).json().reports.map(r=>r.id).sort(),['today','weekstart','yesterday']);
+ const previous=await mine('last_week');assert.equal(previous.statusCode,200);assert.deepEqual(previous.json().reports.map(r=>r.id).sort(),['previousMonday','weekstart','yesterday']);assert.equal(previous.json().filters.fromDate,'2026-10-19');assert.equal(previous.json().filters.toDate,'2026-10-25');
+ assert.equal((await mine('last30')).json().reports.length,5);
+ assert.deepEqual((await call(alice,'GET','/api/reports?range=custom&from=2026-10-19&to=2026-10-19')).json().reports.map(r=>r.id),['previousMonday']);
+ assert.deepEqual((await call(alice,'GET','/api/reports?range=custom&from=2026-10-25&to=2026-10-25')).json().reports.map(r=>r.id),['yesterday']);
+ assert.equal((await call(admin,'GET',`/api/admin/reports?ownerId=${bobId}&range=last7`)).json().reports.length,1);assert.equal((await call(admin,'GET',`/api/admin/reports?ownerId=${aliceId}&range=last_week`)).json().reports.length,3);assert.equal((await call(admin,'GET','/api/admin/reports?range=all')).json().reports.length,8);
+ assert.equal((await call(alice,'GET',`/api/reports?ownerId=${bobId}`)).statusCode,403);
+ for(const query of ['range=custom&from=2026-02-30&to=2026-03-01','range=custom&from=2026-10-26&to=2026-10-19','range=custom&from=2026-10-19','range=invalid','range=last7&to=2026-10-26'])assert.equal((await call(alice,'GET','/api/reports?'+query)).statusCode,400,query);
+ },{now:()=>clock});
+});

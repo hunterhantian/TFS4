@@ -1,13 +1,19 @@
 import {api,setCsrf} from './api.mjs';
 import {ExamSync,deviceId,readDraft,discardDraft,listDrafts} from './sync.mjs';
-import {renderExam,updateExam,renderReport} from './views.mjs';
+import {renderExam,updateExam,renderReport,closeReportQuestion} from './views.mjs';
 import {escape,duration,date,percent,download,message} from './ui.mjs';
-const $=s=>document.querySelector(s);let user=null,sync=null,reportScope='mine',preview=null,createRequest=null;
-function show(id){for(const s of document.querySelectorAll('main>section'))s.hidden=s.id!==id;}
+const $=s=>document.querySelector(s);const reportFilters={mine:{range:'all',from:'',to:'',ownerId:''},all:{range:'all',from:'',to:'',ownerId:''}};let reportRequest=0;
+let user=null,sync=null,reportScope='mine',preview=null,createRequest=null;
+function show(id){if(id!=='report-view')closeReportQuestion();for(const s of document.querySelectorAll('main>section'))s.hidden=s.id!==id;}
 function status(text,state){$('#sync-status').textContent=text;$('#sync-status').dataset.state=state;}
 function conflict(error){if(!sync)return;$('#listening-audio').pause();$('#conflict').hidden=false;$('#conflict-message').textContent=error.status===401?'登录已过期。本地修改已保留，请重新登录后继续。':error.message;$('#takeover').hidden=error.status!==409;$('#reauth').hidden=error.status!==401;updateExam(sync);}
 async function run(fn){try{return await fn();}catch(e){message(e.message);if(e.status===401&&!sync){show('login-view');}return null;}}
 function destroy(){if(sync){sync.destroy();sync=null;}$('#listening-audio').pause();}
+function clearAccountViews(){
+ destroy();closeReportQuestion();reportRequest++;reportScope='mine';for(const scope of ['mine','all'])Object.assign(reportFilters[scope],{range:'all',from:'',to:'',ownerId:''});
+ for(const id of ['report-content','report-list','user-list','attempt-list','draft-list','questions'])$('#'+id).replaceChildren();$('#report-content').onclick=null;
+ $('#archive-owner').innerHTML='<option value="">全部考生</option>';$('#report-owner').textContent='';$('#report-owner').hidden=true;$('#report-title').textContent='';$('#report-user-filter').hidden=true;
+}
 async function home(){if(sync?.running){await pause();return;}destroy();show('home-view');message('');const [sources,attempts]=await Promise.all([api('GET','/sources'),api('GET','/attempts')]);$('#source-list').innerHTML=sources.sources.map(s=>`<div class="attempt-card"><b>${escape(s.title)}</b><p>${s.total}题</p><button data-source="${s.id}" class="primary">开始完整考试</button></div>`).join('')||'<p>题库尚未初始化，请联系管理员。</p>';$('#attempt-list').innerHTML=attempts.attempts.map(a=>`<div class="attempt-card"><p>${date(a.createdAt)} · ${a.status==='paused'?'已暂停':'未完成'}</p><button data-attempt="${a.id}" class="secondary">继续考试</button></div>`).join('')||'<p>暂无未完成考试。</p>';
  $('#source-list').querySelectorAll('[data-source]').forEach(b=>b.onclick=()=>run(async()=>{b.disabled=true;createRequest||=crypto.randomUUID();try{const a=await api('POST','/attempts',{sourceId:b.dataset.source,mode:'full',deviceId,requestId:createRequest});createRequest=null;await openAttempt(a.id,true);}finally{b.disabled=false;}}));
  $('#attempt-list').querySelectorAll('[data-attempt]').forEach(b=>b.onclick=()=>run(()=>openAttempt(b.dataset.attempt)));
@@ -25,17 +31,31 @@ async function openAttempt(id,alreadyOwned=false,selectedDraft=null){
  }catch(e){sync.frozen=true;if(draft?.dirty)sync.restore(draft);conflict(e);}
 }
 async function pause(){if(!sync)return;$('#listening-audio').pause();sync.stop();updateExam(sync);try{await sync.flush('pause');await home();}catch(e){$('#conflict').hidden=false;$('#conflict-message').textContent=e.message;$('#takeover').hidden=e.status!==409;message('本机内容已保留，暂停尚未获服务器确认。请重试同步。');}}
-async function showReports(scope='mine'){
- destroy();reportScope=scope;show('reports-view');$('#report-list-title').textContent=scope==='all'?'所有考生存档':'我的考试记录';
- const data=await api('GET',scope==='all'?'/admin/reports':'/reports');
- $('#report-list').innerHTML=data.reports.map(r=>`<div class="report-card"><b>${escape(r.title)}</b><p>${r.ownerUsername?`考生：${escape(r.ownerUsername)} · `:''}${date(r.createdAt)} · ${r.stats.correct}/${r.stats.total} · ${r.origin==='legacy'?'导入记录':'普通测试'}</p><button class="secondary" data-report="${r.id}">查看报告</button></div>`).join('')||'<p>暂无已提交记录。</p>';
+async function loadReportList(scope=reportScope){
+ const state=reportFilters[scope],request=++reportRequest;
+ if(state.range==='custom'&&(!state.from||!state.to)){$('#report-list').replaceChildren();$('#archive-range-hint').textContent='请选择起止日期';message('请选择开始日期和结束日期后应用。');return;}
+ const params=new URLSearchParams({range:state.range});if(state.range==='custom'){params.set('from',state.from);params.set('to',state.to);}if(scope==='all'&&state.ownerId)params.set('ownerId',state.ownerId);
+ $('#report-list').innerHTML='<p class="muted">正在筛选…</p>';let data;try{data=await api('GET',(scope==='all'?'/admin/reports':'/reports')+'?'+params);}catch(e){if(request!==reportRequest)return;$('#report-list').replaceChildren();$('#archive-range-hint').textContent='筛选未完成';throw e;}
+ if(request!==reportRequest||scope!==reportScope||$('#reports-view').hidden)return;
+ message('');$('#archive-range-hint').textContent=data.filters.fromDate?`${data.filters.fromDate} — ${data.filters.toDate} · 按提交时间（北京时间）`:'全部提交时间（含时间未记录的旧存档）';
+ $('#report-list').innerHTML=data.reports.map(r=>`<div class="report-card"><b>${escape(r.title)}</b><p>${r.ownerUsername?`考生：${escape(r.ownerUsername)} · `:''}${date(r.submittedAt)} · ${r.stats.correct}/${r.stats.total} · ${r.origin==='legacy'?'导入记录':'普通测试'}</p><button class="secondary" data-report="${r.id}">查看报告</button></div>`).join('')||'<p>当前筛选条件下暂无存档。</p>';
  $('#report-list').querySelectorAll('button').forEach(b=>b.onclick=()=>run(()=>showReport(b.dataset.report,scope)));
 }
+async function showReports(scope='mine'){
+ destroy();reportScope=scope;show('reports-view');$('#report-list-title').textContent=scope==='all'?'所有考生存档':'我的考试记录';
+ const state=reportFilters[scope];$('#archive-range').value=state.range;$('#archive-from').value=state.from;$('#archive-to').value=state.to;$('#custom-report-range').hidden=state.range!=='custom';$('#report-user-filter').hidden=scope!=='all';
+ if(scope==='all'){const data=await api('GET','/admin/users');if(reportScope!==scope||$('#reports-view').hidden)return;$('#archive-owner').innerHTML='<option value="">全部考生</option>'+data.users.map(u=>`<option value="${u.id}">${escape(u.username)}</option>`).join('');$('#archive-owner').value=state.ownerId;}
+ await loadReportList(scope);
+}
+$('#archive-range').onchange=()=>run(async()=>{reportFilters[reportScope].range=$('#archive-range').value;$('#custom-report-range').hidden=$('#archive-range').value!=='custom';await loadReportList();});
+$('#archive-owner').onchange=()=>run(async()=>{reportFilters.all.ownerId=$('#archive-owner').value;await loadReportList();});
+$('#archive-from').onchange=()=>{reportFilters[reportScope].from=$('#archive-from').value;};$('#archive-to').onchange=()=>{reportFilters[reportScope].to=$('#archive-to').value;};
+$('#report-filters').onsubmit=e=>{e.preventDefault();run(loadReportList);};
 async function showReport(id,scope='mine'){
  destroy();const r=await api('GET',scope==='all'?`/admin/reports/${id}`:`/reports/${id}`);reportScope=scope;show('report-view');message('');renderReport(r);$('#report-owner').hidden=!r.ownerUsername;$('#report-owner').textContent=r.ownerUsername?`考生：${r.ownerUsername}`:'';
 }
-$('#login-form').onsubmit=e=>{e.preventDefault();run(async()=>{const form=e.currentTarget;const data=new FormData(form);const result=await api('POST','/auth/login',{username:data.get('username'),password:data.get('password')});form.reset();setCsrf(result.csrf);user=result.user;$('#account-name').textContent=user.username;$('#logout').hidden=false;$('#open-admin').hidden=user.role!=='admin';$('#open-all-reports').hidden=user.role!=='admin';await home();});};
-$('#logout').onclick=()=>run(async()=>{if(sync){sync.stop();sync.persist();}if(sync&&!sync.frozen){try{await sync.flush('pause');}catch{message('进度尚未同步，已保留本机备份。');}}await api('POST','/auth/logout',{});destroy();setCsrf('');user=null;$('#account-name').textContent='';$('#logout').hidden=true;show('login-view');message('已退出；未同步内容仍保存在原账号的本机缓存中。');});
+$('#login-form').onsubmit=e=>{e.preventDefault();run(async()=>{const form=e.currentTarget;const data=new FormData(form);const result=await api('POST','/auth/login',{username:data.get('username'),password:data.get('password')});clearAccountViews();form.reset();setCsrf(result.csrf);user=result.user;$('#account-name').textContent=user.username;$('#logout').hidden=false;$('#open-admin').hidden=user.role!=='admin';$('#open-all-reports').hidden=user.role!=='admin';await home();});};
+$('#logout').onclick=()=>run(async()=>{if(sync){sync.stop();sync.persist();}if(sync&&!sync.frozen){try{await sync.flush('pause');}catch{message('进度尚未同步，已保留本机备份。');}}await api('POST','/auth/logout',{});clearAccountViews();setCsrf('');user=null;$('#account-name').textContent='';$('#logout').hidden=true;show('login-view');message('已退出；未同步内容仍保存在原账号的本机缓存中。');});
 $('#brand-home').onclick=()=>run(()=>user?home():Promise.resolve(show('login-view')));document.querySelectorAll('[data-home]').forEach(b=>b.onclick=()=>run(home));
 $('#pause-exam').onclick=()=>run(pause);$('#open-reports').onclick=()=>run(showReports);$('#report-back').onclick=()=>run(()=>showReports(reportScope));$('#open-all-reports').onclick=()=>run(()=>showReports('all'));
 $('#submit').onclick=()=>run(async()=>{if(!sync||sync.frozen)return;sync.advance();const answered=sync.progress.answers.filter(a=>a.choice).length;if(!confirm(`已答${answered}/${sync.attempt.questions.length}题。${answered<sync.attempt.questions.length?'含未作答题，仍然提交？':'确认交卷？'}`))return;$('#listening-audio').pause();sync.stop();updateExam(sync);$('#submit').disabled=true;try{await sync.flush('submit');}finally{$('#submit').disabled=false;}});

@@ -11,3 +11,11 @@ Windows入站规则Ruanshizi-iOS-LAN-4174只允许WLAN、本地192.168.31.31:417
 兼容HTTP局域网缺少crypto.randomUUID的情况，客户端ID使用crypto.getRandomValues生成UUID，不使用Math.random。专门用实际LAN HTTP入口验证登录页、非安全上下文初始化及账号登录/退出；这是桌面浏览器与服务连接验证，不冒充iPhone Safari真机验收。
 
 用户在iPhone Safari输入手机入口，用已有账号登录。测试时电脑与服务需要保持运行。手机真机操作结果等待用户反馈；不预先勾选真机通过。
+
+## 防火墙排查与修复（2026-10-26）
+
+用户手机IPv4确认是192.168.31.175，属于已放行网段。服务监听0.0.0.0:4174且电脑本机健康检查200，但原进程归属CodexSandboxOffline。系统存在启用的codex_sandbox_offline_block_inbound规则：所有配置文件、所有程序/端口，LocalUser专门匹配该沙盒账号，远端覆盖非回环地址。因此单独增加4174 Allow规则不足以让该账号接受手机入站。
+
+未删除、禁用或放宽系统保护规则，未关闭Windows防火墙。通过授权提权停止原沙盒服务，由Administrator账号用Start-Process -WindowStyle Hidden运行同一项目与同一SQLite；保留原WLAN/本地IP/4174/同网段/Node程序的范围限定规则。新进程账号和健康检查200已确认，地址不变。
+
+本轮后台服务启动PID为22148（仅当前运行记录，不作固定配置），输出日志位于Git忽略的.local/stage1/lan-service.stdout.log和stderr.log。手机实际访问结果仍待用户反馈，电脑自检不等于iOS真机已验收。

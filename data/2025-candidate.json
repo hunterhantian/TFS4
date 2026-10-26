@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "dataset": "candidate",
   "sourceId": "tfs4-2025-working",
-  "sourceSha256": "6392c5f86e2a72fa9045a5938f509635900bdd366891230b5cbf781df88d0e1a",
+  "sourceSha256": "ea4145bf697975ebae869a68e819e4e2cc51e7f1adc423649e890246a7650c97",
   "officialProvenance": "unconfirmed",
   "materials": [
     {
@@ -455,7 +455,7 @@
       "materialId": null,
       "text": "Que conseille Marie aux jeunes écrivains ?",
       "options": {
-        "A": "Lisez les phrases suivantes et choisissez le mot dont le sens est le plus proche de celui de la partie soulignée.",
+        "A": "De suivre des cours d'écriture.",
         "B": "De lire autant que possible.",
         "C": "De sortir de leur zone de confort."
       },
@@ -687,7 +687,7 @@
         "A": "reste jeune",
         "B": "reste moderne",
         "C": "a vieilli",
-        "D": "est oublié Complétez le texte suivant avec les mots et expressions qui conviennent. En juin 2018, par hasard, j'ai acheté en ligne 250 photos. J'y ai trouvé des photos d'une famille, avec **(31)** d'enfants, de cousins, d'oncles et de tantes dont je ne savais **(32)**. Ils se trouvaient dans une maison familiale. Ils se ressemblaient **(33)** ! Alors j'ai décidé de leur **(34)** une vie. J'ai essayé de les identifier un **(35)** un et j'ai écrit un livre. Après le roman, je suis partie à leur recherche. Je ne les **(36)** pas ! Mais c'était un peu comme ma famille parce que j'ai passé beaucoup de temps à regarder ces photos et à **(37)** leur vie. Quand je les ai rencontrés, je me suis sentie bien **(38)** d'eux tout de suite. Alors je leur ai proposé de faire un disque ensemble. Le chanteur français Alex Beaupain, un ami, a écrit les textes et la musique, et nous avons chanté ensemble ! Dans le livre se trouve l'album. Ça **(39)** la lecture du roman. Mais pour moi, le plus beau, c'est que, grâce à mes **(40)**, les personnes sur les photos qui ne se contactaient plus ont recommencé à se voir. La famille était enfin réunie."
+        "D": "est oublié"
       },
       "answer": {
         "value": "C",
@@ -1952,7 +1952,7 @@
         "A": "Il arrive que le somnambule se met en danger pendant la nuit.",
         "B": "Le somnambule ne ressent aucune douleur sur le moment.",
         "C": "Généralement, les crises de somnambulisme ne durent pas plus de 10 minutes.",
-        "D": "Le somnambule a un vague souvenir de ce qui s'est passé la nuit. De nos jours, le permis de conduire est devenu pratiquement indispensable. Pour l'obtenir, il faut tout d'abord suivre une formation dans une auto-école, puis réussir l'examen du Code de la route et enfin celui de la conduite. En France, seules les personnes majeures (+ 18 ans) peuvent se présenter à l'examen de conduite, mais on peut commencer la formation dès 15 ans. De 16 à 18 ans, le jeune est autorisé à conduire sous la surveillance de ses parents, ce qui lui permet d'acquérir davantage d'expérience avant l'examen du permis de conduire. Conduire a un prix. Le plus souvent, il est bien trop élevé pour la petite bourse des étudiants : 1 067 euros en moyenne pour le forfait de base. Ce forfait comporte généralement un nombre illimité de leçons de code et 20 heures de conduite obligatoires, ainsi que les frais d'inscription aux deux examens : code et conduite. Il existe cependant de grandes différences de tarifs entre les régions. Le forfait type serait par exemple proposé à 780 euros à Lille, dans le Nord, contre 1 425 euros à Paris en moyenne. Une différence non négligeable de 645 euros. De plus, les 20 heures de formation obligatoires à la conduite ne suffisent parfois pas (la moyenne nationale est de 28 heures). Le candidat devra donc payer les heures supplémentaires dont le prix varie de 25 à 60 euros par heure. Ajoutez à cela les frais de réinscription en cas d'échec aux examens, de 60 à 130 euros environ pour le code et 60 à 190 euros environ pour la conduite, et vous aurez largement dépassé le forfait de base. Le « permis à 1 euro par jour » est un programme national destiné aux 16-25 ans. Ce système, mis en place en 2005, permet de bénéficier d'un prêt à taux zéro auprès d'une banque ayant passé une convention avec l'État. Le remboursement du prêt s'effectue ainsi : un euro par jour pendant la durée nécessaire pour rembourser le montant exact de la formation. Malgré cette offre du « permis à 1 euro par jour », le prix élevé de cette formation reste le premier obstacle pour de nombreux jeunes, étudiants ou non."
+        "D": "Le somnambule a un vague souvenir de ce qui s'est passé la nuit."
       },
       "answer": {
         "value": "D",
@@ -2067,7 +2067,7 @@
         "A": "Les jeunes de 16-17 ans sont autorisés à conduire à condition d'être accompagnés de leurs parents.",
         "B": "Le prix de la formation est trop élevé pour les étudiants.",
         "C": "L'examen du permis de conduire comporte deux parties.",
-        "D": "Les différences de tarifs entre les régions sont très faibles. Fin juin 2023, 281 œuvres de Matisse ont quitté le musée du Cateau-Cambrésis (nord de la France) pour rejoindre d'abord le Centre d'art contemporain UCCA à Beijing et ensuite l'UCCA Edge de Shanghai pour l'exposition « Matisse par Matisse », qui offre un horizon sans précédent des créations du grand maître du fauvisme, a indiqué Sophie Le Flamanc, directrice adjointe du musée du Cateau-Cambrésis, le seul musée créé par Matisse. Les œuvres exposées lors de cette exposition proviennent du musée du Cateau-Cambrésis qui abrite la collection la plus importante au monde d'œuvres de Matisse, couvrant des domaines tels que la peinture, la sculpture, le dessin à l'encre. Sans oublier les papiers découpés, dont l'artiste a découvert la technique quand il était alité et très malade. Elle offre une vision complète de la carrière artistique de Matisse: ses débuts en tant qu'apprenti, sa création du fauvisme, son engagement dans l'art du papier découpé et sa participation à la conception de son chef-d’œuvre final, la Chapelle du Rosaire de Vence, dite également Chapelle Matisse. Il est à noter que cette exposition crée une section spéciale intitulée « Matisse, le fauvisme et la peinture chinoise moderne», qui examine comment l'œuvre de Matisse et d'autres artistes associés au fauvisme s'est fait connaître en Chine, ainsi que son influence sur le mouvement de la peinture moderne qui y a émergé entre les années 1920 et 1940."
+        "D": "Les différences de tarifs entre les régions sont très faibles."
       },
       "answer": {
         "value": "D",
@@ -2182,7 +2182,7 @@
         "A": "Elle retrace la carrière artistique de Matisse.",
         "B": "Elle s'est fait connaître dans la première moitié du XXe siècle.",
         "C": "Elle examine le lien entre le fauvisme et la peinture moderne chinoise.",
-        "D": "Elle est consacrée aux artistes du fauvisme entre les années 1920 et 1940. De l'école primaire à la vie professionnelle, en passant par les études supérieures et les activités personnelles, l'écrit est partout. Que les trous datent de la scolarité ou d'un oubli progressif des règles grammaticales parfois complexes, les conséquences des fautes d'orthographe peuvent être douloureuses : manque d'assurance lorsqu'il faut écrire en public, perte de crédibilité auprès de ses partenaires, candidature rejetée dans la vie professionnelle ... Le Projet Voltaire a créé un outil rendant l'expression et l'orthographe accessibles à tous. Quels que soient l'âge, le niveau initial, les objectifs, le Projet Voltaire propose à tous les intéressés un parcours totalement individualisé. Deux mots d'ordre : ludique et efficace ! Le but est d'éviter le retour aux manuels scolaires et aux cours monotones de grammaire. Un bon niveau de français est une nécessité, mais ne doit pas devenir une souffrance ! Son savoir-faire et son approche innovante font du Projet Voltaire le N° 1 de la remise à niveau en expression et en orthographe avec plus de sept millions d'utilisateurs, 5 000 établissements d'enseignement et 2 200 entreprises partenaires. Un réseau solide de partenaires et d'experts accompagne depuis sa création le Projet Voltaire, service dont la performance est prouvée et reconnue par les plus grandes institutions. En outre, le Projet Voltaire s'efforce d'apporter des solutions concrètes pour renforcer l'accessibilité de sa formation et du Certificat Voltaire aux personnes en situation d'incapacité physique ou mentale. Le Projet Voltaire a ainsi engagé depuis 2013 une Mission Handicap dans le but de s'entourer de professionnels du handicap, chacun expert dans son domaine, pour développer des fonctionnalités destinées aux personnes sourdes, non voyantes, malvoyantes, dyslexiques… Ces adaptations et ces aménagements n'entraînent aucun surcoût. Une solution précieuse pour toutes les personnes concernées, ainsi que pour les employeurs et les entreprises qui s'engagent fermement à respecter le principe d'égalité."
+        "D": "Elle est consacrée aux artistes du fauvisme entre les années 1920 et 1940."
       },
       "answer": {
         "value": "C",

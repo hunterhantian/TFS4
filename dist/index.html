@@ -12,13 +12,15 @@
       <p class="kicker">TFS4 · 选择题模考</p><h1>软柿子</h1>
       <p class="welcome-subtitle">专注法语专四考试</p>
       <p>100 道选择题 · 自动保存进度 · 每题记录答案、信心和答题时间。</p>
-      <div class="notice"><span>⚑</span><div><b>工作答案键</b><br>第 55、62、100 题在提交结果中会标记为「待复核」。</div></div>
+      <div class="notice"><span>⚑</span><div><b>工作答案键</b><br>第 55、61、62、100 题在提交结果中会标记为「待复核」。</div></div>
       <button id="start" class="primary">开始本次考试 <span>→</span></button>
       <button id="open-history" class="text-button">查看本机存档</button>
     </section>
     <section id="exam" hidden>
       <div class="progress-row"><div><p class="kicker" id="group-name"></p><h2 id="page-title"></h2></div><div class="progress"><b id="answered-count">0</b><span>/ 100 已答</span></div></div>
       <div id="page-dots" class="page-dots" aria-label="分页导航"></div>
+      <section id="listening-player" hidden aria-label="听力音频"><p>2025年听力原声（完整录音，含听写与考试指令；选择题从第1题对应位置开始）</p><audio id="listening-audio" controls preload="metadata" src="/media/2025-listening.mp3"></audio><p id="audio-status" role="status">可暂停、重播和拖动进度；切到非听力题组或离开页面时暂停。</p></section>
+      <button id="pause-exam" class="secondary">暂停并保存</button>
       <div id="questions" class="questions"></div>
       <nav class="pager"><button id="prev" class="secondary">← 上一组</button><button id="next" class="primary">下一组 →</button></nav>
       <button id="submit" class="submit">交卷并存档</button>

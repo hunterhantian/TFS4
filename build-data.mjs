@@ -34,7 +34,8 @@ const blocks = paper.split(/(?=^\d+\.\s)/m).map(block => {
 }).filter(Boolean);
 const questions = blocks.filter(m => m.no <= 100).map(m => {
   const no = m.no;
-  let raw = m.raw;
+  // A section or passage heading ends the question; keep following material in contexts only.
+  let raw = m.raw.split(/^#{2,}\s/m)[0].trim();
   raw = raw.replace(/^###.*$/gm, '').replace(/\*\*([A-D])\s*\.\*\*/g, '$1.');
   raw = raw.replace(/\n{2,}Dans cette section[\s\S]*$/, '');
   raw = raw.replace(/(?:^|\s)([A-D])\s*\.\s/g, '\n$1. ');

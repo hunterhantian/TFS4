@@ -2,7 +2,7 @@ import json,hashlib,re
 from pathlib import Path
 from pypdf import PdfReader
 root=Path.cwd(); base=Path('D:/老蒋'); out=[]
-paths=list((base/'stage1 基准测试').glob('*'))+list((base/'stage2 2005-2025年专四真题/2025法语专四真题及解析').glob('*'))+[Path('E:/Users/Administrator/Downloads/2025法语专四_完整数字化母文档_听力卷面答案库.md')]
+paths=[base/'audio/2025法语专四听力原声音频.mp3']+list((base/'stage1 基准测试').glob('*'))+list((base/'stage2 2005-2025年专四真题/2025法语专四真题及解析').glob('*'))+[Path('E:/Users/Administrator/Downloads/2025法语专四_完整数字化母文档_听力卷面答案库.md')]
 for p in paths:
  if not p.is_file() or '答题卡' in p.name: continue
  item={'path':str(p),'bytes':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest(),'provenance':'user-provided; official provenance unconfirmed'}

@@ -1,11 +1,13 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import http from 'node:http';
+import {serveAudio} from './audio-route.mjs';
 import { fileURLToPath } from 'node:url';
 const root = fileURLToPath(new URL('../dist/', import.meta.url));
 const mime={'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.svg':'image/svg+xml','.png':'image/png'};
-export function createPreview(){return http.createServer((req,res)=>{
+export function createPreview({audioFile=process.env.AUDIO_FILE||fileURLToPath(new URL('../.local/media/2025-listening.mp3',import.meta.url))}={}){return http.createServer((req,res)=>{
   let name; try{name=decodeURIComponent(new URL(req.url,'http://localhost').pathname);}catch{res.writeHead(400).end();return;}
+  if(name==='/media/2025-listening.mp3'){serveAudio(req,res,audioFile);return;}
   const file=path.resolve(root,'.'+(name==='/'?'/index.html':name));
   if(!file.startsWith(root)||!['GET','HEAD'].includes(req.method)){res.writeHead(403).end();return;}
   fs.stat(file,(error,stat)=>{if(error||!stat.isFile()){res.writeHead(404).end();return;}

@@ -1,8 +1,16 @@
 {
   "date": "2026-10-27",
   "browser": "Chromium / installed Chrome headless",
-  "scope": "isolated temporary database; synthetic approvals only; no production access",
+  "scope": "isolated temporary database; content approval tested on provided candidates; association approvals synthetic only; no production access",
   "checks": [
+    "content review has no association review or publish controls",
+    "content page does not ask user to classify knowledge",
+    "listening content approves with no classification, explanation, note or source confirmation",
+    "answer-conflict content approval does not approve or publish associations",
+    "content approval persists after refresh",
+    "batch content approves with no required review note",
+    "content review fits390px mobile",
+    "AI association maintenance has a separate page",
     "2025 real candidate imports 100 questions",
     "20 listening explanation gaps shown",
     "no selection error is visible beside review buttons",

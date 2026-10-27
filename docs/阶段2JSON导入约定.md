@@ -25,7 +25,7 @@ classification为null或`{primaryId,auxiliaryIds,basis,producer}`。主辅考点
 
 响应包含valid、errors、warnings，每个诊断含path、code、message。校验入口不写库；导入入口保存candidate或invalid批次供查看。对象字段顺序不影响内容指纹；重复内容返回原批次，相同source.id/version内容变化返回409，必须增加版本并注明修订。无效批次不占用正式来源版本，也不进入考试sources。
 
-参考结构由`tests/bank-import.test.mjs`的合成样例验证；真实候选见`data/2025-stage2-candidate.json`，仍待用户审核。
+参考结构由`tests/bank-import.test.mjs`的合成样例验证；真实候选见`data/2025-stage2-candidate.json`，待助手在题库成型后核对，用户不承担逐题关联审核。
 
 ## 外部AI分类与人工审核
 

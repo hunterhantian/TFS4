@@ -5,6 +5,8 @@
   "checks": [
     "2025 real candidate imports 100 questions",
     "20 listening explanation gaps shown",
+    "no selection error is visible beside review buttons",
+    "missing review note has explicit local alert",
     "answer discrepancy filter isolates question52",
     "reference answer discrepancy is visible",
     "unconfirmed explanation cannot approve",
@@ -13,6 +15,7 @@
     "formal grammar Part has40 questions",
     "official explanation location is available",
     "candidate review fits390px mobile",
+    "successful review shows affected count beside buttons",
     "batch approves only selected synthetic questions",
     "return reason preserved",
     "publish one synthetic source only",

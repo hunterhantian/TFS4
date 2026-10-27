@@ -4,7 +4,7 @@
 
 正式入口：**https://193.112.151.236/**。原账号重新登录即可。基础存档已保护迁移，本机副本不与云端双向同步。
 
-见[阶段1验收收尾](docs/阶段1验收收尾.md)及[部署核验](docs/腾讯云Stage1部署与基础存档核验.md)。GitHub main与标签`stage1-2026-10-26`固定收尾版本。2026-10-27在`stage-2-question-bank`分支完成阶段2开发自测，现待用户验收，见[交付与验收](docs/阶段2交付与验收.md)及[JSON导入约定](docs/阶段2JSON导入约定.md)。本机验收入口 http://127.0.0.1:4175/ ，运行 `node scripts/stage2-review.mjs`，账号文件 `.local/stage2/验收账号说明.txt`。真实2025知识点仍待用户审核，未发布；线上仍为Stage1。
+见[阶段1验收收尾](docs/阶段1验收收尾.md)及[部署核验](docs/腾讯云Stage1部署与基础存档核验.md)。GitHub main与标签`stage1-2026-10-26`固定收尾版本。2026-10-27在`stage-2-question-bank`分支完成阶段2开发自测，现待用户验收，见[交付与验收](docs/阶段2交付与验收.md)及[JSON导入约定](docs/阶段2JSON导入约定.md)。本机验收入口 http://127.0.0.1:4175/ ，运行 `node scripts/stage2-review.mjs`，账号文件 `.local/stage2/验收账号说明.txt`。真实2025关联由助手在后期题库成型后整理核对，目前未发布；线上仍为Stage1。
 
 ## 本机开发入口
 

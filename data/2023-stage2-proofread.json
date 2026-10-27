@@ -1,0 +1,1591 @@
+{
+  "version": 1,
+  "year": 2023,
+  "candidateSha256": "858628be124f43a1681772ebcee988112964e55855482ef99a8cba3e4c064764",
+  "reviewer": "Codex AI（用户授权机器校对；未冒充人工专家）",
+  "reviewedAt": "2026-10-27T08:37:32.237755+00:00",
+  "ocr": {
+    "engine": "NAPS2 / Tesseract",
+    "mode": "Best",
+    "dpi": 300,
+    "languages": [
+      "fra",
+      "chi_sim"
+    ],
+    "forceRasterized": true,
+    "inputSha256": "ce06023f4d17b631f078ff4a2408acf783a279dc1d5652930532bfbc7bdb758a",
+    "outputSha256": "a80cae60f0f1d8fd395ddd9748921ab98359f02f388966dc14fef681565b0924",
+    "models": [
+      {
+        "language": "fra",
+        "sha256": "eac01c1d72540d6090facb7b2f42dd0a2ee8fc57c5be1b20548ae668e2761913"
+      },
+      {
+        "language": "chi_sim",
+        "sha256": "fc05d89ab31d8b4e226910f16a8bcbf78e43bae3e2580bb5feefd052efdab363"
+      }
+    ]
+  },
+  "pageCount": 20,
+  "reviewedPages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "questionCount": 100,
+  "questionEvidence": [
+    {
+      "questionId": "q1",
+      "documentId": "paper",
+      "pages": [
+        2
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Où peuvent-ils prendre le repas ?",
+      "normalizedOptions": {
+        "A": "En terrasse.",
+        "B": "À l’intérieur.",
+        "C": "Dans un autre restaurant."
+      }
+    },
+    {
+      "questionId": "q2",
+      "documentId": "paper",
+      "pages": [
+        3
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Qu’est-ce que la femme propose à l’homme ?",
+      "normalizedOptions": {
+        "A": "De ne pas manger de frites.",
+        "B": "D’emporter les frites chez lui.",
+        "C": "De finir les frites."
+      }
+    },
+    {
+      "questionId": "q3",
+      "documentId": "paper",
+      "pages": [
+        3
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Que veut dire l’homme ?",
+      "normalizedOptions": {
+        "A": "Il n’est pas satisfait de ses vacances.",
+        "B": "Il s’est amusé malgré la pluie.",
+        "C": "Les vacances lui ont beaucoup plu."
+      }
+    },
+    {
+      "questionId": "q4",
+      "documentId": "paper",
+      "pages": [
+        3
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Que s’est-il passé ?",
+      "normalizedOptions": {
+        "A": "Léa n’était pas là.",
+        "B": "L’homme s’est trompé de numéro.",
+        "C": "Léa était occupée."
+      }
+    },
+    {
+      "questionId": "q5",
+      "documentId": "paper",
+      "pages": [
+        3
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Pourquoi l’homme n’est-il pas content ?",
+      "normalizedOptions": {
+        "A": "Parce que Paul ne l’a pas appelé.",
+        "B": "Parce que Paul a manqué son rendez-vous.",
+        "C": "Parce que Paul ne lui fait pas confiance."
+      }
+    },
+    {
+      "questionId": "q6",
+      "documentId": "paper",
+      "pages": [
+        3
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Que s’est-il passé ?",
+      "normalizedOptions": {
+        "A": "Le vol de Mlle Dupont a eu presque deux heures de retard.",
+        "B": "L’homme est arrivé en retard pour chercher Mlle Dupont.",
+        "C": "L’homme est allé chercher Mlle Dupont à l’aéroport mais son vol a eu du retard."
+      }
+    },
+    {
+      "questionId": "q7",
+      "documentId": "paper",
+      "pages": [
+        3
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Quel type de chambre l’homme va-t-il prendre ?",
+      "normalizedOptions": {
+        "A": "Une chambre simple avec baignoire.",
+        "B": "Une chambre simple avec douche.",
+        "C": "Une chambre double avec douche."
+      }
+    },
+    {
+      "questionId": "q8",
+      "documentId": "paper",
+      "pages": [
+        3
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Entre qui se déroule le dialogue ?",
+      "normalizedOptions": {
+        "A": "Entre un vendeur et une cliente.",
+        "B": "Entre un policier et une passante.",
+        "C": "Entre un contrôleur et une passagère."
+      }
+    },
+    {
+      "questionId": "q9",
+      "documentId": "paper",
+      "pages": [
+        4
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Que fera la femme probablement ?",
+      "normalizedOptions": {
+        "A": "Elle rentrera plus tard que l’homme.",
+        "B": "Elle fera les courses avec l’homme.",
+        "C": "Elle attendra l’homme pour dîner."
+      }
+    },
+    {
+      "questionId": "q10",
+      "documentId": "paper",
+      "pages": [
+        4
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Qu’est-ce que l’homme conseille à la femme de faire ?",
+      "normalizedOptions": {
+        "A": "De passer moins de temps sur les réseaux sociaux.",
+        "B": "D’utiliser davantage les réseaux sociaux pour devenir journaliste.",
+        "C": "De ne plus accepter les demandes d’amis sur les réseaux sociaux."
+      }
+    },
+    {
+      "questionId": "q11",
+      "documentId": "paper",
+      "pages": [
+        4
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Entre qui se déroule le dialogue ?",
+      "normalizedOptions": {
+        "A": "Entre deux gendarmes.",
+        "B": "Entre patron et employée.",
+        "C": "Entre deux amis."
+      }
+    },
+    {
+      "questionId": "q12",
+      "documentId": "paper",
+      "pages": [
+        4
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Quand Gérard est-il parti en voyage ?",
+      "normalizedOptions": {
+        "A": "Mercredi.",
+        "B": "Vendredi.",
+        "C": "Dimanche."
+      }
+    },
+    {
+      "questionId": "q13",
+      "documentId": "paper",
+      "pages": [
+        4
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Pourquoi a-t-il fini par quitter l’autoroute ?",
+      "normalizedOptions": {
+        "A": "Parce qu’il a préféré prendre le train.",
+        "B": "Parce qu’il y avait des embouteillages.",
+        "C": "Parce qu’on contrôlait les papiers sur l’autoroute."
+      }
+    },
+    {
+      "questionId": "q14",
+      "documentId": "paper",
+      "pages": [
+        4
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Que s’est-il passé à Villefranche ?",
+      "normalizedOptions": {
+        "A": "On a arrêté toutes les voitures.",
+        "B": "Il y avait 15 km d’embouteillages.",
+        "C": "Les gendarmes se sont mis en grève."
+      }
+    },
+    {
+      "questionId": "q15",
+      "documentId": "paper",
+      "pages": [
+        5
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Pendant combien de temps Gérard est-il resté à Villefranche ?",
+      "normalizedOptions": {
+        "A": "Plus d’une heure.",
+        "B": "Plus d’une demi-heure.",
+        "C": "Plus d’une heure et demie."
+      }
+    },
+    {
+      "questionId": "q16",
+      "documentId": "paper",
+      "pages": [
+        5
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Qu’est-ce que les gendarmes ont demandé à Gérard de faire ?",
+      "normalizedOptions": {
+        "A": "De les suivre dans leur véhicule.",
+        "B": "De téléphoner à ses collègues.",
+        "C": "De remplir un questionnaire."
+      }
+    },
+    {
+      "questionId": "q17",
+      "documentId": "paper",
+      "pages": [
+        5
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Pourquoi Lucie dit-elle que Gérard est un grand criminel ?",
+      "normalizedOptions": {
+        "A": "Parce qu’il a commis un crime pendant son voyage.",
+        "B": "Parce qu’un gendarme le lui a dit.",
+        "C": "Parce que Lucie veut se moquer de lui."
+      }
+    },
+    {
+      "questionId": "q18",
+      "documentId": "paper",
+      "pages": [
+        5
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Qui est-ce que l’on a arrêté finalement ?",
+      "normalizedOptions": {
+        "A": "Le frère jumeau de Gérard.",
+        "B": "Un homme déguisé en gendarme.",
+        "C": "Un criminel qui ressemblait à Gérard."
+      }
+    },
+    {
+      "questionId": "q19",
+      "documentId": "paper",
+      "pages": [
+        5
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Pourquoi un gendarme s’est-il mis à rire ?",
+      "normalizedOptions": {
+        "A": "Parce que Gérard lui a fait une plaisanterie.",
+        "B": "Parce que Gérard avait l’air stupéfait.",
+        "C": "Parce qu’on a pris Gérard pour une autre personne."
+      }
+    },
+    {
+      "questionId": "q20",
+      "documentId": "paper",
+      "pages": [
+        5
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Pourquoi Gérard qualifie-t-il son voyage d’« incroyable » ?",
+      "normalizedOptions": {
+        "A": "Parce qu’il a joué le rôle d’un criminel dans un film.",
+        "B": "Parce qu’il croyait retrouver son frère jumeau.",
+        "C": "Parce qu’il a eu une aventure fâcheuse."
+      }
+    },
+    {
+      "questionId": "q21",
+      "documentId": "paper",
+      "pages": [
+        6
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "L’Académie a donné son [feu vert] à la féminisation de certains noms de métier.",
+      "normalizedOptions": {
+        "A": "permis",
+        "B": "avis",
+        "C": "soutien",
+        "D": "autorisation"
+      }
+    },
+    {
+      "questionId": "q22",
+      "documentId": "paper",
+      "pages": [
+        6
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Grâce à ce programme de sports, ils pourront [se livrer à] leur sport favori.",
+      "normalizedOptions": {
+        "A": "s’intéresser à",
+        "B": "se tenir à",
+        "C": "se donner à",
+        "D": "s’attacher à"
+      }
+    },
+    {
+      "questionId": "q23",
+      "documentId": "paper",
+      "pages": [
+        6
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "L’institutrice [a fait preuve d’]une grande patience avec cet enfant difficile.",
+      "normalizedOptions": {
+        "A": "a montré",
+        "B": "a délivré",
+        "C": "a détaillé",
+        "D": "a éprouvé"
+      }
+    },
+    {
+      "questionId": "q24",
+      "documentId": "paper",
+      "pages": [
+        6
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Le président [s’est engagé à] réduire le chômage.",
+      "normalizedOptions": {
+        "A": "a accepté de",
+        "B": "a souhaité",
+        "C": "a promis de",
+        "D": "s’est efforcé de"
+      }
+    },
+    {
+      "questionId": "q25",
+      "documentId": "paper",
+      "pages": [
+        6
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Vos résultats [sont au-delà de] mes espérances.",
+      "normalizedOptions": {
+        "A": "dépassent",
+        "B": "sont à la hauteur de",
+        "C": "correspondent à",
+        "D": "déçoivent"
+      }
+    },
+    {
+      "questionId": "q26",
+      "documentId": "paper",
+      "pages": [
+        6
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "J’ai tout examiné, vos calculs sont [justes].",
+      "normalizedOptions": {
+        "A": "justifiés",
+        "B": "inappropriés",
+        "C": "inexacts",
+        "D": "exagérés"
+      }
+    },
+    {
+      "questionId": "q27",
+      "documentId": "paper",
+      "pages": [
+        6
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "On lui a préparé un cadeau [hors du commun] pour son mariage.",
+      "normalizedOptions": {
+        "A": "bon marché",
+        "B": "de qualité",
+        "C": "sur mesure",
+        "D": "banal"
+      }
+    },
+    {
+      "questionId": "q28",
+      "documentId": "paper",
+      "pages": [
+        6
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Je viens juste de [renouveler] mon abonnement à ce magazine.",
+      "normalizedOptions": {
+        "A": "gérer",
+        "B": "(d’)annuler",
+        "C": "modifier",
+        "D": "payer"
+      }
+    },
+    {
+      "questionId": "q29",
+      "documentId": "paper",
+      "pages": [
+        6
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Il [jette l’argent par les fenêtres] de sorte qu’il est réduit à la misère.",
+      "normalizedOptions": {
+        "A": "est généreux",
+        "B": "est dépensier",
+        "C": "est indiscret",
+        "D": "est économe"
+      }
+    },
+    {
+      "questionId": "q30",
+      "documentId": "paper",
+      "pages": [
+        6
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Après avoir remporté la médaille d’or, elle [se réjouit de] sa victoire.",
+      "normalizedOptions": {
+        "A": "se plaint de",
+        "B": "se rappelle",
+        "C": "profite de",
+        "D": "se félicite de"
+      }
+    },
+    {
+      "questionId": "q31",
+      "documentId": "paper",
+      "pages": [
+        7
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "第31空（见完整材料）",
+      "normalizedOptions": {
+        "A": "ces derniers",
+        "B": "toutes",
+        "C": "les seconds",
+        "D": "lesquelles"
+      }
+    },
+    {
+      "questionId": "q32",
+      "documentId": "paper",
+      "pages": [
+        7
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "第32空（见完整材料）",
+      "normalizedOptions": {
+        "A": "à l’aise",
+        "B": "en sécurité",
+        "C": "en forme",
+        "D": "en confiance"
+      }
+    },
+    {
+      "questionId": "q33",
+      "documentId": "paper",
+      "pages": [
+        7
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "第33空（见完整材料）",
+      "normalizedOptions": {
+        "A": "à",
+        "B": "en",
+        "C": "de",
+        "D": "dans"
+      }
+    },
+    {
+      "questionId": "q34",
+      "documentId": "paper",
+      "pages": [
+        7
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "第34空（见完整材料）",
+      "normalizedOptions": {
+        "A": "commerciale",
+        "B": "occasionnelle",
+        "C": "quotidienne",
+        "D": "particulière"
+      }
+    },
+    {
+      "questionId": "q35",
+      "documentId": "paper",
+      "pages": [
+        7
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "第35空（见完整材料）",
+      "normalizedOptions": {
+        "A": "couvre",
+        "B": "définit",
+        "C": "remplit",
+        "D": "sert"
+      }
+    },
+    {
+      "questionId": "q36",
+      "documentId": "paper",
+      "pages": [
+        7
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "第36空（见完整材料）",
+      "normalizedOptions": {
+        "A": "réussie",
+        "B": "garantie",
+        "C": "atteinte",
+        "D": "réalisée"
+      }
+    },
+    {
+      "questionId": "q37",
+      "documentId": "paper",
+      "pages": [
+        7
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "第37空（见完整材料）",
+      "normalizedOptions": {
+        "A": "autrement",
+        "B": "rarement",
+        "C": "en plus",
+        "D": "de plus en plus"
+      }
+    },
+    {
+      "questionId": "q38",
+      "documentId": "paper",
+      "pages": [
+        7
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "第38空（见完整材料）",
+      "normalizedOptions": {
+        "A": "Certes",
+        "B": "En effet",
+        "C": "Cependant",
+        "D": "Sans doute"
+      }
+    },
+    {
+      "questionId": "q39",
+      "documentId": "paper",
+      "pages": [
+        7
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "第39空（见完整材料）",
+      "normalizedOptions": {
+        "A": "permettre",
+        "B": "conseiller",
+        "C": "interdire",
+        "D": "promettre"
+      }
+    },
+    {
+      "questionId": "q40",
+      "documentId": "paper",
+      "pages": [
+        7
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "第40空（见完整材料）",
+      "normalizedOptions": {
+        "A": "la majorité",
+        "B": "nombre",
+        "C": "beaucoup",
+        "D": "quantité"
+      }
+    },
+    {
+      "questionId": "q41",
+      "documentId": "paper",
+      "pages": [
+        8
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Les fraises coûtent 3,99 euros ____ kilo.",
+      "normalizedOptions": {
+        "A": "un",
+        "B": "chaque",
+        "C": "le",
+        "D": "tout"
+      }
+    },
+    {
+      "questionId": "q42",
+      "documentId": "paper",
+      "pages": [
+        8
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Bien qu’il ait fait ____ grands efforts, il a échoué au concours.",
+      "normalizedOptions": {
+        "A": "de",
+        "B": "des",
+        "C": "les",
+        "D": "/"
+      }
+    },
+    {
+      "questionId": "q43",
+      "documentId": "paper",
+      "pages": [
+        8
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Elle préfère les robes ____.",
+      "normalizedOptions": {
+        "A": "rose",
+        "B": "bleu ciel",
+        "C": "blancs",
+        "D": "oranges"
+      }
+    },
+    {
+      "questionId": "q44",
+      "documentId": "paper",
+      "pages": [
+        8
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Bien ____ gens ne sont pas satisfaits de leurs conditions d’habitation.",
+      "normalizedOptions": {
+        "A": "de",
+        "B": "des",
+        "C": "aux",
+        "D": "les"
+      }
+    },
+    {
+      "questionId": "q45",
+      "documentId": "paper",
+      "pages": [
+        8
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Au dîner, elle ne prend ____ viande ____ poisson.",
+      "normalizedOptions": {
+        "A": "pas de, pas",
+        "B": "pas de, ni",
+        "C": "ni de, ni",
+        "D": "ni, ni"
+      }
+    },
+    {
+      "questionId": "q46",
+      "documentId": "paper",
+      "pages": [
+        8
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Ayant étudié les mathématiques ____ 4 ans à l’université, je suis maintenant enseignant ____ 3 ans.",
+      "normalizedOptions": {
+        "A": "en, pour",
+        "B": "depuis, pour",
+        "C": "pendant, depuis",
+        "D": "depuis, pendant"
+      }
+    },
+    {
+      "questionId": "q47",
+      "documentId": "paper",
+      "pages": [
+        8
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Mes poissons viennent d’Indonésie. Et d’où viennent ____ ?",
+      "normalizedOptions": {
+        "A": "les nôtres",
+        "B": "les vôtres",
+        "C": "les tiennes",
+        "D": "le leur"
+      }
+    },
+    {
+      "questionId": "q48",
+      "documentId": "paper",
+      "pages": [
+        8
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "L’argent ne fait pas le bonheur mais il ____ contribue.",
+      "normalizedOptions": {
+        "A": "le",
+        "B": "en",
+        "C": "y",
+        "D": "lui"
+      }
+    },
+    {
+      "questionId": "q49",
+      "documentId": "paper",
+      "pages": [
+        8
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Il est nommé ____ une durée indéterminée au Quai d’Orsay.",
+      "normalizedOptions": {
+        "A": "dans",
+        "B": "pour",
+        "C": "en",
+        "D": "pendant"
+      }
+    },
+    {
+      "questionId": "q50",
+      "documentId": "paper",
+      "pages": [
+        8
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Le programme consiste ____ quatre sessions de formation couvrant huit thèmes différents.",
+      "normalizedOptions": {
+        "A": "en",
+        "B": "de",
+        "C": "à",
+        "D": "pour"
+      }
+    },
+    {
+      "questionId": "q51",
+      "documentId": "paper",
+      "pages": [
+        8
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Il parle souvent de son pays, loin ____ il s’ennuie.",
+      "normalizedOptions": {
+        "A": "de qui",
+        "B": "duquel",
+        "C": "dont",
+        "D": "d’où"
+      }
+    },
+    {
+      "questionId": "q52",
+      "documentId": "paper",
+      "pages": [
+        9
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Il faut faire la chambre ____ elle ne soit là.",
+      "normalizedOptions": {
+        "A": "après qu’",
+        "B": "en attendant qu’",
+        "C": "jusqu’à ce qu’",
+        "D": "avant qu’"
+      }
+    },
+    {
+      "questionId": "q53",
+      "documentId": "paper",
+      "pages": [
+        9
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "L’été dernier, j’ai visité un musée ____ le nom m’échappe pour l’instant.",
+      "normalizedOptions": {
+        "A": "que",
+        "B": "où",
+        "C": "dont",
+        "D": "d’où"
+      }
+    },
+    {
+      "questionId": "q54",
+      "documentId": "paper",
+      "pages": [
+        9
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Les bruits, ____ tout le monde, devenaient de plus en plus forts.",
+      "normalizedOptions": {
+        "A": "fatigant",
+        "B": "fatigants",
+        "C": "fatiguant",
+        "D": "fatiguent"
+      }
+    },
+    {
+      "questionId": "q55",
+      "documentId": "paper",
+      "pages": [
+        9
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "____ un heureux hasard, son directeur de mémoire est un grand amateur de science-fiction.",
+      "normalizedOptions": {
+        "A": "Pour",
+        "B": "À",
+        "C": "D’",
+        "D": "Par"
+      }
+    },
+    {
+      "questionId": "q56",
+      "documentId": "paper",
+      "pages": [
+        9
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Ils se sont ____ de leur erreur dès le premier clic.",
+      "normalizedOptions": {
+        "A": "aperçu",
+        "B": "aperçus",
+        "C": "réalisés",
+        "D": "réalisé"
+      }
+    },
+    {
+      "questionId": "q57",
+      "documentId": "paper",
+      "pages": [
+        9
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Les cinq kilomètres que Magie ____ l’ont épuisée.",
+      "normalizedOptions": {
+        "A": "a couru",
+        "B": "a courus",
+        "C": "est couru",
+        "D": "est courue"
+      }
+    },
+    {
+      "questionId": "q58",
+      "documentId": "paper",
+      "pages": [
+        9
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Je n’ai jamais trouvé ____ de plus sérieux qu’elle.",
+      "normalizedOptions": {
+        "A": "aucune",
+        "B": "personne",
+        "C": "nul",
+        "D": "rien"
+      }
+    },
+    {
+      "questionId": "q59",
+      "documentId": "paper",
+      "pages": [
+        9
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Personne ne sait ____ est devenu mon oncle.",
+      "normalizedOptions": {
+        "A": "ce qu’",
+        "B": "ce qui",
+        "C": "celui qu’",
+        "D": "celui qui"
+      }
+    },
+    {
+      "questionId": "q60",
+      "documentId": "paper",
+      "pages": [
+        9
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "J’aime les fruits rouges ____ que la fraise, la framboise et la cerise.",
+      "normalizedOptions": {
+        "A": "tel",
+        "B": "tels",
+        "C": "telles",
+        "D": "telle"
+      }
+    },
+    {
+      "questionId": "q61",
+      "documentId": "paper",
+      "pages": [
+        9
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "La montée du chômage a déterminé le gouvernement ____ prendre des mesures de réforme.",
+      "normalizedOptions": {
+        "A": "à",
+        "B": "de",
+        "C": "en",
+        "D": "pour"
+      }
+    },
+    {
+      "questionId": "q62",
+      "documentId": "paper",
+      "pages": [
+        9
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Voici ____ un jeune talent devrait ressembler.",
+      "normalizedOptions": {
+        "A": "ce qu’",
+        "B": "qu’est-ce qu’",
+        "C": "ce dont",
+        "D": "ce à quoi"
+      }
+    },
+    {
+      "questionId": "q63",
+      "documentId": "paper",
+      "pages": [
+        9
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "La jeune femme est ____ heureuse d’avoir obtenu son diplôme avec mention « très honorable ».",
+      "normalizedOptions": {
+        "A": "tout",
+        "B": "tous",
+        "C": "toute",
+        "D": "toutes"
+      }
+    },
+    {
+      "questionId": "q64",
+      "documentId": "paper",
+      "pages": [
+        9
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Il est peu probable qu’elle ____.",
+      "normalizedOptions": {
+        "A": "réussira",
+        "B": "a réussi",
+        "C": "réussisse",
+        "D": "réussit"
+      }
+    },
+    {
+      "questionId": "q65",
+      "documentId": "paper",
+      "pages": [
+        10
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Il s’est dépêché de monter dans le bus, comme s’il ____.",
+      "normalizedOptions": {
+        "A": "ne me voie pas",
+        "B": "ne m’a pas vu",
+        "C": "ne me verrait pas",
+        "D": "ne m’avait pas vu"
+      }
+    },
+    {
+      "questionId": "q66",
+      "documentId": "paper",
+      "pages": [
+        10
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "____ un vent très fort, il est sorti se promener.",
+      "normalizedOptions": {
+        "A": "À cause d’",
+        "B": "Vu",
+        "C": "Malgré",
+        "D": "Faute d’"
+      }
+    },
+    {
+      "questionId": "q67",
+      "documentId": "paper",
+      "pages": [
+        10
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "____ il soit, il doit respecter les autres.",
+      "normalizedOptions": {
+        "A": "Quoi qu’",
+        "B": "Qui qu’",
+        "C": "Quelqu’",
+        "D": "Quel qu’"
+      }
+    },
+    {
+      "questionId": "q68",
+      "documentId": "paper",
+      "pages": [
+        10
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Tu n’as vraiment pas de ____.",
+      "normalizedOptions": {
+        "A": "raison",
+        "B": "faim",
+        "C": "sommeil",
+        "D": "chance"
+      }
+    },
+    {
+      "questionId": "q69",
+      "documentId": "paper",
+      "pages": [
+        10
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Tu auras ____ attendre, il ne voudra pas te voir.",
+      "normalizedOptions": {
+        "A": "beau",
+        "B": "belle",
+        "C": "bien",
+        "D": "bon"
+      }
+    },
+    {
+      "questionId": "q70",
+      "documentId": "paper",
+      "pages": [
+        10
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "J’ai dû perdre dans cette affaire ____ deux mille euros.",
+      "normalizedOptions": {
+        "A": "quelque",
+        "B": "quelques",
+        "C": "plusieurs",
+        "D": "plus"
+      }
+    },
+    {
+      "questionId": "q71",
+      "documentId": "paper",
+      "pages": [
+        10
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "C’est à madame Dubois ____ vous devez vous adresser.",
+      "normalizedOptions": {
+        "A": "laquelle",
+        "B": "que",
+        "C": "qui",
+        "D": "à qui"
+      }
+    },
+    {
+      "questionId": "q72",
+      "documentId": "paper",
+      "pages": [
+        10
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "C’était l’hiver : tout le territoire du Nord était couvert ____ neige.",
+      "normalizedOptions": {
+        "A": "de",
+        "B": "de la",
+        "C": "par",
+        "D": "en"
+      }
+    },
+    {
+      "questionId": "q73",
+      "documentId": "paper",
+      "pages": [
+        10
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Il faut être prudent, je ne confierai pas les clés de mon appartement à ____.",
+      "normalizedOptions": {
+        "A": "personne",
+        "B": "n’importe qui",
+        "C": "nul autre",
+        "D": "quelconque"
+      }
+    },
+    {
+      "questionId": "q74",
+      "documentId": "paper",
+      "pages": [
+        10
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Devant les inconnus, elle se sent toujours gênée, mais moi, je ne ____ suis pas.",
+      "normalizedOptions": {
+        "A": "(n’)en",
+        "B": "la",
+        "C": "le",
+        "D": "(n’)y"
+      }
+    },
+    {
+      "questionId": "q75",
+      "documentId": "paper",
+      "pages": [
+        10
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "— Est-ce que je pourrais dire cela à mes amis ? — ____.",
+      "normalizedOptions": {
+        "A": "Oui, parle-lui-en.",
+        "B": "Non, ne leur en parle pas.",
+        "C": "Oui, dis-la-leur.",
+        "D": "Non, ne le lui dis pas."
+      }
+    },
+    {
+      "questionId": "q76",
+      "documentId": "paper",
+      "pages": [
+        10
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Ce soir, elle est ____ fatiguée qu’elle est rentrée du bureau à pied.",
+      "normalizedOptions": {
+        "A": "tellement",
+        "B": "très",
+        "C": "trop",
+        "D": "d’autant plus"
+      }
+    },
+    {
+      "questionId": "q77",
+      "documentId": "paper",
+      "pages": [
+        10
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Il gagnera le Tour de France ____ il n’y ait pas d’incident imprévu.",
+      "normalizedOptions": {
+        "A": "à condition qu’",
+        "B": "de crainte qu’",
+        "C": "à moins qu’",
+        "D": "sinon qu’"
+      }
+    },
+    {
+      "questionId": "q78",
+      "documentId": "paper",
+      "pages": [
+        11
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Elle se doutait bien que je ____ le lendemain.",
+      "normalizedOptions": {
+        "A": "n’irais pas",
+        "B": "n’y vais pas",
+        "C": "n’y aille pas",
+        "D": "n’irai pas"
+      }
+    },
+    {
+      "questionId": "q79",
+      "documentId": "paper",
+      "pages": [
+        11
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Si tu étais venu chez moi hier soir, tu ____ Maria.",
+      "normalizedOptions": {
+        "A": "rencontrerais",
+        "B": "avais rencontré",
+        "C": "auras rencontré",
+        "D": "aurais rencontré"
+      }
+    },
+    {
+      "questionId": "q80",
+      "documentId": "paper",
+      "pages": [
+        11
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Il m’a dit qu’il serait de retour ____.",
+      "normalizedOptions": {
+        "A": "dans huit jours",
+        "B": "il y a une semaine",
+        "C": "trois jours plus tard",
+        "D": "hier"
+      }
+    },
+    {
+      "questionId": "q81",
+      "documentId": "paper",
+      "pages": [
+        13
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Quel est le but de cette campagne de sensibilisation ?",
+      "normalizedOptions": {
+        "A": "Combattre les préjugés liés aux nationalités.",
+        "B": "Mieux connaître les pays d’Europe.",
+        "C": "Échanger des idées et se faire des amis.",
+        "D": "Éliminer les stéréotypes sur la France."
+      }
+    },
+    {
+      "questionId": "q82",
+      "documentId": "paper",
+      "pages": [
+        13
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Quel préjugé associe-t-on aux Italiens ?",
+      "normalizedOptions": {
+        "A": "Les Italiens ont tendance à tout critiquer.",
+        "B": "Les Italiens parlent toujours à haute voix.",
+        "C": "Les Italiens adorent voyager seuls.",
+        "D": "Les femmes italiennes restent souvent au foyer."
+      }
+    },
+    {
+      "questionId": "q83",
+      "documentId": "paper",
+      "pages": [
+        13
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Concernant les Français, qu’est-ce qui est vrai selon le texte ?",
+      "normalizedOptions": {
+        "A": "Les étrangers ont peu de préjugés sur les Français.",
+        "B": "On dit que les Français donnent souvent l’impression d’être arrogants.",
+        "C": "Les Français ont beaucoup de préjugés sur les gens de différentes nationalités.",
+        "D": "Les Français ont plus de préjugés sur les pays africains que sur les pays asiatiques."
+      }
+    },
+    {
+      "questionId": "q84",
+      "documentId": "paper",
+      "pages": [
+        13
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Dans le texte, quel type de stéréotypes n’est pas mentionné ?",
+      "normalizedOptions": {
+        "A": "Le stéréotype sur les habitudes de voyages.",
+        "B": "Le stéréotype sur les habitudes alimentaires.",
+        "C": "Le stéréotype sur les préférences sportives.",
+        "D": "Le stéréotype sur les modèles familiaux."
+      }
+    },
+    {
+      "questionId": "q85",
+      "documentId": "paper",
+      "pages": [
+        13
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Quelles activités sont prévues pour cette campagne de sensibilisation ?",
+      "normalizedOptions": {
+        "A": "Débats et atelier.",
+        "B": "Conférences et spectacles.",
+        "C": "Publicités à la télé et débats.",
+        "D": "Expositions de photos et soirées d’accueil."
+      }
+    },
+    {
+      "questionId": "q86",
+      "documentId": "paper",
+      "pages": [
+        15
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "En 2008, ____ sont nés dans une famille bilingue en France.",
+      "normalizedOptions": {
+        "A": "5 bébés",
+        "B": "50% des bébés",
+        "C": "20% des bébés",
+        "D": "25% des bébés"
+      }
+    },
+    {
+      "questionId": "q87",
+      "documentId": "paper",
+      "pages": [
+        15
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Concernant les étapes de l’apprentissage de langues, laquelle des affirmations suivantes ne correspond pas au texte ?",
+      "normalizedOptions": {
+        "A": "Tous les enfants n’ont pas le même rythme.",
+        "B": "Les enfants font du babillage vers deux mois.",
+        "C": "Les enfants disent leurs premiers mots entre 11 et 13 mois.",
+        "D": "Les étapes sont les mêmes pour les monolingues et les bilingues."
+      }
+    },
+    {
+      "questionId": "q88",
+      "documentId": "paper",
+      "pages": [
+        15
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Un enfant bilingue de 24 mois ____.",
+      "normalizedOptions": {
+        "A": "subit une surcharge mentale",
+        "B": "a du retard dans l’apprentissage de langues",
+        "C": "acquiert une cinquantaine de mots répartis entre deux langues",
+        "D": "acquiert une cinquantaine de mots dans chacune des deux langues"
+      }
+    },
+    {
+      "questionId": "q89",
+      "documentId": "paper",
+      "pages": [
+        15
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Pourquoi la linguiste affirme-t-elle que rien ne sert de prendre une nounou anglophone pendant un an ?",
+      "normalizedOptions": {
+        "A": "Parce qu’il est inutile de commencer tôt l’apprentissage d’une langue.",
+        "B": "Parce que le bébé oublie vite une langue appris s’il perd le contact avec cette langue.",
+        "C": "Parce que l’anglais ne s’apprend pas de la même manière que les autres langues.",
+        "D": "Parce que l’apprentissage d’une deuxième langue provoquera une surcharge pour le cerveau."
+      }
+    },
+    {
+      "questionId": "q90",
+      "documentId": "paper",
+      "pages": [
+        15
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Selon le texte, laquelle des affirmations suivantes est vraie ?",
+      "normalizedOptions": {
+        "A": "Les gens ne classent pas les langues de la même manière.",
+        "B": "Parler anglais est un atout mais parler arabe est un handicap.",
+        "C": "Il suffit d’exposer un enfant à une langue pour qu’il la maîtrise.",
+        "D": "Les enfants acquièrent deux langues dans deux zones différentes du cerveau."
+      }
+    },
+    {
+      "questionId": "q91",
+      "documentId": "paper",
+      "pages": [
+        17
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Le texte vise à ____.",
+      "normalizedOptions": {
+        "A": "remettre en cause la pensée positive",
+        "B": "faire un bilan annuel de la conquête spatiale",
+        "C": "attirer l’attention du public sur les crises écologiques",
+        "D": "rappeler aux lecteurs que les bonnes nouvelles ne manquent pas"
+      }
+    },
+    {
+      "questionId": "q92",
+      "documentId": "paper",
+      "pages": [
+        17
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Si les Français ont repris goût aux livres, c’est probablement parce que (qu’) ____.",
+      "normalizedOptions": {
+        "A": "les prix des livres ont beaucoup baissé",
+        "B": "il a été plus facile d’acheter des livres en ligne",
+        "C": "ils ont eu plus de temps libre pendant le confinement",
+        "D": "ils ont voulu soulager leur anxiété face aux crises économiques"
+      }
+    },
+    {
+      "questionId": "q93",
+      "documentId": "paper",
+      "pages": [
+        17
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "L’un des objectifs de développement durable de l’ONU pour 2030 consiste à ____.",
+      "normalizedOptions": {
+        "A": "éliminer la pauvreté en Chine",
+        "B": "lutter contre l’extrême pauvreté dans le monde",
+        "C": "augmenter les revenus de la population mondiale",
+        "D": "éliminer l’extrême pauvreté dans le monde avec 10 ans d’avance"
+      }
+    },
+    {
+      "questionId": "q94",
+      "documentId": "paper",
+      "pages": [
+        17
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Quel progrès a été enregistré dans la conquête spatiale ?",
+      "normalizedOptions": {
+        "A": "Quatre touristes ont fait leur premier voyage spatial.",
+        "B": "Paker Solar Probe est un robot très résistant aux rayons du soleil.",
+        "C": "Des traces dans le sol de la Lune ont été prises en photo par Tianwen-1.",
+        "D": "Paker Solar Probe s’est posée sur Mars pour recueillir des données importantes."
+      }
+    },
+    {
+      "questionId": "q95",
+      "documentId": "paper",
+      "pages": [
+        17
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Laquelle des affirmations suivantes correspond au texte ?",
+      "normalizedOptions": {
+        "A": "Les pandas sont toujours une espèce en voie d’extinction.",
+        "B": "Le nombre des baleines bleues observées n’a pas augmenté.",
+        "C": "Orca est l’usine la plus polluante au monde.",
+        "D": "La chasse commerciale des baleines bleues a été interdite."
+      }
+    },
+    {
+      "questionId": "q96",
+      "documentId": "paper",
+      "pages": [
+        19
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "« Une feuille de chou » désigne ____.",
+      "normalizedOptions": {
+        "A": "un journal dont la qualité des informations est mauvaise",
+        "B": "un journal dont le prix n’est pas élevé",
+        "C": "un journal qui a une bonne réputation",
+        "D": "un journal mal imprimé"
+      }
+    },
+    {
+      "questionId": "q97",
+      "documentId": "paper",
+      "pages": [
+        19
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Au XIXe siècle, le chou était ____.",
+      "normalizedOptions": {
+        "A": "un légume saisonnier",
+        "B": "un légume très rare",
+        "C": "un légume commun et peu cher",
+        "D": "un légume consommé uniquement par la population rurale"
+      }
+    },
+    {
+      "questionId": "q98",
+      "documentId": "paper",
+      "pages": [
+        19
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Au XVIIIe siècle, « canard » désignait ____.",
+      "normalizedOptions": {
+        "A": "les fausses informations répandues par la presse",
+        "B": "un journal de mauvaise qualité",
+        "C": "un journal méconnu",
+        "D": "un journal ironique"
+      }
+    },
+    {
+      "questionId": "q99",
+      "documentId": "paper",
+      "pages": [
+        19
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Le Canard enchaîné ____.",
+      "normalizedOptions": {
+        "A": "se focalise sur les faits divers",
+        "B": "est peu sérieux mais populaire",
+        "C": "est connu pour les fausses nouvelles qu’il publie",
+        "D": "est un journal indépendant qui revendique la liberté d’expression"
+      }
+    },
+    {
+      "questionId": "q100",
+      "documentId": "paper",
+      "pages": [
+        19
+      ],
+      "review": "AI逐题对照卷面校对，非人工确认",
+      "normalizedText": "Selon le texte, l’« ours » ____.",
+      "normalizedOptions": {
+        "A": "est un jargon anglais",
+        "B": "est un logo de journal",
+        "C": "désigne toute l’équipe d’un journal",
+        "D": "désigne toutes les informations publiées dans un journal"
+      }
+    }
+  ],
+  "materials": [
+    {
+      "id": "cloze-31",
+      "pages": [
+        7
+      ],
+      "review": "AI完整材料对照校对"
+    },
+    {
+      "id": "reading-81",
+      "pages": [
+        12
+      ],
+      "review": "AI完整材料对照校对"
+    },
+    {
+      "id": "reading-86",
+      "pages": [
+        14
+      ],
+      "review": "AI完整材料对照校对"
+    },
+    {
+      "id": "reading-91",
+      "pages": [
+        16
+      ],
+      "review": "AI完整材料对照校对"
+    },
+    {
+      "id": "reading-96",
+      "pages": [
+        18
+      ],
+      "review": "AI完整材料对照校对"
+    }
+  ],
+  "correctionNotes": [
+    "第75题原卷第三个选项误印B，按选项位置规范为C，选项文字不改。",
+    "第57题Magie、第89题une langue appris、第94题Paker均保留原卷写法。",
+    "全部题目均校对题干、选项顺序、重音、空格、断行及作答空位。",
+    "原始OCR逐页文本和300DPI页图保留在本机私有生产目录，可与校对后JSON逐字段追溯。"
+  ],
+  "missingReferenceAnswers": 100,
+  "missingExplanations": 100,
+  "excluded": [
+    "听力原文",
+    "听力翻译",
+    "音频"
+  ],
+  "notStructured": [
+    "Part I听写",
+    "Part V动词变位",
+    "Part VII写作"
+  ],
+  "scope": "100道客观题及卷面完形/阅读材料；内容审核不等于可判分或已发布关联"
+}

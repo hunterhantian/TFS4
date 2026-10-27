@@ -1,0 +1,2353 @@
+{
+  "schemaVersion": 2,
+  "dataset": "candidate",
+  "source": {
+    "id": "tfs4-2023",
+    "version": 1,
+    "year": 2023,
+    "title": "2023法语专四 · 题库内容审核",
+    "revisionNote": "全卷300DPI强制重做Best法语+中文OCR；AI逐页逐题校对100道客观题及完整完形/阅读材料。未找到独立答案、解析资料，明确待补。听写、动词变位、写作尚未结构化；听力原文/翻译/音频不在本批范围。"
+  },
+  "documents": [
+    {
+      "id": "paper",
+      "name": "2023年法语专四真题.pdf",
+      "sha256": "ce06023f4d17b631f078ff4a2408acf783a279dc1d5652930532bfbc7bdb758a",
+      "kind": "paper",
+      "provenance": "unconfirmed"
+    }
+  ],
+  "parts": [
+    {
+      "id": "II",
+      "label": "Part II · 听力",
+      "component": "listening",
+      "order": 1
+    },
+    {
+      "id": "III",
+      "label": "Part III · 词汇",
+      "component": "vocabulary",
+      "order": 2
+    },
+    {
+      "id": "IV",
+      "label": "Part IV · 语法",
+      "component": "grammar",
+      "order": 3
+    },
+    {
+      "id": "VI",
+      "label": "Part VI · 阅读",
+      "component": "reading",
+      "order": 4
+    }
+  ],
+  "types": [
+    {
+      "id": "dialogue",
+      "label": "听力对话选择"
+    },
+    {
+      "id": "interview",
+      "label": "听力访谈选择"
+    },
+    {
+      "id": "synonym",
+      "label": "近义替换"
+    },
+    {
+      "id": "antonym",
+      "label": "反义替换"
+    },
+    {
+      "id": "cloze",
+      "label": "词汇完形"
+    },
+    {
+      "id": "grammar-choice",
+      "label": "语法选择"
+    },
+    {
+      "id": "reading",
+      "label": "阅读理解"
+    }
+  ],
+  "materials": [
+    {
+      "id": "listening-paper",
+      "kind": "listening",
+      "text": "2023年听力卷面选择题。听力原文、翻译与音频由用户另行维护，本批不处理。",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7",
+        "q8",
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13",
+        "q14",
+        "q15",
+        "q16",
+        "q17",
+        "q18",
+        "q19",
+        "q20"
+      ]
+    },
+    {
+      "id": "cloze-31",
+      "kind": "cloze",
+      "text": "Se déplacer en ville, ce n’est pas toujours facile. Les grandes villes proposent depuis longtemps des moyens de transport, mais (31) ont aussi leurs inconvénients. Le métro est très fréquenté aux heures de pointe, et on ne s’y sent pas toujours (32) après certaines heures à cause de la montée de la délinquance（违法、犯罪）. Le bus est certes très pratique, mais très dépendant (33) la qualité du trafic. Les taxis sont trop chers pour une utilisation (34). Le tramway, quant à lui, ne (35) qu’une zone très limitée de l’espace urbain. On peut bien sûr prendre sa voiture ou pratiquer le covoiturage（拼车）, mais les embouteillages ou les difficultés pour se garer sont nombreux et l’heure d’arrivée à un rendez-vous n’est jamais (36). Depuis les années 2000, on constate un changement de mentalité. Les médias, les entreprises, les municipalités, les écologistes invitent (37) les citoyens à utiliser leurs vélos pour circuler dans les grandes villes. Il n’est pas forcément nécessaire de posséder un vélo. (38), les services de location se sont développés un peu partout : c’est le cas du Vélib’ à Paris et du Vélo’v à Lyon. Enfin, pour (39) aux cyclistes de se déplacer en toute sécurité, un vrai réseau de pistes cyclables a été aménagé dans (40) des grandes villes.",
+      "questionIds": [
+        "q31",
+        "q32",
+        "q33",
+        "q34",
+        "q35",
+        "q36",
+        "q37",
+        "q38",
+        "q39",
+        "q40"
+      ]
+    },
+    {
+      "id": "reading-81",
+      "kind": "reading",
+      "text": "1. Les étudiants contre les stéréotypes（刻板印象）\n\nÀ l’Université de Bordeaux, les étudiants étrangers ont décidé de créer une association et de lancer une campagne de sensibilisation（宣传活动）contre les stéréotypes. Ces étudiants originaires de pays d’Europe, d’Asie et d’Afrique en ont assez d’être victimes de préjugés en fonction de leur nationalité. La campagne appelée « pour en finir avec les stéréotypes » a commencé en janvier et se poursuivra jusqu’en mars. Pendant ces trois mois, il y aura des expositions de photos, des débats et des conférences sur les stéréotypes.\n\nAkiko est une étudiante japonaise : « Ici les gens pensent que les Japonais voyagent toujours en groupe et qu’ils passent leur temps à prendre des photos. Mais ce n’est pas le cas de tous les Japonais. Par exemple, la première fois que je suis venue en Europe, j’ai voyagé seule. Et je n’avais pas d’appareil photo ! »\n\nPaola, l’Italienne, sourit. Dès que les gens apprennent qu’elle est Italienne, ils lui parlent de pizza et se mettent à parler avec les mains. « En Europe, il y a encore beaucoup de personnes qui pensent qu’avec la tradition familiale, les femmes ne travaillent pas en Italie. J’aimerais changer cette image, car c’est faux : il y a beaucoup de femmes qui ont fait de grandes carrières professionnelles. »\n\nKodjo, étudiant togolais（多哥的）, rajoute : « Les gens pensent que l’Afrique est un seul et même pays, et que tous les Africains se ressemblent. C’est totalement faux. L’Afrique est un continent très diversifié. Et non, tous les Africains ne savent pas danser ! »\n\nDes étudiants français comme Ludovic font également partie de cette association. « Quand nous partons en stage à l’étranger, on nous dit que les Français ont souvent l’air arrogants, qu’ils ont la réputation de tout critiquer. Nous allons animer un atelier pour casser toutes ces images. »",
+      "questionIds": [
+        "q81",
+        "q82",
+        "q83",
+        "q84",
+        "q85"
+      ]
+    },
+    {
+      "id": "reading-86",
+      "kind": "reading",
+      "text": "2. Parler deux langues est-il un atout ou un handicap pour les enfants ?\n\nEn France, un enfant sur cinq naissait en 2008 dans un foyer bilingue. Et le développement du langage chez l’enfant bilingue n’aura pas de grosses différences avec un enfant monolingue. « Le jeune enfant acquiert une ou deux langues dans la même zone du cerveau, mais celui-ci est plus actif en travaillant sur deux langues, souligne Barbara Abdelilah-Bauer, auteure du Défi des enfants bilingues, mais ce n’est pas une surcharge pour le cerveau. »\n\nSi chaque enfant va à son rythme, les étapes sont les mêmes pour ceux qui découvrent une ou deux langues. « Vers deux mois, ils font des vocalises（练声）, vers six mois du babillage（咿呀学语）, entre 11 et 13 mois ils disent leurs premiers mots pour apprendre un mot par semaine jusqu’à 24 mois, où ils atteignent un lexique d’une cinquantaine de mots, explique la linguiste. À la différence près que les 50 mots d’un bilingue sont répartis entre deux langues. » Ce qui peut donner l’illusion d’un retard dans une langue, mais « quand on étudie le vocabulaire des enfants bilingues et monolingues à trois ans, on trouve dans chaque langue le même nombre de mots en moyenne ».\n\nC’est la même règle pour toutes les langues : plus on commence tôt, mieux c’est. À condition, bien sûr, qu’il y ait un suivi. « Plus l’enfant est jeune, plus vite il va apprendre une deuxième langue... et plus vite il peut l’oublier s’il n’a plus de contact avec elle », prévient Barbara Abdelilah-Bauer. Rien ne sert donc de prendre une nounou（保姆）anglophone pendant un an... Car un enfant peut être totalement bilingue à quatre ans et ne plus se souvenir d’un seul mot quelques années plus tard.\n\nContrairement aux préjugés de certains, il n’y a aucun retard chez les bilingues. Encore aujourd’hui, certains pensent qu’un enfant élevé avec le français et l’arabe aurait plus de difficultés à l’école. D’ailleurs, la société ne classe pas les langues de la même façon. « Malheureusement, on voit souvent la capacité à parler anglais comme un atout, mais pas forcément d’autres langues, regrette la linguiste. Je reçois par exemple des couples franco-espagnols qui n’ont qu’une hâte : que leur enfant apprenne l’anglais. »",
+      "questionIds": [
+        "q86",
+        "q87",
+        "q88",
+        "q89",
+        "q90"
+      ]
+    },
+    {
+      "id": "reading-91",
+      "kind": "reading",
+      "text": "3. Restons positifs !\n\nRestons positifs ! Bien sûr, l’ambiance actuelle est tendue et les crises se succèdent, mais la période a aussi apporté son lot de bonnes nouvelles !\n\nL’année 2021 a prouvé que les gens retrouvent leur passion de lecture. Par exemple, elle a enregistré un record de ventes de livres en France, avec 400 millions d’exemplaires vendus dans le pays. Les confinements（封控）y sont sûrement pour quelque chose.\n\nDes avancées sociétales sont également connues dans le monde. Selon la Banque mondiale, le taux mondial de pauvreté continue à reculer. L’un des objectifs de développement durable de l’ONU pour 2030（l’Agenda 2030）est de réduire au maximum voire d’éliminer l’extrême pauvreté dans le monde dont le seuil est de 1,25 dollar par jour par personne. La lutte contre la pauvreté en Chine a grandement contribué à la réduction de la pauvreté mondiale pour atteindre l’objectif de l’Agenda 2030, avec 10 ans d’avance sur le programme.\n\n2020 a été une année riche pour la conquête spatiale. Les Chinois ont envoyé vers Mars la sonde（探测器）Tianwen-1, transportant un robot téléguidé à roues qui a pris en photo les traces dans le sol de la planète rouge et a recueilli des données importantes. Une autre sonde Parker Solar Probe a « touché » le soleil pour la première fois, après un voyage de près de deux ans et demi. Ce robot, très résistant à la chaleur, a permis de collecter des données précieuses. 2021, c’est aussi l’année des premiers touristes dans l’espace. Quatre touristes spatiaux ont passé trois jours à bord de SpaceX.\n\nLa nature a eu, elle aussi, son lot de bonnes nouvelles. Tout d’abord, les baleines bleues sont revenues en Antarctique alors que l’espèce était en voie de disparition. Plusieurs dizaines ont pu être observées. Du jamais vu depuis la fin de la chasse commerciale ! Les pandas, quant à eux, ont été retirés de la liste des animaux en voie de disparition. Pour finir, on a lancé en Islande la plus grande usine au monde à dépolluer l’air. Son nom ? Orca.",
+      "questionIds": [
+        "q91",
+        "q92",
+        "q93",
+        "q94",
+        "q95"
+      ]
+    },
+    {
+      "id": "reading-96",
+      "kind": "reading",
+      "text": "4. Une feuille de chou, un canard ou un ours ?\n\nSi votre ami français vous montre un journal en le traitant de « feuille de chou », vous pouvez en conclure qu’il est de mauvaise qualité ! Votre ami ne fait pas référence ici à la qualité du papier, mais à la qualité des informations qu’on y trouve. Pourquoi ce légume en particulier ? Quand l’expression est née au XIXe siècle, la population française était majoritairement rurale. Les paysans mangeaient le plus souvent des légumes, surtout ceux qui étaient peu chers, comme le chou. Les gens ont pris l’habitude de comparer le chou, légume commun et bon marché, à tout ce qui était insignifiant et sans valeur.\n\nOn peut aussi traiter un journal de « canard ». Au XVIIIe siècle, on appelait « canard » les fausses nouvelles propagées par la presse qu’on distribuait dans la rue et qui rapportait souvent des faits divers. Ces bulletins d’informations n’étaient pas considérés comme une presse sérieuse, mais ils étaient populaires. Cette appellation viendrait peut-être d’une vieille expression française du XVIe siècle, « bailler un canard à moitié », qui signifiait « tromper ». Le mot « canard » a fini par faire référence aux journaux peu crédibles. Aujourd’hui, le terme est devenu neutre, même s’il n’est pas flatteur pour une publication d’être qualifiée de « canard ». Une exception cependant : Le Canard enchaîné. Symbole d’une presse indépendante, ce journal hebdomadaire revendique une certaine liberté d’expression et emploie l’ironie jusque dans son nom ! Il en faut effectivement beaucoup pour lui faire fermer son bec（喙）!\n\nOuvrez un journal ou un magazine : vous pouvez être sûr d’y trouver un ours ! Dans le jargon（行话）de la presse, l’« ours » désigne l’encadré（方框）où sont mentionnés les noms de toutes les personnes qui ont participé à la publication. Pourquoi parle-t-on d’« ours » ? Ce terme viendrait de Grande-Bretagne. En anglais, « ours »（prononcez le mot à l’anglaise）signifie « les nôtres », désignant ainsi toute l’équipe d’un journal.",
+      "questionIds": [
+        "q96",
+        "q97",
+        "q98",
+        "q99",
+        "q100"
+      ]
+    }
+  ],
+  "knowledgePoints": [],
+  "questions": [
+    {
+      "id": "q1",
+      "version": 1,
+      "originalNo": 1,
+      "partId": "II",
+      "typeId": "dialogue",
+      "materialId": "listening-paper",
+      "text": "Où peuvent-ils prendre le repas ?",
+      "options": {
+        "A": "En terrasse.",
+        "B": "À l’intérieur.",
+        "C": "Dans un autre restaurant."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q2",
+      "version": 1,
+      "originalNo": 2,
+      "partId": "II",
+      "typeId": "dialogue",
+      "materialId": "listening-paper",
+      "text": "Qu’est-ce que la femme propose à l’homme ?",
+      "options": {
+        "A": "De ne pas manger de frites.",
+        "B": "D’emporter les frites chez lui.",
+        "C": "De finir les frites."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q3",
+      "version": 1,
+      "originalNo": 3,
+      "partId": "II",
+      "typeId": "dialogue",
+      "materialId": "listening-paper",
+      "text": "Que veut dire l’homme ?",
+      "options": {
+        "A": "Il n’est pas satisfait de ses vacances.",
+        "B": "Il s’est amusé malgré la pluie.",
+        "C": "Les vacances lui ont beaucoup plu."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q4",
+      "version": 1,
+      "originalNo": 4,
+      "partId": "II",
+      "typeId": "dialogue",
+      "materialId": "listening-paper",
+      "text": "Que s’est-il passé ?",
+      "options": {
+        "A": "Léa n’était pas là.",
+        "B": "L’homme s’est trompé de numéro.",
+        "C": "Léa était occupée."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q5",
+      "version": 1,
+      "originalNo": 5,
+      "partId": "II",
+      "typeId": "dialogue",
+      "materialId": "listening-paper",
+      "text": "Pourquoi l’homme n’est-il pas content ?",
+      "options": {
+        "A": "Parce que Paul ne l’a pas appelé.",
+        "B": "Parce que Paul a manqué son rendez-vous.",
+        "C": "Parce que Paul ne lui fait pas confiance."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q6",
+      "version": 1,
+      "originalNo": 6,
+      "partId": "II",
+      "typeId": "dialogue",
+      "materialId": "listening-paper",
+      "text": "Que s’est-il passé ?",
+      "options": {
+        "A": "Le vol de Mlle Dupont a eu presque deux heures de retard.",
+        "B": "L’homme est arrivé en retard pour chercher Mlle Dupont.",
+        "C": "L’homme est allé chercher Mlle Dupont à l’aéroport mais son vol a eu du retard."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q7",
+      "version": 1,
+      "originalNo": 7,
+      "partId": "II",
+      "typeId": "dialogue",
+      "materialId": "listening-paper",
+      "text": "Quel type de chambre l’homme va-t-il prendre ?",
+      "options": {
+        "A": "Une chambre simple avec baignoire.",
+        "B": "Une chambre simple avec douche.",
+        "C": "Une chambre double avec douche."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q8",
+      "version": 1,
+      "originalNo": 8,
+      "partId": "II",
+      "typeId": "dialogue",
+      "materialId": "listening-paper",
+      "text": "Entre qui se déroule le dialogue ?",
+      "options": {
+        "A": "Entre un vendeur et une cliente.",
+        "B": "Entre un policier et une passante.",
+        "C": "Entre un contrôleur et une passagère."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q9",
+      "version": 1,
+      "originalNo": 9,
+      "partId": "II",
+      "typeId": "dialogue",
+      "materialId": "listening-paper",
+      "text": "Que fera la femme probablement ?",
+      "options": {
+        "A": "Elle rentrera plus tard que l’homme.",
+        "B": "Elle fera les courses avec l’homme.",
+        "C": "Elle attendra l’homme pour dîner."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q10",
+      "version": 1,
+      "originalNo": 10,
+      "partId": "II",
+      "typeId": "dialogue",
+      "materialId": "listening-paper",
+      "text": "Qu’est-ce que l’homme conseille à la femme de faire ?",
+      "options": {
+        "A": "De passer moins de temps sur les réseaux sociaux.",
+        "B": "D’utiliser davantage les réseaux sociaux pour devenir journaliste.",
+        "C": "De ne plus accepter les demandes d’amis sur les réseaux sociaux."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q11",
+      "version": 1,
+      "originalNo": 11,
+      "partId": "II",
+      "typeId": "interview",
+      "materialId": "listening-paper",
+      "text": "Entre qui se déroule le dialogue ?",
+      "options": {
+        "A": "Entre deux gendarmes.",
+        "B": "Entre patron et employée.",
+        "C": "Entre deux amis."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q12",
+      "version": 1,
+      "originalNo": 12,
+      "partId": "II",
+      "typeId": "interview",
+      "materialId": "listening-paper",
+      "text": "Quand Gérard est-il parti en voyage ?",
+      "options": {
+        "A": "Mercredi.",
+        "B": "Vendredi.",
+        "C": "Dimanche."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q13",
+      "version": 1,
+      "originalNo": 13,
+      "partId": "II",
+      "typeId": "interview",
+      "materialId": "listening-paper",
+      "text": "Pourquoi a-t-il fini par quitter l’autoroute ?",
+      "options": {
+        "A": "Parce qu’il a préféré prendre le train.",
+        "B": "Parce qu’il y avait des embouteillages.",
+        "C": "Parce qu’on contrôlait les papiers sur l’autoroute."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q14",
+      "version": 1,
+      "originalNo": 14,
+      "partId": "II",
+      "typeId": "interview",
+      "materialId": "listening-paper",
+      "text": "Que s’est-il passé à Villefranche ?",
+      "options": {
+        "A": "On a arrêté toutes les voitures.",
+        "B": "Il y avait 15 km d’embouteillages.",
+        "C": "Les gendarmes se sont mis en grève."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q15",
+      "version": 1,
+      "originalNo": 15,
+      "partId": "II",
+      "typeId": "interview",
+      "materialId": "listening-paper",
+      "text": "Pendant combien de temps Gérard est-il resté à Villefranche ?",
+      "options": {
+        "A": "Plus d’une heure.",
+        "B": "Plus d’une demi-heure.",
+        "C": "Plus d’une heure et demie."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q16",
+      "version": 1,
+      "originalNo": 16,
+      "partId": "II",
+      "typeId": "interview",
+      "materialId": "listening-paper",
+      "text": "Qu’est-ce que les gendarmes ont demandé à Gérard de faire ?",
+      "options": {
+        "A": "De les suivre dans leur véhicule.",
+        "B": "De téléphoner à ses collègues.",
+        "C": "De remplir un questionnaire."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q17",
+      "version": 1,
+      "originalNo": 17,
+      "partId": "II",
+      "typeId": "interview",
+      "materialId": "listening-paper",
+      "text": "Pourquoi Lucie dit-elle que Gérard est un grand criminel ?",
+      "options": {
+        "A": "Parce qu’il a commis un crime pendant son voyage.",
+        "B": "Parce qu’un gendarme le lui a dit.",
+        "C": "Parce que Lucie veut se moquer de lui."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q18",
+      "version": 1,
+      "originalNo": 18,
+      "partId": "II",
+      "typeId": "interview",
+      "materialId": "listening-paper",
+      "text": "Qui est-ce que l’on a arrêté finalement ?",
+      "options": {
+        "A": "Le frère jumeau de Gérard.",
+        "B": "Un homme déguisé en gendarme.",
+        "C": "Un criminel qui ressemblait à Gérard."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q19",
+      "version": 1,
+      "originalNo": 19,
+      "partId": "II",
+      "typeId": "interview",
+      "materialId": "listening-paper",
+      "text": "Pourquoi un gendarme s’est-il mis à rire ?",
+      "options": {
+        "A": "Parce que Gérard lui a fait une plaisanterie.",
+        "B": "Parce que Gérard avait l’air stupéfait.",
+        "C": "Parce qu’on a pris Gérard pour une autre personne."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q20",
+      "version": 1,
+      "originalNo": 20,
+      "partId": "II",
+      "typeId": "interview",
+      "materialId": "listening-paper",
+      "text": "Pourquoi Gérard qualifie-t-il son voyage d’« incroyable » ?",
+      "options": {
+        "A": "Parce qu’il a joué le rôle d’un criminel dans un film.",
+        "B": "Parce qu’il croyait retrouver son frère jumeau.",
+        "C": "Parce qu’il a eu une aventure fâcheuse."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q21",
+      "version": 1,
+      "originalNo": 21,
+      "partId": "III",
+      "typeId": "synonym",
+      "materialId": null,
+      "text": "L’Académie a donné son [feu vert] à la féminisation de certains noms de métier.",
+      "options": {
+        "A": "permis",
+        "B": "avis",
+        "C": "soutien",
+        "D": "autorisation"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q22",
+      "version": 1,
+      "originalNo": 22,
+      "partId": "III",
+      "typeId": "synonym",
+      "materialId": null,
+      "text": "Grâce à ce programme de sports, ils pourront [se livrer à] leur sport favori.",
+      "options": {
+        "A": "s’intéresser à",
+        "B": "se tenir à",
+        "C": "se donner à",
+        "D": "s’attacher à"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q23",
+      "version": 1,
+      "originalNo": 23,
+      "partId": "III",
+      "typeId": "synonym",
+      "materialId": null,
+      "text": "L’institutrice [a fait preuve d’]une grande patience avec cet enfant difficile.",
+      "options": {
+        "A": "a montré",
+        "B": "a délivré",
+        "C": "a détaillé",
+        "D": "a éprouvé"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q24",
+      "version": 1,
+      "originalNo": 24,
+      "partId": "III",
+      "typeId": "synonym",
+      "materialId": null,
+      "text": "Le président [s’est engagé à] réduire le chômage.",
+      "options": {
+        "A": "a accepté de",
+        "B": "a souhaité",
+        "C": "a promis de",
+        "D": "s’est efforcé de"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q25",
+      "version": 1,
+      "originalNo": 25,
+      "partId": "III",
+      "typeId": "synonym",
+      "materialId": null,
+      "text": "Vos résultats [sont au-delà de] mes espérances.",
+      "options": {
+        "A": "dépassent",
+        "B": "sont à la hauteur de",
+        "C": "correspondent à",
+        "D": "déçoivent"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q26",
+      "version": 1,
+      "originalNo": 26,
+      "partId": "III",
+      "typeId": "antonym",
+      "materialId": null,
+      "text": "J’ai tout examiné, vos calculs sont [justes].",
+      "options": {
+        "A": "justifiés",
+        "B": "inappropriés",
+        "C": "inexacts",
+        "D": "exagérés"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q27",
+      "version": 1,
+      "originalNo": 27,
+      "partId": "III",
+      "typeId": "antonym",
+      "materialId": null,
+      "text": "On lui a préparé un cadeau [hors du commun] pour son mariage.",
+      "options": {
+        "A": "bon marché",
+        "B": "de qualité",
+        "C": "sur mesure",
+        "D": "banal"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q28",
+      "version": 1,
+      "originalNo": 28,
+      "partId": "III",
+      "typeId": "antonym",
+      "materialId": null,
+      "text": "Je viens juste de [renouveler] mon abonnement à ce magazine.",
+      "options": {
+        "A": "gérer",
+        "B": "(d’)annuler",
+        "C": "modifier",
+        "D": "payer"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q29",
+      "version": 1,
+      "originalNo": 29,
+      "partId": "III",
+      "typeId": "antonym",
+      "materialId": null,
+      "text": "Il [jette l’argent par les fenêtres] de sorte qu’il est réduit à la misère.",
+      "options": {
+        "A": "est généreux",
+        "B": "est dépensier",
+        "C": "est indiscret",
+        "D": "est économe"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q30",
+      "version": 1,
+      "originalNo": 30,
+      "partId": "III",
+      "typeId": "antonym",
+      "materialId": null,
+      "text": "Après avoir remporté la médaille d’or, elle [se réjouit de] sa victoire.",
+      "options": {
+        "A": "se plaint de",
+        "B": "se rappelle",
+        "C": "profite de",
+        "D": "se félicite de"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q31",
+      "version": 1,
+      "originalNo": 31,
+      "partId": "III",
+      "typeId": "cloze",
+      "materialId": "cloze-31",
+      "text": "第31空（见完整材料）",
+      "options": {
+        "A": "ces derniers",
+        "B": "toutes",
+        "C": "les seconds",
+        "D": "lesquelles"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q32",
+      "version": 1,
+      "originalNo": 32,
+      "partId": "III",
+      "typeId": "cloze",
+      "materialId": "cloze-31",
+      "text": "第32空（见完整材料）",
+      "options": {
+        "A": "à l’aise",
+        "B": "en sécurité",
+        "C": "en forme",
+        "D": "en confiance"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q33",
+      "version": 1,
+      "originalNo": 33,
+      "partId": "III",
+      "typeId": "cloze",
+      "materialId": "cloze-31",
+      "text": "第33空（见完整材料）",
+      "options": {
+        "A": "à",
+        "B": "en",
+        "C": "de",
+        "D": "dans"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q34",
+      "version": 1,
+      "originalNo": 34,
+      "partId": "III",
+      "typeId": "cloze",
+      "materialId": "cloze-31",
+      "text": "第34空（见完整材料）",
+      "options": {
+        "A": "commerciale",
+        "B": "occasionnelle",
+        "C": "quotidienne",
+        "D": "particulière"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q35",
+      "version": 1,
+      "originalNo": 35,
+      "partId": "III",
+      "typeId": "cloze",
+      "materialId": "cloze-31",
+      "text": "第35空（见完整材料）",
+      "options": {
+        "A": "couvre",
+        "B": "définit",
+        "C": "remplit",
+        "D": "sert"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q36",
+      "version": 1,
+      "originalNo": 36,
+      "partId": "III",
+      "typeId": "cloze",
+      "materialId": "cloze-31",
+      "text": "第36空（见完整材料）",
+      "options": {
+        "A": "réussie",
+        "B": "garantie",
+        "C": "atteinte",
+        "D": "réalisée"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q37",
+      "version": 1,
+      "originalNo": 37,
+      "partId": "III",
+      "typeId": "cloze",
+      "materialId": "cloze-31",
+      "text": "第37空（见完整材料）",
+      "options": {
+        "A": "autrement",
+        "B": "rarement",
+        "C": "en plus",
+        "D": "de plus en plus"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q38",
+      "version": 1,
+      "originalNo": 38,
+      "partId": "III",
+      "typeId": "cloze",
+      "materialId": "cloze-31",
+      "text": "第38空（见完整材料）",
+      "options": {
+        "A": "Certes",
+        "B": "En effet",
+        "C": "Cependant",
+        "D": "Sans doute"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q39",
+      "version": 1,
+      "originalNo": 39,
+      "partId": "III",
+      "typeId": "cloze",
+      "materialId": "cloze-31",
+      "text": "第39空（见完整材料）",
+      "options": {
+        "A": "permettre",
+        "B": "conseiller",
+        "C": "interdire",
+        "D": "promettre"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q40",
+      "version": 1,
+      "originalNo": 40,
+      "partId": "III",
+      "typeId": "cloze",
+      "materialId": "cloze-31",
+      "text": "第40空（见完整材料）",
+      "options": {
+        "A": "la majorité",
+        "B": "nombre",
+        "C": "beaucoup",
+        "D": "quantité"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q41",
+      "version": 1,
+      "originalNo": 41,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Les fraises coûtent 3,99 euros ____ kilo.",
+      "options": {
+        "A": "un",
+        "B": "chaque",
+        "C": "le",
+        "D": "tout"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q42",
+      "version": 1,
+      "originalNo": 42,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Bien qu’il ait fait ____ grands efforts, il a échoué au concours.",
+      "options": {
+        "A": "de",
+        "B": "des",
+        "C": "les",
+        "D": "/"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q43",
+      "version": 1,
+      "originalNo": 43,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Elle préfère les robes ____.",
+      "options": {
+        "A": "rose",
+        "B": "bleu ciel",
+        "C": "blancs",
+        "D": "oranges"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q44",
+      "version": 1,
+      "originalNo": 44,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Bien ____ gens ne sont pas satisfaits de leurs conditions d’habitation.",
+      "options": {
+        "A": "de",
+        "B": "des",
+        "C": "aux",
+        "D": "les"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q45",
+      "version": 1,
+      "originalNo": 45,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Au dîner, elle ne prend ____ viande ____ poisson.",
+      "options": {
+        "A": "pas de, pas",
+        "B": "pas de, ni",
+        "C": "ni de, ni",
+        "D": "ni, ni"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q46",
+      "version": 1,
+      "originalNo": 46,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Ayant étudié les mathématiques ____ 4 ans à l’université, je suis maintenant enseignant ____ 3 ans.",
+      "options": {
+        "A": "en, pour",
+        "B": "depuis, pour",
+        "C": "pendant, depuis",
+        "D": "depuis, pendant"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q47",
+      "version": 1,
+      "originalNo": 47,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Mes poissons viennent d’Indonésie. Et d’où viennent ____ ?",
+      "options": {
+        "A": "les nôtres",
+        "B": "les vôtres",
+        "C": "les tiennes",
+        "D": "le leur"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q48",
+      "version": 1,
+      "originalNo": 48,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "L’argent ne fait pas le bonheur mais il ____ contribue.",
+      "options": {
+        "A": "le",
+        "B": "en",
+        "C": "y",
+        "D": "lui"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q49",
+      "version": 1,
+      "originalNo": 49,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Il est nommé ____ une durée indéterminée au Quai d’Orsay.",
+      "options": {
+        "A": "dans",
+        "B": "pour",
+        "C": "en",
+        "D": "pendant"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q50",
+      "version": 1,
+      "originalNo": 50,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Le programme consiste ____ quatre sessions de formation couvrant huit thèmes différents.",
+      "options": {
+        "A": "en",
+        "B": "de",
+        "C": "à",
+        "D": "pour"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q51",
+      "version": 1,
+      "originalNo": 51,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Il parle souvent de son pays, loin ____ il s’ennuie.",
+      "options": {
+        "A": "de qui",
+        "B": "duquel",
+        "C": "dont",
+        "D": "d’où"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q52",
+      "version": 1,
+      "originalNo": 52,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Il faut faire la chambre ____ elle ne soit là.",
+      "options": {
+        "A": "après qu’",
+        "B": "en attendant qu’",
+        "C": "jusqu’à ce qu’",
+        "D": "avant qu’"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q53",
+      "version": 1,
+      "originalNo": 53,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "L’été dernier, j’ai visité un musée ____ le nom m’échappe pour l’instant.",
+      "options": {
+        "A": "que",
+        "B": "où",
+        "C": "dont",
+        "D": "d’où"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q54",
+      "version": 1,
+      "originalNo": 54,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Les bruits, ____ tout le monde, devenaient de plus en plus forts.",
+      "options": {
+        "A": "fatigant",
+        "B": "fatigants",
+        "C": "fatiguant",
+        "D": "fatiguent"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q55",
+      "version": 1,
+      "originalNo": 55,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "____ un heureux hasard, son directeur de mémoire est un grand amateur de science-fiction.",
+      "options": {
+        "A": "Pour",
+        "B": "À",
+        "C": "D’",
+        "D": "Par"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q56",
+      "version": 1,
+      "originalNo": 56,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Ils se sont ____ de leur erreur dès le premier clic.",
+      "options": {
+        "A": "aperçu",
+        "B": "aperçus",
+        "C": "réalisés",
+        "D": "réalisé"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q57",
+      "version": 1,
+      "originalNo": 57,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Les cinq kilomètres que Magie ____ l’ont épuisée.",
+      "options": {
+        "A": "a couru",
+        "B": "a courus",
+        "C": "est couru",
+        "D": "est courue"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q58",
+      "version": 1,
+      "originalNo": 58,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Je n’ai jamais trouvé ____ de plus sérieux qu’elle.",
+      "options": {
+        "A": "aucune",
+        "B": "personne",
+        "C": "nul",
+        "D": "rien"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q59",
+      "version": 1,
+      "originalNo": 59,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Personne ne sait ____ est devenu mon oncle.",
+      "options": {
+        "A": "ce qu’",
+        "B": "ce qui",
+        "C": "celui qu’",
+        "D": "celui qui"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q60",
+      "version": 1,
+      "originalNo": 60,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "J’aime les fruits rouges ____ que la fraise, la framboise et la cerise.",
+      "options": {
+        "A": "tel",
+        "B": "tels",
+        "C": "telles",
+        "D": "telle"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q61",
+      "version": 1,
+      "originalNo": 61,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "La montée du chômage a déterminé le gouvernement ____ prendre des mesures de réforme.",
+      "options": {
+        "A": "à",
+        "B": "de",
+        "C": "en",
+        "D": "pour"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q62",
+      "version": 1,
+      "originalNo": 62,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Voici ____ un jeune talent devrait ressembler.",
+      "options": {
+        "A": "ce qu’",
+        "B": "qu’est-ce qu’",
+        "C": "ce dont",
+        "D": "ce à quoi"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q63",
+      "version": 1,
+      "originalNo": 63,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "La jeune femme est ____ heureuse d’avoir obtenu son diplôme avec mention « très honorable ».",
+      "options": {
+        "A": "tout",
+        "B": "tous",
+        "C": "toute",
+        "D": "toutes"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q64",
+      "version": 1,
+      "originalNo": 64,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Il est peu probable qu’elle ____.",
+      "options": {
+        "A": "réussira",
+        "B": "a réussi",
+        "C": "réussisse",
+        "D": "réussit"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q65",
+      "version": 1,
+      "originalNo": 65,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Il s’est dépêché de monter dans le bus, comme s’il ____.",
+      "options": {
+        "A": "ne me voie pas",
+        "B": "ne m’a pas vu",
+        "C": "ne me verrait pas",
+        "D": "ne m’avait pas vu"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q66",
+      "version": 1,
+      "originalNo": 66,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "____ un vent très fort, il est sorti se promener.",
+      "options": {
+        "A": "À cause d’",
+        "B": "Vu",
+        "C": "Malgré",
+        "D": "Faute d’"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q67",
+      "version": 1,
+      "originalNo": 67,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "____ il soit, il doit respecter les autres.",
+      "options": {
+        "A": "Quoi qu’",
+        "B": "Qui qu’",
+        "C": "Quelqu’",
+        "D": "Quel qu’"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q68",
+      "version": 1,
+      "originalNo": 68,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Tu n’as vraiment pas de ____.",
+      "options": {
+        "A": "raison",
+        "B": "faim",
+        "C": "sommeil",
+        "D": "chance"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q69",
+      "version": 1,
+      "originalNo": 69,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Tu auras ____ attendre, il ne voudra pas te voir.",
+      "options": {
+        "A": "beau",
+        "B": "belle",
+        "C": "bien",
+        "D": "bon"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q70",
+      "version": 1,
+      "originalNo": 70,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "J’ai dû perdre dans cette affaire ____ deux mille euros.",
+      "options": {
+        "A": "quelque",
+        "B": "quelques",
+        "C": "plusieurs",
+        "D": "plus"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q71",
+      "version": 1,
+      "originalNo": 71,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "C’est à madame Dubois ____ vous devez vous adresser.",
+      "options": {
+        "A": "laquelle",
+        "B": "que",
+        "C": "qui",
+        "D": "à qui"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q72",
+      "version": 1,
+      "originalNo": 72,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "C’était l’hiver : tout le territoire du Nord était couvert ____ neige.",
+      "options": {
+        "A": "de",
+        "B": "de la",
+        "C": "par",
+        "D": "en"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q73",
+      "version": 1,
+      "originalNo": 73,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Il faut être prudent, je ne confierai pas les clés de mon appartement à ____.",
+      "options": {
+        "A": "personne",
+        "B": "n’importe qui",
+        "C": "nul autre",
+        "D": "quelconque"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q74",
+      "version": 1,
+      "originalNo": 74,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Devant les inconnus, elle se sent toujours gênée, mais moi, je ne ____ suis pas.",
+      "options": {
+        "A": "(n’)en",
+        "B": "la",
+        "C": "le",
+        "D": "(n’)y"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q75",
+      "version": 1,
+      "originalNo": 75,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "— Est-ce que je pourrais dire cela à mes amis ? — ____.",
+      "options": {
+        "A": "Oui, parle-lui-en.",
+        "B": "Non, ne leur en parle pas.",
+        "C": "Oui, dis-la-leur.",
+        "D": "Non, ne le lui dis pas."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q76",
+      "version": 1,
+      "originalNo": 76,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Ce soir, elle est ____ fatiguée qu’elle est rentrée du bureau à pied.",
+      "options": {
+        "A": "tellement",
+        "B": "très",
+        "C": "trop",
+        "D": "d’autant plus"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q77",
+      "version": 1,
+      "originalNo": 77,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Il gagnera le Tour de France ____ il n’y ait pas d’incident imprévu.",
+      "options": {
+        "A": "à condition qu’",
+        "B": "de crainte qu’",
+        "C": "à moins qu’",
+        "D": "sinon qu’"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q78",
+      "version": 1,
+      "originalNo": 78,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Elle se doutait bien que je ____ le lendemain.",
+      "options": {
+        "A": "n’irais pas",
+        "B": "n’y vais pas",
+        "C": "n’y aille pas",
+        "D": "n’irai pas"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q79",
+      "version": 1,
+      "originalNo": 79,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Si tu étais venu chez moi hier soir, tu ____ Maria.",
+      "options": {
+        "A": "rencontrerais",
+        "B": "avais rencontré",
+        "C": "auras rencontré",
+        "D": "aurais rencontré"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q80",
+      "version": 1,
+      "originalNo": 80,
+      "partId": "IV",
+      "typeId": "grammar-choice",
+      "materialId": null,
+      "text": "Il m’a dit qu’il serait de retour ____.",
+      "options": {
+        "A": "dans huit jours",
+        "B": "il y a une semaine",
+        "C": "trois jours plus tard",
+        "D": "hier"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q81",
+      "version": 1,
+      "originalNo": 81,
+      "partId": "VI",
+      "typeId": "reading",
+      "materialId": "reading-81",
+      "text": "Quel est le but de cette campagne de sensibilisation ?",
+      "options": {
+        "A": "Combattre les préjugés liés aux nationalités.",
+        "B": "Mieux connaître les pays d’Europe.",
+        "C": "Échanger des idées et se faire des amis.",
+        "D": "Éliminer les stéréotypes sur la France."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q82",
+      "version": 1,
+      "originalNo": 82,
+      "partId": "VI",
+      "typeId": "reading",
+      "materialId": "reading-81",
+      "text": "Quel préjugé associe-t-on aux Italiens ?",
+      "options": {
+        "A": "Les Italiens ont tendance à tout critiquer.",
+        "B": "Les Italiens parlent toujours à haute voix.",
+        "C": "Les Italiens adorent voyager seuls.",
+        "D": "Les femmes italiennes restent souvent au foyer."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q83",
+      "version": 1,
+      "originalNo": 83,
+      "partId": "VI",
+      "typeId": "reading",
+      "materialId": "reading-81",
+      "text": "Concernant les Français, qu’est-ce qui est vrai selon le texte ?",
+      "options": {
+        "A": "Les étrangers ont peu de préjugés sur les Français.",
+        "B": "On dit que les Français donnent souvent l’impression d’être arrogants.",
+        "C": "Les Français ont beaucoup de préjugés sur les gens de différentes nationalités.",
+        "D": "Les Français ont plus de préjugés sur les pays africains que sur les pays asiatiques."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q84",
+      "version": 1,
+      "originalNo": 84,
+      "partId": "VI",
+      "typeId": "reading",
+      "materialId": "reading-81",
+      "text": "Dans le texte, quel type de stéréotypes n’est pas mentionné ?",
+      "options": {
+        "A": "Le stéréotype sur les habitudes de voyages.",
+        "B": "Le stéréotype sur les habitudes alimentaires.",
+        "C": "Le stéréotype sur les préférences sportives.",
+        "D": "Le stéréotype sur les modèles familiaux."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q85",
+      "version": 1,
+      "originalNo": 85,
+      "partId": "VI",
+      "typeId": "reading",
+      "materialId": "reading-81",
+      "text": "Quelles activités sont prévues pour cette campagne de sensibilisation ?",
+      "options": {
+        "A": "Débats et atelier.",
+        "B": "Conférences et spectacles.",
+        "C": "Publicités à la télé et débats.",
+        "D": "Expositions de photos et soirées d’accueil."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q86",
+      "version": 1,
+      "originalNo": 86,
+      "partId": "VI",
+      "typeId": "reading",
+      "materialId": "reading-86",
+      "text": "En 2008, ____ sont nés dans une famille bilingue en France.",
+      "options": {
+        "A": "5 bébés",
+        "B": "50% des bébés",
+        "C": "20% des bébés",
+        "D": "25% des bébés"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q87",
+      "version": 1,
+      "originalNo": 87,
+      "partId": "VI",
+      "typeId": "reading",
+      "materialId": "reading-86",
+      "text": "Concernant les étapes de l’apprentissage de langues, laquelle des affirmations suivantes ne correspond pas au texte ?",
+      "options": {
+        "A": "Tous les enfants n’ont pas le même rythme.",
+        "B": "Les enfants font du babillage vers deux mois.",
+        "C": "Les enfants disent leurs premiers mots entre 11 et 13 mois.",
+        "D": "Les étapes sont les mêmes pour les monolingues et les bilingues."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q88",
+      "version": 1,
+      "originalNo": 88,
+      "partId": "VI",
+      "typeId": "reading",
+      "materialId": "reading-86",
+      "text": "Un enfant bilingue de 24 mois ____.",
+      "options": {
+        "A": "subit une surcharge mentale",
+        "B": "a du retard dans l’apprentissage de langues",
+        "C": "acquiert une cinquantaine de mots répartis entre deux langues",
+        "D": "acquiert une cinquantaine de mots dans chacune des deux langues"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q89",
+      "version": 1,
+      "originalNo": 89,
+      "partId": "VI",
+      "typeId": "reading",
+      "materialId": "reading-86",
+      "text": "Pourquoi la linguiste affirme-t-elle que rien ne sert de prendre une nounou anglophone pendant un an ?",
+      "options": {
+        "A": "Parce qu’il est inutile de commencer tôt l’apprentissage d’une langue.",
+        "B": "Parce que le bébé oublie vite une langue appris s’il perd le contact avec cette langue.",
+        "C": "Parce que l’anglais ne s’apprend pas de la même manière que les autres langues.",
+        "D": "Parce que l’apprentissage d’une deuxième langue provoquera une surcharge pour le cerveau."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q90",
+      "version": 1,
+      "originalNo": 90,
+      "partId": "VI",
+      "typeId": "reading",
+      "materialId": "reading-86",
+      "text": "Selon le texte, laquelle des affirmations suivantes est vraie ?",
+      "options": {
+        "A": "Les gens ne classent pas les langues de la même manière.",
+        "B": "Parler anglais est un atout mais parler arabe est un handicap.",
+        "C": "Il suffit d’exposer un enfant à une langue pour qu’il la maîtrise.",
+        "D": "Les enfants acquièrent deux langues dans deux zones différentes du cerveau."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q91",
+      "version": 1,
+      "originalNo": 91,
+      "partId": "VI",
+      "typeId": "reading",
+      "materialId": "reading-91",
+      "text": "Le texte vise à ____.",
+      "options": {
+        "A": "remettre en cause la pensée positive",
+        "B": "faire un bilan annuel de la conquête spatiale",
+        "C": "attirer l’attention du public sur les crises écologiques",
+        "D": "rappeler aux lecteurs que les bonnes nouvelles ne manquent pas"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q92",
+      "version": 1,
+      "originalNo": 92,
+      "partId": "VI",
+      "typeId": "reading",
+      "materialId": "reading-91",
+      "text": "Si les Français ont repris goût aux livres, c’est probablement parce que (qu’) ____.",
+      "options": {
+        "A": "les prix des livres ont beaucoup baissé",
+        "B": "il a été plus facile d’acheter des livres en ligne",
+        "C": "ils ont eu plus de temps libre pendant le confinement",
+        "D": "ils ont voulu soulager leur anxiété face aux crises économiques"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q93",
+      "version": 1,
+      "originalNo": 93,
+      "partId": "VI",
+      "typeId": "reading",
+      "materialId": "reading-91",
+      "text": "L’un des objectifs de développement durable de l’ONU pour 2030 consiste à ____.",
+      "options": {
+        "A": "éliminer la pauvreté en Chine",
+        "B": "lutter contre l’extrême pauvreté dans le monde",
+        "C": "augmenter les revenus de la population mondiale",
+        "D": "éliminer l’extrême pauvreté dans le monde avec 10 ans d’avance"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q94",
+      "version": 1,
+      "originalNo": 94,
+      "partId": "VI",
+      "typeId": "reading",
+      "materialId": "reading-91",
+      "text": "Quel progrès a été enregistré dans la conquête spatiale ?",
+      "options": {
+        "A": "Quatre touristes ont fait leur premier voyage spatial.",
+        "B": "Paker Solar Probe est un robot très résistant aux rayons du soleil.",
+        "C": "Des traces dans le sol de la Lune ont été prises en photo par Tianwen-1.",
+        "D": "Paker Solar Probe s’est posée sur Mars pour recueillir des données importantes."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q95",
+      "version": 1,
+      "originalNo": 95,
+      "partId": "VI",
+      "typeId": "reading",
+      "materialId": "reading-91",
+      "text": "Laquelle des affirmations suivantes correspond au texte ?",
+      "options": {
+        "A": "Les pandas sont toujours une espèce en voie d’extinction.",
+        "B": "Le nombre des baleines bleues observées n’a pas augmenté.",
+        "C": "Orca est l’usine la plus polluante au monde.",
+        "D": "La chasse commerciale des baleines bleues a été interdite."
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q96",
+      "version": 1,
+      "originalNo": 96,
+      "partId": "VI",
+      "typeId": "reading",
+      "materialId": "reading-96",
+      "text": "« Une feuille de chou » désigne ____.",
+      "options": {
+        "A": "un journal dont la qualité des informations est mauvaise",
+        "B": "un journal dont le prix n’est pas élevé",
+        "C": "un journal qui a une bonne réputation",
+        "D": "un journal mal imprimé"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q97",
+      "version": 1,
+      "originalNo": 97,
+      "partId": "VI",
+      "typeId": "reading",
+      "materialId": "reading-96",
+      "text": "Au XIXe siècle, le chou était ____.",
+      "options": {
+        "A": "un légume saisonnier",
+        "B": "un légume très rare",
+        "C": "un légume commun et peu cher",
+        "D": "un légume consommé uniquement par la population rurale"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q98",
+      "version": 1,
+      "originalNo": 98,
+      "partId": "VI",
+      "typeId": "reading",
+      "materialId": "reading-96",
+      "text": "Au XVIIIe siècle, « canard » désignait ____.",
+      "options": {
+        "A": "les fausses informations répandues par la presse",
+        "B": "un journal de mauvaise qualité",
+        "C": "un journal méconnu",
+        "D": "un journal ironique"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q99",
+      "version": 1,
+      "originalNo": 99,
+      "partId": "VI",
+      "typeId": "reading",
+      "materialId": "reading-96",
+      "text": "Le Canard enchaîné ____.",
+      "options": {
+        "A": "se focalise sur les faits divers",
+        "B": "est peu sérieux mais populaire",
+        "C": "est connu pour les fausses nouvelles qu’il publie",
+        "D": "est un journal indépendant qui revendique la liberté d’expression"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    },
+    {
+      "id": "q100",
+      "version": 1,
+      "originalNo": 100,
+      "partId": "VI",
+      "typeId": "reading",
+      "materialId": "reading-96",
+      "text": "Selon le texte, l’« ours » ____.",
+      "options": {
+        "A": "est un jargon anglais",
+        "B": "est un logo de journal",
+        "C": "désigne toute l’équipe d’un journal",
+        "D": "désigne toutes les informations publiées dans un journal"
+      },
+      "answer": {
+        "value": null,
+        "evidence": null,
+        "status": "missing_reference"
+      },
+      "explanation": null,
+      "classification": null
+    }
+  ]
+}

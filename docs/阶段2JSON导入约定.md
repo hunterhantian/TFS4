@@ -1,10 +1,10 @@
 # 阶段2 JSON导入约定与1.6生产证据
 
-**版本范围：** 下文schemaVersion=2和接口描述当前代码，尚未包含强制最佳OCR、全量校对、修订和机器执行者证明。产品/技术/清单已升级1.6，完整设计见[Stage2机器主导题库生产流程](Stage2机器主导题库生产流程.md)。本轮仅更新设计，不改接口或向v2塞入未支持字段。
+**版本范围：** 下文schemaVersion=2和接口描述当前代码，上游OCR、全量校对和机器证据现已由本机独立旁挂记录支持。产品/技术/清单已升级1.6，完整设计见[Stage2机器主导题库生产流程](Stage2机器主导题库生产流程.md)。生产证据不混入候选对象；由受控本机脚本核验并写入独立表。
 
-## 1.6待实现的上游生产记录
+## 1.6上游生产记录
 
-原始资料先分年分卷，所有文档强制Best OCR，助手全量校对修订，再保存整理JSON和导入对象。已有文字层不跳过，原始OCR文字不是最终JSON。旁挂manifest记录来源/页码映射、工具/模式/模型/语言/DPI/哈希、全量校对覆盖、逐项修订、执行者AI、问题及各阶段状态；当前v2对象继续兼容，服务端质量门和新状态需后续实现。
+原始资料先分年分卷，所有文档强制Best OCR，助手全量校对修订，再保存整理JSON和导入对象。已有文字层不跳过，原始OCR文字不是最终JSON。旁挂manifest记录来源/页码映射、工具/模式/模型/语言/DPI/哈希、全量校对覆盖、逐项修订、执行者AI、问题及各阶段状态；当前v2对象继续兼容，本轮2023/2024已接入服务端证据校验，保留机器校对与用户确认独立状态。
 
 原始OCR、proofread.json、修订清单、import-v2.json各自存档并关联。用户指定参考答案和原始资料保留；AI建议与正式依据区分，缺答案的校对草稿不以假A填充现有必填字段。机器质量门通过后可记录机器校对通过，用户只需可选整批确认/退回；不得把一次人工内容通过写成Best及全量校对已完成。
 
@@ -30,7 +30,7 @@
 
 题目字段为id、version、originalNo、partId、typeId、materialId（允许null）、text、options（2–4个A–D非空选项）、answer、explanation、classification。
 
-answer为`{value,evidence}`，evidence为`{documentId,location,quote}`，必须指向answers资料。explanation为null或相同证据结构，必须指向explanations资料。分类为空可入候选，但给出缺失解析警告；有分类时必须有解析。
+有参考答案时answer为`{value,evidence}`，evidence为`{documentId,location,quote}`，必须指向answers资料。explanation为null或相同证据结构，必须指向explanations资料。分类为空可入候选，但给出缺失解析警告；有分类时必须有解析。
 
 classification为null或`{primaryId,auxiliaryIds,basis,producer}`。主辅考点必须存在且不重复，basis保留提取理由，producer记载外部AI/人工生成来源。来源声明仅作为候选输入，不会因此获得审核状态。
 
@@ -72,3 +72,10 @@ classification为null或`{primaryId,auxiliaryIds,basis,producer}`。主辅考点
 - 原`.../review`、`.../confirm-documents`、`.../publish`保留为AI关联维护接口；来源和分类依据校验只在关联流程生效。关联发布还要求题目内容已通过。
 - 外部AI只改分类生成新版本时，继承未变化内容的审核结果，关联审核和来源确认仍不继承；一般完整JSON修订不自动继承内容审核。
 - 增量迁移005只新增内容审核表，不把旧关联审核记录冒充成内容审核，不修改原题、基础存档及已有确认记录。
+
+
+## 2023/2024缺参考答案与生产证据扩展
+
+缺参考资料时answer允许`{value:null,evidence:null,status:"missing_reference"}`；非空伪造值拒绝。返回MISSING_REFERENCE_ANSWER警告，内容审核和已审核题库正常展示，AI关联通过及发布拒绝。解析仍为null并提示待补。
+
+`GET /api/admin/bank/batches/:id/content`新增production，可为空或可信本机生产摘要。迁移006的bank_production_evidence按import_id保存不可覆盖证据；普通JSON上传不能授予生产状态。本机脚本`scripts/import-proofread-batches.mjs`核验实际原件、页图、OCR输出、候选文件哈希，逐页/逐题覆盖及材料页码后，备份并事务导入；重复执行幂等。听力原文、翻译、音频不进入本轮生产输入。详见[2023/2024题库准备与验收](2023-2024题库准备与验收.md)。

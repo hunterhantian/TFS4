@@ -1,0 +1,21 @@
+{
+  "passed": 15,
+  "checks": [
+    "2023: 100 questions visible",
+    "2023: proofread evidence shown",
+    "2023: no fabricated answer displayed",
+    "2023: complete reading material retained",
+    "2023: bulk content approval works without answers/association",
+    "2024: 100 questions visible",
+    "2024: proofread evidence shown",
+    "2024: no fabricated answer displayed",
+    "2024: complete reading material retained",
+    "2024: bulk content approval works without answers/association",
+    "content review never creates association approval",
+    "content review never publishes associations",
+    "approved library safely displays missing answer",
+    "mobile has no horizontal overflow",
+    "no browser runtime errors"
+  ],
+  "errors": []
+}

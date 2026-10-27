@@ -60,7 +60,12 @@ export function validateBankImport(value){
   const part=collections.parts.get(q.partId);
   if(!part||!collections.types.has(q.typeId))error(p,'UNKNOWN_TAXONOMY','Part或题型不存在');
   if(!object(q.options)||Object.keys(q.options).length<2||Object.keys(q.options).length>4||Object.entries(q.options).some(([k,v])=>!['A','B','C','D'].includes(k)||!text(v)))error(p+'.options','INVALID_OPTIONS','需要2至4个非空选项');
-  if(fields(q.answer,p+'.answer',['value','evidence'])){if(!object(q.options)||!Object.hasOwn(q.options,q.answer.value))error(p+'.answer','INVALID_ANSWER','答案不对应选项');evidence(q.answer.evidence,p+'.answer.evidence','answers');}
+  if(fields(q.answer,p+'.answer',['value','evidence','status'],['value','evidence'])){
+   if(q.answer.status==='missing_reference'){
+    if(q.answer.value!==null||q.answer.evidence!==null)error(p+'.answer','INVALID_MISSING_ANSWER','缺参考答案时值与依据须明确为空');
+    warnings.push({path:p+'.answer',code:'MISSING_REFERENCE_ANSWER',message:'缺参考答案：可审核题面，不用于正式判分或关联发布'});
+   }else{if(q.answer.status!==undefined)error(p+'.answer.status','INVALID_ANSWER_STATUS','未知答案状态');if(!object(q.options)||!Object.hasOwn(q.options,q.answer.value))error(p+'.answer','INVALID_ANSWER','答案不对应选项');evidence(q.answer.evidence,p+'.answer.evidence','answers');}
+  }
   if(q.explanation!==null)evidence(q.explanation,p+'.explanation','explanations');
   else warnings.push({path:p+'.explanation',code:'MISSING_EXPLANATION',message:'缺少解析，不能发布知识点关联'});
   if(q.materialId!==null&&!collections.materials.has(q.materialId))error(p+'.materialId','UNKNOWN_MATERIAL','材料不存在');

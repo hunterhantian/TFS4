@@ -1,0 +1,1 @@
+CREATE TABLE bank_production_evidence(import_id TEXT PRIMARY KEY REFERENCES bank_imports(id),manifest_sha256 TEXT NOT NULL,payload TEXT NOT NULL,created_by TEXT NOT NULL REFERENCES users(id),created_at TEXT NOT NULL);

@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-27",
+  "browser": "Chromium / installed Chrome headless",
+  "scope": "isolated temporary database; synthetic approvals only; no production access",
+  "checks": [
+    "2025 real candidate imports 100 questions",
+    "20 listening explanation gaps shown",
+    "answer discrepancy filter isolates question52",
+    "reference answer discrepancy is visible",
+    "unconfirmed explanation cannot approve",
+    "missing explanation filter has20 listening items",
+    "changing filter clears selection",
+    "formal grammar Part has40 questions",
+    "official explanation location is available",
+    "candidate review fits390px mobile",
+    "batch approves only selected synthetic questions",
+    "return reason preserved",
+    "publish one synthetic source only",
+    "published candidate is read only",
+    "external AI import creates new version with pending status",
+    "logout clears candidate data",
+    "ordinary users cannot open review UI",
+    "ordinary users cannot read candidate answers",
+    "report shows other published same-type same-primary question",
+    "report keeps a single expanded question",
+    "related query follows question switch",
+    "closing detail removes related content",
+    "no page script errors"
+  ],
+  "errors": []
+}

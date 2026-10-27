@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-27",
+  "files": [
+    {
+      "name": "2025年法语专四真题.pdf",
+      "role": "paper-baseline",
+      "bytes": 11919661,
+      "sha256": "49e21d43d3e63f2f98270eb49b46ef5e419f497945576c4d1381e3b4b2b3119f"
+    },
+    {
+      "name": "2025年法语专四真题.pdf",
+      "role": "paper",
+      "bytes": 11920020,
+      "sha256": "13582936c94d2642e3200911d56434ec483451fd94f60bc260d52f6f3903d9e5"
+    },
+    {
+      "name": "2025专四真题答案.pdf",
+      "role": "answers",
+      "bytes": 184276,
+      "sha256": "61a764af553e0fa0900e5d36705bb0ef59b795ef289ec1221ccd27fc3f925f45"
+    },
+    {
+      "name": "2025年法语专四真题解析.pdf",
+      "role": "explanations",
+      "bytes": 8383408,
+      "sha256": "c0326bcac00956fb20f816fce9daec9f3a78f11d258665ff86d61109fd15637d"
+    },
+    {
+      "name": "2025法语专四听力原声音频.mp3",
+      "role": "audio",
+      "bytes": 21925974,
+      "sha256": "ff89a0410d8984f8f861bf72d285ceafd016e140ec64732765e390668ea6d51f"
+    }
+  ],
+  "paperComparison": [
+    {
+      "page": 1,
+      "pixelsEqualAtScale1200": true,
+      "baselineRenderSha256": "eb0eb6f260681a55af957dfbaaccf493ac4e90f2efe6a6b89cbd8506217e0214",
+      "stage2RenderSha256": "eb0eb6f260681a55af957dfbaaccf493ac4e90f2efe6a6b89cbd8506217e0214"
+    },
+    {
+      "page": 2,
+      "pixelsEqualAtScale1200": true,
+      "baselineRenderSha256": "731d9cea1f4999a4b523a3d275fa7ad31dcba283bd413a0d6471dc0e9990fc07",
+      "stage2RenderSha256": "731d9cea1f4999a4b523a3d275fa7ad31dcba283bd413a0d6471dc0e9990fc07"
+    },
+    {
+      "page": 3,
+      "pixelsEqualAtScale1200": true,
+      "baselineRenderSha256": "725372caf9b5aeecee29bf39de794cfc24eb4eec27eecb2e8f0a9197151a671e",
+      "stage2RenderSha256": "725372caf9b5aeecee29bf39de794cfc24eb4eec27eecb2e8f0a9197151a671e"
+    },
+    {
+      "page": 4,
+      "pixelsEqualAtScale1200": true,
+      "baselineRenderSha256": "e78ceab0d6ecef6ab3ff15f25700608f796de0256230abbb3b14ccd4269819a4",
+      "stage2RenderSha256": "e78ceab0d6ecef6ab3ff15f25700608f796de0256230abbb3b14ccd4269819a4"
+    },
+    {
+      "page": 5,
+      "pixelsEqualAtScale1200": true,
+      "baselineRenderSha256": "019c51a94d5e5ac790d1ecd22b4238f9fa9a9656410663eef84001d95e583b69",
+      "stage2RenderSha256": "019c51a94d5e5ac790d1ecd22b4238f9fa9a9656410663eef84001d95e583b69"
+    },
+    {
+      "page": 6,
+      "pixelsEqualAtScale1200": true,
+      "baselineRenderSha256": "1836b2a0ea808bf00e402ac0e36da21f98f1e32a236c56c36fe971aca9a3c5fc",
+      "stage2RenderSha256": "1836b2a0ea808bf00e402ac0e36da21f98f1e32a236c56c36fe971aca9a3c5fc"
+    },
+    {
+      "page": 7,
+      "pixelsEqualAtScale1200": true,
+      "baselineRenderSha256": "9181ad1c7a174540ca4b12dbf7a78aa3fc74c8cdfbe619008339c95cfa5a89a2",
+      "stage2RenderSha256": "9181ad1c7a174540ca4b12dbf7a78aa3fc74c8cdfbe619008339c95cfa5a89a2"
+    },
+    {
+      "page": 8,
+      "pixelsEqualAtScale1200": true,
+      "baselineRenderSha256": "a3235b4cd137ab314e7e6e19ca4ec6dbcf5ab5d148ba588d0c36388df9e5d253",
+      "stage2RenderSha256": "a3235b4cd137ab314e7e6e19ca4ec6dbcf5ab5d148ba588d0c36388df9e5d253"
+    },
+    {
+      "page": 9,
+      "pixelsEqualAtScale1200": true,
+      "baselineRenderSha256": "3be1432cc8965e30379cc04092e15aeeb8319345b3103a0d1247365462b778ec",
+      "stage2RenderSha256": "3be1432cc8965e30379cc04092e15aeeb8319345b3103a0d1247365462b778ec"
+    },
+    {
+      "page": 10,
+      "pixelsEqualAtScale1200": true,
+      "baselineRenderSha256": "1701769b7ee740e9a9dacaf18e10d7416b812d8e33a434476d747fe5a7d94c50",
+      "stage2RenderSha256": "1701769b7ee740e9a9dacaf18e10d7416b812d8e33a434476d747fe5a7d94c50"
+    },
+    {
+      "page": 11,
+      "pixelsEqualAtScale1200": true,
+      "baselineRenderSha256": "09e55d6ec5b97702830056bdccd0777c9220f2919ac6a4e2b2d6dcdbd04d5828",
+      "stage2RenderSha256": "09e55d6ec5b97702830056bdccd0777c9220f2919ac6a4e2b2d6dcdbd04d5828"
+    },
+    {
+      "page": 12,
+      "pixelsEqualAtScale1200": true,
+      "baselineRenderSha256": "555d6b7683f790729a8acacde2bdabdaf580cf37a36960b362183386c1de3d83",
+      "stage2RenderSha256": "555d6b7683f790729a8acacde2bdabdaf580cf37a36960b362183386c1de3d83"
+    },
+    {
+      "page": 13,
+      "pixelsEqualAtScale1200": true,
+      "baselineRenderSha256": "17701760406356258e5624cdbebe9e5dd09113f520069184179bfe58bb8dd45a",
+      "stage2RenderSha256": "17701760406356258e5624cdbebe9e5dd09113f520069184179bfe58bb8dd45a"
+    },
+    {
+      "page": 14,
+      "pixelsEqualAtScale1200": true,
+      "baselineRenderSha256": "0225d989ba4afea666aa439906ec5281766f72407acc76a2dad787547a503b3f",
+      "stage2RenderSha256": "0225d989ba4afea666aa439906ec5281766f72407acc76a2dad787547a503b3f"
+    },
+    {
+      "page": 15,
+      "pixelsEqualAtScale1200": true,
+      "baselineRenderSha256": "ba393f6b0d5cdfd18505d9dff64b3cb026df0311f944263a889d12c5d92e801e",
+      "stage2RenderSha256": "ba393f6b0d5cdfd18505d9dff64b3cb026df0311f944263a889d12c5d92e801e"
+    },
+    {
+      "page": 16,
+      "pixelsEqualAtScale1200": true,
+      "baselineRenderSha256": "f2a9a4e972b4956f3b8e810372735c4a798b1f09aef0593f52fd9f08dd29b0e0",
+      "stage2RenderSha256": "f2a9a4e972b4956f3b8e810372735c4a798b1f09aef0593f52fd9f08dd29b0e0"
+    },
+    {
+      "page": 17,
+      "pixelsEqualAtScale1200": true,
+      "baselineRenderSha256": "6478f394cd78c068b570d59d42f40e864a6daa6a2e6a9b84cc8810924ef9c393",
+      "stage2RenderSha256": "6478f394cd78c068b570d59d42f40e864a6daa6a2e6a9b84cc8810924ef9c393"
+    },
+    {
+      "page": 18,
+      "pixelsEqualAtScale1200": true,
+      "baselineRenderSha256": "648c8671ab2f4e01df85305eab83c41d64f32a3f7251fcaa21335b82686a4503",
+      "stage2RenderSha256": "648c8671ab2f4e01df85305eab83c41d64f32a3f7251fcaa21335b82686a4503"
+    }
+  ],
+  "paperComparisonScope": "18页逐页Poppler渲染，最长边1200像素，RGB像素比较；不宣称PDF字节或高分辨率完全相同",
+  "questions": 100,
+  "answersMatchReference": 100,
+  "reference61": "A",
+  "reference62": "B",
+  "explanations": 80,
+  "missingExplanationQuestionNos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "candidateClassifications": 80,
+  "reviewedClassifications": 0,
+  "explanationAnswerConflicts": [
+    {
+      "questionNo": 52,
+      "reference": "A",
+      "explanationClaims": [
+        "B"
+      ],
+      "resolution": "保留指定参考答案；解析措辞人工复核，候选不自动发布"
+    }
+  ],
+  "officialExplanationProvenance": "unconfirmed; not inferred from filename",
+  "groupSizes": {
+    "listening-2025": 20,
+    "cloze-31": 10,
+    "reading-81": 5,
+    "reading-86": 5,
+    "reading-91": 5,
+    "reading-96": 5
+  }
+}

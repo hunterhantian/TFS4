@@ -65,6 +65,8 @@ export function validateBankImport(value){
   else warnings.push({path:p+'.explanation',code:'MISSING_EXPLANATION',message:'缺少解析，不能发布知识点关联'});
   if(q.materialId!==null&&!collections.materials.has(q.materialId))error(p+'.materialId','UNKNOWN_MATERIAL','材料不存在');
   if(['reading','listening'].includes(part?.component)&&q.materialId===null)error(p+'.materialId','MATERIAL_REQUIRED','阅读、听力须保留材料');
+  const material=collections.materials.get(q.materialId);
+  if(material&&((part?.component==='reading'&&material.kind!=='reading')||(part?.component==='listening'&&material.kind!=='listening')))error(p+'.materialId','MATERIAL_KIND_MISMATCH','阅读、听力的材料种类须匹配分项');
   if(q.classification!==null&&fields(q.classification,p+'.classification',['primaryId','auxiliaryIds','basis','producer'])){
    const c=q.classification;
    if(!collections.knowledgePoints.has(c.primaryId)||!Array.isArray(c.auxiliaryIds)||new Set(c.auxiliaryIds).size!==c.auxiliaryIds.length||c.auxiliaryIds.some(x=>x===c.primaryId||!collections.knowledgePoints.has(x))||!text(c.basis)||!text(c.producer))error(p+'.classification','INVALID_CLASSIFICATION','主辅考点、分类理由及外部生成来源无效');
@@ -72,7 +74,7 @@ export function validateBankImport(value){
   }
  });
  each('materials',(m,p)=>{if(!Array.isArray(m.questionIds))return;for(const qid of m.questionIds){const q=collections.questions.get(qid);if(!q||q.materialId!==m.id)error(p+'.questionIds','MATERIAL_MEMBERSHIP','材料题组对应关系不一致');}});
- each('questions',(q,p)=>{if(q.materialId&&!(collections.materials.get(q.materialId)?.questionIds||[]).includes(q.id))error(p+'.materialId','MATERIAL_MEMBERSHIP','题目未列入材料完整题组');});
+ each('questions',(q,p)=>{if(q.materialId){const members=collections.materials.get(q.materialId)?.questionIds;if(!Array.isArray(members)||!members.includes(q.id))error(p+'.materialId','MATERIAL_MEMBERSHIP','题目未列入材料完整题组');}});
  return {valid:errors.length===0,errors,warnings};
 }
 
@@ -82,6 +84,7 @@ export function importCandidate(db,payload,actor){
   const duplicate=db.prepare('SELECT id,status,diagnostics FROM bank_imports WHERE fingerprint=?').get(digest);
   if(duplicate)return {id:duplicate.id,status:duplicate.status,duplicate:true,...JSON.parse(duplicate.diagnostics)};
   const s=payload?.source;
+  if(diagnostics.valid){const papers=payload.documents.filter(d=>d.kind==='paper').map(d=>d.sha256);for(const row of db.prepare("SELECT source_id,payload FROM bank_imports WHERE status='candidate' AND source_id!=?").all(s.id)){const other=JSON.parse(row.payload);if(other.documents.some(d=>d.kind==='paper'&&papers.includes(d.sha256)))fail(409,'SOURCE_DOCUMENT_EXISTS','相同卷面资料已属于其他来源，请沿用原来源ID并增加版本');}}
   if(diagnostics.valid&&db.prepare('SELECT id FROM bank_imports WHERE source_id=? AND source_version=?').get(s.id,s.version))fail(409,'SOURCE_VERSION_EXISTS','相同来源版本内容不同；请明确增加版本并记录修订');
   const batchId=randomUUID(),status=diagnostics.valid?'candidate':'invalid';
   db.prepare('INSERT INTO bank_imports VALUES (?,?,?,?,?,?,?,?,?)').run(batchId,diagnostics.valid?s.id:null,diagnostics.valid?s.version:null,digest,status,JSON.stringify(payload),JSON.stringify(diagnostics),actor,new Date().toISOString());

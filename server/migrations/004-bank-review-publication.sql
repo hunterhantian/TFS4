@@ -1,0 +1,12 @@
+CREATE TABLE bank_review_state(import_id TEXT PRIMARY KEY REFERENCES bank_imports(id), revision INTEGER NOT NULL DEFAULT 0);
+CREATE TABLE bank_reviews(import_id TEXT NOT NULL REFERENCES bank_imports(id),question_id TEXT NOT NULL,status TEXT NOT NULL CHECK(status IN ('approved','returned')),reason TEXT NOT NULL,actor TEXT NOT NULL REFERENCES users(id),reviewed_at TEXT NOT NULL,PRIMARY KEY(import_id,question_id));
+CREATE TABLE bank_document_confirmations(import_id TEXT NOT NULL REFERENCES bank_imports(id),document_id TEXT NOT NULL,reason TEXT NOT NULL,actor TEXT NOT NULL REFERENCES users(id),confirmed_at TEXT NOT NULL,PRIMARY KEY(import_id,document_id));
+CREATE TABLE bank_audit(id INTEGER PRIMARY KEY,import_id TEXT NOT NULL REFERENCES bank_imports(id),action TEXT NOT NULL,payload TEXT NOT NULL,actor TEXT NOT NULL REFERENCES users(id),created_at TEXT NOT NULL);
+CREATE TABLE bank_publications(id INTEGER PRIMARY KEY,import_id TEXT NOT NULL UNIQUE REFERENCES bank_imports(id),source_id TEXT NOT NULL,source_version INTEGER NOT NULL,payload TEXT NOT NULL,actor TEXT NOT NULL REFERENCES users(id),published_at TEXT NOT NULL,UNIQUE(source_id,source_version));
+CREATE TABLE bank_parts(publication_id INTEGER NOT NULL REFERENCES bank_publications(id),id TEXT NOT NULL,label TEXT NOT NULL,component TEXT NOT NULL,sort_order INTEGER NOT NULL,PRIMARY KEY(publication_id,id));
+CREATE TABLE bank_types(publication_id INTEGER NOT NULL REFERENCES bank_publications(id),id TEXT NOT NULL,label TEXT NOT NULL,PRIMARY KEY(publication_id,id));
+CREATE TABLE bank_materials(publication_id INTEGER NOT NULL REFERENCES bank_publications(id),id TEXT NOT NULL,payload TEXT NOT NULL,PRIMARY KEY(publication_id,id));
+CREATE TABLE bank_knowledge(id TEXT PRIMARY KEY,name TEXT NOT NULL);
+CREATE TABLE bank_knowledge_names(normalized TEXT PRIMARY KEY,knowledge_id TEXT NOT NULL REFERENCES bank_knowledge(id),name TEXT NOT NULL);
+CREATE TABLE bank_questions(publication_id INTEGER NOT NULL REFERENCES bank_publications(id),id TEXT NOT NULL,version INTEGER NOT NULL,type_id TEXT NOT NULL,part_id TEXT NOT NULL,material_id TEXT,primary_id TEXT REFERENCES bank_knowledge(id),auxiliary_ids TEXT NOT NULL,payload TEXT NOT NULL,PRIMARY KEY(publication_id,id));
+CREATE INDEX bank_related ON bank_questions(type_id,primary_id);

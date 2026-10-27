@@ -25,4 +25,20 @@ classification为null或`{primaryId,auxiliaryIds,basis,producer}`。主辅考点
 
 响应包含valid、errors、warnings，每个诊断含path、code、message。校验入口不写库；导入入口保存candidate或invalid批次供查看。对象字段顺序不影响内容指纹；重复内容返回原批次，相同source.id/version内容变化返回409，必须增加版本并注明修订。无效批次不占用正式来源版本，也不进入考试sources。
 
-参考结构由`tests/bank-import.test.mjs`的合成样例验证；样例仅测试使用，不是2025真实内容。审核、发布和正式关联查询协议将在后续实现时补充，当前不存在发布API。
+参考结构由`tests/bank-import.test.mjs`的合成样例验证；真实候选见`data/2025-stage2-candidate.json`，仍待用户审核。
+
+## 外部AI分类与人工审核
+
+`POST /api/admin/bank/batches/:id/classifications`接收`{sourceVersion,revisionNote,knowledgePoints,classifications,producer}`。classifications每项为`{questionId,primaryId,auxiliaryIds,basis}`。明确增加来源版本，保留原题面、指定答案和解析；未列入题目分类置空，不继承审核、来源确认或发布状态。整份修订也可导出JSON后增加来源版本重新导入。
+
+`GET /api/admin/bank/batches/:id`返回payload、revision、reviews、confirmations、publication、audit及逐题issues。读取后所有修改带expectedRevision，过期返回409。
+
+- `POST .../confirm-documents`：`{expectedRevision,documentIds,reason}`。仅在实际核实后确认可作为审核依据，留操作者与说明；不因文件名含“解析”自动确认官方来源。
+- `POST .../review`：`{expectedRevision,questionIds,decision,reason,acknowledgeIssues?}`。decision为approved/returned。通过必须有分类、解析、已确认的答案与解析依据。解析出现不同答案时须额外显式确认并写处置说明，指定参考答案不自动修改。整批原子提交；任何一项失败不部分写入。
+- `POST .../publish`：`{expectedRevision}`。只发布已通过关联，未审/退回题的primary_id为空。重复请求幂等；发布后批次只读。新版本不能覆盖历史题目版本的题面、材料、答案或题型；内容变化须增加题目版本。不同规范考点的同义名冲突会阻止整个发布。
+
+正式Part、题型和材料按发布版本存储，规范考点和同义名全库统一。已发布的新来源版本取代该来源旧版本参与关联查询；旧版本和审核日志保留。发布不修改Stage1的sources、考试快照、报告或判分事件。
+
+`GET /api/reports/:id/questions/:questionId/related`验证报告归属或管理员只读权限；使用该报告冻结题号/版本及题面/答案匹配当前已发布关联，只匹配相同题型和主考点及能力分项，排除自身。返回候选年份来源、解析、完整材料题组及当前登录用户的次数、错误次数、最近结果，按未做过优先、年份倒序。辅助考点不单独触发推荐。未审核或版本不符时明确返回空结果及原因。
+
+错误批次、全部未审核批次和仅退回批次无法发布。听力/阅读材料种类须与分项匹配。同一卷面SHA256不能改来源ID重复导入。候选请求超过浏览器keepalive限制时前端使用常规请求；服务器仍执行1MiB限制。

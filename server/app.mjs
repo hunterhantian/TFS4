@@ -8,6 +8,7 @@ import {ownedAttempt,visibleAttempt,checkLease,checkedProgress,makeReport,nowIso
 import {serveAudio} from '../scripts/audio-route.mjs';
 import {archiveFilters,queryArchives} from './archive-filters.mjs';
 import {registerLegacy} from './legacy.mjs';
+import {registerBankImports} from './bank-import.mjs';
 export async function createApp(options={}){
  const production=options.production??process.env.NODE_ENV==='production';
  const publicOrigin=options.publicOrigin||process.env.PUBLIC_ORIGIN||'http://127.0.0.1:4174';
@@ -39,6 +40,7 @@ export async function createApp(options={}){
   if(!['GET','HEAD'].includes(req.method)&&req.headers['x-csrf-token']!==session.csrf)fail(403,'CSRF_REJECTED');
  });
  const admin=req=>{if(req.account.role!=='admin')fail(403,'ADMIN_REQUIRED');};
+ registerBankImports(app,{db,admin});
  const reportTitle=r=>{const p=JSON.parse(r.payload);return ['2025 法语专四考试','导入的本机考试存档'].includes(r.title)?archiveTitle(p.sourceTitle||'2025 法语专四考试',p.submittedAt):r.title;};
  const report=(id,owner)=>{const r=db.prepare('SELECT * FROM reports WHERE id=? AND owner_id=?').get(id,owner);if(!r)fail(404,'NOT_FOUND');return {id:r.id,title:reportTitle(r),...JSON.parse(r.payload)};};
  app.get('/api/health',async()=>({ok:db.prepare('SELECT 1 AS ok').get().ok===1}));

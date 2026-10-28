@@ -1,0 +1,92 @@
+{
+  "createdAt": "2026-10-28T10:47:30.321Z",
+  "method": "independent per-record structural/evidence/state audit after authored two-pass annotation; not an independent model accuracy study",
+  "objectiveOnly": true,
+  "pdfVisualReview": false,
+  "pairLabelsGenerated": 0,
+  "reviewPasses": 2,
+  "crossModelReview": false,
+  "questions": 360,
+  "available": 277,
+  "pending": 83,
+  "classificationNodes": 218,
+  "leafNodes": 190,
+  "maxDepth": 4,
+  "years": [
+    {
+      "year": 2012,
+      "available": 95,
+      "pending": 25
+    },
+    {
+      "year": 2013,
+      "available": 88,
+      "pending": 32
+    },
+    {
+      "year": 2023,
+      "available": 94,
+      "pending": 26
+    }
+  ],
+  "multiTypeLeaves": [
+    {
+      "id": "obj-imparfait-habit",
+      "name": "未完成过去时表达过去习惯〔客观题〕",
+      "questions": 2
+    },
+    {
+      "id": "obj-past-future",
+      "name": "条件式现在时表达过去将来〔客观题〕",
+      "questions": 3
+    },
+    {
+      "id": "obj-infinitive-past",
+      "name": "过去不定式表示先完成〔客观题〕",
+      "questions": 2
+    },
+    {
+      "id": "obj-gerund",
+      "name": "副动词en加现在分词〔客观题〕",
+      "questions": 3
+    }
+  ],
+  "examples": {
+    "possessive": {
+      "questions": 4,
+      "typeGroups": [
+        {
+          "typeId": "grammar-choice",
+          "label": "语法选择",
+          "total": 4
+        }
+      ]
+    },
+    "gerund": {
+      "questions": 3,
+      "typeGroups": [
+        {
+          "typeId": "grammar-choice",
+          "label": "语法选择",
+          "total": 1
+        },
+        {
+          "typeId": "verb-form",
+          "label": "动词填空",
+          "total": 2
+        }
+      ]
+    }
+  },
+  "sourceDatabaseUnchanged": true,
+  "preexistingProtectedRowsPreserved": true,
+  "protectedTables": 64,
+  "independentRestoreVerified": true,
+  "listening": {
+    "available": 0,
+    "pending": 60,
+    "scope": "question-task candidates only; audio and standalone transcripts were not read"
+  },
+  "automaticGradingAdopted": false,
+  "fullStage2Acceptance": false
+}

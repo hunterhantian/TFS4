@@ -1,0 +1,26 @@
+{
+  "createdAt": "2026-10-28T10:45:22.411Z",
+  "scope": "temporary copy of real three-paper annotated database",
+  "checks": [
+    "360 objective annotations: 277 available and 83 pending displayed separately",
+    "four related possessive questions appear directly below the selected leaf",
+    "question expands with actual stem options and annotation basis without pair labelling",
+    "one gerund knowledge node groups three questions across two types",
+    "type grouping filters without requiring new pair annotations",
+    "verb-form question retains its complete source passage",
+    "year filter recalculates unique tree counts and question groups",
+    "listening candidates automatically open pending tab and never count as available",
+    "large candidate group paginates at 20 items",
+    "390px tree navigation and multi-question list have no horizontal overflow",
+    "browsing sends no stage2 writes and changes no exam/review/release records",
+    "student access remains isolated; admin tree APIs deny ordinary accounts",
+    "no browser runtime errors"
+  ],
+  "errors": [],
+  "writeRequests": [],
+  "screenshots": [
+    "tmp/knowledge-tree/desktop-possessive.png",
+    "tmp/knowledge-tree/desktop-gerund.png",
+    "tmp/knowledge-tree/mobile-tree.png"
+  ]
+}

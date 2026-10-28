@@ -102,6 +102,16 @@ node scripts/stage2-redesign-review.mjs
 
 原始结构提取、三卷候选及校准分别由stage2-extract-md.mjs、stage2-pilot-content.mjs、stage2-calibrate.mjs负责。各脚本要求新输出目录。校准含本次50题的明确决定，不是可直接套全部年份的通用模型。
 
+## 本轮客观题知识树实施更新（2026-10-28）
+
+已在新独立副本实现最小主知识点标注适配与树节点多题查询，旧analysis-v1表和接口保持兼容。最小适配器只要求题目版本、主知识点、必要依据/引用、两个轮次及复核状态、expectedCatalogRevision；辅助点、考法、干扰项不强制补写。拒绝主观题及用上级汇总节点作主知识点。
+
+- `POST /api/admin/stage2/objective-annotations`：导入最小标注候选，不自动审核或发布。
+- `GET /api/admin/stage2/knowledge-tree?year=2012`：返回fr-objective目录、当前有效去重计数及待复核数。
+- `GET /api/admin/stage2/knowledge-tree/:id/questions?status=available|pending&typeId=...&page=1&year=...`：后代题目聚合、题型分组计数及每页20项；候选与有效发布分开。
+
+本轮三卷360项标注，277项可检索、83项候选。目录218节点，最长4层；同知识点不同题型共享主节点。独立副本为`.local/stage2-knowledge-tree/app.sqlite`，入口4181；旧源库与线上未改。API目前仍为管理员验收权限，普通用户考试/错题接入及Stage2正式质量门未完成。详见[交付记录](2026-10-28-三卷客观题标注与知识树交付.md)。
+
 ## 阶段完成标准
 
 详见[Stage2-v4实施与验收记录](Stage2-v4实施与验收记录.md)。三卷候选122项结构可表达不等于三卷逐题校对完成。Precision@5不得由规范标签自匹配或不足五道相关题的小集合冒充。未完成完整真实闭环前，不进行21套正式JSON量产，也不部署云端。

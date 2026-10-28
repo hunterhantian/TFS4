@@ -1,3 +1,4 @@
+import {registerKnowledgeTree} from './knowledge-tree.mjs';
 import Fastify from 'fastify';
 import fs from 'node:fs';
 import path from 'node:path';
@@ -47,6 +48,7 @@ export async function createApp(options={}){
  registerBank(app,{db,admin});
  registerApprovedBank(app,{db,admin});
  registerStage2(app,{db,admin});
+ registerKnowledgeTree(app,{db,admin});
  const reportTitle=r=>{const p=JSON.parse(r.payload);return ['2025 法语专四考试','导入的本机考试存档'].includes(r.title)?archiveTitle(p.sourceTitle||'2025 法语专四考试',p.submittedAt):r.title;};
  const report=(id,owner)=>{const r=db.prepare('SELECT * FROM reports WHERE id=? AND owner_id=?').get(id,owner);if(!r)fail(404,'NOT_FOUND');return {id:r.id,title:reportTitle(r),...JSON.parse(r.payload)};};
  app.get('/api/health',async()=>({ok:db.prepare('SELECT 1 AS ok').get().ok===1}));

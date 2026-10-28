@@ -1,0 +1,22 @@
+import {createHash} from 'node:crypto';
+import {importContent} from './stage2.mjs';
+import {fingerprint} from './bank-import.mjs';
+export function legacyContent(row){
+ const old=JSON.parse(row.payload),prefix='legacy-'+row.id,docId=prefix+'-document';
+ const references=[],pages=[],questions=[],span=(page,text,raw,start=0)=>({documentId:docId,page,start:Array.from(raw.slice(0,start)).length,end:Array.from(raw.slice(0,start)).length+Array.from(text).length,quote:text});
+ for(const [i,q] of old.questions.entries()){
+  const page=i+1,answerQuote=q.answer.evidence?.quote??'',explanation=q.explanation?.quote??'';const raw=q.text+'\n\n'+answerQuote+'\n\n'+explanation;pages.push({page,markdown:raw});const candidates=[];
+  if(answerQuote){const rid=prefix+'-reference-'+i;references.push({id:rid,kind:'answer',originalLabel:String(q.originalLabel??q.originalNo),text:answerQuote,evidence:[span(page,answerQuote,raw,q.text.length+2)]});if(q.answer.value!==null)candidates.push({referenceId:rid,value:String(q.answer.value)});}
+  const explanationIds=[];if(explanation){const rid=prefix+'-explanation-'+i;references.push({id:rid,kind:'explanation',originalLabel:String(q.originalLabel??q.originalNo),text:explanation,evidence:[span(page,explanation,raw,q.text.length+2+answerQuote.length+2)]});explanationIds.push(rid);}
+  questions.push({id:old.source.id+'-'+q.id,nodeKey:q.id,version:old.source.version,sectionId:q.partId,typeId:q.typeId,originalLabel:String(q.originalLabel??q.originalNo),order:i+1,text:q.text,responseType:q.responseType??'choice',options:Object.entries(q.options).map(([key,text])=>({key,label:key,text})),annotations:q.annotations??[],materialId:q.materialId?prefix+'-'+q.materialId:null,evidence:[span(page,q.text,raw)],answer:{version:1,status:q.answer.value!==null&&candidates.length?'adopted':q.answer.status==='conflicting_reference'?'unusable':'missing',value:q.answer.value!==null&&candidates.length?String(q.answer.value):null,candidates,reason:candidates.length?'沿用旧版本参考；未新增来源核实':''},explanationIds});
+ }
+ const materials=old.materials.filter(m=>m.text).map((m,i)=>{const page=pages.length+1;pages.push({page,markdown:m.text});return {id:prefix+'-'+m.id,version:1,kind:m.kind,text:m.text,questionIds:m.questionIds.map(id=>old.source.id+'-'+id),evidence:[span(page,m.text,m.text)]};});
+ for(const q of questions)if(q.materialId&&!materials.some(m=>m.id===q.materialId))q.materialId=null;
+ const markdown=pages.map(p=>p.markdown).join('\n\n---\n\n');
+ return {schemaVersion:4,kind:'content',paper:{id:old.source.id,year:old.source.year,session:old.source.id.match(/-(05|06)$/)?.[1]??null,title:`${old.source.id.replace('tfs4-','')} 法语专四`,examCode:'TFS4'},paperVersion:old.source.version,revisionNote:'旧候选投影；不是LlamaParse MD或新增校对证明',documents:[{id:docId,role:'mixed',name:prefix+'.json',mimeType:'application/json',sha256:createHash('sha256').update(row.payload).digest('hex'),storageKey:'legacy/'+row.id+'.json',provenance:'unconfirmed',pages}],sections:old.parts.map(x=>({id:x.id,parentId:null,label:x.label,order:x.order,instruction:''})),types:old.types.map(t=>{const q=old.questions.find(q=>q.typeId===t.id),part=old.parts.find(p=>p.id===q?.partId);return {id:t.id,label:t.label,component:part?.component??'grammar',responseType:q?.responseType??'choice'};}),materials,questions,references,issues:[],corrections:[]};
+}
+export function backfillLegacy(db){return db.transaction(()=>{const results=[];for(const row of db.prepare("SELECT * FROM bank_imports WHERE status='candidate' ORDER BY source_version").all()){
+ const data=legacyContent(row),result=importContent(db,data,'legacy-adapter');if(result.valid===false)throw Error(JSON.stringify(result.errors));const old=JSON.parse(row.payload);
+ for(const q of old.questions){const qid=old.source.id+'-'+q.id,qv=qid+':v'+old.source.version;db.prepare('INSERT OR IGNORE INTO qb_legacy_mappings VALUES (?,?,?,?,?)').run(row.id,q.id,old.source.id,qv,fingerprint({text:q.text,options:q.options,answer:q.answer.value}));}
+ db.prepare('INSERT OR IGNORE INTO qb_processing_runs VALUES (?,?,?,?,?,?)').run('legacy-'+row.id,old.source.id,'legacy_projection','legacy-adapter',JSON.stringify({legacyImportId:row.id,proofread:false,classificationImported:false,existingProduction:db.prepare('SELECT payload FROM bank_production_evidence WHERE import_id=?').get(row.id)?.payload??null}),row.created_at);results.push({legacyImportId:row.id,batchId:result.id,count:data.questions.length,duplicate:result.duplicate});}
+ return results;})();}

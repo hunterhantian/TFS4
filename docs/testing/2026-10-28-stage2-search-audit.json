@@ -1,0 +1,138 @@
+{
+  "createdAt": "2026-10-28T04:14:22.265Z",
+  "method": "Fastify.inject authenticated API; independent temporary copy; 20 warmups/100 queries",
+  "hardware": {
+    "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+    "logicalCpus": 12,
+    "ramGiB": 16,
+    "node": "v24.22.1"
+  },
+  "effectiveQuestions": 38,
+  "totalQuestionVersions": 666,
+  "p95ms": 3.113299999999981,
+  "medianMs": 1.1982000000000426,
+  "goldCases": [
+    {
+      "id": "tfs4-2012-q041",
+      "gold": [
+        "tfs4-2013-q045"
+      ],
+      "found": [
+        "tfs4-2013-q045"
+      ],
+      "precision": 1,
+      "recall": 1
+    },
+    {
+      "id": "tfs4-2013-q045",
+      "gold": [
+        "tfs4-2012-q041"
+      ],
+      "found": [
+        "tfs4-2012-q041"
+      ],
+      "precision": 1,
+      "recall": 1
+    },
+    {
+      "id": "tfs4-2012-q045",
+      "gold": [
+        "tfs4-2013-q051",
+        "tfs4-2013-q061"
+      ],
+      "found": [
+        "tfs4-2013-q051",
+        "tfs4-2013-q061"
+      ],
+      "precision": 1,
+      "recall": 1
+    },
+    {
+      "id": "tfs4-2013-q051",
+      "gold": [
+        "tfs4-2012-q045",
+        "tfs4-2013-q061"
+      ],
+      "found": [
+        "tfs4-2012-q045",
+        "tfs4-2013-q061"
+      ],
+      "precision": 1,
+      "recall": 1
+    },
+    {
+      "id": "tfs4-2013-q061",
+      "gold": [
+        "tfs4-2012-q045",
+        "tfs4-2013-q051"
+      ],
+      "found": [
+        "tfs4-2012-q045",
+        "tfs4-2013-q051"
+      ],
+      "precision": 1,
+      "recall": 1
+    },
+    {
+      "id": "tfs4-2012-q059",
+      "gold": [
+        "tfs4-2013-q056"
+      ],
+      "found": [
+        "tfs4-2013-q056"
+      ],
+      "precision": 1,
+      "recall": 1
+    },
+    {
+      "id": "tfs4-2013-q056",
+      "gold": [
+        "tfs4-2012-q059"
+      ],
+      "found": [
+        "tfs4-2012-q059"
+      ],
+      "precision": 1,
+      "recall": 1
+    },
+    {
+      "id": "tfs4-2012-q062",
+      "gold": [
+        "tfs4-2013-q060"
+      ],
+      "found": [
+        "tfs4-2013-q060"
+      ],
+      "precision": 1,
+      "recall": 1
+    },
+    {
+      "id": "tfs4-2013-q060",
+      "gold": [
+        "tfs4-2012-q062"
+      ],
+      "found": [
+        "tfs4-2012-q062"
+      ],
+      "precision": 1,
+      "recall": 1
+    }
+  ],
+  "negativeCases": [
+    {
+      "a": "tfs4-2012-q043",
+      "b": "tfs4-2013-q053",
+      "passed": true
+    },
+    {
+      "a": "tfs4-2012-q047",
+      "b": "tfs4-2012-q052",
+      "passed": true
+    }
+  ],
+  "precisionAt5": null,
+  "precisionAt5Reason": "No authored gold group has five other relevant questions; insufficient evidence for planned Precision@5 acceptance",
+  "pilotAvailableResultPrecision": 1,
+  "pilotGoldRecall": 1,
+  "stage2Acceptance": "not_complete"
+}

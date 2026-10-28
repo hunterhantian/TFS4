@@ -1,0 +1,10 @@
+CREATE TRIGGER qb_documents_update BEFORE UPDATE ON qb_documents BEGIN SELECT RAISE(ABORT,'source documents are immutable'); END;
+CREATE TRIGGER qb_material_versions_update BEFORE UPDATE ON qb_material_versions BEGIN SELECT RAISE(ABORT,'material versions are immutable'); END;
+CREATE TRIGGER qb_material_versions_delete BEFORE DELETE ON qb_material_versions BEGIN SELECT RAISE(ABORT,'material versions are immutable'); END;
+CREATE TRIGGER qb_answers_update BEFORE UPDATE ON qb_answer_sets BEGIN SELECT RAISE(ABORT,'answer versions are immutable'); END;
+CREATE TRIGGER qb_analysis_update BEFORE UPDATE ON qb_analysis_versions BEGIN SELECT RAISE(ABORT,'analysis versions are immutable'); END;
+CREATE TRIGGER qb_classification_update BEFORE UPDATE ON qb_classification_sets BEGIN SELECT RAISE(ABORT,'classifications are immutable'); END;
+CREATE TRIGGER qb_reviews_update BEFORE UPDATE ON qb_review_events BEGIN SELECT RAISE(ABORT,'review events are append only'); END;
+CREATE TRIGGER qb_reviews_delete BEFORE DELETE ON qb_review_events BEGIN SELECT RAISE(ABORT,'review events are append only'); END;
+CREATE TRIGGER qb_reference_update BEFORE UPDATE ON qb_reference_entries BEGIN SELECT RAISE(ABORT,'reference entries are immutable'); END;
+CREATE TRIGGER qb_evidence_update BEFORE UPDATE ON qb_evidence_spans BEGIN SELECT RAISE(ABORT,'evidence spans are immutable'); END;

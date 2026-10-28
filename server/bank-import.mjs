@@ -20,7 +20,8 @@ export function validateBankImport(value){
   return true;
  };
  if(!fields(value,'$',['schemaVersion','dataset','source','documents','parts','types','materials','knowledgePoints','questions']))return {valid:false,errors,warnings};
- if(value.schemaVersion!==2)error('$.schemaVersion','SCHEMA_VERSION','需要统一格式版本2');
+ if(![2,3].includes(value.schemaVersion))error('$.schemaVersion','SCHEMA_VERSION','需要统一格式版本2或3');
+ const v3=value.schemaVersion===3;
  if(value.dataset!=='candidate')error('$.dataset','CANDIDATE_ONLY','只接收候选数据，拒绝fixture或自行声明正式数据');
  const s=value.source;
  if(fields(s,'$.source',['id','version','year','title','revisionNote'])){
@@ -37,11 +38,11 @@ export function validateBankImport(value){
  each('documents',(d,p)=>{if(fields(d,p,['id','name','sha256','kind','provenance'])){
   if(!text(d.name)||!hash(d.sha256)||!['paper','answers','explanations','audio','transcript'].includes(d.kind)||!['user_confirmed_reference','unconfirmed'].includes(d.provenance))error(p,'INVALID_DOCUMENT','资料需要名称、SHA256、种类与明确来源状态');
  }});
- const components=['listening','vocabulary','grammar','reading'];
+ const components=v3?['listening','vocabulary','grammar','reading','dictation','writing']:['listening','vocabulary','grammar','reading'];
  each('parts',(r,p)=>{if(fields(r,p,['id','label','component','order'])&&(!text(r.label)||!components.includes(r.component)||!positive(r.order)))error(p,'INVALID_PART','分项名称、能力分项或顺序无效');});
  each('types',(r,p)=>{if(fields(r,p,['id','label'])&&!text(r.label))error(p,'INVALID_TYPE','需要题型名称');});
  each('materials',(r,p)=>{if(fields(r,p,['id','kind','text','audioUrl','questionIds'],['id','kind','questionIds'])){
-  if(!['reading','cloze','listening'].includes(r.kind)||(!text(r.text)&&!text(r.audioUrl))||!Array.isArray(r.questionIds)||!r.questionIds.length||new Set(r.questionIds).size!==r.questionIds.length)error(p,'INVALID_MATERIAL','材料需要内容及不重复的完整有序题号');
+  if(!(v3?['reading','cloze','listening','verb_form']:['reading','cloze','listening']).includes(r.kind)||(!text(r.text)&&!text(r.audioUrl))||!Array.isArray(r.questionIds)||!r.questionIds.length||new Set(r.questionIds).size!==r.questionIds.length)error(p,'INVALID_MATERIAL','材料需要内容及不重复的完整有序题号');
   if(r.audioUrl!==undefined&&!/^\/media\/[a-zA-Z0-9_.-]+$/.test(r.audioUrl))error(p+'.audioUrl','INVALID_AUDIO_URL','音频必须使用受控的/media/地址');
  }});
  const names=new Map();
@@ -55,21 +56,48 @@ export function validateBankImport(value){
   if(!d||d.kind!==kind||!text(e.location)||!text(e.quote))error(p,'INVALID_EVIDENCE','依据需匹配资料种类并保留位置及原文');
  };
  const numbers=new Set();
- each('questions',(q,p)=>{if(!fields(q,p,['id','version','originalNo','partId','typeId','materialId','text','options','answer','explanation','classification']))return;
+ const baseQuestionFields=['id','version','originalNo','partId','typeId','materialId','text','options','answer','explanation','classification'];
+ each('questions',(q,p)=>{if(!fields(q,p,v3?[...baseQuestionFields,'originalLabel','responseType','gradingMode','annotations','illustrations']:baseQuestionFields,v3?[...baseQuestionFields,'originalLabel','responseType','gradingMode','annotations']:baseQuestionFields))return;
+  const choice=!v3||q.responseType==='choice';
+  if(v3){
+   if(!text(q.originalLabel)||!['choice','dictation','verb_form','writing','free_text'].includes(q.responseType)||q.gradingMode!==(choice?'choice':'manual'))error(p,'INVALID_RESPONSE_TYPE','保留卷面题号，选择题按选项判分；非选择题仅人工评阅');
+   if(!Array.isArray(q.annotations))error(p+'.annotations','INVALID_ANNOTATIONS','原卷下划线标记须为数组');
+   else for(const [i,a] of q.annotations.entries())if(fields(a,`${p}.annotations[${i}]`,['kind','start','end'])&&(a.kind!=='underline'||!Number.isSafeInteger(a.start)||!Number.isSafeInteger(a.end)||a.start<0||a.end<=a.start||a.end>Array.from(q.text||'').length))error(p+'.annotations','INVALID_ANNOTATIONS','下划线使用题干Unicode码点的左闭右开区间');
+   if(q.illustrations!==undefined){
+    if(!Array.isArray(q.illustrations)||q.illustrations.length>4)error(p+'.illustrations','INVALID_ILLUSTRATIONS','插图最多4张');
+    else for(const [i,a] of q.illustrations.entries())if(fields(a,`${p}.illustrations[${i}]`,['documentId','page','caption','imageDataUrl'])){
+     const match=typeof a.imageDataUrl==='string'&&a.imageDataUrl.match(/^data:image\/(jpeg|png);base64,([A-Za-z0-9+/]+={0,2})$/),bytes=match?Buffer.from(match[2],'base64'):null;
+     const signature=bytes&&(match[1]==='jpeg'?bytes[0]===255&&bytes[1]===216:bytes.subarray(0,8).equals(Buffer.from([137,80,78,71,13,10,26,10])));
+     if(!collections.documents.has(a.documentId)||!positive(a.page)||!text(a.caption)||!signature||bytes.length>600000)error(p+'.illustrations','INVALID_ILLUSTRATIONS','插图须引用资料原页并嵌入600KB以内PNG/JPEG，禁止外部URL或SVG');
+    }
+   }
+  }
   if(!positive(q.version)||!positive(q.originalNo)||numbers.has(q.originalNo)||!text(q.text))error(p,'INVALID_QUESTION','题目版本、唯一原题号和题干必填');numbers.add(q.originalNo);
   const part=collections.parts.get(q.partId);
   if(!part||!collections.types.has(q.typeId))error(p,'UNKNOWN_TAXONOMY','Part或题型不存在');
-  if(!object(q.options)||Object.keys(q.options).length<2||Object.keys(q.options).length>4||Object.entries(q.options).some(([k,v])=>!['A','B','C','D'].includes(k)||!text(v)))error(p+'.options','INVALID_OPTIONS','需要2至4个非空选项');
-  if(fields(q.answer,p+'.answer',['value','evidence','status'],['value','evidence'])){
+  if(choice){if(!object(q.options)||Object.keys(q.options).length<2||Object.keys(q.options).length>4||Object.entries(q.options).some(([k,v])=>!['A','B','C','D'].includes(k)||!text(v)))error(p+'.options','INVALID_OPTIONS','需要2至4个非空选项');}
+  else if(!object(q.options)||Object.keys(q.options).length)error(p+'.options','INVALID_OPTIONS','非选择题options须为空对象，不能补造选项');
+  if(fields(q.answer,p+'.answer',v3?['value','evidence','status','alternatives']:['value','evidence','status'],['value','evidence'])){
+   if(v3&&q.answer.status==='unusable_reference'){
+    if(q.answer.value!==null||q.answer.alternatives!==undefined)error(p+'.answer','INVALID_UNUSABLE_REFERENCE','无法对应卷面的参考值须保留原文证据，判分值为空');
+    evidence(q.answer.evidence,p+'.answer.evidence','answers');
+    warnings.push({path:p+'.answer',code:'UNUSABLE_REFERENCE',message:'参考资料无法对应本卷选项：可保存，暂不判分'});
+   }else if(v3&&q.answer.status==='conflicting_reference'){
+    if(q.answer.value!==null||q.answer.evidence!==null||!Array.isArray(q.answer.alternatives)||q.answer.alternatives.length<2)error(p+'.answer','INVALID_CONFLICT','冲突答案须为空，至少保留两份来源值及证据');
+    else{const values=new Set();for(const [i,a] of q.answer.alternatives.entries())if(fields(a,`${p}.answer.alternatives[${i}]`,['value','evidence'])){values.add(a.value);if(choice?(!object(q.options)||!Object.hasOwn(q.options,a.value)):!text(a.value))error(p+'.answer','INVALID_CONFLICT','冲突候选值无效');evidence(a.evidence,`${p}.answer.alternatives[${i}].evidence`,'answers');}if(values.size<2)error(p+'.answer','INVALID_CONFLICT','冲突必须包含不同的参考值');}
+    warnings.push({path:p+'.answer',code:'CONFLICTING_REFERENCE',message:'参考答案冲突：可审核保存，不用于正式判分或关联发布'});
+   }else{
+   if(q.answer.alternatives!==undefined)error(p+'.answer.alternatives','INVALID_CONFLICT','仅冲突状态可携带备选依据');
    if(q.answer.status==='missing_reference'){
     if(q.answer.value!==null||q.answer.evidence!==null)error(p+'.answer','INVALID_MISSING_ANSWER','缺参考答案时值与依据须明确为空');
     warnings.push({path:p+'.answer',code:'MISSING_REFERENCE_ANSWER',message:'缺参考答案：可审核题面，不用于正式判分或关联发布'});
-   }else{if(q.answer.status!==undefined)error(p+'.answer.status','INVALID_ANSWER_STATUS','未知答案状态');if(!object(q.options)||!Object.hasOwn(q.options,q.answer.value))error(p+'.answer','INVALID_ANSWER','答案不对应选项');evidence(q.answer.evidence,p+'.answer.evidence','answers');}
+   }else{if(q.answer.status!==undefined)error(p+'.answer.status','INVALID_ANSWER_STATUS','未知答案状态');if(choice?(!object(q.options)||!Object.hasOwn(q.options,q.answer.value)):!text(q.answer.value))error(p+'.answer','INVALID_ANSWER',choice?'答案不对应选项':'非选择题参考内容须为非空文本，判分方式仍为人工评阅');evidence(q.answer.evidence,p+'.answer.evidence','answers');}
+   }
   }
   if(q.explanation!==null)evidence(q.explanation,p+'.explanation','explanations');
   else warnings.push({path:p+'.explanation',code:'MISSING_EXPLANATION',message:'缺少解析，不能发布知识点关联'});
   if(q.materialId!==null&&!collections.materials.has(q.materialId))error(p+'.materialId','UNKNOWN_MATERIAL','材料不存在');
-  if(['reading','listening'].includes(part?.component)&&q.materialId===null)error(p+'.materialId','MATERIAL_REQUIRED','阅读、听力须保留材料');
+  if(choice&&['reading','listening'].includes(part?.component)&&q.materialId===null)error(p+'.materialId','MATERIAL_REQUIRED','阅读、听力选择题须保留材料');
   const material=collections.materials.get(q.materialId);
   if(material&&((part?.component==='reading'&&material.kind!=='reading')||(part?.component==='listening'&&material.kind!=='listening')))error(p+'.materialId','MATERIAL_KIND_MISMATCH','阅读、听力的材料种类须匹配分项');
   if(q.classification!==null&&fields(q.classification,p+'.classification',['primaryId','auxiliaryIds','basis','producer'])){

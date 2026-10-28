@@ -1,4 +1,5 @@
 import {initApprovedBank} from './approved-bank.mjs';
+import {initStage2} from './stage2.mjs';
 import {initContentBank} from './content-bank.mjs';
 import {initBank,mountRelated} from './bank.mjs';
 import {newClientId} from './client-id.mjs';
@@ -12,13 +13,14 @@ let user=null,sync=null,reportScope='mine',preview=null,createRequest=null;
 const bank=initBank({show,run,getUser:()=>user});
 const contentBank=initContentBank({show,run,getUser:()=>user});
 const approvedBank=initApprovedBank({show,run,getUser:()=>user});
+const stage2=initStage2({show,run,getUser:()=>user});
 function show(id){if(id!=='approved-bank-view')approvedBank.leave();if(id!=='report-view')closeReportQuestion();for(const s of document.querySelectorAll('main>section'))s.hidden=s.id!==id;}
 function status(text,state){$('#sync-status').textContent=text;$('#sync-status').dataset.state=state;}
 function conflict(error){if(!sync)return;$('#listening-audio').pause();$('#conflict').hidden=false;$('#conflict-message').textContent=error.status===401?'登录已过期。本地修改已保留，请重新登录后继续。':error.message;$('#takeover').hidden=error.status!==409;$('#reauth').hidden=error.status!==401;updateExam(sync);}
 async function run(fn){try{return await fn();}catch(e){message(e.message);if(e.status===401&&!sync){show('login-view');}return null;}}
 function destroy(){if(sync){sync.destroy();sync=null;}$('#listening-audio').pause();}
 function clearAccountViews(){
- bank.reset();contentBank.reset();approvedBank.reset();destroy();closeReportQuestion();reportRequest++;reportScope='mine';for(const scope of ['mine','all'])Object.assign(reportFilters[scope],{range:'all',from:'',to:'',ownerId:''});
+ stage2.reset();bank.reset();contentBank.reset();approvedBank.reset();destroy();closeReportQuestion();reportRequest++;reportScope='mine';for(const scope of ['mine','all'])Object.assign(reportFilters[scope],{range:'all',from:'',to:'',ownerId:''});
  for(const id of ['report-content','report-list','user-list','attempt-list','draft-list','questions'])$('#'+id).replaceChildren();$('#report-content').onclick=null;
  $('#archive-owner').innerHTML='<option value="">全部考生</option>';$('#report-owner').textContent='';$('#report-owner').hidden=true;$('#report-title').textContent='';$('#report-user-filter').hidden=true;
 }
@@ -62,7 +64,7 @@ $('#report-filters').onsubmit=e=>{e.preventDefault();run(loadReportList);};
 async function showReport(id,scope='mine'){
  destroy();const r=await api('GET',scope==='all'?`/admin/reports/${id}`:`/reports/${id}`);reportScope=scope;show('report-view');message('');renderReport(r,{mountRelatedQuestions:mountRelated});$('#report-owner').hidden=!r.ownerUsername;$('#report-owner').textContent=r.ownerUsername?`考生：${r.ownerUsername}`:'';
 }
-$('#login-form').onsubmit=e=>{e.preventDefault();run(async()=>{const form=e.currentTarget;const data=new FormData(form);const result=await api('POST','/auth/login',{username:data.get('username'),password:data.get('password')});clearAccountViews();form.reset();setCsrf(result.csrf);user=result.user;bank.setUser(user);contentBank.setUser(user);approvedBank.setUser(user);$('#account-name').textContent=user.username;$('#logout').hidden=false;$('#open-admin').hidden=user.role!=='admin';$('#open-all-reports').hidden=user.role!=='admin';await home();});};
+$('#login-form').onsubmit=e=>{e.preventDefault();run(async()=>{const form=e.currentTarget;const data=new FormData(form);const result=await api('POST','/auth/login',{username:data.get('username'),password:data.get('password')});clearAccountViews();form.reset();setCsrf(result.csrf);user=result.user;stage2.setUser(user);bank.setUser(user);contentBank.setUser(user);approvedBank.setUser(user);$('#account-name').textContent=user.username;$('#logout').hidden=false;$('#open-admin').hidden=user.role!=='admin';$('#open-all-reports').hidden=user.role!=='admin';await home();});};
 $('#logout').onclick=()=>run(async()=>{if(sync){sync.stop();sync.persist();}if(sync&&!sync.frozen){try{await sync.flush('pause');}catch{message('进度尚未同步，已保留本机备份。');}}await api('POST','/auth/logout',{});clearAccountViews();setCsrf('');user=null;$('#account-name').textContent='';$('#logout').hidden=true;show('login-view');message('已退出；未同步内容仍保存在原账号的本机缓存中。');});
 $('#brand-home').onclick=()=>run(()=>user?home():Promise.resolve(show('login-view')));document.querySelectorAll('[data-home]').forEach(b=>b.onclick=()=>run(home));
 $('#pause-exam').onclick=()=>run(pause);$('#open-reports').onclick=()=>run(showReports);$('#report-back').onclick=()=>run(()=>showReports(reportScope));$('#open-all-reports').onclick=()=>run(()=>showReports('all'));
@@ -86,4 +88,4 @@ $('#legacy-file').onchange=()=>run(async()=>{const file=$('#legacy-file').files[
 $('#confirm-import').onclick=()=>run(async()=>{const indexes=[...document.querySelectorAll('[data-import-index]:checked:not(:disabled)')].map(e=>Number(e.dataset.importIndex));if(!indexes.length)throw Error('没有可导入的选中记录。');const r=await api('POST','/legacy-import/confirm',{previewId:preview.previewId,indexes,acknowledgeWarnings:$('#import-ack').checked});message(`已导入${r.imported}份，跳过${r.skipped}份重复记录。`);$('#confirm-import').hidden=true;await showReports();});
 async function adminView(){show('admin-view');const data=await api('GET','/admin/users');$('#user-list').innerHTML=data.users.map(u=>`<form class="user-card" data-user-id="${u.id}"><b>${escape(u.username)} · ${escape(u.role)}</b><label>新密码<input name="password" type="password" minlength="10" maxlength="256" autocomplete="new-password" required></label><button class="secondary">重置密码并注销旧会话</button></form>`).join('');$('#user-list').querySelectorAll('form').forEach(f=>f.onsubmit=e=>{e.preventDefault();run(async()=>{if(!confirm('重置后该账号所有旧登录状态失效，确认？'))return;await api('POST',`/admin/users/${f.dataset.userId}/reset-password`,{password:new FormData(f).get('password')});f.reset();message('密码已重置，旧会话已注销。');});});}
 $('#open-admin').onclick=()=>run(adminView);$('#create-user-form').onsubmit=e=>{e.preventDefault();const form=e.currentTarget;run(async()=>{const data=new FormData(form);await api('POST','/admin/users',{username:data.get('username'),password:data.get('password'),role:'user'});form.reset();await adminView();message('普通用户已创建。');});};
-await run(async()=>{try{const result=await api('GET','/auth/me');setCsrf(result.csrf);user=result.user;bank.setUser(user);contentBank.setUser(user);approvedBank.setUser(user);$('#account-name').textContent=user.username;$('#logout').hidden=false;$('#open-admin').hidden=user.role!=='admin';$('#open-all-reports').hidden=user.role!=='admin';await home();}catch(e){show('login-view');if(e.code==='NETWORK_ERROR')message('当前无法连接服务器。原有待同步缓存仍保留，联网后重新登录继续。');}});
+await run(async()=>{try{const result=await api('GET','/auth/me');setCsrf(result.csrf);user=result.user;stage2.setUser(user);bank.setUser(user);contentBank.setUser(user);approvedBank.setUser(user);$('#account-name').textContent=user.username;$('#logout').hidden=false;$('#open-admin').hidden=user.role!=='admin';$('#open-all-reports').hidden=user.role!=='admin';await home();}catch(e){show('login-view');if(e.code==='NETWORK_ERROR')message('当前无法连接服务器。原有待同步缓存仍保留，联网后重新登录继续。');}});

@@ -1,8 +1,9 @@
 import {fail,exact,integer,string} from './security.mjs';
 import {importCandidate,validateBankImport,fingerprint} from './bank-import.mjs';
+import {stage2RelatedReport} from './stage2.mjs';
 const normalized=s=>s.normalize('NFKC').trim().toLocaleLowerCase('fr');
 const stamp=()=>new Date().toISOString();
-export function questionIssues(q){if(q.answer.value===null)return [];const claims=[...(q.explanation?.quote||'').matchAll(/(?:正确答案[是为：:\s]*|答案选\s*)([A-D])(?:[.．、\s（(]|$)/g)].map(m=>m[1]);return [...new Set(claims)].filter(c=>c!==q.answer.value).map(c=>`解析中出现答案${c}，与指定参考答案${q.answer.value}不同；须核对并保留指定判分答案`);}
+export function questionIssues(q){if(q.answer.status==='unusable_reference')return ['参考资料无法对应本卷选项，保留原文依据，暂不判分或关联发布'];if(q.answer.status==='conflicting_reference')return ['参考答案来源冲突，已保留各来源值；本题暂不用于自动判分或关联发布'];if(q.gradingMode==='manual')return ['非选择题仅保存题面和已有参考内容，须人工评阅，不参与选择题自动判分或关联发布'];if(q.answer.value===null)return [];const claims=[...(q.explanation?.quote||'').matchAll(/(?:正确答案[是为：:\s]*|答案选\s*)([A-D])(?:[.．、\s（(]|$)/g)].map(m=>m[1]);return [...new Set(claims)].filter(c=>c!==q.answer.value).map(c=>`解析中出现答案${c}，与指定参考答案${q.answer.value}不同；须核对并保留指定判分答案`);}
 function batch(db,id){const row=db.prepare('SELECT * FROM bank_imports WHERE id=?').get(id);if(!row)fail(404,'NOT_FOUND');if(row.status!=='candidate')fail(422,'INVALID_BATCH','错误批次须修正后重新导入');return JSON.parse(row.payload);}
 function state(db,id){return db.prepare('SELECT revision FROM bank_review_state WHERE import_id=?').get(id)?.revision||0;}
 function lock(db,id,revision){integer(revision);if(state(db,id)!==revision)fail(409,'REVIEW_CONFLICT','审核已被其他操作更新，请重新读取');if(db.prepare('SELECT id FROM bank_publications WHERE import_id=?').get(id))fail(409,'PUBLISHED_IMMUTABLE','此版本已发布；修改须导入新来源版本');}
@@ -22,7 +23,7 @@ export function reviewContent(db,id,body,actor){
  })();
 }
 const contentApproved=(db,id,qid)=>db.prepare("SELECT 1 FROM bank_content_reviews WHERE import_id=? AND question_id=? AND status='approved'").get(id,qid);
-function eligible(db,id,data,q){return q.answer.value!==null&&q.answer.evidence&&q.classification&&q.explanation&&confirmed(db,id,data,q.explanation.documentId)&&confirmed(db,id,data,q.answer.evidence.documentId);}
+function eligible(db,id,data,q){return q.gradingMode!=='manual'&&q.answer.value!==null&&q.answer.evidence&&q.classification&&q.explanation&&confirmed(db,id,data,q.explanation.documentId)&&confirmed(db,id,data,q.answer.evidence.documentId);}
 export function reviewBatch(db,id,body,actor){
  exact(body,['expectedRevision','questionIds','decision','reason','acknowledgeIssues'],['expectedRevision','questionIds','decision','reason']);integer(body.expectedRevision);string(body.reason,1,2000);if(!body.reason.trim())fail(400,'INVALID_REVIEW');if(body.acknowledgeIssues!==undefined&&typeof body.acknowledgeIssues!=='boolean')fail(400,'INVALID_REVIEW');
  if(!['approved','returned'].includes(body.decision)||!Array.isArray(body.questionIds)||!body.questionIds.length||body.questionIds.length>2000||new Set(body.questionIds).size!==body.questionIds.length)fail(400,'INVALID_REVIEW');
@@ -79,6 +80,7 @@ export function importClassifications(db,id,body,actor){
 export function relatedForReport(db,reportId,questionId,account){
  const report=db.prepare('SELECT * FROM reports WHERE id=?').get(reportId);if(!report||(report.owner_id!==account.id&&account.role!=='admin'))fail(404,'NOT_FOUND');
  const frozen=JSON.parse(report.payload),item=frozen.items.find(i=>i.question.id===questionId);if(!item)fail(404,'NOT_FOUND');
+ const redesigned=stage2RelatedReport(db,frozen,item,account);if(redesigned)return redesigned;
  const publications=db.prepare('SELECT * FROM bank_publications p WHERE source_version=(SELECT max(source_version) FROM bank_publications WHERE source_id=p.source_id)').all();
  const source=publications.find(p=>p.source_id===frozen.sourceId);if(!source)return {items:[],reason:'此来源尚无已发布的审核关联'};
  if(!contentApproved(db,source.import_id,questionId))return {items:[],reason:'此题内容尚未审核通过，暂不使用关联'};

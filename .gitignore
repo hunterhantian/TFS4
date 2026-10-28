@@ -9,3 +9,6 @@ tmp/
 .env
 .env.*
 !.env.example
+
+# Local OCR experiment binaries; keep the written audit in Git.
+output/pdf/*.pdf

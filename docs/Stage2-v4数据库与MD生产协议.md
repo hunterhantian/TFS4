@@ -51,6 +51,12 @@ LlamaParse负责PDF/图片到MD；Codex只读取MD及其已保存API返回，完
 
 动词空以blankIndex标示原篇章中的目标空，原号不伪造为101—122。完整材料独立保存。缺原图、缺明确空位、材料归属不明时保留具体问题。
 
+## 2026-10-28确认的匹配原则更新
+
+后续以“同知识点为核心，题型作为分组和训练顺序”为准，详见[Stage2匹配原则](Stage2匹配原则.md)。日常只标注题目的规范主知识点归属、题型及必要依据/复核；题间列表通过查询形成，不额外逐对配对、评分或写比较解析。新增有效题自动进入对应知识点/题型分组，不重标同组题。
+
+只推进客观题，作文/看图等主观任务留存历史、不再进入后续匹配。正式节点聚合、多题分页和题型分组界面及最小标注适配仍待实现；下文strict/transfer/contrast和analysis-v1字段描述现有实现，不表示本轮已改接口或删改历史结构。
+
 ## AI分析与检索
 
 analysis-v1对象字段：id、questionVersionId、answerSetId、catalogRevision、producer、runId、conclusion、primaryId、auxiliaryIds、methodId、basis、keyEvidence、boundary、distractors、issues、review。

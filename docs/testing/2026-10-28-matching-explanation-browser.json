@@ -1,0 +1,25 @@
+{
+  "createdAt": "2026-10-28T09:56:05.888Z",
+  "database": "independent temporary copy of real published pilot data",
+  "checks": [
+    "real published positive pair loads automatically",
+    "source and target cards visible together",
+    "real source clues highlighted and teaching notes explicitly labelled AI",
+    "four real eligibility checks pass",
+    "answer trial is local and ungraded",
+    "active analysis quote and review provenance shown",
+    "same type different primary shown as negative",
+    "390px no horizontal overflow",
+    "self comparison excluded",
+    "no stage2 write requests or exam/history/review changes",
+    "ordinary student cannot open demonstration or its API",
+    "no browser runtime errors"
+  ],
+  "errors": [],
+  "writeRequests": [],
+  "screenshots": [
+    "tmp/matching-demo/desktop-positive.png",
+    "tmp/matching-demo/desktop-negative.png",
+    "tmp/matching-demo/mobile-positive.png"
+  ]
+}

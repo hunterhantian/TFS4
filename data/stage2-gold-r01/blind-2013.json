@@ -1,0 +1,3127 @@
+{
+  "schemaVersion": 1,
+  "year": 2013,
+  "items": [
+    {
+      "questionId": "tfs4-2013-q021",
+      "questionVersionId": "tfs4-2013-q021:v2",
+      "year": 2013,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "text": "Il est plus inquiet qu'il ne paraît effectivement.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "probablement"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "apparemment"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "réellement"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "naturellement"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 5,
+          "start": 1057,
+          "end": 1182,
+          "quote": "\n21. Il est plus inquiet qu'il ne paraît <u>effectivement</u>.\nA. probablement\nB. apparemment\nC. réellement\nD. naturellement\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q022",
+      "questionVersionId": "tfs4-2013-q022:v2",
+      "year": 2013,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "text": "À la fin de l'année, on vend des articles à un prix intéressant.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "avantageux"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "élevé"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "fixe"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "courant"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 5,
+          "start": 1182,
+          "end": 1301,
+          "quote": "\n22. À la fin de l'année, on vend des articles à un prix <u>intéressant</u>.\nA. avantageux\nB. élevé\nC. fixe\nD. courant\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q023",
+      "questionVersionId": "tfs4-2013-q023:v2",
+      "year": 2013,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "text": "Les Martin projettent de faire un voyage en Chine cet été.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "essaient"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "proposent"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "tentent"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "envisagent"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 5,
+          "start": 1301,
+          "end": 1421,
+          "quote": "\n23. Les Martin <u>projettent</u> de faire un voyage en Chine cet été.\nA. essaient\nB. proposent\nC. tentent\nD. envisagent"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q024",
+      "questionVersionId": "tfs4-2013-q024:v2",
+      "year": 2013,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "text": "En raison de son âge avancé, il ménage ses forces.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "maîtrise"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "épargne"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "garde"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "entretient"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 6,
+          "start": 0,
+          "end": 108,
+          "quote": "24. En raison de son âge avancé, il <u>ménage</u> ses forces.\nA. maîtrise B. épargne C. garde D. entretient\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q025",
+      "questionVersionId": "tfs4-2013-q025:v2",
+      "year": 2013,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "text": "Par suite de la crise économique, le patron a dû licencier des ouvriers.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "chasser"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "exclure"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "renvoyer"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "éliminer"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 6,
+          "start": 108,
+          "end": 238,
+          "quote": "\n25. Par suite de la crise économique, le patron a dû <u>licencier</u> des ouvriers.\nA. chasser B. exclure C. renvoyer D. éliminer"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q026",
+      "questionVersionId": "tfs4-2013-q026:v2",
+      "year": 2013,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "text": "Il mène un train de vie modeste.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "misérable"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "luxueux"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "moderne"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "noble"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 6,
+          "start": 360,
+          "end": 449,
+          "quote": "\n26. Il mène un train de vie <u>modeste</u>.\nA. misérable B. luxueux C. moderne D. noble\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q027",
+      "questionVersionId": "tfs4-2013-q027:v2",
+      "year": 2013,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "text": "À la suite de la fermeture de l'usine, il est au chômage.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "la faillite"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "l'inauguration"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "(du) démarrage"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "l'ouverture"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 6,
+          "start": 449,
+          "end": 585,
+          "quote": "\n27. À la suite de <u>la fermeture</u> de l'usine, il est au chômage.\nA. la faillite B. l'inauguration C. (du) démarrage D. l'ouverture\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q028",
+      "questionVersionId": "tfs4-2013-q028:v2",
+      "year": 2013,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "text": "Le temps se met au froid, portez des vêtements chauds.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "frais"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "légers"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "doux"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "lourds"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 6,
+          "start": 585,
+          "end": 689,
+          "quote": "\n28. Le temps se met au froid, portez des vêtements <u>chauds</u>.\nA. frais B. légers C. doux D. lourds\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q029",
+      "questionVersionId": "tfs4-2013-q029:v2",
+      "year": 2013,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "text": "Il essaie de raccourcir son article.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "prolonger"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "longer"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "(d')allonger"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "(d')accroître"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 6,
+          "start": 689,
+          "end": 794,
+          "quote": "\n29. Il essaie de <u>raccourcir</u> son article.\nA. prolonger B. longer C. (d')allonger D. (d')accroître\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q030",
+      "questionVersionId": "tfs4-2013-q030:v2",
+      "year": 2013,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "text": "Il a changé de travail, son revenu a augmenté.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "a baissé"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "a cru"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "s'est rétréci"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "est reculé"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 6,
+          "start": 794,
+          "end": 904,
+          "quote": "\n30. Il a changé de travail, son revenu <u>a augmenté</u>.\nA. a baissé B. a cru C. s'est rétréci D. est reculé"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q032",
+      "questionVersionId": "tfs4-2013-q032:v2",
+      "year": 2013,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "32.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "en équipe"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "en groupe"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "en solidarité"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "en solitaire"
+        }
+      ],
+      "material": "Le Vendée Globe est une course __31__ monde à la voile, __32__ sans escale et sans assistance.\n\nLes concurrents suivent __33__ précis(e). Ne pas le respecter, c'est être automatiquement __34__. Cette course a lieu tous les quatre ans.\n\nLe 2 février 2005, c'est un skipper français, Vincent Riou, qui __35__ le premier la ligne d'arrivée.\n\nLe 7 novembre 2004, il avait quitté les Sables-d'Olonne, en Vendée, avec vingt autres concurrents. Le lendemain, le 8 novembre, il s'était retrouvé __36__ les vagues énormes du golfe de Gascogne, puis il était passé au large des îles Canaries. Le premier décembre, il était entré dans __37__ indien(ne). Dix jours plus tard, il a aperçu les côtes de l'Australie... Après être remonté __38__ Horne, rendez-vous de tous les vents de la terre, de toutes les vagues, il __39__ la côte brésilienne et enfin avait pris la dernière ligne droite vers les Sables-d'Olonne, où il était arrivé le 2 février 2005. Il venait de passer 87 jours en mer et il avait parcouru 43 000 kilomètres de souffrance, de solitude, de découragement, mais aussi de __40__.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 7,
+          "start": 1656,
+          "end": 1719,
+          "quote": "32. A. en équipe B. en groupe C. en solidarité D. en solitaire\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q033",
+      "questionVersionId": "tfs4-2013-q033:v2",
+      "year": 2013,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "33.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "un itinéraire"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "une ligne"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "un chemin"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "une piste"
+        }
+      ],
+      "material": "Le Vendée Globe est une course __31__ monde à la voile, __32__ sans escale et sans assistance.\n\nLes concurrents suivent __33__ précis(e). Ne pas le respecter, c'est être automatiquement __34__. Cette course a lieu tous les quatre ans.\n\nLe 2 février 2005, c'est un skipper français, Vincent Riou, qui __35__ le premier la ligne d'arrivée.\n\nLe 7 novembre 2004, il avait quitté les Sables-d'Olonne, en Vendée, avec vingt autres concurrents. Le lendemain, le 8 novembre, il s'était retrouvé __36__ les vagues énormes du golfe de Gascogne, puis il était passé au large des îles Canaries. Le premier décembre, il était entré dans __37__ indien(ne). Dix jours plus tard, il a aperçu les côtes de l'Australie... Après être remonté __38__ Horne, rendez-vous de tous les vents de la terre, de toutes les vagues, il __39__ la côte brésilienne et enfin avait pris la dernière ligne droite vers les Sables-d'Olonne, où il était arrivé le 2 février 2005. Il venait de passer 87 jours en mer et il avait parcouru 43 000 kilomètres de souffrance, de solitude, de découragement, mais aussi de __40__.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 7,
+          "start": 1719,
+          "end": 1779,
+          "quote": "33. A. un itinéraire B. une ligne C. un chemin D. une piste\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q034",
+      "questionVersionId": "tfs4-2013-q034:v2",
+      "year": 2013,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "34.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "admis"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "qualifié"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "disqualifié"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "abandonné"
+        }
+      ],
+      "material": "Le Vendée Globe est une course __31__ monde à la voile, __32__ sans escale et sans assistance.\n\nLes concurrents suivent __33__ précis(e). Ne pas le respecter, c'est être automatiquement __34__. Cette course a lieu tous les quatre ans.\n\nLe 2 février 2005, c'est un skipper français, Vincent Riou, qui __35__ le premier la ligne d'arrivée.\n\nLe 7 novembre 2004, il avait quitté les Sables-d'Olonne, en Vendée, avec vingt autres concurrents. Le lendemain, le 8 novembre, il s'était retrouvé __36__ les vagues énormes du golfe de Gascogne, puis il était passé au large des îles Canaries. Le premier décembre, il était entré dans __37__ indien(ne). Dix jours plus tard, il a aperçu les côtes de l'Australie... Après être remonté __38__ Horne, rendez-vous de tous les vents de la terre, de toutes les vagues, il __39__ la côte brésilienne et enfin avait pris la dernière ligne droite vers les Sables-d'Olonne, où il était arrivé le 2 février 2005. Il venait de passer 87 jours en mer et il avait parcouru 43 000 kilomètres de souffrance, de solitude, de découragement, mais aussi de __40__.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 7,
+          "start": 1779,
+          "end": 1832,
+          "quote": "34. A. admis B. qualifié C. disqualifié D. abandonné\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q035",
+      "questionVersionId": "tfs4-2013-q035:v2",
+      "year": 2013,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "35.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "a choqué"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "a brisé"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "a franchi"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "a affranchi"
+        }
+      ],
+      "material": "Le Vendée Globe est une course __31__ monde à la voile, __32__ sans escale et sans assistance.\n\nLes concurrents suivent __33__ précis(e). Ne pas le respecter, c'est être automatiquement __34__. Cette course a lieu tous les quatre ans.\n\nLe 2 février 2005, c'est un skipper français, Vincent Riou, qui __35__ le premier la ligne d'arrivée.\n\nLe 7 novembre 2004, il avait quitté les Sables-d'Olonne, en Vendée, avec vingt autres concurrents. Le lendemain, le 8 novembre, il s'était retrouvé __36__ les vagues énormes du golfe de Gascogne, puis il était passé au large des îles Canaries. Le premier décembre, il était entré dans __37__ indien(ne). Dix jours plus tard, il a aperçu les côtes de l'Australie... Après être remonté __38__ Horne, rendez-vous de tous les vents de la terre, de toutes les vagues, il __39__ la côte brésilienne et enfin avait pris la dernière ligne droite vers les Sables-d'Olonne, où il était arrivé le 2 février 2005. Il venait de passer 87 jours en mer et il avait parcouru 43 000 kilomètres de souffrance, de solitude, de découragement, mais aussi de __40__.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 7,
+          "start": 1832,
+          "end": 1887,
+          "quote": "35. A. a choqué B. a brisé C. a franchi D. a affranchi\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q036",
+      "questionVersionId": "tfs4-2013-q036:v2",
+      "year": 2013,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "36.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "sous"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "dans"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "contre"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "parmi"
+        }
+      ],
+      "material": "Le Vendée Globe est une course __31__ monde à la voile, __32__ sans escale et sans assistance.\n\nLes concurrents suivent __33__ précis(e). Ne pas le respecter, c'est être automatiquement __34__. Cette course a lieu tous les quatre ans.\n\nLe 2 février 2005, c'est un skipper français, Vincent Riou, qui __35__ le premier la ligne d'arrivée.\n\nLe 7 novembre 2004, il avait quitté les Sables-d'Olonne, en Vendée, avec vingt autres concurrents. Le lendemain, le 8 novembre, il s'était retrouvé __36__ les vagues énormes du golfe de Gascogne, puis il était passé au large des îles Canaries. Le premier décembre, il était entré dans __37__ indien(ne). Dix jours plus tard, il a aperçu les côtes de l'Australie... Après être remonté __38__ Horne, rendez-vous de tous les vents de la terre, de toutes les vagues, il __39__ la côte brésilienne et enfin avait pris la dernière ligne droite vers les Sables-d'Olonne, où il était arrivé le 2 février 2005. Il venait de passer 87 jours en mer et il avait parcouru 43 000 kilomètres de souffrance, de solitude, de découragement, mais aussi de __40__.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 7,
+          "start": 1887,
+          "end": 1925,
+          "quote": "36. A. sous B. dans C. contre D. parmi"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q037",
+      "questionVersionId": "tfs4-2013-q037:v2",
+      "year": 2013,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "37.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "la mer"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "la terre"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "l'océan"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "la côte"
+        }
+      ],
+      "material": "Le Vendée Globe est une course __31__ monde à la voile, __32__ sans escale et sans assistance.\n\nLes concurrents suivent __33__ précis(e). Ne pas le respecter, c'est être automatiquement __34__. Cette course a lieu tous les quatre ans.\n\nLe 2 février 2005, c'est un skipper français, Vincent Riou, qui __35__ le premier la ligne d'arrivée.\n\nLe 7 novembre 2004, il avait quitté les Sables-d'Olonne, en Vendée, avec vingt autres concurrents. Le lendemain, le 8 novembre, il s'était retrouvé __36__ les vagues énormes du golfe de Gascogne, puis il était passé au large des îles Canaries. Le premier décembre, il était entré dans __37__ indien(ne). Dix jours plus tard, il a aperçu les côtes de l'Australie... Après être remonté __38__ Horne, rendez-vous de tous les vents de la terre, de toutes les vagues, il __39__ la côte brésilienne et enfin avait pris la dernière ligne droite vers les Sables-d'Olonne, où il était arrivé le 2 février 2005. Il venait de passer 87 jours en mer et il avait parcouru 43 000 kilomètres de souffrance, de solitude, de découragement, mais aussi de __40__.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 8,
+          "start": 94,
+          "end": 142,
+          "quote": "37. A. la mer B. la terre C. l'océan D. la côte\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q038",
+      "questionVersionId": "tfs4-2013-q038:v2",
+      "year": 2013,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "38.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "le coin"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "le cap"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "l'angle"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "la cape"
+        }
+      ],
+      "material": "Le Vendée Globe est une course __31__ monde à la voile, __32__ sans escale et sans assistance.\n\nLes concurrents suivent __33__ précis(e). Ne pas le respecter, c'est être automatiquement __34__. Cette course a lieu tous les quatre ans.\n\nLe 2 février 2005, c'est un skipper français, Vincent Riou, qui __35__ le premier la ligne d'arrivée.\n\nLe 7 novembre 2004, il avait quitté les Sables-d'Olonne, en Vendée, avec vingt autres concurrents. Le lendemain, le 8 novembre, il s'était retrouvé __36__ les vagues énormes du golfe de Gascogne, puis il était passé au large des îles Canaries. Le premier décembre, il était entré dans __37__ indien(ne). Dix jours plus tard, il a aperçu les côtes de l'Australie... Après être remonté __38__ Horne, rendez-vous de tous les vents de la terre, de toutes les vagues, il __39__ la côte brésilienne et enfin avait pris la dernière ligne droite vers les Sables-d'Olonne, où il était arrivé le 2 février 2005. Il venait de passer 87 jours en mer et il avait parcouru 43 000 kilomètres de souffrance, de solitude, de découragement, mais aussi de __40__.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 8,
+          "start": 142,
+          "end": 189,
+          "quote": "38. A. le coin B. le cap C. l'angle D. la cape\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q039",
+      "questionVersionId": "tfs4-2013-q039:v2",
+      "year": 2013,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "39.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "avait parcouru"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "avait traversé"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "avait passé"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "avait longé"
+        }
+      ],
+      "material": "Le Vendée Globe est une course __31__ monde à la voile, __32__ sans escale et sans assistance.\n\nLes concurrents suivent __33__ précis(e). Ne pas le respecter, c'est être automatiquement __34__. Cette course a lieu tous les quatre ans.\n\nLe 2 février 2005, c'est un skipper français, Vincent Riou, qui __35__ le premier la ligne d'arrivée.\n\nLe 7 novembre 2004, il avait quitté les Sables-d'Olonne, en Vendée, avec vingt autres concurrents. Le lendemain, le 8 novembre, il s'était retrouvé __36__ les vagues énormes du golfe de Gascogne, puis il était passé au large des îles Canaries. Le premier décembre, il était entré dans __37__ indien(ne). Dix jours plus tard, il a aperçu les côtes de l'Australie... Après être remonté __38__ Horne, rendez-vous de tous les vents de la terre, de toutes les vagues, il __39__ la côte brésilienne et enfin avait pris la dernière ligne droite vers les Sables-d'Olonne, où il était arrivé le 2 février 2005. Il venait de passer 87 jours en mer et il avait parcouru 43 000 kilomètres de souffrance, de solitude, de découragement, mais aussi de __40__.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 8,
+          "start": 189,
+          "end": 259,
+          "quote": "39. A. avait parcouru B. avait traversé C. avait passé D. avait longé\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q040",
+      "questionVersionId": "tfs4-2013-q040:v2",
+      "year": 2013,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "40.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "danger"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "catastrophe"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "joie"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "difficulté"
+        }
+      ],
+      "material": "Le Vendée Globe est une course __31__ monde à la voile, __32__ sans escale et sans assistance.\n\nLes concurrents suivent __33__ précis(e). Ne pas le respecter, c'est être automatiquement __34__. Cette course a lieu tous les quatre ans.\n\nLe 2 février 2005, c'est un skipper français, Vincent Riou, qui __35__ le premier la ligne d'arrivée.\n\nLe 7 novembre 2004, il avait quitté les Sables-d'Olonne, en Vendée, avec vingt autres concurrents. Le lendemain, le 8 novembre, il s'était retrouvé __36__ les vagues énormes du golfe de Gascogne, puis il était passé au large des îles Canaries. Le premier décembre, il était entré dans __37__ indien(ne). Dix jours plus tard, il a aperçu les côtes de l'Australie... Après être remonté __38__ Horne, rendez-vous de tous les vents de la terre, de toutes les vagues, il __39__ la côte brésilienne et enfin avait pris la dernière ligne droite vers les Sables-d'Olonne, où il était arrivé le 2 février 2005. Il venait de passer 87 jours en mer et il avait parcouru 43 000 kilomètres de souffrance, de solitude, de découragement, mais aussi de __40__.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 8,
+          "start": 259,
+          "end": 309,
+          "quote": "40. A. danger B. catastrophe C. joie D. difficulté"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q041",
+      "questionVersionId": "tfs4-2013-q041:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Mes voisins se plaignent du bruit _ je fais.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "dont"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "duquel"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "que"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "où"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 8,
+          "start": 442,
+          "end": 523,
+          "quote": "\n41. Mes voisins se plaignent du bruit _ je fais.\nA. dont B. duquel C. que D. où\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q042",
+      "questionVersionId": "tfs4-2013-q042:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Il n'obéit jamais _ ses parents.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "à"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "en"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "de"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "avec"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 8,
+          "start": 523,
+          "end": 593,
+          "quote": "\n42. Il n'obéit jamais _ ses parents.\n<u>A. à</u> B. en C. de D. avec\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q043",
+      "questionVersionId": "tfs4-2013-q043:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Il a payé une amende _ avoir roulé trop vite sur l'autoroute.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "de"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "par"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "à cause de"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "pour"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 8,
+          "start": 593,
+          "end": 695,
+          "quote": "\n43. Il a payé une amende _ avoir roulé trop vite sur l'autoroute.\nA. de B. par C. à cause de D. pour\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q044",
+      "questionVersionId": "tfs4-2013-q044:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Il fait du jogging tous les matins _ son âge.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "en raison de"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "à cause de"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "en dépit de"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "par suite de"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 8,
+          "start": 695,
+          "end": 807,
+          "quote": "\n44. Il fait du jogging tous les matins _ son âge.\nA. en raison de B. à cause de C. en dépit de D. par suite de\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q045",
+      "questionVersionId": "tfs4-2013-q045:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "_ de ces deux cravates vous intéresse ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Lequel"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Laquelle"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Quel"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Quelle"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 8,
+          "start": 807,
+          "end": 892,
+          "quote": "\n45. _ de ces deux cravates vous intéresse ?\nA. Lequel B. Laquelle C. Quel D. Quelle\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q047",
+      "questionVersionId": "tfs4-2013-q047:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "_ tous les temps, il promène son chien après le dîner.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Pour"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "En"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Avec"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Par"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 8,
+          "start": 1009,
+          "end": 1097,
+          "quote": "\n47. _ tous les temps, il promène son chien après le dîner.\nA. Pour B. En C. Avec D. Par"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q048",
+      "questionVersionId": "tfs4-2013-q048:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Il a dû garder le lit _______ cet accident.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "pour"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "par"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "malgré"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "à la suite de"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 9,
+          "start": 0,
+          "end": 90,
+          "quote": "48. Il a dû garder le lit _______ cet accident.\nA. pour\nB. par\nC. malgré\nD. à la suite de\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q049",
+      "questionVersionId": "tfs4-2013-q049:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "_______ de ce qui était humain ne leur fut étranger.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Tout"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Rien"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Cela"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Chacun"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 9,
+          "start": 90,
+          "end": 182,
+          "quote": "\n49. _______ de ce qui était humain ne leur fut étranger.\nA. Tout\nB. Rien\nC. Cela\nD. Chacun\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q050",
+      "questionVersionId": "tfs4-2013-q050:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Le chef de chantier se met en colère _______ des ouvriers nonchalants.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "pour"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "sur"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "contre"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "avec"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 9,
+          "start": 182,
+          "end": 295,
+          "quote": "\n50. Le **chef de chantier** se met en colère _______ des ouvriers nonchalants.\nA. pour\nB. sur\nC. contre\nD. avec\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q051",
+      "questionVersionId": "tfs4-2013-q051:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "J'ai trouvé des clés sur le bureau, quelqu'un aurait-t-il perdu _______ ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "les siens"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "les siennes"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "les leurs"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "les miens"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 9,
+          "start": 295,
+          "end": 432,
+          "quote": "\n51. J'ai **trouvé** des clés sur le bureau, quelqu'un aurait-t-il perdu _______ ?\nA. les siens\nB. les siennes\nC. les leurs\nD. les miens\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q052",
+      "questionVersionId": "tfs4-2013-q052:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Anne adore les sacs à main, elle en possède _______.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "un certain"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "tout"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "quelques"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "plusieurs"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 9,
+          "start": 432,
+          "end": 537,
+          "quote": "\n52. Anne adore les sacs à main, elle en possède _______.\nA. un certain\nB. tout\nC. quelques\nD. plusieurs\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q053",
+      "questionVersionId": "tfs4-2013-q053:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "C'est le dictionnaire _______ nous nous servons souvent.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "que"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "qui"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "dont"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "avec lequel"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 9,
+          "start": 537,
+          "end": 636,
+          "quote": "\n53. C'est le dictionnaire _______ nous nous servons souvent.\nA. que\nB. qui\nC. dont\nD. avec lequel\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q054",
+      "questionVersionId": "tfs4-2013-q054:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Nous avons fait refaire la maison natale, nous _______ avons eu pour près de 4 000 euros.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "le (l')"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "la (l')"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "y"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "en"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 9,
+          "start": 636,
+          "end": 764,
+          "quote": "\n54. Nous avons fait refaire la maison natale, nous _______ avons eu pour près de 4 000 euros.\nA. le (l')\nB. la (l')\nC. y\nD. en\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q056",
+      "questionVersionId": "tfs4-2013-q056:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Traditionnellement, chacun rentre chez _______ pour fêter le Nouvel An chinois avec sa famille.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "lui"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "soi"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "eux"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "elle"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 9,
+          "start": 851,
+          "end": 981,
+          "quote": "\n56. Traditionnellement, chacun rentre chez _______ pour fêter le Nouvel An chinois avec sa famille.\nA. lui\nB. soi\nC. eux\nD. elle\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q057",
+      "questionVersionId": "tfs4-2013-q057:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Sa lettre était pleine de respect _______ son professeur.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "à"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "contre"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "vers"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "envers"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 9,
+          "start": 981,
+          "end": 1077,
+          "quote": "\n57. Sa lettre était pleine de respect _______ son professeur.\nA. à\nB. contre\nC. vers\nD. envers\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q059",
+      "questionVersionId": "tfs4-2013-q059:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Ces fraises sont bonnes, goûtez_______.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "quelques-unes"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "quelques-uns"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "quelque"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "quelques"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 9,
+          "start": 1189,
+          "end": 1290,
+          "quote": "\n59. Ces fraises sont bonnes, goûtez_______.\nA. quelques-unes\nB. quelques-uns\nC. quelque\nD. quelques\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q060",
+      "questionVersionId": "tfs4-2013-q060:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Elle fait le ménage chez des particuliers, elle est payée _______ l'heure.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "par"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "pour"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "sur"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "à"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 9,
+          "start": 1290,
+          "end": 1396,
+          "quote": "\n60. Elle fait le ménage chez des particuliers, elle est payée _______ l'heure.\nA. par\nB. pour\nC. sur\nD. à"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q061",
+      "questionVersionId": "tfs4-2013-q061:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Mon appareil photo est en panne, peux-tu me prêter _______ ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "le tien"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "le vôtre"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "la tienne"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "la vôtre"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 10,
+          "start": 0,
+          "end": 113,
+          "quote": "61. Mon appareil photo est en panne, peux-tu me prêter _______ ?\nA. le tien\nB. le vôtre\nC. la tienne\nD. la vôtre\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q062",
+      "questionVersionId": "tfs4-2013-q062:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Il ne peut pas nous rejoindre à la soirée, il est _______ occupé pour venir.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "vraiment"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "en effet"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "trop"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "tant"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 10,
+          "start": 113,
+          "end": 235,
+          "quote": "\n62. Il ne peut pas nous rejoindre à la soirée, il est _______ occupé pour venir.\nA. vraiment\nB. en effet\nC. trop\nD. tant\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q063",
+      "questionVersionId": "tfs4-2013-q063:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "_______ de whisky ne vous fera pas de mal : c'est bon pour le cœur.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Peu"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Beaucoup"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Un peu"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Assez"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 10,
+          "start": 235,
+          "end": 346,
+          "quote": "\n63. _______ de whisky ne vous fera pas de mal : c'est bon pour le cœur.\nA. Peu\nB. Beaucoup\nC. Un peu\nD. Assez\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q064",
+      "questionVersionId": "tfs4-2013-q064:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Je n'aime pas le théâtre de Victor Hugo, _______ j'aime bien ses romans.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "d'ailleurs"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "en revanche"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "en effet"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "en fait"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 10,
+          "start": 346,
+          "end": 476,
+          "quote": "\n64. Je n'aime pas le théâtre de Victor Hugo, _______ j'aime bien ses romans.\nA. d'ailleurs\nB. en revanche\nC. en effet\nD. en fait\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q065",
+      "questionVersionId": "tfs4-2013-q065:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Non seulement il fait chaud, _______ il fait aussi très humide.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "or"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "en outre"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "de plus"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "mais"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 10,
+          "start": 476,
+          "end": 582,
+          "quote": "\n65. Non seulement il fait chaud, _______ il fait aussi très humide.\nA. or\nB. en outre\nC. de plus\nD. mais\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q066",
+      "questionVersionId": "tfs4-2013-q066:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Simone et Zaza restent souvent ensemble _______ elles étaient inséparables.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "comme"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "parce qu'"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "comme si"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "puisqu'"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 10,
+          "start": 582,
+          "end": 708,
+          "quote": "\n66. Simone et Zaza restent souvent ensemble _______ elles étaient inséparables.\nA. comme\nB. parce qu'\nC. comme si\nD. puisqu'\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q067",
+      "questionVersionId": "tfs4-2013-q067:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "_______ il ne puisse obtenir son visa, il viendra nous rejoindre à Paris.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Afin qu'"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "À moins qu'"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Avant qu'"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "À condition qu'"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 10,
+          "start": 708,
+          "end": 846,
+          "quote": "\n67. _______ il ne puisse obtenir son visa, il viendra nous rejoindre à Paris.\nA. Afin qu'\nB. À moins qu'\nC. Avant qu'\nD. À condition qu'\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q068",
+      "questionVersionId": "tfs4-2013-q068:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Ma chambre est petite, _______ de mes parents est grande.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "celle"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "celles"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "celui"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "ceux"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 10,
+          "start": 846,
+          "end": 945,
+          "quote": "\n68. Ma chambre est petite, _______ de mes parents est grande.\nA. celle\nB. celles\nC. celui\nD. ceux\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q069",
+      "questionVersionId": "tfs4-2013-q069:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Il vient de rencontrer son ami d'enfance. Il ne l'avait pas revu _______ vingt ans.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "il y a"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "en"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "pendant"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "dans"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 10,
+          "start": 945,
+          "end": 1069,
+          "quote": "\n69. Il vient de rencontrer son ami d'enfance. Il ne l'avait pas revu _______ vingt ans.\nA. il y a\nB. en\nC. pendant\nD. dans\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q070",
+      "questionVersionId": "tfs4-2013-q070:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "C'est la rivière le long _______ nous aimons nous promener.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "d'où"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "de laquelle"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "laquelle"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "d'elle"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 10,
+          "start": 1069,
+          "end": 1179,
+          "quote": "\n70. C'est la rivière le long _______ nous aimons nous promener.\nA. d'où\nB. de laquelle\nC. laquelle\nD. d'elle\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q071",
+      "questionVersionId": "tfs4-2013-q071:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Auguste est jaloux _______ la réussite de sa petite sœur.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "par"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "à"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "avec"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "de"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 10,
+          "start": 1179,
+          "end": 1268,
+          "quote": "\n71. Auguste est jaloux _______ la réussite de sa petite sœur.\nA. par\nB. à\nC. avec\nD. de\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q072",
+      "questionVersionId": "tfs4-2013-q072:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Rentrez des bestiaux à l'étable _______ il ne pleuve.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "pour qu'"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "à condition qu'"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "avant qu'"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "parce qu'"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 10,
+          "start": 1268,
+          "end": 1384,
+          "quote": "\n72. Rentrez des bestiaux à l'étable _______ il ne pleuve.\nA. pour qu'\nB. à condition qu'\nC. avant qu'\nD. parce qu'\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q073",
+      "questionVersionId": "tfs4-2013-q073:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "C'est Isabelle et Sophie avec _______ je partage la chambre.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "quoi"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "qui"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "elles"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "eux"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 10,
+          "start": 1384,
+          "end": 1480,
+          "quote": "\n73. C'est Isabelle et Sophie avec _______ je partage la chambre.\nA. quoi\nB. qui\nC. elles\nD. eux"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q074",
+      "questionVersionId": "tfs4-2013-q074:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Le journal est sur le bureau, peux-tu ________ passer ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "le moi"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "me le"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "le me"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "moi le"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 0,
+          "end": 106,
+          "quote": "74. Le journal est sur le bureau, peux-tu \\_\\_\\_\\_\\_\\_\\_\\_ passer ?\nA. le moi\nB. me le\nC. le me\nD. moi le\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q076",
+      "questionVersionId": "tfs4-2013-q076:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "________ il a posé la tête sur l'oreiller, il s'est endormi.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Tant"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Tant qu'"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Dès"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Dès qu'"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 220,
+          "end": 332,
+          "quote": "\n76. \\_\\_\\_\\_\\_\\_\\_\\_ il a posé la tête sur l'oreiller, il s'est endormi.\nA. Tant\nB. Tant qu'\nC. Dès\nD. Dès qu'\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q077",
+      "questionVersionId": "tfs4-2013-q077:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Je te passerais un coup de téléphone ________ j'aurais un empêchement.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "pourvu que"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "au cas où"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "à moins que"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "si"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 332,
+          "end": 464,
+          "quote": "\n77. Je te passerais un coup de téléphone \\_\\_\\_\\_\\_\\_\\_\\_ j'aurais un empêchement.\nA. pourvu que\nB. au cas où\nC. à moins que\nD. si\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q078",
+      "questionVersionId": "tfs4-2013-q078:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Les deux jeunes se sont fiancés ________ leurs familles en soient au courant.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "sans que"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "sans"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "sauf que"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "sauf"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 464,
+          "end": 595,
+          "quote": "\n78. Les deux jeunes se sont fiancés \\_\\_\\_\\_\\_\\_\\_\\_ leurs familles en soient au courant.\nA. sans que\nB. sans\nC. sauf que\nD. sauf\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q079",
+      "questionVersionId": "tfs4-2013-q079:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "________ ce soit, il faut observer les règlements de l'usine.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Quel que"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Qui que"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Quoi que"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Quoique"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 595,
+          "end": 716,
+          "quote": "\n79. \\_\\_\\_\\_\\_\\_\\_\\_ ce soit, il faut observer les règlements de l'usine.\nA. Quel que\nB. Qui que\nC. Quoi que\nD. Quoique\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q080",
+      "questionVersionId": "tfs4-2013-q080:v2",
+      "year": 2013,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "________ paresseux qu'il ait été, il a réussi à l'examen final.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Quel"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Quelle"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Quelque"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Tellement"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 716,
+          "end": 834,
+          "quote": "\n80. \\_\\_\\_\\_\\_\\_\\_\\_ paresseux qu'il ait été, il a réussi à l'examen final.\nA. Quel\nB. Quelle\nC. Quelque\nD. Tellement"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q086",
+      "questionVersionId": "tfs4-2013-q086:v2",
+      "year": 2013,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "D'après le texte, l'événement en question concerne ________.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "l'agriculture"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "l'habitation"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "l'immobilier"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "le salon de beauté"
+        }
+      ],
+      "material": "2. Rendez-vous annuel à Paris\n\nNous sommes de retour le 23 février 2013 au parc des Expositions de Paris Porte de Versailles. Une édition exceptionnelle pour nos 50 ans avec plus d'un millier d'exposants et pas moins de 3500 animaux sur place.\n\nNotre salon se renouvelle et vous offre une édition spéciale pour ses 50 ans durant 9 jours de fête. Les animaux seront répartis cette année dans différents pavillons selon leurs espèces.\n\nDe fait, cette année, ce n'est plus une seule vache qui est mise à l'honneur sur les affiches mais 7 animaux. 7 animaux de chaque espèce présente sur le concours général agricole et qui auront droit chacun à leur portrait.\n\nPour ces 50 ans, de nombreux exposants organisent des événements spéciaux et inédits. Une ferme pédagogique verra le jour au pavillon 4 pour vous donner une vision réaliste de la vie d'une ferme. Cette ferme abordera le thème du rôle social de l'animal : le chien, le chat, le poney et l'âne.\n\nNotez également qu'outre le timbre commémoratif qui verra le jour, un grand dîner à la ferme ouvert au public vous attendra le soir de la nocturne, le vendredi 1er mars. Moment fort de cette édition exceptionnelle qui sera l'occasion de découvrir et de partager les produits fermiers.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 13,
+          "start": 1526,
+          "end": 1667,
+          "quote": "\n**86.** D'après le texte, l'événement en question concerne ________.\nA. l'agriculture\nB. l'habitation\nC. l'immobilier\nD. le salon de beauté\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q087",
+      "questionVersionId": "tfs4-2013-q087:v2",
+      "year": 2013,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Cet événement se termine ________.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "le 14 février 2013"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "le 23 février 2013"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "le 1er mars 2013"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "le 3 mars 2013"
+        }
+      ],
+      "material": "2. Rendez-vous annuel à Paris\n\nNous sommes de retour le 23 février 2013 au parc des Expositions de Paris Porte de Versailles. Une édition exceptionnelle pour nos 50 ans avec plus d'un millier d'exposants et pas moins de 3500 animaux sur place.\n\nNotre salon se renouvelle et vous offre une édition spéciale pour ses 50 ans durant 9 jours de fête. Les animaux seront répartis cette année dans différents pavillons selon leurs espèces.\n\nDe fait, cette année, ce n'est plus une seule vache qui est mise à l'honneur sur les affiches mais 7 animaux. 7 animaux de chaque espèce présente sur le concours général agricole et qui auront droit chacun à leur portrait.\n\nPour ces 50 ans, de nombreux exposants organisent des événements spéciaux et inédits. Une ferme pédagogique verra le jour au pavillon 4 pour vous donner une vision réaliste de la vie d'une ferme. Cette ferme abordera le thème du rôle social de l'animal : le chien, le chat, le poney et l'âne.\n\nNotez également qu'outre le timbre commémoratif qui verra le jour, un grand dîner à la ferme ouvert au public vous attendra le soir de la nocturne, le vendredi 1er mars. Moment fort de cette édition exceptionnelle qui sera l'occasion de découvrir et de partager les produits fermiers.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 13,
+          "start": 1667,
+          "end": 1803,
+          "quote": "\n**87.** Cet événement se termine ________.\nA. le 14 février 2013\nB. le 23 février 2013\nC. le 1<sup>er</sup> mars 2013\nD. le 3 mars 2013"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q088",
+      "questionVersionId": "tfs4-2013-q088:v2",
+      "year": 2013,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "_______ sera (seront) présent(e)(s) sur les affiches du concours.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Une seule vache"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Sept animaux de la même espèce"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Sept animaux de chaque espèce"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Sept vaches"
+        }
+      ],
+      "material": "2. Rendez-vous annuel à Paris\n\nNous sommes de retour le 23 février 2013 au parc des Expositions de Paris Porte de Versailles. Une édition exceptionnelle pour nos 50 ans avec plus d'un millier d'exposants et pas moins de 3500 animaux sur place.\n\nNotre salon se renouvelle et vous offre une édition spéciale pour ses 50 ans durant 9 jours de fête. Les animaux seront répartis cette année dans différents pavillons selon leurs espèces.\n\nDe fait, cette année, ce n'est plus une seule vache qui est mise à l'honneur sur les affiches mais 7 animaux. 7 animaux de chaque espèce présente sur le concours général agricole et qui auront droit chacun à leur portrait.\n\nPour ces 50 ans, de nombreux exposants organisent des événements spéciaux et inédits. Une ferme pédagogique verra le jour au pavillon 4 pour vous donner une vision réaliste de la vie d'une ferme. Cette ferme abordera le thème du rôle social de l'animal : le chien, le chat, le poney et l'âne.\n\nNotez également qu'outre le timbre commémoratif qui verra le jour, un grand dîner à la ferme ouvert au public vous attendra le soir de la nocturne, le vendredi 1er mars. Moment fort de cette édition exceptionnelle qui sera l'occasion de découvrir et de partager les produits fermiers.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 14,
+          "start": 0,
+          "end": 179,
+          "quote": "88. \\_\\_\\_\\_\\_\\_\\_ sera (seront) présent(e)(s) sur les affiches du concours.\n\nA. Une seule vache\nB. Sept animaux de la même espèce\nC. Sept animaux de chaque espèce\nD. Sept vaches\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q089",
+      "questionVersionId": "tfs4-2013-q089:v2",
+      "year": 2013,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "L'objectif de la ferme pédagogique est de (d') ______.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "organiser des événements spéciaux"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "instruire les visiteurs sur la vie d'une ferme"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "voir le jour à cette occasion inédite"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "faire connaître le rôle social d'une ferme"
+        }
+      ],
+      "material": "2. Rendez-vous annuel à Paris\n\nNous sommes de retour le 23 février 2013 au parc des Expositions de Paris Porte de Versailles. Une édition exceptionnelle pour nos 50 ans avec plus d'un millier d'exposants et pas moins de 3500 animaux sur place.\n\nNotre salon se renouvelle et vous offre une édition spéciale pour ses 50 ans durant 9 jours de fête. Les animaux seront répartis cette année dans différents pavillons selon leurs espèces.\n\nDe fait, cette année, ce n'est plus une seule vache qui est mise à l'honneur sur les affiches mais 7 animaux. 7 animaux de chaque espèce présente sur le concours général agricole et qui auront droit chacun à leur portrait.\n\nPour ces 50 ans, de nombreux exposants organisent des événements spéciaux et inédits. Une ferme pédagogique verra le jour au pavillon 4 pour vous donner une vision réaliste de la vie d'une ferme. Cette ferme abordera le thème du rôle social de l'animal : le chien, le chat, le poney et l'âne.\n\nNotez également qu'outre le timbre commémoratif qui verra le jour, un grand dîner à la ferme ouvert au public vous attendra le soir de la nocturne, le vendredi 1er mars. Moment fort de cette édition exceptionnelle qui sera l'occasion de découvrir et de partager les produits fermiers.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 14,
+          "start": 179,
+          "end": 420,
+          "quote": "\n89. L'objectif de la ferme pédagogique est de (d') \\_\\_\\_\\_\\_\\_.\n\nA. organiser des événements spéciaux\nB. instruire les visiteurs sur la vie d'une ferme\nC. voir le jour à cette occasion inédite\nD. faire connaître le rôle social d'une ferme\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q091",
+      "questionVersionId": "tfs4-2013-q091:v2",
+      "year": 2013,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "L'alcool provoque plus de morts chez _______.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "les hommes"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "les femmes"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "les personnes d'entre deux âges"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "les personnes âgées"
+        }
+      ],
+      "material": "# 3. Les Français boivent beaucoup trop !\n\nLa consommation d'alcool en France est responsable de 49 000 morts en 2009 : 36 500 décès chez l'homme, ce qui représente 13% de la mortalité totale masculine et de 12 500 décès chez la femme, soit 5% de la mortalité totale.\n\nL'alcool est une cause importante de mortalité prématurée, puisqu'il est responsable de 22% (près d'un sur quatre) des décès entre 15 et 34 ans, 18% (près d'un sur cinq) des décès entre 35 et 64 ans et 7% des décès à partir de 65 ans.\n\nLes décès attribuables à l'alcool sont surtout des cancers (15 000 décès) et des maladies cardio-vasculaires (12 000 décès), s'y ajoutent notamment 8 000 morts dues à des maladies digestives et autant dues à des accidents et suicides. Le reste relève d'autres maladies dont des troubles mentaux liés à l'alcool.\n\nLa consommation d'alcool a diminué de 50% ces cinquante dernières années. Elle était de 33 g d'alcool par jour et par adulte en 1994, de 30 g en 2002-2003, de 27 en 2009 et a peu bougé depuis (26,6 en 2010, 27,3 en 2011).\n\nLa proportion des décès attribuables à l'alcool parmi les hommes en France (13%) est ainsi bien supérieure à celle observée dans d'autres pays comme par exemple la Suisse (5%), l'Italie (3%) et le Danemark (1%). Il en va de même pour la mortalité féminine due à l'alcool qui est plus élevée en France qu'en Italie (2%) ou au Danemark (1%).\n\nTous estiment nécessaire de poursuivre les efforts pour réduire encore la consommation d'alcool en France.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 15,
+          "start": 0,
+          "end": 136,
+          "quote": "91. L'alcool provoque plus de morts chez _______.\nA. les hommes\nB. les femmes\nC. les personnes d'entre deux âges\nD. les personnes âgées\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q092",
+      "questionVersionId": "tfs4-2013-q092:v2",
+      "year": 2013,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Les maladies les plus mortelles dues à l'alcool sont _______.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "les cancers"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "les maladies cardio-vasculaires"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "les maladies digestives"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "les troubles mentaux"
+        }
+      ],
+      "material": "# 3. Les Français boivent beaucoup trop !\n\nLa consommation d'alcool en France est responsable de 49 000 morts en 2009 : 36 500 décès chez l'homme, ce qui représente 13% de la mortalité totale masculine et de 12 500 décès chez la femme, soit 5% de la mortalité totale.\n\nL'alcool est une cause importante de mortalité prématurée, puisqu'il est responsable de 22% (près d'un sur quatre) des décès entre 15 et 34 ans, 18% (près d'un sur cinq) des décès entre 35 et 64 ans et 7% des décès à partir de 65 ans.\n\nLes décès attribuables à l'alcool sont surtout des cancers (15 000 décès) et des maladies cardio-vasculaires (12 000 décès), s'y ajoutent notamment 8 000 morts dues à des maladies digestives et autant dues à des accidents et suicides. Le reste relève d'autres maladies dont des troubles mentaux liés à l'alcool.\n\nLa consommation d'alcool a diminué de 50% ces cinquante dernières années. Elle était de 33 g d'alcool par jour et par adulte en 1994, de 30 g en 2002-2003, de 27 en 2009 et a peu bougé depuis (26,6 en 2010, 27,3 en 2011).\n\nLa proportion des décès attribuables à l'alcool parmi les hommes en France (13%) est ainsi bien supérieure à celle observée dans d'autres pays comme par exemple la Suisse (5%), l'Italie (3%) et le Danemark (1%). Il en va de même pour la mortalité féminine due à l'alcool qui est plus élevée en France qu'en Italie (2%) ou au Danemark (1%).\n\nTous estiment nécessaire de poursuivre les efforts pour réduire encore la consommation d'alcool en France.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 15,
+          "start": 136,
+          "end": 304,
+          "quote": "\n92. Les maladies les plus mortelles dues à l'alcool sont _______.\nA. les cancers\nB. les maladies cardio-vasculaires\nC. les maladies digestives\nD. les troubles mentaux\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q093",
+      "questionVersionId": "tfs4-2013-q093:v2",
+      "year": 2013,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "La quantité d'alcool pur consommé par jour et par adulte a diminué de _______ de 1994 à 2011.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "3 g"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "5,7 g"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "6 g"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "6,4 g"
+        }
+      ],
+      "material": "# 3. Les Français boivent beaucoup trop !\n\nLa consommation d'alcool en France est responsable de 49 000 morts en 2009 : 36 500 décès chez l'homme, ce qui représente 13% de la mortalité totale masculine et de 12 500 décès chez la femme, soit 5% de la mortalité totale.\n\nL'alcool est une cause importante de mortalité prématurée, puisqu'il est responsable de 22% (près d'un sur quatre) des décès entre 15 et 34 ans, 18% (près d'un sur cinq) des décès entre 35 et 64 ans et 7% des décès à partir de 65 ans.\n\nLes décès attribuables à l'alcool sont surtout des cancers (15 000 décès) et des maladies cardio-vasculaires (12 000 décès), s'y ajoutent notamment 8 000 morts dues à des maladies digestives et autant dues à des accidents et suicides. Le reste relève d'autres maladies dont des troubles mentaux liés à l'alcool.\n\nLa consommation d'alcool a diminué de 50% ces cinquante dernières années. Elle était de 33 g d'alcool par jour et par adulte en 1994, de 30 g en 2002-2003, de 27 en 2009 et a peu bougé depuis (26,6 en 2010, 27,3 en 2011).\n\nLa proportion des décès attribuables à l'alcool parmi les hommes en France (13%) est ainsi bien supérieure à celle observée dans d'autres pays comme par exemple la Suisse (5%), l'Italie (3%) et le Danemark (1%). Il en va de même pour la mortalité féminine due à l'alcool qui est plus élevée en France qu'en Italie (2%) ou au Danemark (1%).\n\nTous estiment nécessaire de poursuivre les efforts pour réduire encore la consommation d'alcool en France.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 15,
+          "start": 304,
+          "end": 435,
+          "quote": "\n93. La quantité d'alcool pur consommé par jour et par adulte a diminué de _______ de 1994 à 2011.\nA. 3 g\nB. 5,7 g\nC. 6 g\nD. 6,4 g\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q094",
+      "questionVersionId": "tfs4-2013-q094:v2",
+      "year": 2013,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "C'est _______ qu'on constate autant de décès chez les hommes que chez les femmes.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "en France"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "en Suisse"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "en Italie"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "au Danemark"
+        }
+      ],
+      "material": "# 3. Les Français boivent beaucoup trop !\n\nLa consommation d'alcool en France est responsable de 49 000 morts en 2009 : 36 500 décès chez l'homme, ce qui représente 13% de la mortalité totale masculine et de 12 500 décès chez la femme, soit 5% de la mortalité totale.\n\nL'alcool est une cause importante de mortalité prématurée, puisqu'il est responsable de 22% (près d'un sur quatre) des décès entre 15 et 34 ans, 18% (près d'un sur cinq) des décès entre 35 et 64 ans et 7% des décès à partir de 65 ans.\n\nLes décès attribuables à l'alcool sont surtout des cancers (15 000 décès) et des maladies cardio-vasculaires (12 000 décès), s'y ajoutent notamment 8 000 morts dues à des maladies digestives et autant dues à des accidents et suicides. Le reste relève d'autres maladies dont des troubles mentaux liés à l'alcool.\n\nLa consommation d'alcool a diminué de 50% ces cinquante dernières années. Elle était de 33 g d'alcool par jour et par adulte en 1994, de 30 g en 2002-2003, de 27 en 2009 et a peu bougé depuis (26,6 en 2010, 27,3 en 2011).\n\nLa proportion des décès attribuables à l'alcool parmi les hommes en France (13%) est ainsi bien supérieure à celle observée dans d'autres pays comme par exemple la Suisse (5%), l'Italie (3%) et le Danemark (1%). Il en va de même pour la mortalité féminine due à l'alcool qui est plus élevée en France qu'en Italie (2%) ou au Danemark (1%).\n\nTous estiment nécessaire de poursuivre les efforts pour réduire encore la consommation d'alcool en France.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 15,
+          "start": 435,
+          "end": 576,
+          "quote": "\n94. C'est _______ qu'on constate autant de décès chez les hommes que chez les femmes.\nA. en France\nB. en Suisse\nC. en Italie\nD. au Danemark\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q095",
+      "questionVersionId": "tfs4-2013-q095:v2",
+      "year": 2013,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Selon le texte, laquelle de ces affirmations est vraie ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "L'alcool est la seule cause de décès en France."
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Les femmes sont plus touchées par l'alcool que les hommes."
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Les décès dus à l'alcool sont plus élevés en France que dans d'autres pays."
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "La consommation d'alcool a augmenté ces dernières années."
+        }
+      ],
+      "material": "# 3. Les Français boivent beaucoup trop !\n\nLa consommation d'alcool en France est responsable de 49 000 morts en 2009 : 36 500 décès chez l'homme, ce qui représente 13% de la mortalité totale masculine et de 12 500 décès chez la femme, soit 5% de la mortalité totale.\n\nL'alcool est une cause importante de mortalité prématurée, puisqu'il est responsable de 22% (près d'un sur quatre) des décès entre 15 et 34 ans, 18% (près d'un sur cinq) des décès entre 35 et 64 ans et 7% des décès à partir de 65 ans.\n\nLes décès attribuables à l'alcool sont surtout des cancers (15 000 décès) et des maladies cardio-vasculaires (12 000 décès), s'y ajoutent notamment 8 000 morts dues à des maladies digestives et autant dues à des accidents et suicides. Le reste relève d'autres maladies dont des troubles mentaux liés à l'alcool.\n\nLa consommation d'alcool a diminué de 50% ces cinquante dernières années. Elle était de 33 g d'alcool par jour et par adulte en 1994, de 30 g en 2002-2003, de 27 en 2009 et a peu bougé depuis (26,6 en 2010, 27,3 en 2011).\n\nLa proportion des décès attribuables à l'alcool parmi les hommes en France (13%) est ainsi bien supérieure à celle observée dans d'autres pays comme par exemple la Suisse (5%), l'Italie (3%) et le Danemark (1%). Il en va de même pour la mortalité féminine due à l'alcool qui est plus élevée en France qu'en Italie (2%) ou au Danemark (1%).\n\nTous estiment nécessaire de poursuivre les efforts pour réduire encore la consommation d'alcool en France.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 15,
+          "start": 576,
+          "end": 890,
+          "quote": "\n95. Selon le texte, laquelle de ces affirmations est vraie ?\nA. L'alcool est la seule cause de décès en France.\nB. Les femmes sont plus touchées par l'alcool que les hommes.\nC. Les décès dus à l'alcool sont plus élevés en France que dans d'autres pays.\nD. La consommation d'alcool a augmenté ces dernières années."
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q096",
+      "questionVersionId": "tfs4-2013-q096:v2",
+      "year": 2013,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Selon le ministère de la Santé, _______.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "l'étude menée par cet institut de sondages est peu sérieuse"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "la plupart des jeunes n'ont pas besoin d'un téléphone portable"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "les scientifiques pourront prouver le danger du téléphone portable"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "l'utilisation du téléphone portable pourrait nuire à la santé"
+        }
+      ],
+      "material": "4. Les dangers du portable\n\nUn institut de sondages français a réalisé en 2009 la première étude sur le téléphone portable dédiée aux jeunes, et il révèle que 73% des 12-17 ans en sont équipés. Bien qu'aucune preuve scientifique ne permette de démontrer que l'utilisation de ces appareils présente un risque pour la santé, le ministère de la Santé indique que cette hypothèse ne peut définitivement pas être exclue. Les autorités de santé recommandent donc un usage de précaution, notamment pour\n\nles populations qui pourraient être plus sensibles, comme les jeunes et les enfants.\n\n98% chez les 15-24 ans utilisaient un téléphone portable en 2009. L'augmentation considérable du nombre d'utilisateurs de téléphone mobile a conduit les scientifiques à se poser la question des effets éventuels des ondes électromagnétiques sur la santé. La question est particulièrement préoccupante pour les médecins spécialistes de la tête et du cou. Ces radiofréquences sont soupçonnées de favoriser des tumeurs cérébrales et des études ont été mises en place pour évaluer ce risque. Un risque qui pourrait être accru par l'usage parfois inconsideré que font certains jeunes du téléphone portable.\n\nPrincipal objectif des mesures de précaution : déterminer si l'exposition aux radiofréquences émises par les téléphones portables est liée au risque de cancer de la tête ou du cou. Dans l'attente des résultats définitifs, le principe de précaution recommande un usage prudent des téléphones mobiles, soit un temps d'usage limité, et l'utilisation d'un équipement mains libres le plus souvent possible.\n\nUne plaquette du ministère de la santé intitulée « Téléphones mobiles : santé et sécurité » propose des actions simples visant à réduire l'exposition des utilisateurs de téléphone portable aux champs de radiofréquences. Ces actions consistent à « éviter les conversations inutiles, éviter de téléphoner en se déplaçant, favoriser les appels dans les zones où la réception est meilleure, utiliser un équipement piéton afin d'éloigner la source d'émission des endroits du corps qui pourraient être plus sensibles ».",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 16,
+          "start": 1605,
+          "end": 1916,
+          "quote": "\n96. Selon le ministère de la Santé, _______.\n\nA. l'étude menée par cet institut de sondages est peu sérieuse\nB. la plupart des jeunes n'ont pas besoin d'un téléphone portable\nC. les scientifiques pourront prouver le danger du téléphone portable\nD. l'utilisation du téléphone portable pourrait nuire à la santé\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q097",
+      "questionVersionId": "tfs4-2013-q097:v2",
+      "year": 2013,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Les scientifiques et les médecins spécialistes pensent que _______.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "presque la totalité des jeunes qui utilisaient un téléphone mobile en 2009 en auraient subi un mauvais effet"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "les ondes électromagnétiques du téléphone mobile pourraient affecter la tête et le cou"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "l'usage inconsideré du téléphone mobile n'augmente pas le risque"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "les radiofréquences n'ont pas de risque pour la santé"
+        }
+      ],
+      "material": "4. Les dangers du portable\n\nUn institut de sondages français a réalisé en 2009 la première étude sur le téléphone portable dédiée aux jeunes, et il révèle que 73% des 12-17 ans en sont équipés. Bien qu'aucune preuve scientifique ne permette de démontrer que l'utilisation de ces appareils présente un risque pour la santé, le ministère de la Santé indique que cette hypothèse ne peut définitivement pas être exclue. Les autorités de santé recommandent donc un usage de précaution, notamment pour\n\nles populations qui pourraient être plus sensibles, comme les jeunes et les enfants.\n\n98% chez les 15-24 ans utilisaient un téléphone portable en 2009. L'augmentation considérable du nombre d'utilisateurs de téléphone mobile a conduit les scientifiques à se poser la question des effets éventuels des ondes électromagnétiques sur la santé. La question est particulièrement préoccupante pour les médecins spécialistes de la tête et du cou. Ces radiofréquences sont soupçonnées de favoriser des tumeurs cérébrales et des études ont été mises en place pour évaluer ce risque. Un risque qui pourrait être accru par l'usage parfois inconsideré que font certains jeunes du téléphone portable.\n\nPrincipal objectif des mesures de précaution : déterminer si l'exposition aux radiofréquences émises par les téléphones portables est liée au risque de cancer de la tête ou du cou. Dans l'attente des résultats définitifs, le principe de précaution recommande un usage prudent des téléphones mobiles, soit un temps d'usage limité, et l'utilisation d'un équipement mains libres le plus souvent possible.\n\nUne plaquette du ministère de la santé intitulée « Téléphones mobiles : santé et sécurité » propose des actions simples visant à réduire l'exposition des utilisateurs de téléphone portable aux champs de radiofréquences. Ces actions consistent à « éviter les conversations inutiles, éviter de téléphoner en se déplaçant, favoriser les appels dans les zones où la réception est meilleure, utiliser un équipement piéton afin d'éloigner la source d'émission des endroits du corps qui pourraient être plus sensibles ».",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 16,
+          "start": 1916,
+          "end": 2317,
+          "quote": "\n97. Les scientifiques et les médecins spécialistes pensent que _______.\n\nA. presque la totalité des jeunes qui utilisaient un téléphone mobile en 2009 en auraient subi un mauvais effet\nB. les ondes électromagnétiques du téléphone mobile pourraient affecter la tête et le cou\nC. l'usage inconsideré du téléphone mobile n'augmente pas le risque\nD. les radiofréquences n'ont pas de risque pour la santé\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q098",
+      "questionVersionId": "tfs4-2013-q098:v2",
+      "year": 2013,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "En attendant les résultats définitifs des recherches, les usagers doivent _______.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "étudier le principal objectif de ces mesures de précaution"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "déterminer si les radiofréquences sont liées à certaines maladies"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "éviter d'être toujours accroché au téléphone mobile"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "utiliser le téléphone mobile sans aucune crainte"
+        }
+      ],
+      "material": "4. Les dangers du portable\n\nUn institut de sondages français a réalisé en 2009 la première étude sur le téléphone portable dédiée aux jeunes, et il révèle que 73% des 12-17 ans en sont équipés. Bien qu'aucune preuve scientifique ne permette de démontrer que l'utilisation de ces appareils présente un risque pour la santé, le ministère de la Santé indique que cette hypothèse ne peut définitivement pas être exclue. Les autorités de santé recommandent donc un usage de précaution, notamment pour\n\nles populations qui pourraient être plus sensibles, comme les jeunes et les enfants.\n\n98% chez les 15-24 ans utilisaient un téléphone portable en 2009. L'augmentation considérable du nombre d'utilisateurs de téléphone mobile a conduit les scientifiques à se poser la question des effets éventuels des ondes électromagnétiques sur la santé. La question est particulièrement préoccupante pour les médecins spécialistes de la tête et du cou. Ces radiofréquences sont soupçonnées de favoriser des tumeurs cérébrales et des études ont été mises en place pour évaluer ce risque. Un risque qui pourrait être accru par l'usage parfois inconsideré que font certains jeunes du téléphone portable.\n\nPrincipal objectif des mesures de précaution : déterminer si l'exposition aux radiofréquences émises par les téléphones portables est liée au risque de cancer de la tête ou du cou. Dans l'attente des résultats définitifs, le principe de précaution recommande un usage prudent des téléphones mobiles, soit un temps d'usage limité, et l'utilisation d'un équipement mains libres le plus souvent possible.\n\nUne plaquette du ministère de la santé intitulée « Téléphones mobiles : santé et sécurité » propose des actions simples visant à réduire l'exposition des utilisateurs de téléphone portable aux champs de radiofréquences. Ces actions consistent à « éviter les conversations inutiles, éviter de téléphoner en se déplaçant, favoriser les appels dans les zones où la réception est meilleure, utiliser un équipement piéton afin d'éloigner la source d'émission des endroits du corps qui pourraient être plus sensibles ».",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 16,
+          "start": 2317,
+          "end": 2643,
+          "quote": "\n98. En attendant les résultats définitifs des recherches, les usagers doivent _______.\n\nA. étudier le principal objectif de ces mesures de précaution\nB. déterminer si les radiofréquences sont liées à certaines maladies\nC. éviter d'être toujours accroché au téléphone mobile\nD. utiliser le téléphone mobile sans aucune crainte"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q099",
+      "questionVersionId": "tfs4-2013-q099:v2",
+      "year": 2013,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Selon le texte, qu'est-ce qu'un équipement « mains libres » ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Un nouvel appareil qui remplacer le téléphone mobile."
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Un portable qui n'émet pas de radiofréquences."
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Un équipement qui guérit l'attachement excessif au portable."
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Celui qui permet de communiquer sans tenir l'appareil près de l'oreille."
+        }
+      ],
+      "material": "4. Les dangers du portable\n\nUn institut de sondages français a réalisé en 2009 la première étude sur le téléphone portable dédiée aux jeunes, et il révèle que 73% des 12-17 ans en sont équipés. Bien qu'aucune preuve scientifique ne permette de démontrer que l'utilisation de ces appareils présente un risque pour la santé, le ministère de la Santé indique que cette hypothèse ne peut définitivement pas être exclue. Les autorités de santé recommandent donc un usage de précaution, notamment pour\n\nles populations qui pourraient être plus sensibles, comme les jeunes et les enfants.\n\n98% chez les 15-24 ans utilisaient un téléphone portable en 2009. L'augmentation considérable du nombre d'utilisateurs de téléphone mobile a conduit les scientifiques à se poser la question des effets éventuels des ondes électromagnétiques sur la santé. La question est particulièrement préoccupante pour les médecins spécialistes de la tête et du cou. Ces radiofréquences sont soupçonnées de favoriser des tumeurs cérébrales et des études ont été mises en place pour évaluer ce risque. Un risque qui pourrait être accru par l'usage parfois inconsideré que font certains jeunes du téléphone portable.\n\nPrincipal objectif des mesures de précaution : déterminer si l'exposition aux radiofréquences émises par les téléphones portables est liée au risque de cancer de la tête ou du cou. Dans l'attente des résultats définitifs, le principe de précaution recommande un usage prudent des téléphones mobiles, soit un temps d'usage limité, et l'utilisation d'un équipement mains libres le plus souvent possible.\n\nUne plaquette du ministère de la santé intitulée « Téléphones mobiles : santé et sécurité » propose des actions simples visant à réduire l'exposition des utilisateurs de téléphone portable aux champs de radiofréquences. Ces actions consistent à « éviter les conversations inutiles, éviter de téléphoner en se déplaçant, favoriser les appels dans les zones où la réception est meilleure, utiliser un équipement piéton afin d'éloigner la source d'émission des endroits du corps qui pourraient être plus sensibles ».",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 17,
+          "start": 0,
+          "end": 318,
+          "quote": "99. **Selon le texte, qu'est-ce qu'un équipement « mains libres » ?**\n\nA. Un nouvel appareil qui remplacer le téléphone mobile.\nB. Un portable qui n'émet pas de radiofréquences.\nC. Un équipement qui guérit l'attachement excessif au portable.\nD. Celui qui permet de communiquer sans tenir l'appareil près de l'oreille.\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q100",
+      "questionVersionId": "tfs4-2013-q100:v2",
+      "year": 2013,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Selon le texte, laquelle de ces affirmations est fausse ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Les jeunes constituent un public habitué aux radiofréquences."
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Les risques dus à l'usage du portable ne peuvent pas être exclus."
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Des mesures de précaution sont à envisager pour contrer les risques éventuels."
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "L'objectif de cet article est de sensibiliser les usagers du portable."
+        }
+      ],
+      "material": "4. Les dangers du portable\n\nUn institut de sondages français a réalisé en 2009 la première étude sur le téléphone portable dédiée aux jeunes, et il révèle que 73% des 12-17 ans en sont équipés. Bien qu'aucune preuve scientifique ne permette de démontrer que l'utilisation de ces appareils présente un risque pour la santé, le ministère de la Santé indique que cette hypothèse ne peut définitivement pas être exclue. Les autorités de santé recommandent donc un usage de précaution, notamment pour\n\nles populations qui pourraient être plus sensibles, comme les jeunes et les enfants.\n\n98% chez les 15-24 ans utilisaient un téléphone portable en 2009. L'augmentation considérable du nombre d'utilisateurs de téléphone mobile a conduit les scientifiques à se poser la question des effets éventuels des ondes électromagnétiques sur la santé. La question est particulièrement préoccupante pour les médecins spécialistes de la tête et du cou. Ces radiofréquences sont soupçonnées de favoriser des tumeurs cérébrales et des études ont été mises en place pour évaluer ce risque. Un risque qui pourrait être accru par l'usage parfois inconsideré que font certains jeunes du téléphone portable.\n\nPrincipal objectif des mesures de précaution : déterminer si l'exposition aux radiofréquences émises par les téléphones portables est liée au risque de cancer de la tête ou du cou. Dans l'attente des résultats définitifs, le principe de précaution recommande un usage prudent des téléphones mobiles, soit un temps d'usage limité, et l'utilisation d'un équipement mains libres le plus souvent possible.\n\nUne plaquette du ministère de la santé intitulée « Téléphones mobiles : santé et sécurité » propose des actions simples visant à réduire l'exposition des utilisateurs de téléphone portable aux champs de radiofréquences. Ces actions consistent à « éviter les conversations inutiles, éviter de téléphoner en se déplaçant, favoriser les appels dans les zones où la réception est meilleure, utiliser un équipement piéton afin d'éloigner la source d'émission des endroits du corps qui pourraient être plus sensibles ».",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 17,
+          "start": 318,
+          "end": 676,
+          "quote": "\n**100. Selon le texte, laquelle de ces affirmations est fausse ?**\n\nA. Les jeunes constituent un public habitué aux radiofréquences.\nB. Les risques dus à l'usage du portable ne peuvent pas être exclus.\nC. Des mesures de précaution sont à envisager pour contrer les risques éventuels.\nD. L'objectif de cet article est de sensibiliser les usagers du portable."
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-verb-2",
+      "questionVersionId": "tfs4-2013-verb-2:v2",
+      "year": 2013,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(être)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Farida, une jeune Algérienne en France\n\nFarida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener) ________ à Paris, elle (être) petite mais elle (se souvenir) ________ bien de ses premières impressions. Ses parents (dire) ________ toujours : « Ici en Algérie, la vie est trop difficile. Nous (devoir) ________ partir en France. Tout (être) ________ plus facile là-bas. Il y a du travail pour tous. On (pouvoir) ________ trouver un meilleur logement. »\n\nDans sa petite tête, Fabrida (voir) ________ la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être) ________ moins dure.\n\nIls sont arrivés à Paris un jour où il (pleuvoir) ________ très fort et où il (faire) ________ vraiment froid. La première nuit, ils (aller) ________ dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) ________ rester deux ou trois jours (attendre) ________ de (trouver) ________ un logement. En réalité la recherche d'un logement pas trop cher (être) ________ très difficile. Il (falloir) ________ toujours aller en banlieue et les banlieues étaient bien loin. Où (être) ________ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) ________ si dans ce pays le soleil (exister) ________ encore.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 1139,
+          "end": 1145,
+          "quote": "(être)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-verb-3",
+      "questionVersionId": "tfs4-2013-verb-3:v2",
+      "year": 2013,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(se souvenir)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Farida, une jeune Algérienne en France\n\nFarida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener) ________ à Paris, elle (être) petite mais elle (se souvenir) ________ bien de ses premières impressions. Ses parents (dire) ________ toujours : « Ici en Algérie, la vie est trop difficile. Nous (devoir) ________ partir en France. Tout (être) ________ plus facile là-bas. Il y a du travail pour tous. On (pouvoir) ________ trouver un meilleur logement. »\n\nDans sa petite tête, Fabrida (voir) ________ la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être) ________ moins dure.\n\nIls sont arrivés à Paris un jour où il (pleuvoir) ________ très fort et où il (faire) ________ vraiment froid. La première nuit, ils (aller) ________ dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) ________ rester deux ou trois jours (attendre) ________ de (trouver) ________ un logement. En réalité la recherche d'un logement pas trop cher (être) ________ très difficile. Il (falloir) ________ toujours aller en banlieue et les banlieues étaient bien loin. Où (être) ________ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) ________ si dans ce pays le soleil (exister) ________ encore.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 1170,
+          "end": 1183,
+          "quote": "(se souvenir)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-verb-4",
+      "questionVersionId": "tfs4-2013-verb-4:v2",
+      "year": 2013,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(dire)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Farida, une jeune Algérienne en France\n\nFarida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener) ________ à Paris, elle (être) petite mais elle (se souvenir) ________ bien de ses premières impressions. Ses parents (dire) ________ toujours : « Ici en Algérie, la vie est trop difficile. Nous (devoir) ________ partir en France. Tout (être) ________ plus facile là-bas. Il y a du travail pour tous. On (pouvoir) ________ trouver un meilleur logement. »\n\nDans sa petite tête, Fabrida (voir) ________ la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être) ________ moins dure.\n\nIls sont arrivés à Paris un jour où il (pleuvoir) ________ très fort et où il (faire) ________ vraiment froid. La première nuit, ils (aller) ________ dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) ________ rester deux ou trois jours (attendre) ________ de (trouver) ________ un logement. En réalité la recherche d'un logement pas trop cher (être) ________ très difficile. Il (falloir) ________ toujours aller en banlieue et les banlieues étaient bien loin. Où (être) ________ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) ________ si dans ce pays le soleil (exister) ________ encore.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 1255,
+          "end": 1261,
+          "quote": "(dire)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-verb-5",
+      "questionVersionId": "tfs4-2013-verb-5:v2",
+      "year": 2013,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(devoir)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Farida, une jeune Algérienne en France\n\nFarida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener) ________ à Paris, elle (être) petite mais elle (se souvenir) ________ bien de ses premières impressions. Ses parents (dire) ________ toujours : « Ici en Algérie, la vie est trop difficile. Nous (devoir) ________ partir en France. Tout (être) ________ plus facile là-bas. Il y a du travail pour tous. On (pouvoir) ________ trouver un meilleur logement. »\n\nDans sa petite tête, Fabrida (voir) ________ la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être) ________ moins dure.\n\nIls sont arrivés à Paris un jour où il (pleuvoir) ________ très fort et où il (faire) ________ vraiment froid. La première nuit, ils (aller) ________ dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) ________ rester deux ou trois jours (attendre) ________ de (trouver) ________ un logement. En réalité la recherche d'un logement pas trop cher (être) ________ très difficile. Il (falloir) ________ toujours aller en banlieue et les banlieues étaient bien loin. Où (être) ________ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) ________ si dans ce pays le soleil (exister) ________ encore.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 1347,
+          "end": 1355,
+          "quote": "(devoir)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-verb-6",
+      "questionVersionId": "tfs4-2013-verb-6:v2",
+      "year": 2013,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(être)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Farida, une jeune Algérienne en France\n\nFarida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener) ________ à Paris, elle (être) petite mais elle (se souvenir) ________ bien de ses premières impressions. Ses parents (dire) ________ toujours : « Ici en Algérie, la vie est trop difficile. Nous (devoir) ________ partir en France. Tout (être) ________ plus facile là-bas. Il y a du travail pour tous. On (pouvoir) ________ trouver un meilleur logement. »\n\nDans sa petite tête, Fabrida (voir) ________ la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être) ________ moins dure.\n\nIls sont arrivés à Paris un jour où il (pleuvoir) ________ très fort et où il (faire) ________ vraiment froid. La première nuit, ils (aller) ________ dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) ________ rester deux ou trois jours (attendre) ________ de (trouver) ________ un logement. En réalité la recherche d'un logement pas trop cher (être) ________ très difficile. Il (falloir) ________ toujours aller en banlieue et les banlieues étaient bien loin. Où (être) ________ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) ________ si dans ce pays le soleil (exister) ________ encore.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 1396,
+          "end": 1402,
+          "quote": "(être)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-verb-7",
+      "questionVersionId": "tfs4-2013-verb-7:v2",
+      "year": 2013,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(pouvoir)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Farida, une jeune Algérienne en France\n\nFarida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener) ________ à Paris, elle (être) petite mais elle (se souvenir) ________ bien de ses premières impressions. Ses parents (dire) ________ toujours : « Ici en Algérie, la vie est trop difficile. Nous (devoir) ________ partir en France. Tout (être) ________ plus facile là-bas. Il y a du travail pour tous. On (pouvoir) ________ trouver un meilleur logement. »\n\nDans sa petite tête, Fabrida (voir) ________ la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être) ________ moins dure.\n\nIls sont arrivés à Paris un jour où il (pleuvoir) ________ très fort et où il (faire) ________ vraiment froid. La première nuit, ils (aller) ________ dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) ________ rester deux ou trois jours (attendre) ________ de (trouver) ________ un logement. En réalité la recherche d'un logement pas trop cher (être) ________ très difficile. Il (falloir) ________ toujours aller en banlieue et les banlieues étaient bien loin. Où (être) ________ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) ________ si dans ce pays le soleil (exister) ________ encore.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 1472,
+          "end": 1481,
+          "quote": "(pouvoir)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-verb-8",
+      "questionVersionId": "tfs4-2013-verb-8:v2",
+      "year": 2013,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(voir)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Farida, une jeune Algérienne en France\n\nFarida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener) ________ à Paris, elle (être) petite mais elle (se souvenir) ________ bien de ses premières impressions. Ses parents (dire) ________ toujours : « Ici en Algérie, la vie est trop difficile. Nous (devoir) ________ partir en France. Tout (être) ________ plus facile là-bas. Il y a du travail pour tous. On (pouvoir) ________ trouver un meilleur logement. »\n\nDans sa petite tête, Fabrida (voir) ________ la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être) ________ moins dure.\n\nIls sont arrivés à Paris un jour où il (pleuvoir) ________ très fort et où il (faire) ________ vraiment froid. La première nuit, ils (aller) ________ dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) ________ rester deux ou trois jours (attendre) ________ de (trouver) ________ un logement. En réalité la recherche d'un logement pas trop cher (être) ________ très difficile. Il (falloir) ________ toujours aller en banlieue et les banlieues étaient bien loin. Où (être) ________ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) ________ si dans ce pays le soleil (exister) ________ encore.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 1561,
+          "end": 1567,
+          "quote": "(voir)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-verb-9",
+      "questionVersionId": "tfs4-2013-verb-9:v2",
+      "year": 2013,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(être)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Farida, une jeune Algérienne en France\n\nFarida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener) ________ à Paris, elle (être) petite mais elle (se souvenir) ________ bien de ses premières impressions. Ses parents (dire) ________ toujours : « Ici en Algérie, la vie est trop difficile. Nous (devoir) ________ partir en France. Tout (être) ________ plus facile là-bas. Il y a du travail pour tous. On (pouvoir) ________ trouver un meilleur logement. »\n\nDans sa petite tête, Fabrida (voir) ________ la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être) ________ moins dure.\n\nIls sont arrivés à Paris un jour où il (pleuvoir) ________ très fort et où il (faire) ________ vraiment froid. La première nuit, ils (aller) ________ dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) ________ rester deux ou trois jours (attendre) ________ de (trouver) ________ un logement. En réalité la recherche d'un logement pas trop cher (être) ________ très difficile. Il (falloir) ________ toujours aller en banlieue et les banlieues étaient bien loin. Où (être) ________ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) ________ si dans ce pays le soleil (exister) ________ encore.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 1693,
+          "end": 1699,
+          "quote": "(être)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-verb-10",
+      "questionVersionId": "tfs4-2013-verb-10:v2",
+      "year": 2013,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(pleuvoir)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Farida, une jeune Algérienne en France\n\nFarida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener) ________ à Paris, elle (être) petite mais elle (se souvenir) ________ bien de ses premières impressions. Ses parents (dire) ________ toujours : « Ici en Algérie, la vie est trop difficile. Nous (devoir) ________ partir en France. Tout (être) ________ plus facile là-bas. Il y a du travail pour tous. On (pouvoir) ________ trouver un meilleur logement. »\n\nDans sa petite tête, Fabrida (voir) ________ la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être) ________ moins dure.\n\nIls sont arrivés à Paris un jour où il (pleuvoir) ________ très fort et où il (faire) ________ vraiment froid. La première nuit, ils (aller) ________ dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) ________ rester deux ou trois jours (attendre) ________ de (trouver) ________ un logement. En réalité la recherche d'un logement pas trop cher (être) ________ très difficile. Il (falloir) ________ toujours aller en banlieue et les banlieues étaient bien loin. Où (être) ________ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) ________ si dans ce pays le soleil (exister) ________ encore.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 1769,
+          "end": 1779,
+          "quote": "(pleuvoir)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-verb-11",
+      "questionVersionId": "tfs4-2013-verb-11:v2",
+      "year": 2013,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(faire)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Farida, une jeune Algérienne en France\n\nFarida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener) ________ à Paris, elle (être) petite mais elle (se souvenir) ________ bien de ses premières impressions. Ses parents (dire) ________ toujours : « Ici en Algérie, la vie est trop difficile. Nous (devoir) ________ partir en France. Tout (être) ________ plus facile là-bas. Il y a du travail pour tous. On (pouvoir) ________ trouver un meilleur logement. »\n\nDans sa petite tête, Fabrida (voir) ________ la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être) ________ moins dure.\n\nIls sont arrivés à Paris un jour où il (pleuvoir) ________ très fort et où il (faire) ________ vraiment froid. La première nuit, ils (aller) ________ dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) ________ rester deux ou trois jours (attendre) ________ de (trouver) ________ un logement. En réalité la recherche d'un logement pas trop cher (être) ________ très difficile. Il (falloir) ________ toujours aller en banlieue et les banlieues étaient bien loin. Où (être) ________ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) ________ si dans ce pays le soleil (exister) ________ encore.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 1816,
+          "end": 1823,
+          "quote": "(faire)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-verb-12",
+      "questionVersionId": "tfs4-2013-verb-12:v2",
+      "year": 2013,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(aller)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Farida, une jeune Algérienne en France\n\nFarida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener) ________ à Paris, elle (être) petite mais elle (se souvenir) ________ bien de ses premières impressions. Ses parents (dire) ________ toujours : « Ici en Algérie, la vie est trop difficile. Nous (devoir) ________ partir en France. Tout (être) ________ plus facile là-bas. Il y a du travail pour tous. On (pouvoir) ________ trouver un meilleur logement. »\n\nDans sa petite tête, Fabrida (voir) ________ la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être) ________ moins dure.\n\nIls sont arrivés à Paris un jour où il (pleuvoir) ________ très fort et où il (faire) ________ vraiment froid. La première nuit, ils (aller) ________ dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) ________ rester deux ou trois jours (attendre) ________ de (trouver) ________ un logement. En réalité la recherche d'un logement pas trop cher (être) ________ très difficile. Il (falloir) ________ toujours aller en banlieue et les banlieues étaient bien loin. Où (être) ________ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) ________ si dans ce pays le soleil (exister) ________ encore.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 1879,
+          "end": 1886,
+          "quote": "(aller)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-verb-13",
+      "questionVersionId": "tfs4-2013-verb-13:v2",
+      "year": 2013,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(penser)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Farida, une jeune Algérienne en France\n\nFarida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener) ________ à Paris, elle (être) petite mais elle (se souvenir) ________ bien de ses premières impressions. Ses parents (dire) ________ toujours : « Ici en Algérie, la vie est trop difficile. Nous (devoir) ________ partir en France. Tout (être) ________ plus facile là-bas. Il y a du travail pour tous. On (pouvoir) ________ trouver un meilleur logement. »\n\nDans sa petite tête, Fabrida (voir) ________ la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être) ________ moins dure.\n\nIls sont arrivés à Paris un jour où il (pleuvoir) ________ très fort et où il (faire) ________ vraiment froid. La première nuit, ils (aller) ________ dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) ________ rester deux ou trois jours (attendre) ________ de (trouver) ________ un logement. En réalité la recherche d'un logement pas trop cher (être) ________ très difficile. Il (falloir) ________ toujours aller en banlieue et les banlieues étaient bien loin. Où (être) ________ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) ________ si dans ce pays le soleil (exister) ________ encore.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 1990,
+          "end": 1998,
+          "quote": "(penser)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-verb-14",
+      "questionVersionId": "tfs4-2013-verb-14:v2",
+      "year": 2013,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(attendre)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Farida, une jeune Algérienne en France\n\nFarida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener) ________ à Paris, elle (être) petite mais elle (se souvenir) ________ bien de ses premières impressions. Ses parents (dire) ________ toujours : « Ici en Algérie, la vie est trop difficile. Nous (devoir) ________ partir en France. Tout (être) ________ plus facile là-bas. Il y a du travail pour tous. On (pouvoir) ________ trouver un meilleur logement. »\n\nDans sa petite tête, Fabrida (voir) ________ la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être) ________ moins dure.\n\nIls sont arrivés à Paris un jour où il (pleuvoir) ________ très fort et où il (faire) ________ vraiment froid. La première nuit, ils (aller) ________ dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) ________ rester deux ou trois jours (attendre) ________ de (trouver) ________ un logement. En réalité la recherche d'un logement pas trop cher (être) ________ très difficile. Il (falloir) ________ toujours aller en banlieue et les banlieues étaient bien loin. Où (être) ________ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) ________ si dans ce pays le soleil (exister) ________ encore.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 2043,
+          "end": 2053,
+          "quote": "(attendre)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-verb-15",
+      "questionVersionId": "tfs4-2013-verb-15:v2",
+      "year": 2013,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(trouver)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Farida, une jeune Algérienne en France\n\nFarida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener) ________ à Paris, elle (être) petite mais elle (se souvenir) ________ bien de ses premières impressions. Ses parents (dire) ________ toujours : « Ici en Algérie, la vie est trop difficile. Nous (devoir) ________ partir en France. Tout (être) ________ plus facile là-bas. Il y a du travail pour tous. On (pouvoir) ________ trouver un meilleur logement. »\n\nDans sa petite tête, Fabrida (voir) ________ la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être) ________ moins dure.\n\nIls sont arrivés à Paris un jour où il (pleuvoir) ________ très fort et où il (faire) ________ vraiment froid. La première nuit, ils (aller) ________ dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) ________ rester deux ou trois jours (attendre) ________ de (trouver) ________ un logement. En réalité la recherche d'un logement pas trop cher (être) ________ très difficile. Il (falloir) ________ toujours aller en banlieue et les banlieues étaient bien loin. Où (être) ________ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) ________ si dans ce pays le soleil (exister) ________ encore.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 2074,
+          "end": 2083,
+          "quote": "(trouver)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-verb-16",
+      "questionVersionId": "tfs4-2013-verb-16:v2",
+      "year": 2013,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(être)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Farida, une jeune Algérienne en France\n\nFarida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener) ________ à Paris, elle (être) petite mais elle (se souvenir) ________ bien de ses premières impressions. Ses parents (dire) ________ toujours : « Ici en Algérie, la vie est trop difficile. Nous (devoir) ________ partir en France. Tout (être) ________ plus facile là-bas. Il y a du travail pour tous. On (pouvoir) ________ trouver un meilleur logement. »\n\nDans sa petite tête, Fabrida (voir) ________ la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être) ________ moins dure.\n\nIls sont arrivés à Paris un jour où il (pleuvoir) ________ très fort et où il (faire) ________ vraiment froid. La première nuit, ils (aller) ________ dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) ________ rester deux ou trois jours (attendre) ________ de (trouver) ________ un logement. En réalité la recherche d'un logement pas trop cher (être) ________ très difficile. Il (falloir) ________ toujours aller en banlieue et les banlieues étaient bien loin. Où (être) ________ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) ________ si dans ce pays le soleil (exister) ________ encore.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 2166,
+          "end": 2172,
+          "quote": "(être)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-verb-17",
+      "questionVersionId": "tfs4-2013-verb-17:v2",
+      "year": 2013,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(falloir)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Farida, une jeune Algérienne en France\n\nFarida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener) ________ à Paris, elle (être) petite mais elle (se souvenir) ________ bien de ses premières impressions. Ses parents (dire) ________ toujours : « Ici en Algérie, la vie est trop difficile. Nous (devoir) ________ partir en France. Tout (être) ________ plus facile là-bas. Il y a du travail pour tous. On (pouvoir) ________ trouver un meilleur logement. »\n\nDans sa petite tête, Fabrida (voir) ________ la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être) ________ moins dure.\n\nIls sont arrivés à Paris un jour où il (pleuvoir) ________ très fort et où il (faire) ________ vraiment froid. La première nuit, ils (aller) ________ dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) ________ rester deux ou trois jours (attendre) ________ de (trouver) ________ un logement. En réalité la recherche d'un logement pas trop cher (être) ________ très difficile. Il (falloir) ________ toujours aller en banlieue et les banlieues étaient bien loin. Où (être) ________ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) ________ si dans ce pays le soleil (exister) ________ encore.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 2216,
+          "end": 2225,
+          "quote": "(falloir)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-verb-18",
+      "questionVersionId": "tfs4-2013-verb-18:v2",
+      "year": 2013,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(être)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Farida, une jeune Algérienne en France\n\nFarida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener) ________ à Paris, elle (être) petite mais elle (se souvenir) ________ bien de ses premières impressions. Ses parents (dire) ________ toujours : « Ici en Algérie, la vie est trop difficile. Nous (devoir) ________ partir en France. Tout (être) ________ plus facile là-bas. Il y a du travail pour tous. On (pouvoir) ________ trouver un meilleur logement. »\n\nDans sa petite tête, Fabrida (voir) ________ la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être) ________ moins dure.\n\nIls sont arrivés à Paris un jour où il (pleuvoir) ________ très fort et où il (faire) ________ vraiment froid. La première nuit, ils (aller) ________ dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) ________ rester deux ou trois jours (attendre) ________ de (trouver) ________ un logement. En réalité la recherche d'un logement pas trop cher (être) ________ très difficile. Il (falloir) ________ toujours aller en banlieue et les banlieues étaient bien loin. Où (être) ________ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) ________ si dans ce pays le soleil (exister) ________ encore.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 2309,
+          "end": 2315,
+          "quote": "(être)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-verb-19",
+      "questionVersionId": "tfs4-2013-verb-19:v2",
+      "year": 2013,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(se demander)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Farida, une jeune Algérienne en France\n\nFarida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener) ________ à Paris, elle (être) petite mais elle (se souvenir) ________ bien de ses premières impressions. Ses parents (dire) ________ toujours : « Ici en Algérie, la vie est trop difficile. Nous (devoir) ________ partir en France. Tout (être) ________ plus facile là-bas. Il y a du travail pour tous. On (pouvoir) ________ trouver un meilleur logement. »\n\nDans sa petite tête, Fabrida (voir) ________ la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être) ________ moins dure.\n\nIls sont arrivés à Paris un jour où il (pleuvoir) ________ très fort et où il (faire) ________ vraiment froid. La première nuit, ils (aller) ________ dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) ________ rester deux ou trois jours (attendre) ________ de (trouver) ________ un logement. En réalité la recherche d'un logement pas trop cher (être) ________ très difficile. Il (falloir) ________ toujours aller en banlieue et les banlieues étaient bien loin. Où (être) ________ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) ________ si dans ce pays le soleil (exister) ________ encore.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 2388,
+          "end": 2401,
+          "quote": "(se demander)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-verb-20",
+      "questionVersionId": "tfs4-2013-verb-20:v2",
+      "year": 2013,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(exister)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Farida, une jeune Algérienne en France\n\nFarida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener) ________ à Paris, elle (être) petite mais elle (se souvenir) ________ bien de ses premières impressions. Ses parents (dire) ________ toujours : « Ici en Algérie, la vie est trop difficile. Nous (devoir) ________ partir en France. Tout (être) ________ plus facile là-bas. Il y a du travail pour tous. On (pouvoir) ________ trouver un meilleur logement. »\n\nDans sa petite tête, Fabrida (voir) ________ la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être) ________ moins dure.\n\nIls sont arrivés à Paris un jour où il (pleuvoir) ________ très fort et où il (faire) ________ vraiment froid. La première nuit, ils (aller) ________ dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) ________ rester deux ou trois jours (attendre) ________ de (trouver) ________ un logement. En réalité la recherche d'un logement pas trop cher (être) ________ très difficile. Il (falloir) ________ toujours aller en banlieue et les banlieues étaient bien loin. Où (être) ________ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) ________ si dans ce pays le soleil (exister) ________ encore.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 2445,
+          "end": 2454,
+          "quote": "(exister)"
+        }
+      ]
+    }
+  ]
+}

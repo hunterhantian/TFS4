@@ -1,0 +1,171 @@
+{
+  "createdAt": "2026-10-30T02:17:13.005Z",
+  "status": "unblinded_pending_adjudication",
+  "notAccuracy": true,
+  "note": "Agreement is not independent semantic accuracy. No publication, answer adoption or gold approval.",
+  "summaries": [
+    {
+      "year": 2012,
+      "count": 95,
+      "agreement": 90,
+      "uncertain": 1,
+      "disagreements": [
+        {
+          "questionId": "tfs4-2012-q076",
+          "previous": "obj-degree-pour",
+          "independent": null,
+          "status": "uncertain",
+          "quote": "trop petit ... on le laisse voyager tout seul",
+          "rationale": "决定条件为trop...pour que加虚拟式的程度结果；catalog的obj-degree-pour只定义pour加行为而obj-purpose-que定义目的，两者均不精确覆盖此完整从句，暂不强配。"
+        },
+        {
+          "questionId": "tfs4-2012-q090",
+          "previous": "obj-r-inference",
+          "independent": "obj-r-time",
+          "status": "confirmed",
+          "quote": "en 1981 ... précéda de deux ans la mort",
+          "rationale": "利用重逢与死亡相差两年的时间关系求年份。"
+        },
+        {
+          "questionId": "tfs4-2012-q093",
+          "previous": "obj-r-detail",
+          "independent": "obj-r-number",
+          "status": "confirmed",
+          "quote": "en 2005, dépassait déjà 80 ans au Japon ou en France",
+          "rationale": "核对80岁阈值的国家范围，区别后文70岁国家。"
+        },
+        {
+          "questionId": "tfs4-2012-q096",
+          "previous": "obj-r-context",
+          "independent": "obj-r-exclusion",
+          "status": "confirmed",
+          "quote": "n'est pas l'équivalent de l'e-book",
+          "rationale": "否定条件要求排除纸质书，并核对电子、数字、虚拟称谓。"
+        },
+        {
+          "questionId": "tfs4-2012-verb-9",
+          "previous": "obj-imparfait-state",
+          "independent": "obj-imparfait-background",
+          "status": "confirmed",
+          "quote": "l'air (être) frais",
+          "rationale": "清新空气构成森林冒险时的环境背景。"
+        }
+      ],
+      "reviewSha256": "715745a28ee4a39066bb59fb9d1d28be9f20b73a9575392b6b75c3ca9bb0ca53"
+    },
+    {
+      "year": 2013,
+      "count": 88,
+      "agreement": 81,
+      "uncertain": 1,
+      "disagreements": [
+        {
+          "questionId": "tfs4-2013-q091",
+          "previous": "obj-r-detail",
+          "independent": "obj-r-number",
+          "status": "confirmed",
+          "quote": "36 500 décès chez l'homme ... 12 500 ... chez la femme",
+          "rationale": "比较死亡人数与年龄比例，确定所问更多死亡的群体。"
+        },
+        {
+          "questionId": "tfs4-2013-q092",
+          "previous": "obj-r-detail",
+          "independent": "obj-r-number",
+          "status": "confirmed",
+          "quote": "cancers (15 000 décès) ... cardio-vasculaires (12 000 décès)",
+          "rationale": "按不同疾病死亡人数比较最高项。"
+        },
+        {
+          "questionId": "tfs4-2013-q094",
+          "previous": "obj-r-inference",
+          "independent": "obj-r-number",
+          "status": "confirmed",
+          "quote": "Danemark (1%) ... mortalité féminine ... Danemark (1%)",
+          "rationale": "比较男女相同百分比以确定国家；题干将比例称死亡数不够严谨。"
+        },
+        {
+          "questionId": "tfs4-2013-verb-9",
+          "previous": "obj-past-future",
+          "independent": "obj-imparfait-state",
+          "status": "confirmed",
+          "quote": "où tout le monde était riche ... où la vie (être) moins dure",
+          "rationale": "描写当时想象中的生活状态，与était riche并列。"
+        },
+        {
+          "questionId": "tfs4-2013-verb-14",
+          "previous": "obj-gerund",
+          "independent": null,
+          "status": "uncertain",
+          "quote": "rester deux ou trois jours (attendre) de (trouver) un logement",
+          "rationale": "自然表达可补en attendant，但题面未给en；独立现在分词attendant也可分析。缺少参考，不能确定副动词或现在分词叶节点。"
+        },
+        {
+          "questionId": "tfs4-2013-verb-16",
+          "previous": "obj-passe-compose",
+          "independent": "obj-imparfait-state",
+          "status": "confirmed",
+          "quote": "En réalité la recherche ... (être) très difficile",
+          "rationale": "描写当时找房过程的困难状态。"
+        },
+        {
+          "questionId": "tfs4-2013-verb-17",
+          "previous": "obj-imparfait-state",
+          "independent": "obj-imparfait-habit",
+          "status": "confirmed",
+          "quote": "Il (falloir) toujours aller en banlieue",
+          "rationale": "toujours与找房语境表达反复需要去郊区。"
+        }
+      ],
+      "reviewSha256": "ed08cf488fa2b166e21668fded24af348669233eb1e4ebd88022d1aa36b651a8"
+    },
+    {
+      "year": 2023,
+      "count": 94,
+      "agreement": 89,
+      "uncertain": 1,
+      "disagreements": [
+        {
+          "questionId": "tfs4-2023-q077",
+          "previous": "obj-unless",
+          "independent": null,
+          "status": "uncertain",
+          "quote": "il n'y ait pas d'incident imprévu",
+          "rationale": "已有pas使条件为没有事故，适合à condition que；目录仅有例外条件à moins que，不能把两者混标。缺少适用叶节点。"
+        },
+        {
+          "questionId": "tfs4-2023-q081",
+          "previous": "obj-r-main",
+          "independent": "obj-r-cause",
+          "status": "reviewed",
+          "quote": "une campagne de sensibilisation ... contre les stéréotypes",
+          "rationale": "询问宣传目的，原文明确表示反对基于国籍的偏见。"
+        },
+        {
+          "questionId": "tfs4-2023-q095",
+          "previous": "obj-r-detail",
+          "independent": "obj-r-inference",
+          "status": "reviewed",
+          "quote": "Du jamais vu depuis la fin de la chasse commerciale",
+          "rationale": "由商业捕鲸结束推断其受到禁止，其他选项与原文矛盾；原文未直接写interdite，保留推断层级。"
+        },
+        {
+          "questionId": "tfs4-2023-q098",
+          "previous": "obj-r-detail",
+          "independent": "obj-r-context",
+          "status": "reviewed",
+          "quote": "on appelait « canard » les fausses nouvelles",
+          "rationale": "按文章给定历史定义理解canard一词。"
+        },
+        {
+          "questionId": "tfs4-2023-verb-3",
+          "previous": "obj-etre-agreement",
+          "independent": "obj-passe-compose",
+          "status": "reviewed",
+          "quote": "Et puis Maman (revenir) ... dans la chambre",
+          "rationale": "随后返回房间是完成事件；主要选择条件是叙事时态。"
+        }
+      ],
+      "reviewSha256": "dfebd0e8bcb30854d95f6182be38028170141584761badb23ea3a80e49df1a84"
+    }
+  ]
+}

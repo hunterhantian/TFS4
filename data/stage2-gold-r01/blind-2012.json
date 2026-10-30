@@ -1,0 +1,3393 @@
+{
+  "schemaVersion": 1,
+  "year": 2012,
+  "items": [
+    {
+      "questionId": "tfs4-2012-q021",
+      "questionVersionId": "tfs4-2012-q021:v2",
+      "year": 2012,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "text": "Elle viendra forcément ce soir, elle me l'a promis.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "sûrement"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "inévitablement"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "fatalement"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "naturellement"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 5,
+          "start": 1113,
+          "end": 1238,
+          "quote": "\n21. Elle viendra <u>forcément</u> ce soir, elle me l'a promis.\nA. sûrement B. inévitablement C. fatalement D. naturellement\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q022",
+      "questionVersionId": "tfs4-2012-q022:v2",
+      "year": 2012,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "text": "Après avoir reçu la lettre, elle a le cœur gros.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "énorme"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "soucieux"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "triste"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "inquiet"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 5,
+          "start": 1238,
+          "end": 1342,
+          "quote": "\n22. Après avoir reçu la lettre, elle a le <u>cœur gros</u>.\nA. énorme B. soucieux C. triste D. inquiet\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q023",
+      "questionVersionId": "tfs4-2012-q023:v2",
+      "year": 2012,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "text": "Les villes, aidées par l'État, cherchent à favoriser l'usage de modes de déplacement plus écologiques.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "rassurer"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "encourager"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "maintenir"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "envisager"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 5,
+          "start": 1342,
+          "end": 1508,
+          "quote": "\n23. Les villes, aidées par l'État, cherchent à <u>favoriser</u> l'usage de modes de déplacement plus écologiques.\nA. rassurer B. encourager C. maintenir D. envisager"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q024",
+      "questionVersionId": "tfs4-2012-q024:v2",
+      "year": 2012,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "text": "Il a su dominer sa colère.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "surpasser"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "dépasser"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "étouffer"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "maîtriser"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 6,
+          "start": 0,
+          "end": 92,
+          "quote": "24. Il a su <u>dominer</u> sa colère.\n    A. surpasser B. dépasser C. étouffer D. maîtriser\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q025",
+      "questionVersionId": "tfs4-2012-q025:v2",
+      "year": 2012,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "text": "La vie est très chère à Paris, je dois épargner le moindre sou.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "économiser"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "gagner"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "garder"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "dépenser"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 6,
+          "start": 92,
+          "end": 217,
+          "quote": "\n25. La vie est très chère à Paris, je dois <u>épargner</u> le moindre sou.\n    A. économiser B. gagner C. garder D. dépenser"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q026",
+      "questionVersionId": "tfs4-2012-q026:v2",
+      "year": 2012,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "text": "Si tu veux garder ta belle ligne, il vaut mieux ne pas manger gras.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "léger"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "maigre"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "mince"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "fin"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 6,
+          "start": 339,
+          "end": 458,
+          "quote": "\n26. Si tu veux garder ta belle ligne, il vaut mieux ne pas manger <u>gras</u>.\n    A. léger B. maigre C. mince D. fin\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q027",
+      "questionVersionId": "tfs4-2012-q027:v2",
+      "year": 2012,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "text": "Nous avons allumé la lampe en appuyant sur ce bouton.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "atteint"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "éteint"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "déteint"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "teint"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 6,
+          "start": 458,
+          "end": 569,
+          "quote": "\n27. Nous avons <u>allumé</u> la lampe en appuyant sur ce bouton.\n    A. atteint B. éteint C. déteint D. teint\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q028",
+      "questionVersionId": "tfs4-2012-q028:v2",
+      "year": 2012,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "text": "Ce pain est trop dur, quand est-ce que tu l'as acheté ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "tendre"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "mou"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "doux"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "souple"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 6,
+          "start": 569,
+          "end": 676,
+          "quote": "\n28. Ce pain est trop <u>dur</u>, quand est-ce que tu l'as acheté ?\n    A. tendre B. mou C. doux D. souple\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q029",
+      "questionVersionId": "tfs4-2012-q029:v2",
+      "year": 2012,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "text": "C'est un lac artificiel, mais je l'aime bien.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "réel"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "naturel"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "véritable"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "original"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 6,
+          "start": 676,
+          "end": 782,
+          "quote": "\n29. C'est un lac <u>artificiel</u>, mais je l'aime bien.\n    A. réel B. naturel C. véritable D. original\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q030",
+      "questionVersionId": "tfs4-2012-q030:v2",
+      "year": 2012,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "text": "La petite fille était ravie d'avoir eu l'occasion de visiter l'Exposition universelle.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "ennuyeuse"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "ennuyée"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "étonnée"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "étonnante"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 6,
+          "start": 782,
+          "end": 932,
+          "quote": "\n30. La petite fille était <u>ravie</u> d'avoir eu l'occasion de visiter l'Exposition universelle.\n    A. ennuyeuse B. ennuyée C. étonnée D. étonnante"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q031",
+      "questionVersionId": "tfs4-2012-q031:v2",
+      "year": 2012,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "31.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "santé"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "âge"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "rêve"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "pire"
+        }
+      ],
+      "material": "## Section B (10 points)\n\nComplétez le texte suivant avec les mots et expressions convenables.\n\n# L'éducation change le monde\n\nEn 2011, 67 millions d'enfants en __31__ d'aller à l'école primaire n'ont toujours pas __32__ à l'éducation. Les __33__, les enfants en situation de handicap, issus des minorités ou des milieux les plus pauvres en sont les principaux exclus.\n\nL'éducation est un élément essentiel du développement. Elle exerce une __34__ directe sur la santé des communautés. Elle permet d'améliorer la participation démocratique, de lutter contre les __35__ et d'améliorer la croissance. __36__ ces effets, l'éducation est un __37__ humain fondamental, il doit être __38__ et étendu.\n\nL'organisation Aide et Action International a été créée en 2007. Elle __39__ déjà cinq membres : France, Suisse, Afrique, Asie du Sud et Asie du Sud-Est. Elle est __40__ par un Congrès regroupant des représentants de toutes les régions.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 0,
+          "end": 36,
+          "quote": "31. A. santé B. âge C. rêve D. pire\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q032",
+      "questionVersionId": "tfs4-2012-q032:v2",
+      "year": 2012,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "32.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "moyen"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "occasion"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "accès"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "envie"
+        }
+      ],
+      "material": "## Section B (10 points)\n\nComplétez le texte suivant avec les mots et expressions convenables.\n\n# L'éducation change le monde\n\nEn 2011, 67 millions d'enfants en __31__ d'aller à l'école primaire n'ont toujours pas __32__ à l'éducation. Les __33__, les enfants en situation de handicap, issus des minorités ou des milieux les plus pauvres en sont les principaux exclus.\n\nL'éducation est un élément essentiel du développement. Elle exerce une __34__ directe sur la santé des communautés. Elle permet d'améliorer la participation démocratique, de lutter contre les __35__ et d'améliorer la croissance. __36__ ces effets, l'éducation est un __37__ humain fondamental, il doit être __38__ et étendu.\n\nL'organisation Aide et Action International a été créée en 2007. Elle __39__ déjà cinq membres : France, Suisse, Afrique, Asie du Sud et Asie du Sud-Est. Elle est __40__ par un Congrès regroupant des représentants de toutes les régions.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 36,
+          "end": 79,
+          "quote": "32. A. moyen B. occasion C. accès D. envie\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q033",
+      "questionVersionId": "tfs4-2012-q033:v2",
+      "year": 2012,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "33.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "filles"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "garçons"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "aînés"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "cadets"
+        }
+      ],
+      "material": "## Section B (10 points)\n\nComplétez le texte suivant avec les mots et expressions convenables.\n\n# L'éducation change le monde\n\nEn 2011, 67 millions d'enfants en __31__ d'aller à l'école primaire n'ont toujours pas __32__ à l'éducation. Les __33__, les enfants en situation de handicap, issus des minorités ou des milieux les plus pauvres en sont les principaux exclus.\n\nL'éducation est un élément essentiel du développement. Elle exerce une __34__ directe sur la santé des communautés. Elle permet d'améliorer la participation démocratique, de lutter contre les __35__ et d'améliorer la croissance. __36__ ces effets, l'éducation est un __37__ humain fondamental, il doit être __38__ et étendu.\n\nL'organisation Aide et Action International a été créée en 2007. Elle __39__ déjà cinq membres : France, Suisse, Afrique, Asie du Sud et Asie du Sud-Est. Elle est __40__ par un Congrès regroupant des représentants de toutes les régions.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 79,
+          "end": 123,
+          "quote": "33. A. filles B. garçons C. aînés D. cadets\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q034",
+      "questionVersionId": "tfs4-2012-q034:v2",
+      "year": 2012,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "34.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "impact"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "influence"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "effet"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "réaction"
+        }
+      ],
+      "material": "## Section B (10 points)\n\nComplétez le texte suivant avec les mots et expressions convenables.\n\n# L'éducation change le monde\n\nEn 2011, 67 millions d'enfants en __31__ d'aller à l'école primaire n'ont toujours pas __32__ à l'éducation. Les __33__, les enfants en situation de handicap, issus des minorités ou des milieux les plus pauvres en sont les principaux exclus.\n\nL'éducation est un élément essentiel du développement. Elle exerce une __34__ directe sur la santé des communautés. Elle permet d'améliorer la participation démocratique, de lutter contre les __35__ et d'améliorer la croissance. __36__ ces effets, l'éducation est un __37__ humain fondamental, il doit être __38__ et étendu.\n\nL'organisation Aide et Action International a été créée en 2007. Elle __39__ déjà cinq membres : France, Suisse, Afrique, Asie du Sud et Asie du Sud-Est. Elle est __40__ par un Congrès regroupant des représentants de toutes les régions.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 123,
+          "end": 171,
+          "quote": "34. A. impact B. influence C. effet D. réaction\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q035",
+      "questionVersionId": "tfs4-2012-q035:v2",
+      "year": 2012,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "35.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "immigrations"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "pollutions"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "séparations"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "discriminations"
+        }
+      ],
+      "material": "## Section B (10 points)\n\nComplétez le texte suivant avec les mots et expressions convenables.\n\n# L'éducation change le monde\n\nEn 2011, 67 millions d'enfants en __31__ d'aller à l'école primaire n'ont toujours pas __32__ à l'éducation. Les __33__, les enfants en situation de handicap, issus des minorités ou des milieux les plus pauvres en sont les principaux exclus.\n\nL'éducation est un élément essentiel du développement. Elle exerce une __34__ directe sur la santé des communautés. Elle permet d'améliorer la participation démocratique, de lutter contre les __35__ et d'améliorer la croissance. __36__ ces effets, l'éducation est un __37__ humain fondamental, il doit être __38__ et étendu.\n\nL'organisation Aide et Action International a été créée en 2007. Elle __39__ déjà cinq membres : France, Suisse, Afrique, Asie du Sud et Asie du Sud-Est. Elle est __40__ par un Congrès regroupant des représentants de toutes les régions.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 171,
+          "end": 239,
+          "quote": "35. A. immigrations B. pollutions C. séparations D. discriminations\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q036",
+      "questionVersionId": "tfs4-2012-q036:v2",
+      "year": 2012,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "36.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Au-delà de"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "À côté de"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Avec"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Sauf"
+        }
+      ],
+      "material": "## Section B (10 points)\n\nComplétez le texte suivant avec les mots et expressions convenables.\n\n# L'éducation change le monde\n\nEn 2011, 67 millions d'enfants en __31__ d'aller à l'école primaire n'ont toujours pas __32__ à l'éducation. Les __33__, les enfants en situation de handicap, issus des minorités ou des milieux les plus pauvres en sont les principaux exclus.\n\nL'éducation est un élément essentiel du développement. Elle exerce une __34__ directe sur la santé des communautés. Elle permet d'améliorer la participation démocratique, de lutter contre les __35__ et d'améliorer la croissance. __36__ ces effets, l'éducation est un __37__ humain fondamental, il doit être __38__ et étendu.\n\nL'organisation Aide et Action International a été créée en 2007. Elle __39__ déjà cinq membres : France, Suisse, Afrique, Asie du Sud et Asie du Sud-Est. Elle est __40__ par un Congrès regroupant des représentants de toutes les régions.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 239,
+          "end": 286,
+          "quote": "36. A. Au-delà de B. À côté de C. Avec D. Sauf\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q037",
+      "questionVersionId": "tfs4-2012-q037:v2",
+      "year": 2012,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "37.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "devoir"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "droite"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "droit"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "destin"
+        }
+      ],
+      "material": "## Section B (10 points)\n\nComplétez le texte suivant avec les mots et expressions convenables.\n\n# L'éducation change le monde\n\nEn 2011, 67 millions d'enfants en __31__ d'aller à l'école primaire n'ont toujours pas __32__ à l'éducation. Les __33__, les enfants en situation de handicap, issus des minorités ou des milieux les plus pauvres en sont les principaux exclus.\n\nL'éducation est un élément essentiel du développement. Elle exerce une __34__ directe sur la santé des communautés. Elle permet d'améliorer la participation démocratique, de lutter contre les __35__ et d'améliorer la croissance. __36__ ces effets, l'éducation est un __37__ humain fondamental, il doit être __38__ et étendu.\n\nL'organisation Aide et Action International a été créée en 2007. Elle __39__ déjà cinq membres : France, Suisse, Afrique, Asie du Sud et Asie du Sud-Est. Elle est __40__ par un Congrès regroupant des représentants de toutes les régions.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 286,
+          "end": 329,
+          "quote": "37. A. devoir B. droite C. droit D. destin\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q038",
+      "questionVersionId": "tfs4-2012-q038:v2",
+      "year": 2012,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "38.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "interdire"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "interdit"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "défendre"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "défendu"
+        }
+      ],
+      "material": "## Section B (10 points)\n\nComplétez le texte suivant avec les mots et expressions convenables.\n\n# L'éducation change le monde\n\nEn 2011, 67 millions d'enfants en __31__ d'aller à l'école primaire n'ont toujours pas __32__ à l'éducation. Les __33__, les enfants en situation de handicap, issus des minorités ou des milieux les plus pauvres en sont les principaux exclus.\n\nL'éducation est un élément essentiel du développement. Elle exerce une __34__ directe sur la santé des communautés. Elle permet d'améliorer la participation démocratique, de lutter contre les __35__ et d'améliorer la croissance. __36__ ces effets, l'éducation est un __37__ humain fondamental, il doit être __38__ et étendu.\n\nL'organisation Aide et Action International a été créée en 2007. Elle __39__ déjà cinq membres : France, Suisse, Afrique, Asie du Sud et Asie du Sud-Est. Elle est __40__ par un Congrès regroupant des représentants de toutes les régions.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 329,
+          "end": 381,
+          "quote": "38. A. interdire B. interdit C. défendre D. défendu\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q039",
+      "questionVersionId": "tfs4-2012-q039:v2",
+      "year": 2012,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "39.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "gagne"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "compte"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "contient"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "possède"
+        }
+      ],
+      "material": "## Section B (10 points)\n\nComplétez le texte suivant avec les mots et expressions convenables.\n\n# L'éducation change le monde\n\nEn 2011, 67 millions d'enfants en __31__ d'aller à l'école primaire n'ont toujours pas __32__ à l'éducation. Les __33__, les enfants en situation de handicap, issus des minorités ou des milieux les plus pauvres en sont les principaux exclus.\n\nL'éducation est un élément essentiel du développement. Elle exerce une __34__ directe sur la santé des communautés. Elle permet d'améliorer la participation démocratique, de lutter contre les __35__ et d'améliorer la croissance. __36__ ces effets, l'éducation est un __37__ humain fondamental, il doit être __38__ et étendu.\n\nL'organisation Aide et Action International a été créée en 2007. Elle __39__ déjà cinq membres : France, Suisse, Afrique, Asie du Sud et Asie du Sud-Est. Elle est __40__ par un Congrès regroupant des représentants de toutes les régions.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 381,
+          "end": 427,
+          "quote": "39. A. gagne B. compte C. contient D. possède\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q040",
+      "questionVersionId": "tfs4-2012-q040:v2",
+      "year": 2012,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "40.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "gouvernée"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "attachée"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "maîtrisée"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "dominée"
+        }
+      ],
+      "material": "## Section B (10 points)\n\nComplétez le texte suivant avec les mots et expressions convenables.\n\n# L'éducation change le monde\n\nEn 2011, 67 millions d'enfants en __31__ d'aller à l'école primaire n'ont toujours pas __32__ à l'éducation. Les __33__, les enfants en situation de handicap, issus des minorités ou des milieux les plus pauvres en sont les principaux exclus.\n\nL'éducation est un élément essentiel du développement. Elle exerce une __34__ directe sur la santé des communautés. Elle permet d'améliorer la participation démocratique, de lutter contre les __35__ et d'améliorer la croissance. __36__ ces effets, l'éducation est un __37__ humain fondamental, il doit être __38__ et étendu.\n\nL'organisation Aide et Action International a été créée en 2007. Elle __39__ déjà cinq membres : France, Suisse, Afrique, Asie du Sud et Asie du Sud-Est. Elle est __40__ par un Congrès regroupant des représentants de toutes les régions.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 427,
+          "end": 479,
+          "quote": "40. A. gouvernée B. attachée C. maîtrisée D. dominée"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q041",
+      "questionVersionId": "tfs4-2012-q041:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "_______ de ces deux robes me va mieux ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Quelle"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Quel"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Laquelle"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Lequel"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 614,
+          "end": 706,
+          "quote": "\n41. \\_\\_\\_\\_\\_\\_\\_ de ces deux robes me va mieux ?\nA. Quelle B. Quel C. Laquelle D. Lequel\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q042",
+      "questionVersionId": "tfs4-2012-q042:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Elle _______ les mains avant de passer à table.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "s'est lavé"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "s'est lavée"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "s'est lavés"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "s'est lavées"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 706,
+          "end": 826,
+          "quote": "\n42. Elle \\_\\_\\_\\_\\_\\_\\_ les mains avant de passer à table.\nA. s'est lavé B. s'est lavée C. s'est lavés D. s'est lavées\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q043",
+      "questionVersionId": "tfs4-2012-q043:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Comme il ne parle pas français, je lui sers _______.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "interprète"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "d'interprète"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "en interprète"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "comme interprète"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 826,
+          "end": 958,
+          "quote": "\n43. Comme il ne parle pas français, je lui sers \\_\\_\\_\\_\\_\\_\\_.\nA. interprète B. d'interprète C. en interprète D. comme interprète\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q045",
+      "questionVersionId": "tfs4-2012-q045:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Tu t'occupes de tes affaires, laisse-moi m'occuper _______.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "les miens"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "les miennes"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "des miens"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "des miennes"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 1084,
+          "end": 1212,
+          "quote": "\n45. Tu t'occupes de tes affaires, laisse-moi m'occuper \\_\\_\\_\\_\\_\\_\\_.\nA. les miens B. les miennes C. des miens D. des miennes\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q046",
+      "questionVersionId": "tfs4-2012-q046:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Je préfère le jus de pomme _______ coca.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "à"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "au"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "que"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "à la"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 1212,
+          "end": 1291,
+          "quote": "\n46. Je préfère le jus de pomme \\_\\_\\_\\_\\_\\_\\_ coca.\nA. à B. au C. que D. à la\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q047",
+      "questionVersionId": "tfs4-2012-q047:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Dès qu'il _______ de manger, il alla à l'école.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "finit"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "a fini"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "eut fini"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "avait fini"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 1291,
+          "end": 1396,
+          "quote": "\n47. Dès qu'il \\_\\_\\_\\_\\_\\_\\_ de manger, il alla à l'école.\nA. finit B. a fini C. eut fini D. avait fini\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q049",
+      "questionVersionId": "tfs4-2012-q049:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "_______ est bien qui finit bien.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Tout"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Rien"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Ce qui"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Nul"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 1482,
+          "end": 1559,
+          "quote": "\n49. \\_\\_\\_\\_\\_\\_\\_ est bien qui finit bien.\nA. Tout B. Rien C. Ce qui D. Nul"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q050",
+      "questionVersionId": "tfs4-2012-q050:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Attendez-moi s'il vous plaît, je n'en ai que ______ deux minutes.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "pendant"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "dans"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "en"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "pour"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 0,
+          "end": 103,
+          "quote": "50. Attendez-moi s'il vous plaît, je n'en ai que ______ deux minutes.\nA. pendant\nB. dans\nC. en\nD. pour\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q051",
+      "questionVersionId": "tfs4-2012-q051:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "_______ vous désirez vous entretenir avec moi, nous serons mieux dans mon bureau.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Puisque"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Pourtant"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Parce que"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Donc"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 103,
+          "end": 254,
+          "quote": "\n51. _______ vous désirez vous entretenir avec moi, nous serons mieux dans mon bureau.\n<u>vous désirez</u>\nA. Puisque\nB. Pourtant\nC. Parce que\nD. Donc\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q052",
+      "questionVersionId": "tfs4-2012-q052:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Je viendrai te voir à la campagne dès que _______ terminé mon travail.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "j'ai"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "j'aurai"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "j'aurais"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "j'eus"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 254,
+          "end": 370,
+          "quote": "\n52. Je viendrai te voir à la campagne dès que _______ terminé mon travail.\nA. j'ai\nB. j'aurai\nC. j'aurais\nD. j'eus\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q053",
+      "questionVersionId": "tfs4-2012-q053:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Je tiens _______ vous raccompagner chez vous, la nuit tombe déjà.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "de"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "à"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "pour"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "/"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 370,
+          "end": 465,
+          "quote": "\n53. Je tiens _______ vous raccompagner chez vous, la nuit tombe déjà.\nA. de\nB. à\nC. pour\nD. /\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q054",
+      "questionVersionId": "tfs4-2012-q054:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Enfin _______ voilà, nos invités étrangers.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "le"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "la"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "les"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "en"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 465,
+          "end": 539,
+          "quote": "\n54. Enfin _______ voilà, nos invités étrangers.\nA. le\nB. la\nC. les\nD. en\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q055",
+      "questionVersionId": "tfs4-2012-q055:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Cette question, tu peux _______ poser tout à l'heure ? Il n'a pas encore fini son repas.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "la lui"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "le lui"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "lui y"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "me la"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 539,
+          "end": 671,
+          "quote": "\n55. Cette question, tu peux _______ poser tout à l'heure ? Il n'a pas encore fini son repas.\nA. la lui\nB. le lui\nC. lui y\nD. me la\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q056",
+      "questionVersionId": "tfs4-2012-q056:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Le T.G.V., mis _______ service dès le début des années 80, est un moyen de transport rapide et confortable.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "à"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "au"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "en"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "dans le"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 671,
+          "end": 812,
+          "quote": "\n56. Le T.G.V., mis _______ service dès le début des années 80, est un moyen de transport rapide et confortable.\nA. à\nB. au\nC. en\nD. dans le\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q057",
+      "questionVersionId": "tfs4-2012-q057:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Après dix ans d'effort, il a fini _______ réaliser son rêve d'enfant.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "à"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "pour"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "par"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "de"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 812,
+          "end": 913,
+          "quote": "\n57. Après dix ans d'effort, il a fini _______ réaliser son rêve d'enfant.\nA. à\nB. pour\nC. par\nD. de\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q058",
+      "questionVersionId": "tfs4-2012-q058:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Quand ma sœur était à Paris l'été dernier, maman _______ téléphonait tous les jours.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "le"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "la"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "lui"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "elle"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 913,
+          "end": 1030,
+          "quote": "\n58. Quand ma sœur était à Paris l'été dernier, maman _______ téléphonait tous les jours.\nA. le\nB. la\nC. lui\nD. elle\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q059",
+      "questionVersionId": "tfs4-2012-q059:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "On n'est jamais si bien servi que par _______.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "lui même"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "lui-même"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "soi-même"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "nous-mêmes"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 1030,
+          "end": 1132,
+          "quote": "\n59. On n'est jamais si bien servi que par _______.\nA. lui même\nB. lui-même\nC. soi-même\nD. nous-mêmes\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q060",
+      "questionVersionId": "tfs4-2012-q060:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Il faut savoir distinguer le vrai _______ faux.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "avec le"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "du"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "entre le"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "contre le"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 1132,
+          "end": 1227,
+          "quote": "\n60. Il faut savoir distinguer le vrai _______ faux.\nA. avec le\nB. du\nC. entre le\nD. contre le\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q061",
+      "questionVersionId": "tfs4-2012-q061:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Elle me soigne comme si elle _______ ma maman.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "est"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "était"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "serait"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "a été"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 1227,
+          "end": 1314,
+          "quote": "\n61. Elle me soigne comme si elle _______ ma maman.\nA. est\nB. était\nC. serait\nD. a été\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q062",
+      "questionVersionId": "tfs4-2012-q062:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "J'ai acheté des cerises à 7 euros _______ kilo.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "un"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "chaque"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "le"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "par"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 1314,
+          "end": 1395,
+          "quote": "\n62. J'ai acheté des cerises à 7 euros _______ kilo.\nA. un\nB. chaque\nC. le\nD. par"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q063",
+      "questionVersionId": "tfs4-2012-q063:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Ces voitures importées coûtent très _______.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "cher"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "chers"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "chère"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "chères"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 0,
+          "end": 85,
+          "quote": "63. Ces voitures importées coûtent très _______.\nA. cher\nB. chers\nC. chère\nD. chères\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q064",
+      "questionVersionId": "tfs4-2012-q064:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Il a donné la plupart de ses _______ au musée de la région.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "chef-d'œuvre"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "chefs-d'œuvre"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "chefs-d'œuvres"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "chef-d'œuvres"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 85,
+          "end": 218,
+          "quote": "\n64. Il a donné la plupart de ses _______ au musée de la région.\nA. chef-d'œuvre\nB. chefs-d'œuvre\nC. chefs-d'œuvres\nD. chef-d'œuvres\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q065",
+      "questionVersionId": "tfs4-2012-q065:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "J'aime bien ces assiettes _______.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "bleue ciel"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "bleues ciel"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "bleu ciel"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "bleues ciels"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 218,
+          "end": 316,
+          "quote": "\n65. J'aime bien ces assiettes _______.\nA. bleue ciel\nB. bleues ciel\nC. bleu ciel\nD. bleues ciels\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q066",
+      "questionVersionId": "tfs4-2012-q066:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Après 3 heures de marche à pied, elle est _______.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "fatigante"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "fatigant"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "fatiguée"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "fatigué"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 316,
+          "end": 420,
+          "quote": "\n66. Après 3 heures de marche à pied, elle est _______.\nA. fatigante\nB. fatigant\nC. fatiguée\nD. fatigué\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q069",
+      "questionVersionId": "tfs4-2012-q069:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Il s'excuse de ne pas vous _______ de son absence.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "prévenir"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "avoir prévenu"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "prévoir"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "avoir prévu"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 690,
+          "end": 801,
+          "quote": "\n69. Il s'excuse de ne pas vous _______ de son absence.\nA. prévenir\nB. avoir prévenu\nC. prévoir\nD. avoir prévu\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q070",
+      "questionVersionId": "tfs4-2012-q070:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Je suis très heureuse que tu _______ voir mon exposition.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "viens"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "viendras"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "es venu"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "viennes"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 801,
+          "end": 907,
+          "quote": "\n70. Je suis très heureuse que tu _______ voir mon exposition.\nA. viens\nB. viendras\nC. es venu\nD. viennes\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q071",
+      "questionVersionId": "tfs4-2012-q071:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Ni ton frère ni moi ne _______ ton avis.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "partage"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "partagent"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "partageons"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "partagez"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 907,
+          "end": 1003,
+          "quote": "\n71. Ni ton frère ni moi ne _______ ton avis.\nA. partage\nB. partagent\nC. partageons\nD. partagez\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q072",
+      "questionVersionId": "tfs4-2012-q072:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Je rentre avant qu'il ne _______ nuit.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "fait"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "fera"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "fasse"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "ferait"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 1003,
+          "end": 1082,
+          "quote": "\n72. Je rentre avant qu'il ne _______ nuit.\nA. fait\nB. fera\nC. fasse\nD. ferait\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q073",
+      "questionVersionId": "tfs4-2012-q073:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Quand elle était petite, elle _______ chaque été chez sa tante.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "est allée"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "allait"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "irait"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "alla"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 1082,
+          "end": 1191,
+          "quote": "\n73. Quand elle était petite, elle _______ chaque été chez sa tante.\nA. est allée\nB. allait\nC. irait\nD. alla\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q074",
+      "questionVersionId": "tfs4-2012-q074:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "J'espère que tu _______ ton examen.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "réussis"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "réussisses"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "réussiras"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "aies réussi"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 1191,
+          "end": 1285,
+          "quote": "\n74. J'espère que tu _______ ton examen.\nA. réussis\nB. réussisses\nC. réussiras\nD. aies réussi\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q075",
+      "questionVersionId": "tfs4-2012-q075:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "C'est _______ qu'on apprend à nager.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "nagé"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "nageant"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "en nageant"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "nager"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 1285,
+          "end": 1368,
+          "quote": "\n75. C'est _______ qu'on apprend à nager.\nA. nagé\nB. nageant\nC. en nageant\nD. nager"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q076",
+      "questionVersionId": "tfs4-2012-q076:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Il est trop petit ______ on le laisse voyager tout seul.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "de sorte qu'"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "pour qu'"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "si bien qu'"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "de sorte à"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 0,
+          "end": 118,
+          "quote": "76. Il est trop petit ______ on le laisse voyager tout seul.\nA. de sorte qu' B. pour qu' C. si bien qu' D. de sorte à\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q077",
+      "questionVersionId": "tfs4-2012-q077:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Pourriez-vous me donner les informations ______ j'ai besoin ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "que"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "qui"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "dont"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "auxquelles"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 118,
+          "end": 221,
+          "quote": "\n77. Pourriez-vous me donner les informations ______ j'ai besoin ?\nA. que B. qui C. dont D. auxquelles\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q078",
+      "questionVersionId": "tfs4-2012-q078:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "______ de café, nous buvons du thé vert.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "À moins"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "À défaut"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "À manque"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "À faute"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 221,
+          "end": 313,
+          "quote": "\n78. ______ de café, nous buvons du thé vert.\nA. À moins B. À défaut C. À manque D. À faute\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q079",
+      "questionVersionId": "tfs4-2012-q079:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Cet accident est ______ son imprudence.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "dû à"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "à cause de"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "grâce à"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "à la suite de"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 313,
+          "end": 408,
+          "quote": "\n79. Cet accident est ______ son imprudence.\nA. dû à B. à cause de C. grâce à D. à la suite de\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q080",
+      "questionVersionId": "tfs4-2012-q080:v2",
+      "year": 2012,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Il arrivera demain matin ______ il n'ait un incident imprévu.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "sauf si"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "de crainte qu'"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "à moins qu'"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "à condition qu'"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 408,
+          "end": 537,
+          "quote": "\n80. Il arrivera demain matin ______ il n'ait un incident imprévu.\nA. sauf si B. de crainte qu' C. à moins qu' D. à condition qu'"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q081",
+      "questionVersionId": "tfs4-2012-q081:v2",
+      "year": 2012,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "D'après le texte, Murray Rudd a fait une enquête __________.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "au Canada"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "à l'Université de New York"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "sur Internet"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "en Chine"
+        }
+      ],
+      "material": "# 1. Faut-il laisser disparaître le panda ?\n\nVaut-il mieux protéger le panda ou l'abeille ? L'ours blanc ou le ver de terre ? Plus crûment : faut-il laisser certaines espèces disparaître pour mieux préserver les autres ? Question tragique qu'il est de plus en plus difficile d'éviter avec les risques d'effondrement de la biodiversité.\n\nLe Canadien Murray Rudd, spécialiste de l'économie environnementale à l'Université de New York, a mené une enquête par Internet auprès de 583 spécialistes de la protection animale et végétale. S'ils sont quasi 100% à craindre une perte de la biodiversité, ils sont près de 60% à accepter l'idée de la nécessité d'établir des critères pour tirer le bon grain de l'ivraie.\n\nÀ savoir quelles espèces sont condamnées et celles qui seront « sauvées ». Quels critères ? « Beaucoup de scientifiques ne se rallient pas encore pleinement au concept utilitaire de services rendus par les écosystèmes », note Rudd dans Conservation Biology. OK, le panda est charmant, mais il passe son temps à grignoter ses bambous. En revanche, l'abeille transporte le pollen de milliers de fleurs. Le choix est vite fait, quand on n'est pas Chinois...",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 11,
+          "start": 1170,
+          "end": 1312,
+          "quote": "\n**81.** D'après le texte, Murray Rudd a fait une enquête __________.\n\nA. au Canada\nB. à l'Université de New York\nC. sur Internet\nD. en Chine\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q082",
+      "questionVersionId": "tfs4-2012-q082:v2",
+      "year": 2012,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Parmi les 583 spécialistes, ________ d'entre eux s'inquiètent d'une perte de la biodiversité.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "100%"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "presque 100%"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "60%"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "40%"
+        }
+      ],
+      "material": "# 1. Faut-il laisser disparaître le panda ?\n\nVaut-il mieux protéger le panda ou l'abeille ? L'ours blanc ou le ver de terre ? Plus crûment : faut-il laisser certaines espèces disparaître pour mieux préserver les autres ? Question tragique qu'il est de plus en plus difficile d'éviter avec les risques d'effondrement de la biodiversité.\n\nLe Canadien Murray Rudd, spécialiste de l'économie environnementale à l'Université de New York, a mené une enquête par Internet auprès de 583 spécialistes de la protection animale et végétale. S'ils sont quasi 100% à craindre une perte de la biodiversité, ils sont près de 60% à accepter l'idée de la nécessité d'établir des critères pour tirer le bon grain de l'ivraie.\n\nÀ savoir quelles espèces sont condamnées et celles qui seront « sauvées ». Quels critères ? « Beaucoup de scientifiques ne se rallient pas encore pleinement au concept utilitaire de services rendus par les écosystèmes », note Rudd dans Conservation Biology. OK, le panda est charmant, mais il passe son temps à grignoter ses bambous. En revanche, l'abeille transporte le pollen de milliers de fleurs. Le choix est vite fait, quand on n'est pas Chinois...",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 11,
+          "start": 1312,
+          "end": 1454,
+          "quote": "\n**82.** Parmi les 583 spécialistes, ________ d'entre eux s'inquiètent d'une perte de la biodiversité.\n\nA. 100%\nB. presque 100%\nC. 60%\nD. 40%\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q083",
+      "questionVersionId": "tfs4-2012-q083:v2",
+      "year": 2012,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "________ d'entre eux s'opposent à l'idée d'établir des critères pour la sauvegarde de la biodiversité.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Tous"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Beaucoup"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "40%"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "60%"
+        }
+      ],
+      "material": "# 1. Faut-il laisser disparaître le panda ?\n\nVaut-il mieux protéger le panda ou l'abeille ? L'ours blanc ou le ver de terre ? Plus crûment : faut-il laisser certaines espèces disparaître pour mieux préserver les autres ? Question tragique qu'il est de plus en plus difficile d'éviter avec les risques d'effondrement de la biodiversité.\n\nLe Canadien Murray Rudd, spécialiste de l'économie environnementale à l'Université de New York, a mené une enquête par Internet auprès de 583 spécialistes de la protection animale et végétale. S'ils sont quasi 100% à craindre une perte de la biodiversité, ils sont près de 60% à accepter l'idée de la nécessité d'établir des critères pour tirer le bon grain de l'ivraie.\n\nÀ savoir quelles espèces sont condamnées et celles qui seront « sauvées ». Quels critères ? « Beaucoup de scientifiques ne se rallient pas encore pleinement au concept utilitaire de services rendus par les écosystèmes », note Rudd dans Conservation Biology. OK, le panda est charmant, mais il passe son temps à grignoter ses bambous. En revanche, l'abeille transporte le pollen de milliers de fleurs. Le choix est vite fait, quand on n'est pas Chinois...",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 11,
+          "start": 1454,
+          "end": 1601,
+          "quote": "\n**83.** ________ d'entre eux s'opposent à l'idée d'établir des critères pour la sauvegarde de la biodiversité.\n\nA. Tous\nB. Beaucoup\nC. 40%\nD. 60%\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q084",
+      "questionVersionId": "tfs4-2012-q084:v2",
+      "year": 2012,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Si l'on fait un choix utilitaire, on va protéger __________.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "le panda et l'abeille"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "l'ours blanc et le ver de terre"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "le panda et l'ours blanc"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "l'abeille et le ver de terre"
+        }
+      ],
+      "material": "# 1. Faut-il laisser disparaître le panda ?\n\nVaut-il mieux protéger le panda ou l'abeille ? L'ours blanc ou le ver de terre ? Plus crûment : faut-il laisser certaines espèces disparaître pour mieux préserver les autres ? Question tragique qu'il est de plus en plus difficile d'éviter avec les risques d'effondrement de la biodiversité.\n\nLe Canadien Murray Rudd, spécialiste de l'économie environnementale à l'Université de New York, a mené une enquête par Internet auprès de 583 spécialistes de la protection animale et végétale. S'ils sont quasi 100% à craindre une perte de la biodiversité, ils sont près de 60% à accepter l'idée de la nécessité d'établir des critères pour tirer le bon grain de l'ivraie.\n\nÀ savoir quelles espèces sont condamnées et celles qui seront « sauvées ». Quels critères ? « Beaucoup de scientifiques ne se rallient pas encore pleinement au concept utilitaire de services rendus par les écosystèmes », note Rudd dans Conservation Biology. OK, le panda est charmant, mais il passe son temps à grignoter ses bambous. En revanche, l'abeille transporte le pollen de milliers de fleurs. Le choix est vite fait, quand on n'est pas Chinois...",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 11,
+          "start": 1601,
+          "end": 1791,
+          "quote": "\n**84.** Si l'on fait un choix utilitaire, on va protéger __________.\n\nA. le panda et l'abeille\nB. l'ours blanc et le ver de terre\nC. le panda et l'ours blanc\nD. l'abeille et le ver de terre"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q085",
+      "questionVersionId": "tfs4-2012-q085:v2",
+      "year": 2012,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Pourquoi les Chinois adorent-ils le panda ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Parce qu'il est charmant."
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Parce qu'il mange des bambous."
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Parce qu'il ne fait rien."
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Parce qu'il rend service à l'homme comme l'abeille."
+        }
+      ],
+      "material": "# 1. Faut-il laisser disparaître le panda ?\n\nVaut-il mieux protéger le panda ou l'abeille ? L'ours blanc ou le ver de terre ? Plus crûment : faut-il laisser certaines espèces disparaître pour mieux préserver les autres ? Question tragique qu'il est de plus en plus difficile d'éviter avec les risques d'effondrement de la biodiversité.\n\nLe Canadien Murray Rudd, spécialiste de l'économie environnementale à l'Université de New York, a mené une enquête par Internet auprès de 583 spécialistes de la protection animale et végétale. S'ils sont quasi 100% à craindre une perte de la biodiversité, ils sont près de 60% à accepter l'idée de la nécessité d'établir des critères pour tirer le bon grain de l'ivraie.\n\nÀ savoir quelles espèces sont condamnées et celles qui seront « sauvées ». Quels critères ? « Beaucoup de scientifiques ne se rallient pas encore pleinement au concept utilitaire de services rendus par les écosystèmes », note Rudd dans Conservation Biology. OK, le panda est charmant, mais il passe son temps à grignoter ses bambous. En revanche, l'abeille transporte le pollen de milliers de fleurs. Le choix est vite fait, quand on n'est pas Chinois...",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 12,
+          "start": 0,
+          "end": 195,
+          "quote": "85. Pourquoi les Chinois adorent-ils le panda ?\n\nA. Parce qu'il est charmant.\nB. Parce qu'il mange des bambous.\nC. Parce qu'il ne fait rien.\nD. Parce qu'il rend service à l'homme comme l'abeille."
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q087",
+      "questionVersionId": "tfs4-2012-q087:v2",
+      "year": 2012,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Quand Hergé a-t-il rencontré Tchang pour la première fois ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Dans les années 1930."
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Dans les années 1940."
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Dans les années 1970."
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Dans les années 1980."
+        }
+      ],
+      "material": "## 2. Hergé et Tchang\n\nLa relation avec Tchang ne s'arrête pas à l'ouvrage de Tintin au Tibet. En effet, Hergé cherchait dans la vie réelle Tchang Tchong-Jen avec presque autant d'obstination que Tintin. Tchang Tchong-Jen et Hergé se sont rencontrés alors que ce dernier écrivait Le Lotus Bleu. Cet étudiant chinois était rentré en Chine à la fin des années trente et ils ont perdu le contact peu après.\n\nUn jour de 1976, dans un restaurant, Hergé comme à son habitude, ne manqua pas dès qu'il était en relation avec des Chinois, de leur demander s'ils connaissaient un certain Tchang Tchong-Jen. La réponse fut cette fois positive, Tchang vivait à Shanghai en tant que directeur d'une académie de sculpture.\n\nLes deux amis reprirent contact et suite à un échange de lettres, Hergé envoya Le Lotus bleu en couleur et Tintin au Tibet. C'est alors que Gérard Valet, journaliste français, co-auteur du film Moï Tintin, eut l'idée et entreprit l'organisation du retour de Tchang en Belgique. Une rencontre qui à l'origine devait se produire au cinquantième anniversaire de Tintin, eut finalement lieu en 1981. Les retrouvailles furent chargées d'émotions, Tchang fut accueilli à la manière d'un chef d'État à l'aéroport de Zaventem. En effet, Hergé n'était plus ce jeune dessinateur que Tchang avait connu mais une célébrité mondiale. Cette rencontre précéda de deux ans la mort du créateur et constitua à n'en pas douter une de ses dernières joies.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 12,
+          "start": 1875,
+          "end": 2040,
+          "quote": "\n87. Quand Hergé a-t-il rencontré Tchang pour la première fois ?\n\nA. Dans les années 1930.\nB. Dans les années 1940.\nC. Dans les années 1970.\nD. Dans les années 1980."
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q088",
+      "questionVersionId": "tfs4-2012-q088:v2",
+      "year": 2012,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Une fois le contact repris, Hergé a envoyé ______ à son ami chinois.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "des lettres"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "des lettres, Le Lotus bleu et Tintin au Tibet"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Le Lotus bleu et Tintin au Tibet"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "des lettres, Le Lotus bleu, Tintin au Tibet et Moi Tintin"
+        }
+      ],
+      "material": "## 2. Hergé et Tchang\n\nLa relation avec Tchang ne s'arrête pas à l'ouvrage de Tintin au Tibet. En effet, Hergé cherchait dans la vie réelle Tchang Tchong-Jen avec presque autant d'obstination que Tintin. Tchang Tchong-Jen et Hergé se sont rencontrés alors que ce dernier écrivait Le Lotus Bleu. Cet étudiant chinois était rentré en Chine à la fin des années trente et ils ont perdu le contact peu après.\n\nUn jour de 1976, dans un restaurant, Hergé comme à son habitude, ne manqua pas dès qu'il était en relation avec des Chinois, de leur demander s'ils connaissaient un certain Tchang Tchong-Jen. La réponse fut cette fois positive, Tchang vivait à Shanghai en tant que directeur d'une académie de sculpture.\n\nLes deux amis reprirent contact et suite à un échange de lettres, Hergé envoya Le Lotus bleu en couleur et Tintin au Tibet. C'est alors que Gérard Valet, journaliste français, co-auteur du film Moï Tintin, eut l'idée et entreprit l'organisation du retour de Tchang en Belgique. Une rencontre qui à l'origine devait se produire au cinquantième anniversaire de Tintin, eut finalement lieu en 1981. Les retrouvailles furent chargées d'émotions, Tchang fut accueilli à la manière d'un chef d'État à l'aéroport de Zaventem. En effet, Hergé n'était plus ce jeune dessinateur que Tchang avait connu mais une célébrité mondiale. Cette rencontre précéda de deux ans la mort du créateur et constitua à n'en pas douter une de ses dernières joies.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 13,
+          "start": 0,
+          "end": 249,
+          "quote": "88. Une fois le contact repris, Hergé a envoyé ______ à son ami chinois.\n\nA. des lettres\nB. des lettres, *Le Lotus bleu* et *Tintin au Tibet*\nC. *Le Lotus bleu* et *Tintin au Tibet*\nD. des lettres, *Le Lotus bleu*, *Tintin au Tibet* et *Moi Tintin*\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q089",
+      "questionVersionId": "tfs4-2012-q089:v2",
+      "year": 2012,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "En quelle année Hergé a-t-il enfin revu son ami chinois Tchang ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "En 1976."
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "En 1979."
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "En 1981."
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "En 1983."
+        }
+      ],
+      "material": "## 2. Hergé et Tchang\n\nLa relation avec Tchang ne s'arrête pas à l'ouvrage de Tintin au Tibet. En effet, Hergé cherchait dans la vie réelle Tchang Tchong-Jen avec presque autant d'obstination que Tintin. Tchang Tchong-Jen et Hergé se sont rencontrés alors que ce dernier écrivait Le Lotus Bleu. Cet étudiant chinois était rentré en Chine à la fin des années trente et ils ont perdu le contact peu après.\n\nUn jour de 1976, dans un restaurant, Hergé comme à son habitude, ne manqua pas dès qu'il était en relation avec des Chinois, de leur demander s'ils connaissaient un certain Tchang Tchong-Jen. La réponse fut cette fois positive, Tchang vivait à Shanghai en tant que directeur d'une académie de sculpture.\n\nLes deux amis reprirent contact et suite à un échange de lettres, Hergé envoya Le Lotus bleu en couleur et Tintin au Tibet. C'est alors que Gérard Valet, journaliste français, co-auteur du film Moï Tintin, eut l'idée et entreprit l'organisation du retour de Tchang en Belgique. Une rencontre qui à l'origine devait se produire au cinquantième anniversaire de Tintin, eut finalement lieu en 1981. Les retrouvailles furent chargées d'émotions, Tchang fut accueilli à la manière d'un chef d'État à l'aéroport de Zaventem. En effet, Hergé n'était plus ce jeune dessinateur que Tchang avait connu mais une célébrité mondiale. Cette rencontre précéda de deux ans la mort du créateur et constitua à n'en pas douter une de ses dernières joies.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 13,
+          "start": 249,
+          "end": 368,
+          "quote": "\n89. En quelle année Hergé a-t-il enfin revu son ami chinois Tchang ?\n\nA. En 1976.\nB. En 1979.\nC. En 1981.\nD. En 1983.\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q090",
+      "questionVersionId": "tfs4-2012-q090:v2",
+      "year": 2012,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Quand est-ce que Hergé nous a quittés pour toujours ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "En 1979."
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "En 1981."
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "En 1983."
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "On ne l'a pas précisé dans ce texte."
+        }
+      ],
+      "material": "## 2. Hergé et Tchang\n\nLa relation avec Tchang ne s'arrête pas à l'ouvrage de Tintin au Tibet. En effet, Hergé cherchait dans la vie réelle Tchang Tchong-Jen avec presque autant d'obstination que Tintin. Tchang Tchong-Jen et Hergé se sont rencontrés alors que ce dernier écrivait Le Lotus Bleu. Cet étudiant chinois était rentré en Chine à la fin des années trente et ils ont perdu le contact peu après.\n\nUn jour de 1976, dans un restaurant, Hergé comme à son habitude, ne manqua pas dès qu'il était en relation avec des Chinois, de leur demander s'ils connaissaient un certain Tchang Tchong-Jen. La réponse fut cette fois positive, Tchang vivait à Shanghai en tant que directeur d'une académie de sculpture.\n\nLes deux amis reprirent contact et suite à un échange de lettres, Hergé envoya Le Lotus bleu en couleur et Tintin au Tibet. C'est alors que Gérard Valet, journaliste français, co-auteur du film Moï Tintin, eut l'idée et entreprit l'organisation du retour de Tchang en Belgique. Une rencontre qui à l'origine devait se produire au cinquantième anniversaire de Tintin, eut finalement lieu en 1981. Les retrouvailles furent chargées d'émotions, Tchang fut accueilli à la manière d'un chef d'État à l'aéroport de Zaventem. En effet, Hergé n'était plus ce jeune dessinateur que Tchang avait connu mais une célébrité mondiale. Cette rencontre précéda de deux ans la mort du créateur et constitua à n'en pas douter une de ses dernières joies.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 13,
+          "start": 368,
+          "end": 503,
+          "quote": "\n90. Quand est-ce que Hergé nous a quittés pour toujours ?\n\nA. En 1979.\nB. En 1981.\nC. En 1983.\nD. On ne l'a pas précisé dans ce texte."
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q091",
+      "questionVersionId": "tfs4-2012-q091:v2",
+      "year": 2012,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Le vieillissement est un phénomène _______.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "qui existe surtout dans des pays développés"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "qui existe surtout dans des pays en voie de développement"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "qui existe surtout en ville"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "qui existe partout dans le monde"
+        }
+      ],
+      "material": "## 3. Vieillissement et qualité de la vie\n\nLe vieillissement est un phénomène planétaire. D'ici 2050, environ 80% des personnes âgées vivront dans les pays en développement. Le vieillissement de la population coïncide avec une urbanisation grandissante : en 2007, plus de la moitié de la population mondiale habite en ville et cette proportion devrait dépasser 60% d'ici 2030. Il reflète une amélioration de la santé dans le monde mais s'accompagne aussi de difficultés particulières auxquelles tous les pays devront faire face au XXIe siècle. L'espérance de vie, qui, en 2005, dépassait déjà 80 ans au Japon ou en France, augmente également dans les pays en développement. Par exemple, un enfant qui naît aujourd'hui au Chili, en Jamaïque, au Liban, à Sri Lanka peut espérer vivre plus de 70 ans.\n\nDe fortes inégalités dans le domaine de la santé persistent dans le monde, comme le montre clairement l'existence de grands écarts d'espérance de vie à la naissance. Ainsi, alors que le Japon détient, avec 82,2 ans, le record mondial d'espérance de vie, dans plusieurs pays d'Afrique l'espérance de vie dépasse à peine 40 ans.\n\nLes dépenses de santé augmentent avec l'âge mais sont concentrées pendant les deux dernières années de la vie, quel que soit l'âge de la personne. À mesure que les gens vieillissent, il est important de faire en sorte que ces années supplémentaires soient vécues en bonne santé de sorte que le coût des soins de santé reste facile à gérer. Les personnes âgées en bonne santé représentent aussi une ressource pour leur famille, leur entourage et l'économie. Il est rarement trop tard pour abandonner de mauvaises habitudes : par exemple, si l'on arrête de fumer entre 60 ans et 75 ans, le risque de décès prématuré baisse de 50%.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 14,
+          "start": 0,
+          "end": 224,
+          "quote": "91. Le vieillissement est un phénomène _______.\n\nA. qui existe surtout dans des pays développés\nB. qui existe surtout dans des pays en voie de développement\nC. qui existe surtout en ville\nD. qui existe partout dans le monde\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q092",
+      "questionVersionId": "tfs4-2012-q092:v2",
+      "year": 2012,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "En 2007, _______ de la population mondiale habite en ville.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "80%"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "plus de 50%"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "plus de 60%"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "la moitié"
+        }
+      ],
+      "material": "## 3. Vieillissement et qualité de la vie\n\nLe vieillissement est un phénomène planétaire. D'ici 2050, environ 80% des personnes âgées vivront dans les pays en développement. Le vieillissement de la population coïncide avec une urbanisation grandissante : en 2007, plus de la moitié de la population mondiale habite en ville et cette proportion devrait dépasser 60% d'ici 2030. Il reflète une amélioration de la santé dans le monde mais s'accompagne aussi de difficultés particulières auxquelles tous les pays devront faire face au XXIe siècle. L'espérance de vie, qui, en 2005, dépassait déjà 80 ans au Japon ou en France, augmente également dans les pays en développement. Par exemple, un enfant qui naît aujourd'hui au Chili, en Jamaïque, au Liban, à Sri Lanka peut espérer vivre plus de 70 ans.\n\nDe fortes inégalités dans le domaine de la santé persistent dans le monde, comme le montre clairement l'existence de grands écarts d'espérance de vie à la naissance. Ainsi, alors que le Japon détient, avec 82,2 ans, le record mondial d'espérance de vie, dans plusieurs pays d'Afrique l'espérance de vie dépasse à peine 40 ans.\n\nLes dépenses de santé augmentent avec l'âge mais sont concentrées pendant les deux dernières années de la vie, quel que soit l'âge de la personne. À mesure que les gens vieillissent, il est important de faire en sorte que ces années supplémentaires soient vécues en bonne santé de sorte que le coût des soins de santé reste facile à gérer. Les personnes âgées en bonne santé représentent aussi une ressource pour leur famille, leur entourage et l'économie. Il est rarement trop tard pour abandonner de mauvaises habitudes : par exemple, si l'on arrête de fumer entre 60 ans et 75 ans, le risque de décès prématuré baisse de 50%.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 14,
+          "start": 224,
+          "end": 340,
+          "quote": "\n92. En 2007, _______ de la population mondiale habite en ville.\n\nA. 80%\nB. plus de 50%\nC. plus de 60%\nD. la moitié\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q093",
+      "questionVersionId": "tfs4-2012-q093:v2",
+      "year": 2012,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "En 2005, l'espérance de vie dépasse 80 ans _______.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "seulement au Japon"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "seulement en France"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "au Japon et en France"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "au Japon, en France, au Chili, en Jamaïque, au Liban et à Sri Lanka"
+        }
+      ],
+      "material": "## 3. Vieillissement et qualité de la vie\n\nLe vieillissement est un phénomène planétaire. D'ici 2050, environ 80% des personnes âgées vivront dans les pays en développement. Le vieillissement de la population coïncide avec une urbanisation grandissante : en 2007, plus de la moitié de la population mondiale habite en ville et cette proportion devrait dépasser 60% d'ici 2030. Il reflète une amélioration de la santé dans le monde mais s'accompagne aussi de difficultés particulières auxquelles tous les pays devront faire face au XXIe siècle. L'espérance de vie, qui, en 2005, dépassait déjà 80 ans au Japon ou en France, augmente également dans les pays en développement. Par exemple, un enfant qui naît aujourd'hui au Chili, en Jamaïque, au Liban, à Sri Lanka peut espérer vivre plus de 70 ans.\n\nDe fortes inégalités dans le domaine de la santé persistent dans le monde, comme le montre clairement l'existence de grands écarts d'espérance de vie à la naissance. Ainsi, alors que le Japon détient, avec 82,2 ans, le record mondial d'espérance de vie, dans plusieurs pays d'Afrique l'espérance de vie dépasse à peine 40 ans.\n\nLes dépenses de santé augmentent avec l'âge mais sont concentrées pendant les deux dernières années de la vie, quel que soit l'âge de la personne. À mesure que les gens vieillissent, il est important de faire en sorte que ces années supplémentaires soient vécues en bonne santé de sorte que le coût des soins de santé reste facile à gérer. Les personnes âgées en bonne santé représentent aussi une ressource pour leur famille, leur entourage et l'économie. Il est rarement trop tard pour abandonner de mauvaises habitudes : par exemple, si l'on arrête de fumer entre 60 ans et 75 ans, le risque de décès prématuré baisse de 50%.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 14,
+          "start": 340,
+          "end": 539,
+          "quote": "\n93. En 2005, l'espérance de vie dépasse 80 ans _______.\n\nA. seulement au Japon\nB. seulement en France\nC. au Japon et en France\nD. au Japon, en France, au Chili, en Jamaïque, au Liban et à Sri Lanka\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q094",
+      "questionVersionId": "tfs4-2012-q094:v2",
+      "year": 2012,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "_______ détient le record mondial d'espérance de vie.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "La France"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Le Japon"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Le Chili"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Sri Lanka"
+        }
+      ],
+      "material": "## 3. Vieillissement et qualité de la vie\n\nLe vieillissement est un phénomène planétaire. D'ici 2050, environ 80% des personnes âgées vivront dans les pays en développement. Le vieillissement de la population coïncide avec une urbanisation grandissante : en 2007, plus de la moitié de la population mondiale habite en ville et cette proportion devrait dépasser 60% d'ici 2030. Il reflète une amélioration de la santé dans le monde mais s'accompagne aussi de difficultés particulières auxquelles tous les pays devront faire face au XXIe siècle. L'espérance de vie, qui, en 2005, dépassait déjà 80 ans au Japon ou en France, augmente également dans les pays en développement. Par exemple, un enfant qui naît aujourd'hui au Chili, en Jamaïque, au Liban, à Sri Lanka peut espérer vivre plus de 70 ans.\n\nDe fortes inégalités dans le domaine de la santé persistent dans le monde, comme le montre clairement l'existence de grands écarts d'espérance de vie à la naissance. Ainsi, alors que le Japon détient, avec 82,2 ans, le record mondial d'espérance de vie, dans plusieurs pays d'Afrique l'espérance de vie dépasse à peine 40 ans.\n\nLes dépenses de santé augmentent avec l'âge mais sont concentrées pendant les deux dernières années de la vie, quel que soit l'âge de la personne. À mesure que les gens vieillissent, il est important de faire en sorte que ces années supplémentaires soient vécues en bonne santé de sorte que le coût des soins de santé reste facile à gérer. Les personnes âgées en bonne santé représentent aussi une ressource pour leur famille, leur entourage et l'économie. Il est rarement trop tard pour abandonner de mauvaises habitudes : par exemple, si l'on arrête de fumer entre 60 ans et 75 ans, le risque de décès prématuré baisse de 50%.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 14,
+          "start": 539,
+          "end": 649,
+          "quote": "\n94. _______ détient le record mondial d'espérance de vie.\n\nA. La France\nB. Le Japon\nC. Le Chili\nD. Sri Lanka\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q095",
+      "questionVersionId": "tfs4-2012-q095:v2",
+      "year": 2012,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Selon le texte, quelle affirmation est vraie ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "En général, les deux dernières années de la vie sont les plus coûteuses d'un point de vue santé."
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Plus on vieillit, moins on vit heureux."
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Si l'on arrête de fumer entre 60 ans et 75 ans, c'est déjà trop tard."
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Si l'on arrête de fumer entre 60 ans et 75 ans, on ne mourra pas prématuré."
+        }
+      ],
+      "material": "## 3. Vieillissement et qualité de la vie\n\nLe vieillissement est un phénomène planétaire. D'ici 2050, environ 80% des personnes âgées vivront dans les pays en développement. Le vieillissement de la population coïncide avec une urbanisation grandissante : en 2007, plus de la moitié de la population mondiale habite en ville et cette proportion devrait dépasser 60% d'ici 2030. Il reflète une amélioration de la santé dans le monde mais s'accompagne aussi de difficultés particulières auxquelles tous les pays devront faire face au XXIe siècle. L'espérance de vie, qui, en 2005, dépassait déjà 80 ans au Japon ou en France, augmente également dans les pays en développement. Par exemple, un enfant qui naît aujourd'hui au Chili, en Jamaïque, au Liban, à Sri Lanka peut espérer vivre plus de 70 ans.\n\nDe fortes inégalités dans le domaine de la santé persistent dans le monde, comme le montre clairement l'existence de grands écarts d'espérance de vie à la naissance. Ainsi, alors que le Japon détient, avec 82,2 ans, le record mondial d'espérance de vie, dans plusieurs pays d'Afrique l'espérance de vie dépasse à peine 40 ans.\n\nLes dépenses de santé augmentent avec l'âge mais sont concentrées pendant les deux dernières années de la vie, quel que soit l'âge de la personne. À mesure que les gens vieillissent, il est important de faire en sorte que ces années supplémentaires soient vécues en bonne santé de sorte que le coût des soins de santé reste facile à gérer. Les personnes âgées en bonne santé représentent aussi une ressource pour leur famille, leur entourage et l'économie. Il est rarement trop tard pour abandonner de mauvaises habitudes : par exemple, si l'on arrête de fumer entre 60 ans et 75 ans, le risque de décès prématuré baisse de 50%.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 14,
+          "start": 649,
+          "end": 1008,
+          "quote": "\n95. Selon le texte, quelle affirmation est vraie ?\n\nA. En général, les deux dernières années de la vie sont les **plus coûteuses d'un point de vue santé**.\nB. Plus on vieillit, moins on vit heureux.\nC. Si l'on arrête de fumer entre 60 ans et 75 ans, c'est **déjà trop tard**.\nD. Si l'on arrête de fumer entre 60 ans et 75 ans, on ne mourra **pas prématuré**."
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q096",
+      "questionVersionId": "tfs4-2012-q096:v2",
+      "year": 2012,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Laquelle des appellations ci-dessous n'est pas l'équivalent de l'e-book ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Le livre électronique."
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Le livre numérique."
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Le livre virtuel."
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Le livre papier."
+        }
+      ],
+      "material": "## 4. Le livre papier à l'ère du numérique\n\nIl y a un peu moins de 10 ans, arrivait en grande pompe le « e-book » – qu'on appelle maintenant livre numérique ou électronique. Si vous vous souvenez, les éditeurs s'étaient alors demandé si le livre virtuel n'allait pas peu à peu précipiter la baisse du livre papier. « Les livres seront-ils piratés ? Les prix vont-ils chuter ? Des métiers vont-ils disparaître ? »\n\nReculons un peu dans le temps … Quand la radio s'est fait connaître dans les années vingt,\n\non a prédit la mort des journaux. Quand la télé a fait son entrée dans les foyers dans les années soixante, on a cru à la mort de la radio et des journaux. Dès l'entrée fulgurante d'Internet, on a annoncé la mort des trois ! Pourtant, on constate aujourd'hui que ces médias d'information font bon ménage et se partagent les faveurs du public. Et l'avenir du livre papier dans tout ça ?\n\nLe plaisir de toucher un bouquin, l'odeur du papier, de l'encre, et son aspect pratique, constituent autant de raisons pour lesquelles le livre électronique n'a pas réussi à remplacer le livre papier dans le cœur des amoureux du livre. Par contre, ce n'est pas parce que la version papier conserve tout son charme que le livre électronique n'a pas d'avenir. Les qualités technologiques du livre électronique ont de quoi séduire l'amateur de lecture : sa mémoire permet de constituer de véritables bibliothèques portatives ; il facilite la prise et l'organisation des notes, la recherche d'occurrences de mots ou d'expressions, la consultation d'un dictionnaire interne, l'impression d'extraits et de pages choisis. Le texte peut ainsi être traité avec beaucoup de facilité à la maison ou au bureau mais aussi en déplacement ou dans les transports.\n\nAutres avantages : les éditeurs en ligne n'ont pas de stocks de livres imprimés, de gestion des retours et d'éventuelles opérations de distribution à gérer. En plus d'éviter que plus d'arbres soient coupés pour la fabrication du papier, on économise sur l'encre, sur le coût de l'essence des camions transportant les caisses de livres, et sur le personnel.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 15,
+          "start": 1593,
+          "end": 1763,
+          "quote": "\n96. Laquelle des appellations ci-dessous n'est pas l'équivalent de l'e-book ?\n\nA. Le livre électronique.\nB. Le livre numérique.\nC. Le livre virtuel.\nD. Le livre papier.\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q097",
+      "questionVersionId": "tfs4-2012-q097:v2",
+      "year": 2012,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Dès l'apparition de l'Internet, on prédit qu'il va causer ________,",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "seulement la mort des journaux"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "seulement la mort de la radio"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "seulement la mort de la télévision"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "la mort des journaux, de la radio et de la télévision"
+        }
+      ],
+      "material": "## 4. Le livre papier à l'ère du numérique\n\nIl y a un peu moins de 10 ans, arrivait en grande pompe le « e-book » – qu'on appelle maintenant livre numérique ou électronique. Si vous vous souvenez, les éditeurs s'étaient alors demandé si le livre virtuel n'allait pas peu à peu précipiter la baisse du livre papier. « Les livres seront-ils piratés ? Les prix vont-ils chuter ? Des métiers vont-ils disparaître ? »\n\nReculons un peu dans le temps … Quand la radio s'est fait connaître dans les années vingt,\n\non a prédit la mort des journaux. Quand la télé a fait son entrée dans les foyers dans les années soixante, on a cru à la mort de la radio et des journaux. Dès l'entrée fulgurante d'Internet, on a annoncé la mort des trois ! Pourtant, on constate aujourd'hui que ces médias d'information font bon ménage et se partagent les faveurs du public. Et l'avenir du livre papier dans tout ça ?\n\nLe plaisir de toucher un bouquin, l'odeur du papier, de l'encre, et son aspect pratique, constituent autant de raisons pour lesquelles le livre électronique n'a pas réussi à remplacer le livre papier dans le cœur des amoureux du livre. Par contre, ce n'est pas parce que la version papier conserve tout son charme que le livre électronique n'a pas d'avenir. Les qualités technologiques du livre électronique ont de quoi séduire l'amateur de lecture : sa mémoire permet de constituer de véritables bibliothèques portatives ; il facilite la prise et l'organisation des notes, la recherche d'occurrences de mots ou d'expressions, la consultation d'un dictionnaire interne, l'impression d'extraits et de pages choisis. Le texte peut ainsi être traité avec beaucoup de facilité à la maison ou au bureau mais aussi en déplacement ou dans les transports.\n\nAutres avantages : les éditeurs en ligne n'ont pas de stocks de livres imprimés, de gestion des retours et d'éventuelles opérations de distribution à gérer. En plus d'éviter que plus d'arbres soient coupés pour la fabrication du papier, on économise sur l'encre, sur le coût de l'essence des camions transportant les caisses de livres, et sur le personnel.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 15,
+          "start": 1763,
+          "end": 2006,
+          "quote": "\n97. Dès l'apparition de l'Internet, on prédit qu'il va causer <u>________</u>,\n\nA. seulement la mort des journaux\nB. seulement la mort de la radio\nC. seulement la mort de la télévision\nD. la mort des journaux, de la radio et de la télévision\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q098",
+      "questionVersionId": "tfs4-2012-q098:v2",
+      "year": 2012,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Lequel des éléments ci-dessous n'indique pas la différence entre le livre électronique et le livre papier ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Le toucher."
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Le parfum."
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Le contenu."
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "La forme."
+        }
+      ],
+      "material": "## 4. Le livre papier à l'ère du numérique\n\nIl y a un peu moins de 10 ans, arrivait en grande pompe le « e-book » – qu'on appelle maintenant livre numérique ou électronique. Si vous vous souvenez, les éditeurs s'étaient alors demandé si le livre virtuel n'allait pas peu à peu précipiter la baisse du livre papier. « Les livres seront-ils piratés ? Les prix vont-ils chuter ? Des métiers vont-ils disparaître ? »\n\nReculons un peu dans le temps … Quand la radio s'est fait connaître dans les années vingt,\n\non a prédit la mort des journaux. Quand la télé a fait son entrée dans les foyers dans les années soixante, on a cru à la mort de la radio et des journaux. Dès l'entrée fulgurante d'Internet, on a annoncé la mort des trois ! Pourtant, on constate aujourd'hui que ces médias d'information font bon ménage et se partagent les faveurs du public. Et l'avenir du livre papier dans tout ça ?\n\nLe plaisir de toucher un bouquin, l'odeur du papier, de l'encre, et son aspect pratique, constituent autant de raisons pour lesquelles le livre électronique n'a pas réussi à remplacer le livre papier dans le cœur des amoureux du livre. Par contre, ce n'est pas parce que la version papier conserve tout son charme que le livre électronique n'a pas d'avenir. Les qualités technologiques du livre électronique ont de quoi séduire l'amateur de lecture : sa mémoire permet de constituer de véritables bibliothèques portatives ; il facilite la prise et l'organisation des notes, la recherche d'occurrences de mots ou d'expressions, la consultation d'un dictionnaire interne, l'impression d'extraits et de pages choisis. Le texte peut ainsi être traité avec beaucoup de facilité à la maison ou au bureau mais aussi en déplacement ou dans les transports.\n\nAutres avantages : les éditeurs en ligne n'ont pas de stocks de livres imprimés, de gestion des retours et d'éventuelles opérations de distribution à gérer. En plus d'éviter que plus d'arbres soient coupés pour la fabrication du papier, on économise sur l'encre, sur le coût de l'essence des camions transportant les caisses de livres, et sur le personnel.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 15,
+          "start": 2006,
+          "end": 2177,
+          "quote": "\n98. Lequel des éléments ci-dessous n'indique pas la différence entre le livre électronique et le livre papier ?\n\nA. Le toucher.\nB. Le parfum.\nC. Le contenu.\nD. La forme.\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q099",
+      "questionVersionId": "tfs4-2012-q099:v2",
+      "year": 2012,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Lequel des avantages du livre électronique n'a pas été cité dans ce texte ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Il possède une mémoire renouvelable."
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Il facilite la prise et l'organisation des notes."
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Il facilite la recherche d'occurrences de mots et d'expressions."
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Il facilite la consultation d'un dictionnaire interne."
+        }
+      ],
+      "material": "## 4. Le livre papier à l'ère du numérique\n\nIl y a un peu moins de 10 ans, arrivait en grande pompe le « e-book » – qu'on appelle maintenant livre numérique ou électronique. Si vous vous souvenez, les éditeurs s'étaient alors demandé si le livre virtuel n'allait pas peu à peu précipiter la baisse du livre papier. « Les livres seront-ils piratés ? Les prix vont-ils chuter ? Des métiers vont-ils disparaître ? »\n\nReculons un peu dans le temps … Quand la radio s'est fait connaître dans les années vingt,\n\non a prédit la mort des journaux. Quand la télé a fait son entrée dans les foyers dans les années soixante, on a cru à la mort de la radio et des journaux. Dès l'entrée fulgurante d'Internet, on a annoncé la mort des trois ! Pourtant, on constate aujourd'hui que ces médias d'information font bon ménage et se partagent les faveurs du public. Et l'avenir du livre papier dans tout ça ?\n\nLe plaisir de toucher un bouquin, l'odeur du papier, de l'encre, et son aspect pratique, constituent autant de raisons pour lesquelles le livre électronique n'a pas réussi à remplacer le livre papier dans le cœur des amoureux du livre. Par contre, ce n'est pas parce que la version papier conserve tout son charme que le livre électronique n'a pas d'avenir. Les qualités technologiques du livre électronique ont de quoi séduire l'amateur de lecture : sa mémoire permet de constituer de véritables bibliothèques portatives ; il facilite la prise et l'organisation des notes, la recherche d'occurrences de mots ou d'expressions, la consultation d'un dictionnaire interne, l'impression d'extraits et de pages choisis. Le texte peut ainsi être traité avec beaucoup de facilité à la maison ou au bureau mais aussi en déplacement ou dans les transports.\n\nAutres avantages : les éditeurs en ligne n'ont pas de stocks de livres imprimés, de gestion des retours et d'éventuelles opérations de distribution à gérer. En plus d'éviter que plus d'arbres soient coupés pour la fabrication du papier, on économise sur l'encre, sur le coût de l'essence des camions transportant les caisses de livres, et sur le personnel.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 15,
+          "start": 2177,
+          "end": 2321,
+          "quote": "\n99. Lequel des avantages du livre électronique n'a pas été cité dans ce texte ?\n\nA. Il possède une mémoire renouvelable.\n\nCS 扫描全能王\n3亿人都在用的扫描App"
+        },
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 16,
+          "start": 0,
+          "end": 179,
+          "quote": "B. Il facilite la prise et l'organisation des notes.\nC. Il facilite la recherche d'occurrences de mots et d'expressions.\nD. Il facilite la consultation d'un dictionnaire interne.\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q100",
+      "questionVersionId": "tfs4-2012-q100:v2",
+      "year": 2012,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Quelle réponse ne fait pas partie des avantages des éditions en ligne ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Pas de stocks."
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Économiser sur le coût de transport."
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Elles sont toutes gratuites."
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Économiser sur le papier et l'encre."
+        }
+      ],
+      "material": "## 4. Le livre papier à l'ère du numérique\n\nIl y a un peu moins de 10 ans, arrivait en grande pompe le « e-book » – qu'on appelle maintenant livre numérique ou électronique. Si vous vous souvenez, les éditeurs s'étaient alors demandé si le livre virtuel n'allait pas peu à peu précipiter la baisse du livre papier. « Les livres seront-ils piratés ? Les prix vont-ils chuter ? Des métiers vont-ils disparaître ? »\n\nReculons un peu dans le temps … Quand la radio s'est fait connaître dans les années vingt,\n\non a prédit la mort des journaux. Quand la télé a fait son entrée dans les foyers dans les années soixante, on a cru à la mort de la radio et des journaux. Dès l'entrée fulgurante d'Internet, on a annoncé la mort des trois ! Pourtant, on constate aujourd'hui que ces médias d'information font bon ménage et se partagent les faveurs du public. Et l'avenir du livre papier dans tout ça ?\n\nLe plaisir de toucher un bouquin, l'odeur du papier, de l'encre, et son aspect pratique, constituent autant de raisons pour lesquelles le livre électronique n'a pas réussi à remplacer le livre papier dans le cœur des amoureux du livre. Par contre, ce n'est pas parce que la version papier conserve tout son charme que le livre électronique n'a pas d'avenir. Les qualités technologiques du livre électronique ont de quoi séduire l'amateur de lecture : sa mémoire permet de constituer de véritables bibliothèques portatives ; il facilite la prise et l'organisation des notes, la recherche d'occurrences de mots ou d'expressions, la consultation d'un dictionnaire interne, l'impression d'extraits et de pages choisis. Le texte peut ainsi être traité avec beaucoup de facilité à la maison ou au bureau mais aussi en déplacement ou dans les transports.\n\nAutres avantages : les éditeurs en ligne n'ont pas de stocks de livres imprimés, de gestion des retours et d'éventuelles opérations de distribution à gérer. En plus d'éviter que plus d'arbres soient coupés pour la fabrication du papier, on économise sur l'encre, sur le coût de l'essence des camions transportant les caisses de livres, et sur le personnel.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 16,
+          "start": 179,
+          "end": 397,
+          "quote": "\n**100.** *Quelle réponse ne fait pas partie des avantages des éditions en ligne ?*\n\nA. Pas de stocks.\n**B. Économiser sur le coût de transport.**\nC. Elles sont toutes gratuites.\nD. Économiser sur le papier et l'encre."
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-verb-1",
+      "questionVersionId": "tfs4-2012-verb-1:v2",
+      "year": 2012,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(raconter)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Une aventure inoubliable\n\n« Papa, (raconter) -moi ton aventure inoubliable, s'il te plaît ».\n\n« Bon. Je vais réfléchir. L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) ______ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, (parvenir) au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) une robe blanche, (lire) un roman attentivement sur une chaise longue. La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres sans frapper à la porte, Papa »\n\n« Chéri, c'est ainsi que ta maman et moi, nous nous sommes rencontrés ! »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 709,
+          "end": 719,
+          "quote": "(raconter)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-verb-2",
+      "questionVersionId": "tfs4-2012-verb-2:v2",
+      "year": 2012,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(se souvenir)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Une aventure inoubliable\n\n« Papa, (raconter) -moi ton aventure inoubliable, s'il te plaît ».\n\n« Bon. Je vais réfléchir. L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) ______ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, (parvenir) au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) une robe blanche, (lire) un roman attentivement sur une chaise longue. La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres sans frapper à la porte, Papa »\n\n« Chéri, c'est ainsi que ta maman et moi, nous nous sommes rencontrés ! »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 821,
+          "end": 834,
+          "quote": "(se souvenir)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-verb-3",
+      "questionVersionId": "tfs4-2012-verb-3:v2",
+      "year": 2012,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(avoir)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Une aventure inoubliable\n\n« Papa, (raconter) -moi ton aventure inoubliable, s'il te plaît ».\n\n« Bon. Je vais réfléchir. L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) ______ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, (parvenir) au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) une robe blanche, (lire) un roman attentivement sur une chaise longue. La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres sans frapper à la porte, Papa »\n\n« Chéri, c'est ainsi que ta maman et moi, nous nous sommes rencontrés ! »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 855,
+          "end": 862,
+          "quote": "(avoir)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-verb-4",
+      "questionVersionId": "tfs4-2012-verb-4:v2",
+      "year": 2012,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(avoir)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Une aventure inoubliable\n\n« Papa, (raconter) -moi ton aventure inoubliable, s'il te plaît ».\n\n« Bon. Je vais réfléchir. L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) ______ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, (parvenir) au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) une robe blanche, (lire) un roman attentivement sur une chaise longue. La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres sans frapper à la porte, Papa »\n\n« Chéri, c'est ainsi que ta maman et moi, nous nous sommes rencontrés ! »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 884,
+          "end": 891,
+          "quote": "(avoir)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-verb-5",
+      "questionVersionId": "tfs4-2012-verb-5:v2",
+      "year": 2012,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(réussir)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Une aventure inoubliable\n\n« Papa, (raconter) -moi ton aventure inoubliable, s'il te plaît ».\n\n« Bon. Je vais réfléchir. L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) ______ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, (parvenir) au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) une robe blanche, (lire) un roman attentivement sur une chaise longue. La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres sans frapper à la porte, Papa »\n\n« Chéri, c'est ainsi que ta maman et moi, nous nous sommes rencontrés ! »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 907,
+          "end": 916,
+          "quote": "(réussir)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-verb-6",
+      "questionVersionId": "tfs4-2012-verb-6:v2",
+      "year": 2012,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(habiter)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Une aventure inoubliable\n\n« Papa, (raconter) -moi ton aventure inoubliable, s'il te plaît ».\n\n« Bon. Je vais réfléchir. L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) ______ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, (parvenir) au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) une robe blanche, (lire) un roman attentivement sur une chaise longue. La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres sans frapper à la porte, Papa »\n\n« Chéri, c'est ainsi que ta maman et moi, nous nous sommes rencontrés ! »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 976,
+          "end": 985,
+          "quote": "(habiter)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-verb-7",
+      "questionVersionId": "tfs4-2012-verb-7:v2",
+      "year": 2012,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(s'aventurer)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Une aventure inoubliable\n\n« Papa, (raconter) -moi ton aventure inoubliable, s'il te plaît ».\n\n« Bon. Je vais réfléchir. L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) ______ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, (parvenir) au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) une robe blanche, (lire) un roman attentivement sur une chaise longue. La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres sans frapper à la porte, Papa »\n\n« Chéri, c'est ainsi que ta maman et moi, nous nous sommes rencontrés ! »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1044,
+          "end": 1057,
+          "quote": "(s'aventurer)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-verb-8",
+      "questionVersionId": "tfs4-2012-verb-8:v2",
+      "year": 2012,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(pleuvoir)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Une aventure inoubliable\n\n« Papa, (raconter) -moi ton aventure inoubliable, s'il te plaît ».\n\n« Bon. Je vais réfléchir. L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) ______ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, (parvenir) au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) une robe blanche, (lire) un roman attentivement sur une chaise longue. La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres sans frapper à la porte, Papa »\n\n« Chéri, c'est ainsi que ta maman et moi, nous nous sommes rencontrés ! »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1089,
+          "end": 1099,
+          "quote": "(pleuvoir)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-verb-9",
+      "questionVersionId": "tfs4-2012-verb-9:v2",
+      "year": 2012,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(être)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Une aventure inoubliable\n\n« Papa, (raconter) -moi ton aventure inoubliable, s'il te plaît ».\n\n« Bon. Je vais réfléchir. L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) ______ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, (parvenir) au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) une robe blanche, (lire) un roman attentivement sur une chaise longue. La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres sans frapper à la porte, Papa »\n\n« Chéri, c'est ainsi que ta maman et moi, nous nous sommes rencontrés ! »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1124,
+          "end": 1130,
+          "quote": "(être)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-verb-10",
+      "questionVersionId": "tfs4-2012-verb-10:v2",
+      "year": 2012,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(pouvoir)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Une aventure inoubliable\n\n« Papa, (raconter) -moi ton aventure inoubliable, s'il te plaît ».\n\n« Bon. Je vais réfléchir. L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) ______ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, (parvenir) au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) une robe blanche, (lire) un roman attentivement sur une chaise longue. La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres sans frapper à la porte, Papa »\n\n« Chéri, c'est ainsi que ta maman et moi, nous nous sommes rencontrés ! »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1150,
+          "end": 1159,
+          "quote": "(pouvoir)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-verb-11",
+      "questionVersionId": "tfs4-2012-verb-11:v2",
+      "year": 2012,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(murmurer)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Une aventure inoubliable\n\n« Papa, (raconter) -moi ton aventure inoubliable, s'il te plaît ».\n\n« Bon. Je vais réfléchir. L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) ______ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, (parvenir) au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) une robe blanche, (lire) un roman attentivement sur une chaise longue. La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres sans frapper à la porte, Papa »\n\n« Chéri, c'est ainsi que ta maman et moi, nous nous sommes rencontrés ! »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1188,
+          "end": 1198,
+          "quote": "(murmurer)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-verb-12",
+      "questionVersionId": "tfs4-2012-verb-12:v2",
+      "year": 2012,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(apparaître)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Une aventure inoubliable\n\n« Papa, (raconter) -moi ton aventure inoubliable, s'il te plaît ».\n\n« Bon. Je vais réfléchir. L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) ______ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, (parvenir) au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) une robe blanche, (lire) un roman attentivement sur une chaise longue. La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres sans frapper à la porte, Papa »\n\n« Chéri, c'est ainsi que ta maman et moi, nous nous sommes rencontrés ! »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1240,
+          "end": 1252,
+          "quote": "(apparaître)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-verb-13",
+      "questionVersionId": "tfs4-2012-verb-13:v2",
+      "year": 2012,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(répondre)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Une aventure inoubliable\n\n« Papa, (raconter) -moi ton aventure inoubliable, s'il te plaît ».\n\n« Bon. Je vais réfléchir. L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) ______ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, (parvenir) au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) une robe blanche, (lire) un roman attentivement sur une chaise longue. La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres sans frapper à la porte, Papa »\n\n« Chéri, c'est ainsi que ta maman et moi, nous nous sommes rencontrés ! »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1349,
+          "end": 1359,
+          "quote": "(répondre)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-verb-14",
+      "questionVersionId": "tfs4-2012-verb-14:v2",
+      "year": 2012,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(sortir)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Une aventure inoubliable\n\n« Papa, (raconter) -moi ton aventure inoubliable, s'il te plaît ».\n\n« Bon. Je vais réfléchir. L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) ______ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, (parvenir) au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) une robe blanche, (lire) un roman attentivement sur une chaise longue. La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres sans frapper à la porte, Papa »\n\n« Chéri, c'est ainsi que ta maman et moi, nous nous sommes rencontrés ! »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1387,
+          "end": 1395,
+          "quote": "(sortir)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-verb-15",
+      "questionVersionId": "tfs4-2012-verb-15:v2",
+      "year": 2012,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(parvenir)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Une aventure inoubliable\n\n« Papa, (raconter) -moi ton aventure inoubliable, s'il te plaît ».\n\n« Bon. Je vais réfléchir. L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) ______ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, (parvenir) au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) une robe blanche, (lire) un roman attentivement sur une chaise longue. La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres sans frapper à la porte, Papa »\n\n« Chéri, c'est ainsi que ta maman et moi, nous nous sommes rencontrés ! »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1414,
+          "end": 1424,
+          "quote": "(parvenir)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-verb-16",
+      "questionVersionId": "tfs4-2012-verb-16:v2",
+      "year": 2012,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(porter)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Une aventure inoubliable\n\n« Papa, (raconter) -moi ton aventure inoubliable, s'il te plaît ».\n\n« Bon. Je vais réfléchir. L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) ______ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, (parvenir) au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) une robe blanche, (lire) un roman attentivement sur une chaise longue. La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres sans frapper à la porte, Papa »\n\n« Chéri, c'est ainsi que ta maman et moi, nous nous sommes rencontrés ! »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1504,
+          "end": 1512,
+          "quote": "(porter)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-verb-17",
+      "questionVersionId": "tfs4-2012-verb-17:v2",
+      "year": 2012,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(lire)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Une aventure inoubliable\n\n« Papa, (raconter) -moi ton aventure inoubliable, s'il te plaît ».\n\n« Bon. Je vais réfléchir. L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) ______ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, (parvenir) au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) une robe blanche, (lire) un roman attentivement sur une chaise longue. La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres sans frapper à la porte, Papa »\n\n« Chéri, c'est ainsi que ta maman et moi, nous nous sommes rencontrés ! »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1541,
+          "end": 1547,
+          "quote": "(lire)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-verb-18",
+      "questionVersionId": "tfs4-2012-verb-18:v2",
+      "year": 2012,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(tamiser)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Une aventure inoubliable\n\n« Papa, (raconter) -moi ton aventure inoubliable, s'il te plaît ».\n\n« Bon. Je vais réfléchir. L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) ______ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, (parvenir) au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) une robe blanche, (lire) un roman attentivement sur une chaise longue. La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres sans frapper à la porte, Papa »\n\n« Chéri, c'est ainsi que ta maman et moi, nous nous sommes rencontrés ! »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1625,
+          "end": 1634,
+          "quote": "(tamiser)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-verb-19",
+      "questionVersionId": "tfs4-2012-verb-19:v2",
+      "year": 2012,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(caresser)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Une aventure inoubliable\n\n« Papa, (raconter) -moi ton aventure inoubliable, s'il te plaît ».\n\n« Bon. Je vais réfléchir. L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) ______ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, (parvenir) au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) une robe blanche, (lire) un roman attentivement sur une chaise longue. La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres sans frapper à la porte, Papa »\n\n« Chéri, c'est ainsi que ta maman et moi, nous nous sommes rencontrés ! »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1659,
+          "end": 1669,
+          "quote": "(caresser)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-verb-20",
+      "questionVersionId": "tfs4-2012-verb-20:v2",
+      "year": 2012,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(ne pas devoir)",
+      "options": [],
+      "material": "PARTIE V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## Une aventure inoubliable\n\n« Papa, (raconter) -moi ton aventure inoubliable, s'il te plaît ».\n\n« Bon. Je vais réfléchir. L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) ______ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, (parvenir) au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) une robe blanche, (lire) un roman attentivement sur une chaise longue. La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres sans frapper à la porte, Papa »\n\n« Chéri, c'est ainsi que ta maman et moi, nous nous sommes rencontrés ! »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1704,
+          "end": 1719,
+          "quote": "(ne pas devoir)"
+        }
+      ]
+    }
+  ]
+}

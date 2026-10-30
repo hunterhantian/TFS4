@@ -51,6 +51,10 @@
 
 ## 可复现命令
 
+## 新叶规则执行记录
+
+本批按新规则处理：2025 词汇 21–30 不再共用“语境词汇”临时叶，而是建立 10 个独立候选新叶，分别绑定题面、答案、解析和定义边界。细化产物为 `2025-annotation-r03/annotation-plan.json`；该版本耗时 467.753 秒（约 7 分 48 秒），仍待独立裁决。
+
 ```bash
 node scripts/stage2-extract-md.mjs data/stage2-handoff/md-batch data/stage2-production-r01 2025
 node scripts/stage2-pilot-content.mjs data/stage2-production-r01 data/stage2-production-r01/2025-content-candidate 2025

@@ -1,0 +1,1715 @@
+{
+  "version": "2025-explanation-first-pass-r01",
+  "createdAt": "2026-10-30T03:54:26.575Z",
+  "startedAt": "2026-10-30T03:52:50Z",
+  "finishedAt": "2026-10-30T03:54:26.575Z",
+  "elapsedSeconds": 96.575,
+  "scope": "2025 three-source-consistent objective choice questions; provisional labels only",
+  "inputs": {
+    "contentSha256": "31738460856036b29a0dccc727601f0cf9e7ddb3ca9cda6769479ed15ec35786",
+    "explanationSha256": "2d23e59102f56a9f51f65ce011bf49216299e75623bf641defc9245e97a5b21b"
+  },
+  "catalog": [
+    {
+      "id": "obj-2025-lexical-context",
+      "name": "2025词汇语境辨析",
+      "parentId": "obj-units",
+      "leaf": true,
+      "definition": "根据解析在具体语境中判断近义、反义、固定表达；不把每个词项自动拆成独立知识点。"
+    },
+    {
+      "id": "obj-2025-grammar-explanation",
+      "name": "2025语法规则候选",
+      "parentId": "obj-grammar",
+      "leaf": true,
+      "definition": "由解析说明形成的暂定语法主考点；待与现有叶逐题竞争后定稿。"
+    },
+    {
+      "id": "obj-2025-cloze-explanation",
+      "name": "2025完形篇章规则候选",
+      "parentId": "obj-units",
+      "leaf": true,
+      "definition": "根据解析结合完形材料判断词汇、指代或篇章衔接；待细分到现有叶。"
+    }
+  ],
+  "records": [
+    {
+      "questionId": "tfs4-2025-q021",
+      "questionVersionId": "tfs4-2025-q021:v1",
+      "year": 2025,
+      "label": 21,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "primaryId": "obj-2025-lexical-context",
+      "primaryName": "2025词汇语境辨析",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Marc est quelqu'un de prudent : il prend toujours le temps d'analyser la situation avant de prendre une décision."
+        },
+        {
+          "source": "explanation",
+          "quote": "21. 问题解析\n原句： \"Marc est quelqu'un [de prudent] : il prend toujours le temps d'analyser la situation avant de prendre une décision.\"\n（马克是一个[谨慎的]人：他总是在做决定前花时间分析情况。）\n需要找出 \"de prudent\"（谨慎的）的近义词。选项：\n**A. d'indécis**（犹豫不决的）\n**B. de hâtif**（仓促的）\n**C. de réfléchi**（深思熟虑的）\n**D. de pensif**（沉思的）\n\n关键点分析\n\"de prudent\" 的含义：\n\"**Prudent**\" 在法语中意为\"谨慎的\"、\"小心的\"，强调在行动前仔细评估风险，避免错误。句子后半部分解释了这一特质：**Marc** 总是花时间分析情况再做决定，这体现了\"谨慎\"的核心——不鲁莽、注重安全性和理性。\n\n近义词选择标准：\n近义词必须与\"prudent\"在语义上高度相似，尤其在描述人的性格时，要符合\"分析后再行动\"的行为模式。选项需要与句子上下文一致。\n\n选项详细解析\n**A. d'indécis**（犹豫不决的）：\n含义：指优柔寡断、无法果断做决定，常带有负面含义（如拖延或缺乏自信）。\n\n1\n\n---\n\n与\"prudent\"的对比：\n\"**Prudent**\" 是积极的谨慎，强调理性分析；而\"indécis\" 是消极的犹豫，可能因过度担心而无法行动。\n句子中，**Marc** 是\"花时间分析后做决定\"，表明他最终会行动，并非不决断。因此，不是近义词，反而可能形成反义。\n\n**B. de hâtif**（仓促的）：\n含义：指匆忙、草率，行动前缺乏思考。\n与\"prudent\"的对比：\n\"**Prudent**\" 强调慢而稳，避免仓促；而\"hâtif\" 是\"prudent\"的直接反义词。\n句子中，**Marc** 的行为（花时间分析）与\"hâtif\"完全相反。因此，不是近义词，而是反义词。\n\n**C. de réfléchi**（深思熟虑"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q022",
+      "questionVersionId": "tfs4-2025-q022:v1",
+      "year": 2025,
+      "label": 22,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "primaryId": "obj-2025-lexical-context",
+      "primaryName": "2025词汇语境辨析",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Pour être un bon médecin en urgence, il faut avoir des nerfs d'acier."
+        },
+        {
+          "source": "explanation",
+          "quote": "22. 问题解析\n原句： \"Pour être un bon médecin en urgence, il faut avoir des nerfs [d'acier].\"\n（要成为一名好的急诊医生，必须有[钢铁般的]神经。）\n需要找出 \"[d'acier]\"（钢铁般的）的近义词。选项：\n**A. fragiles**（脆弱的）\n**B. solides**（坚固的、坚强的）\n**C. sensibles**（敏感的）\n\n2\n\n---\n\n**D. excités**（兴奋的、激动的）\n\n关键点分析\n\n\"[d'acier]\" 的含义：\n\n\"d'acier\" 是一个比喻，意为\"钢铁般的\"，形容神经非常坚强、冷静、不易受压力影响。这适合急诊医生的场景，因为他们需要在紧急情况下（如抢救生命）保持镇定、不慌乱。\n\n近义词选择标准：\n\n近义词必须与\"d'acier\"在语义上高度相似，强调\"坚韧、不易动摇\"的特质。选项需符合句子上下文（急诊医生需抗压能力强）。\n\n选项详细解析\n\n**A. fragiles**（脆弱的）：\n\n含义：指容易受伤、易受外界影响或压力击垮。\n\n与\"d'acier\"的对比：\n\n\"d'acier\" 表示坚强，而\"fragiles\" 是其反义词，表示脆弱。急诊医生若神经脆弱，无法应对高压环境。\n\n因此，不是近义词，而是反义词。\n\n**B. solides**（坚固的、坚强的）：\n\n含义：指强健、稳固、不易被破坏，能承受压力。\n\n与\"d'acier\"的对比：\n\n高度相似！两者都强调\"坚韧、可靠\"的特质。\"nerfs solides\" 是法语中常见表达，意为\"坚强的神经\"，与\"nerfs d'acier\"（钢铁般的神经）几乎同义。\n\n在句子上下文中，急诊医生需要的就是这种抗压能力。因此，是最佳近义词。\n\n**C. sensibles**（敏感的）：\n\n含义：指易受外界刺激影响、情绪化或易激动。\n\n与\"d'acier\"的对比：\n\n\"d'acier\" 强调冷静和不易受影响，而\"sensibles\" 表示易受干扰，可能导致在紧急情况下失控。急诊医生若神经敏感，可能无法专业"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q023",
+      "questionVersionId": "tfs4-2025-q023:v1",
+      "year": 2025,
+      "label": 23,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "primaryId": "obj-2025-lexical-context",
+      "primaryName": "2025词汇语境辨析",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "À cette nouvelle, il a été hors de lui."
+        },
+        {
+          "source": "explanation",
+          "quote": "23. 问题解析\n\n原句：\"A cette nouvelle, il a été [hors de lui].\"\n（听到这个消息，他[失控了]。）\n\n需要找出 \"[hors de lui]\" 的近义词。选项：\n**A. furieux**（暴怒的）\n**B. hors de danger**（脱离危险的）\n**C. joyeux**（高兴的）\n**D. courageux**（勇敢的）\n\n关键点分析\n\n\"[hors de lui]\" 的含义：\n这是法语固定表达，字面意为\"脱离他自己\"，实际表示 \"极度愤怒或激动，失去理智控制\"。\n类似英语的\"beside himself\"（暴怒/失控）。\n语境提示：消息（cette nouvelle）引发强烈负面情绪。\n近义词选择标准：\n必须与\"失去控制的愤怒\"语义一致，且符合上下文逻辑。\n\n选项逐项解析\n\n**A. furieux（暴怒的）：**\n☑️ 正确。\n理由：\"furieux\" 直接对应\"暴怒\"，与\"hors de lui\"（因愤怒失控）完全一致。\n例句：Il était furieux après avoir entendu la nouvelle.（听到消息后他暴怒。）\n\n**B. hors de danger（脱离危险的）：**\n❌ 错误。\n混淆点：含相同词组\"hors de\"，但语义无关。\n含义：指脱离危险状态，与情绪无关。\n冲突：句子描述情绪反应，而非安全状态。\n\n**C. joyeux（高兴的）：**\n❌ 错误。\n冲突：\"hors de lui\" 是负面情绪（愤怒），而\"joyeux\"是积极情绪（喜悦）。\n反例：若用\"joyeux\"，句子需改为 fou de joie（欣喜若狂）。\n\n**D. courageux（勇敢的）：**\n❌ 错误。\n语义不符：\"勇敢\"强调面对危险时的镇定，而\"hors de lui\"描述失控状态，两者矛盾。\n\n结论\n\n正确答案：A. furieux（暴怒的）\n完整句意：\"听到这个消息，他暴怒了。\"\n关键依据：\n\"Hors de lui\" 是法语中表达\"极端愤怒\"的经典习语。\n选项 B 利"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q024",
+      "questionVersionId": "tfs4-2025-q024:v1",
+      "year": 2025,
+      "label": 24,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "primaryId": "obj-2025-lexical-context",
+      "primaryName": "2025词汇语境辨析",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "L'organisateur a décidé de tenir à tout prix cette réunion importante."
+        },
+        {
+          "source": "explanation",
+          "quote": "24. 问题解析\n原句：\"L' organisateur a décidé de tenir [à tout prix] cette réunion importante.\"\n（组织者决定[不惜一切代价]举行这次重要会议。）\n需要找出 \"[à tout prix]\" 的近义词。选项：\n**A. absolument**（绝对地、务必）\n**B. éventuellement**（可能地、或许）\n**C. évidemment**（明显地、显然）\n**D. gratuitement**（免费地）\n关键点分析\n\"[à tout prix]\" 的含义：\n这是法语固定表达，字面意为\"以一切代价\"，实际表示 \"无论如何、不惜一切代价\"，强调强烈的决心和坚持，无论遇到什么困难或代价都要完成某事。\n句子上下文：组织者决心举行会议，暗示可能面临障碍（如时间、资源或外部压力），但坚持推进。\n近义词选择标准：\n选项必须与\"不惜代价的决心\"语义一致，且符合逻辑。\n选项逐项解析\n**A. absolument**（绝对地、务必）：\n☑️ 正确。\n理由：\"absolument\" 表示\"绝对必须\"、\"务必\"，强调不可动摇的决心，与\"à tout prix\"的核心语义（无论如何都要做）高度一致。\n例句替换：L' organisateur a décidé de tenir absolument cette réunion importante.（组织者决定务必举行这次重要会议。）意思基本不变。\n**B. éventuellement**（可能地、或许）：\n**✖ 错误。**\n原因：\"éventuellement\" 表示可能性（可能发生也可能不发生），与\"à tout prix\"的坚决性相反。\n冲突：句子强调\"决定\"（**décidé**），是确定性行为，而非犹豫。\n例句：Tenir éventuellement la réunion 意为\"可能举行会议\"，削弱了原句的决心。\n**C. évidemment**（明显地、显然）：\n**✖ 错误。**\n原因：\"évidemment\" 表示\"显而易见\"，"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q025",
+      "questionVersionId": "tfs4-2025-q025:v1",
+      "year": 2025,
+      "label": 25,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "primaryId": "obj-2025-lexical-context",
+      "primaryName": "2025词汇语境辨析",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Il fait tellement chaud qu'elle est obligée de s'asseoir à l'ombre d'un arbre."
+        },
+        {
+          "source": "explanation",
+          "quote": "25. 问题解析\n原句：\"Il fait tellement chaud qu’ elle est obligée de s’ asseoir [à l'ombre] d’ un arbre.\"\n（天气太热了，她不得不坐在树[荫下]。）\n需要找出 \"[à l'ombre]\"（在阴凉处）的近义词。选项：\n**A. à l’ aide**（在……帮助下）\n**B. à l’ abri**（在……庇护下）\n**C. vis-à-vis**（面对、关于）\n**D. à l'occasion**（偶尔、在……场合）\n\n关键点分析\n\"[à l'ombre]\" 的含义：\n该短语意为“在阴凉处”，强调躲避阳光或热源的保护性位置。句子中，树荫提供了一种“庇护”，使她能躲避炎热。\n\n近义词选择标准：\n选项必须与“提供保护或遮蔽”的语义一致，尤其针对环境因素（如炎热、阳光）。\n\n选项逐项解析\n\n**B. à l’ abri**（在……庇护下）：\n☑ 正确。\n理由：\"à l’ abri\" 意为“在庇护下”，常用于表示免受外界因素（如阳光、风雨）的影响，与\"à l'ombre\"的核心语义（躲避阳光）高度一致。\n例句替换：*s’ asseoir à l’ abri d’ un arbre*（坐在树的庇护下），意思与原句几乎相同，都强调树提供的保护。\n在法语中，\"à l'abri du soleil\"（躲避阳光）是常见表达，与\"à l'ombre\"可互换。\n\n**A. à l’ aide**（在……帮助下）：\n❌ 错误。\n原因：\"à l’ aide\" 表示“借助……的帮助”，涉及主动协助（如工具或人），而非位置或遮蔽。\n例句：*s’ asseoir à l’ aide d’ un arbre*（借助树的帮助坐下），逻辑不通，树不提供“帮助”，而是提供阴凉。\n\n**C. vis-à-vis**（面对、关于）：\n❌ 错误。\n原因：\"vis-à-vis\" 表示位置关系（如“面对”）或抽象关系（如“关于”），与遮蔽或保护无关。\n例句：*s’ asseoir vis-à-vis d’ un arbre*（面"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q026",
+      "questionVersionId": "tfs4-2025-q026:v1",
+      "year": 2025,
+      "label": 26,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "primaryId": "obj-2025-lexical-context",
+      "primaryName": "2025词汇语境辨析",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Leurs relations se sont améliorées au fil des années."
+        },
+        {
+          "source": "explanation",
+          "quote": "26. 问题解析\n原句：\"Leurs relations [se sont améliorées] au fil des années.\"\n（他们的关系随着时间[改善了]。）\n\n题目要求找出 \"[se sont améliorées]\"（改善了）的反义词。反义词必须与\"改善\"（变得更好）语义相反，即表示\"恶化\"或\"变得更糟\"。选项如下：\n\nA. se sont établies（建立了）\n**B. se sont dégradées**（恶化了）\nC. se sont poursuivies（持续了）\nD. se sont normalisées（正常化了）\n\n关键点分析\n\"[se sont améliorées]\" 的含义：\n该短语意为\"改善\"、\"变好\"，强调关系向积极方向发展（如更和谐、更亲密）。句子中，\"au fil des années\"（随着时间的推移）暗示一个渐进的过程，但整体是积极变化。\n\n反义词选择标准：\n反义词必须表示关系的负面变化，即\"恶化\"、\"变糟\"。核心语义应包含\"下降\"或\"退化\"的意思，且能与时间状语\"au fil des années\"（随着时间的推移）搭配。\n\n选项逐项解析\n**A. se sont établies**（建立了）：\n**✕ 不是反义词。**\n含义：指关系\"被建立\"或\"形成\"，表示从无到有的开始阶段，而非变化方向（改善或恶化）。\n与\"améliorées\"的对比：\n\"**Améliorées**\" 强调现有关系的积极变化；\"**établies**\" 强调关系的起始点，无方向性。\n例句：Leurs relations se sont établies en 2010.（他们的关系在 2010 年建立。）这并不表示恶化，而是中性事件。\n结论：语义不相关，不符合反义词要求。\n**B. se sont dégradées**（恶化了）：\n\n7\n\n---\n\n☑ 正确反义词。\n\n含义：指关系\"恶化\"、\"退化\"，强调向负面方向发展（如冲突增加、信任减少）。\n\n与\"améliorées\"的对比：\n\n\"Améliorées\" 表示向上提升"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q027",
+      "questionVersionId": "tfs4-2025-q027:v1",
+      "year": 2025,
+      "label": 27,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "primaryId": "obj-2025-lexical-context",
+      "primaryName": "2025词汇语境辨析",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Il agit toujours avec précipitation."
+        },
+        {
+          "source": "explanation",
+          "quote": "27. 问题解析\n\n原句：\"Il agit toujours [avec précipitation].\"\n\n（他总是行动[匆忙地]。）\n\n题目要求找出 \"[avec précipitation]\"（匆忙地）的反义词。反义词必须与\"匆忙\"语义相反，即表示\"从容不迫\"或\"不慌不忙\"的意思。选项如下：\n\nA. sans hâte（不匆忙地）\n\n8\n\n---\n\nB. ardemment（热情地）\nC. sans souci（无忧无虑地）\nD. brusquement（突然地）\n\n# 关键点分析\n\n**\"[avec précipitation]\" 的含义：**\n该短语意为\"匆忙地\"、\"仓促地\"，强调行动时缺乏耐心、草率鲁莽，没有充分思考或准备。常带有负面含义，指因急躁而导致的错误或风险。句子中\"**toujours**\"（总是）表明这是该人物的一贯行为模式。\n\n## 反义词选择标准：\n反义词必须表示行动的从容、慎重或不慌不忙，核心语义应包含\"慢速\"、\"谨慎\"或\"避免草率\"。同时，选项需在语法和语境上与原句兼容（即修饰行动方式）。\n\n## 选项逐项解析\n\n**A. sans hâte（不匆忙地）：**\n☑ **正确反义词。**\n含义：由\"sans\"（没有）和\"hâte\"（匆忙）组成，意为\"从容不迫地\"、\"不慌不忙地\"，强调行动时的冷静和耐心。\n与\"avec précipitation\"的对比：\n\"Avec précipitation\" 表示急躁草率；\"sans hâte\" 表示缓慢慎重，两者直接对立。\n例句：Il agit toujours sans hâte.（他总是行动从容不迫。）意思与原句完全相反，符合反义词要求。\n**结论：这是最直接的反义词，核心语义针对行动速度的对比（匆忙 vs. 不匆忙）。**\n\n**B. ardemment（热情地）：**\n**✗ 不是反义词。**\n含义：指\"热情地\"、\"热烈地\"，强调情感强度（如充满激情或干劲），但未涉及行动速度。热情的行动可能快速（类似匆忙）或持久（类似从容）。\n与\"avec précipitation\"的对比：\n\"Avec"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q028",
+      "questionVersionId": "tfs4-2025-q028:v1",
+      "year": 2025,
+      "label": 28,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "primaryId": "obj-2025-lexical-context",
+      "primaryName": "2025词汇语境辨析",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Après l'incident, ils sont demeurés en bons termes."
+        },
+        {
+          "source": "explanation",
+          "quote": "## 28. 问题解析\n**原句：** \"**Après l'incident, ils sont demeurés [en bons termes].**\"\n（事件发生后，他们依然[保持良好关系]。）\n需要找出 \"[en bons termes]\"（关系良好）的反义词。反义词必须与\"关系良好\"语义相反，即表示\"关系破裂\"或\"冲突\"。选项如下：\nA. en panne（出故障的）\nB. en harmonie（和谐的）\nC. en conflit（冲突中的）\nD. en accord（一致的）\n关键点分析\n**\"[en bons termes]\" 的含义：**\n该短语意为\"关系和睦\"、\"保持友好\"，强调双方维持积极关系（如相互尊重、无矛盾）。句子中\"demeurés\"（保持）和\"après l'incident\"（事件后）凸显尽管有负面事件，关系仍未被破坏。\n反义词选择标准：\n反义词必须表示关系恶化或敌对，核心语义需包含\"矛盾\"、\"对立\"或\"冲突\"。\n选项逐项解析\n**C. en conflit（冲突中的）：**\n☑️ 正确反义词。\n含义：指\"处于冲突中\"，强调公开对抗或争执。\n与\"en bons termes\"的对比：\n\"**En bons termes**\" 表示和谐；\"en conflit\" 表示对立，两者直接相反。\n例句替换： **Après l'incident, ils sont demeurés en conflit.** （事件后，他们仍处于冲突中。）完美表达对立关系。\n**B. en harmonie（和谐的） & D. en accord（一致的）：**\n❌ 是近义词，非反义词。\n原因：\n\"En harmonie\"（和谐的）和\"en accord\"（一致的）均与\"en bons termes\" 同义，表示关系融洽（如意见统一、合作无间）。\n例句： **Ils sont restés en harmonie/en accord.** （他们保持和谐/一致。）意思与原句相同，不构\n\n10\n\n---\n\n成反义。\n\n**A. en panne（出故障的）："
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q029",
+      "questionVersionId": "tfs4-2025-q029:v1",
+      "year": 2025,
+      "label": 29,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "primaryId": "obj-2025-lexical-context",
+      "primaryName": "2025词汇语境辨析",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Ces bouteilles alourdissent mon sac."
+        },
+        {
+          "source": "explanation",
+          "quote": "## 29.详细解析：寻找反义词\n\n问题：句子 \"Ces bouteilles [alourdissent] mon sac.\" 中，动词 \"alourdissent\" 的反义词要从选项中选择。选项为：\n\nA. allègent\nB. aggravent\nC. aplatisissent\nD. agrandissent\n\n**步骤 1：理解原词 \"alourdissent\" 的意思**\n\n\"Alourdissent\" 是动词 \"alourdir\" 的第三人称复数形式（对应主语 \"ces bouteilles\"）。\n\n\"Alourdir\" 的意思是 \"使变重\" 或 \"加重\"，指增加重量或负担。\n\n句子翻译： \"这些瓶子使我的包变重\"。\n\n因此，我们需要找一个反义词，即意思相反的词，表示 \"减轻重量\" 或 \"使变轻\"。\n\n**步骤 2：分析每个选项的意思**\n\n**A. allègent**\n\n这是动词 \"alléger\" 的第三人称复数形式。\n\n\"Alléger\" 的意思是 \"减轻\"、\"使变轻\" 或 \"减少负担\"。\n\n例如： \"Enlever des objets allège le sac\"（移除物品使包变轻）。\n\n与 \"alourdissent\" 直接相反：一个增加重量，一个减少重量。\n\n**B. aggravent**\n\n这是动词 \"aggraver\" 的第三人称复数形式。\n\n\"Aggraver\" 的意思是 \"恶化\"、\"加重\" 或 \"使更严重\"，常用于描述问题或负担变得更糟。\n\n例如： \"Les problèmes aggravent la situation\"（问题使情况恶化）。\n\n在重量上下文中，它与 \"alourdissent\" 类似（都表示增加负担），但不是精确的反义词。更像是同义词或近义词，而不是反义。\n\n**C. aplatisissent**\n\n这是动词 \"aplatisir\" 的第三人称复数形式。\n\n\"Aplatir\" 的意思是 \"压扁\"、\"弄平\" 或 \"使扁平\"，指改变形状而非重量。\n\n11\n\n---\n\n例如： \"Il aplatisent le"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q030",
+      "questionVersionId": "tfs4-2025-q030:v1",
+      "year": 2025,
+      "label": 30,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "primaryId": "obj-2025-lexical-context",
+      "primaryName": "2025词汇语境辨析",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Ce film a 20 ans et n'a pas pris une ride."
+        },
+        {
+          "source": "explanation",
+          "quote": "## 30. 详细解析：寻找反义词\n问题：句子 \"Ce film a 20 ans et [n'a pas pris une ride].\" 中，短语 \"n'a pas pris une ride\" 的反义词要从选项中选择。选项为：\nA. reste jeune\nB. reste moderne\nC. a vieilli\nD. est oublié\n\n**步骤 1: 理解原短语 \"n'a pas pris une ride\" 的意思**\n\"N'a pas pris une ride\" 是一个法语习语（idiom），字面意思是“没有起皱纹”，但在描述电影、书籍或人物时，比喻为“没有显露出年龄”“没有老化”或“仍然新鲜如初”。它强调尽管时间流逝，但事物保持年轻、现代或吸引力不减。\n在句子中：\"Ce film a 20 ans et n'a pas pris une ride.\" 翻译为“这部电影有 20 年了，但一点也没显老。”意思是电影经过 20 年，仍然看起来新鲜、有活力，没有过时。\n因此，我们需要找一个反义词，即意思相反的短语，表示“已经老化”“过时”或“显露出年龄”。\n\n**步骤 2: 分析每个选项的意思**\nA. reste jeune\n\n---\n\n意思是“保持年轻”。\n这与原短语 \"n'a pas pris une ride\" 非常相似，都表示事物没有老化，仍然有活力。例如，如果电影 \"reste jeune\"，它就没有显露出年龄。因此，这不是反义词，而是近义词或同义表达。\n\n**B. reste moderne**\n意思是“保持现代”。\n这也与原短语类似，强调事物仍然时尚、不过时。例如，一部电影 \"reste moderne\" 表示它仍然符合当代潮流。与原短语的“没有老化”意思一致，因此不是反义词。\n\n**C. a vieilli**\n意思是“已经变老”。\n这是动词 \"vieillir\"（变老）的第三人称单数完成时形式，直接表示事物已经老化、过时或显露出年龄。例如，一部电影 \"a vieilli\" 可能指它的特效、风格或内容看起来陈旧，不再吸引人。\n这与 \""
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q031",
+      "questionVersionId": "tfs4-2025-q031:v1",
+      "year": 2025,
+      "label": 31,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "primaryId": "obj-2025-cloze-explanation",
+      "primaryName": "2025完形篇章规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "31."
+        },
+        {
+          "source": "explanation",
+          "quote": "31. 正确答案：A. plein\n详细解析：\n核心考点：固定表达 \"plein de\"\n法语中 \"**plein de**\" 是一个固定搭配，意为 \"大量的、许多的\"，相当于英语的 \"full of\" 或 \"lots of\"。\n关键语法规则：此处的 \"plein\" 是副词性质，因此 **永远保持原形（invariable）**，不随后续名词的性数变化。\n为什么其他选项错误？\n**B. pleine（阴性单数）：**\n错误。若选此选项，会误将 \"plein\" 视为形容词修饰阴性名词（如 \"maison pleine\"）。但此处结构是 \"plein de + 复数名词\"，需用副词形式。\n例：错误用法 \"avec pleine d'enfants\" **×**\n**C. pleins（阳性复数）：**\n错误。虽然后续名词 \"enfants\"（孩子们）、\"cousins\"（表兄弟）是阳性复数，但 \"plein\" 在固定搭配中不作形容词，无需配合。\n例：错误用法 \"avec pleins de livres\" **×** 正确应为 \"avec plein de livres\" ✔️\n**D. pleines（阴性复数）：**\n错误。即使后续有阴性复数名词（如 \"tantes\" 阿姨们），\"plein\" 仍不变形。\n例：错误用法 \"avec pleines d'idées\" **×** 正确应为 \"avec plein d'idées\" ✔️\n\n句子结构与语境分析\n原句结构：\n\"avec __ plein d'enfants, de cousins, d'oncles et de tantes...\"\n（\"有大量的孩子、表兄弟、叔叔和阿姨...\"）\n\"de\" 的作用：\n\"d'enfants\" 等是 部分冠词结构（部分量），表示 \"其中一部分的儿童/亲戚\"。\n\"plein de\" 整体修饰这些名词，强调 数量庞大（照片里出现了许多家庭成员）。\n对比正确 vs 错误用法\n正确用法 ✔️ 错误用法 **×** 错误原因\nplein de fleurs pleines de fleur"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q032",
+      "questionVersionId": "tfs4-2025-q032:v1",
+      "year": 2025,
+      "label": 32,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "primaryId": "obj-2025-cloze-explanation",
+      "primaryName": "2025完形篇章规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "32."
+        },
+        {
+          "source": "explanation",
+          "quote": "32. 正确答案：D. rien\n完整句子：\n\"Ils se trouvaient dans une maison familiale. Ils se ressemblaient _33 ! Alors j'ai décidé de leur 34 une vie. J'ai essayé de les identifier un 35 un et j'ai écrit un livre.\"\n→ 需补充部分：\n\"dont je ne savais rien\"（我对他们一无所知）\n深度解析：\n1. 句子结构与语法逻辑\n原句核心结构：\n\"dont je ne savais ___\"\n其中：\n\"dont\" 是关系代词，指代前文的 \"enfants, cousins, oncles, tantes\"（整个家族成员）。\n\"ne... __\" 构成法语否定结构，需搭配否定词（如 rien, personne, jamais）。\n2. 选项分析\n\n<table>\n  <thead>\n    <tr>\n      <th>选项</th>\n      <th>含义</th>\n      <th>语法适配性</th>\n      <th>例句对比（正确✔/错误✘）</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><b>A. chacun</b></td>\n      <td>每一个（代词）</td>\n      <td>需搭配 \"**de**\" 使用</td>\n      <td>✔ Je connais chacun <b>d'</b> eux.<br />✘ dont je ne savais chacun（缺少介词）</td>\n    </tr>\n<tr>\n      <td><b>B. certain</b></td>\n      <td>某些（形容词）</td>\n      <td>必须修饰名词</td>\n      <td>✘ dont je ne savais certain（后无名词，语法断裂）</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q033",
+      "questionVersionId": "tfs4-2025-q033:v1",
+      "year": 2025,
+      "label": 33,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "primaryId": "obj-2025-cloze-explanation",
+      "primaryName": "2025完形篇章规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "33."
+        },
+        {
+          "source": "explanation",
+          "quote": "33. 在句子 \"Ils se ressemblaient _33 !\" 中，空白处需要填入一个表示程度的副词，以强调家庭成员之间“非常相似”或“如此相似”的意思。选项分析如下：\n\nA. **moins**：意思是“较少”，表示程度降低。例如，“Ils se ressemblaient moins”意为“他们彼此不太相似”。但上下文强调家庭成员长相高度相似（有感叹号“！”加强语气），因此不符合。\n\nB. **tellement**：意思是“如此”“非常”，用于强调程度之高，常与感叹句搭配。例如，“Ils se ressemblaient tellement !”意为“他们彼此如此相似！”。这符合句意和语气，表达出作者对相似度的惊讶。\n\nC. **mieux**：意思是“更好”，用于比较级，表示质量或状态的改善。例如，“Ils se ressemblaient mieux”意为“他们彼此更相似了（相比以前）”。但句子没有比较的含义，只是单纯描述高度相似，因此不合适。\n\nD. **autant**：意思是“一样多”“同样地”，用于表示同等程度。例如，“Ils se ressemblaient autant”意为“他们彼此一样相似”。虽然语法正确，但句子有感叹号，需要更强的强调词，而“autant”更中性，不如“tellement”贴切。\n\n结论：正确答案是 **B. tellement**。句子 \"Ils se ressemblaient tellement !\" 完整意思是“他们彼此如此相似！”，这反映了作者在照片中发现家庭成员长相高度相似时的惊叹。\n\n完整句子解析：\n整个段落讲述作者偶然买到一些家庭照片，发现家庭成员（孩子、表亲、叔叔阿姨等）长相惊人地相似，这激发了作者的好奇心，决定为这些照片“赋予生命”（写书和后续行动）。空白 **33** 处的“tellement”加强了这种相似性的戏剧性效果，与感叹号呼应。\n\n16\n\n---\n\n34. 正确答案：**B. inventer**\n\n完整句子：\n\"Alors j' ai décidé de leur inventer"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q034",
+      "questionVersionId": "tfs4-2025-q034:v1",
+      "year": 2025,
+      "label": 34,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "primaryId": "obj-2025-cloze-explanation",
+      "primaryName": "2025完形篇章规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "34."
+        },
+        {
+          "source": "explanation",
+          "quote": "34. 正确答案：**B. inventer**\n\n完整句子：\n\"Alors j' ai décidé de leur inventer une vie.\"\n（于是我决定为他们虚构一段人生。）\n\n深度解析：\n\n1. 语境与逻辑分析\n前情提要：\n作者发现陌生家庭的老照片（\"dont je ne savais rien\"），且成员样貌高度相似（\"Ils se ressemblaient autant !\"）。\n\n后续行动：\n→ 尝试逐一识别身份（\"les identifier un par un\"）\n→ 为此创作书籍（\"j'ai écrit un livre\"）\n\n核心动机：\n照片中的人物是 完全未知的（无任何背景信息），因此作者需 构建虚构故事 填补空白。\n\n2. 选项语义对比\n\n<table>\n  <thead>\n    <tr>\n      <th>选项</th>\n      <th>含义</th>\n      <th>适配性分析</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><b>A. cacher</b></td>\n      <td>隐藏</td>\n      <td><b>✗</b> 逻辑矛盾：隐藏人生（cacher une vie）与后文「写书公开」冲突</td>\n    </tr>\n<tr>\n      <td><b>B. inventer</b></td>\n      <td>虚构/创造</td>\n      <td>✔ 完美契合：为未知人物创造虚构生平，呼应「写书」「赋予生命」的行动</td>\n    </tr>\n<tr>\n      <td><b>C. partager</b></td>\n      <td>分享</td>\n      <td><b>✗</b> 语义断裂：作者与照片人物无共同经历，无法「分享人生」（且未识别身份前无法分享）</td>\n    </tr>\n<tr>\n      <td><b>D. réserver</b></td>\n      <td>保留/预订</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q035",
+      "questionVersionId": "tfs4-2025-q035:v1",
+      "year": 2025,
+      "label": 35,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "primaryId": "obj-2025-cloze-explanation",
+      "primaryName": "2025完形篇章规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "35."
+        },
+        {
+          "source": "explanation",
+          "quote": "35.正确答案：**D. par**\n完整句子：\n**\"J'ai essayé de les identifier un par un et j'ai écrit un livre.\"**\n（我尝试逐一识别他们的身份，并写了一本书。）\n深度解析：\n1. 固定搭配：**un par un**\n\"un par un\" 是法语中表示 \"逐一地、一个一个地\" 的固定短语（*locution adverbiale*），用于强调 按顺序处理每个个体。\n类似英语的 \"one by one\"，例如：\n**Vérifiez les documents un par un.**\n（请逐一检查文件。）\n2. 选项排除分析\n\n<table>\n<thead>\n<tr>\n<th>选项</th>\n<th>含义</th>\n<th>错误原因</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><b>A. avant</b></td>\n<td>在...之前</td>\n<td><b>✗</b> un avant un → \"一个在另一个之前\"，语义扭曲（强调顺序而非逐个处理）</td>\n</tr>\n<tr>\n<td><b>B. contre</b></td>\n<td>对抗</td>\n<td><b>✗</b> un contre un → \"一对一对抗\"（如搏斗场景），与「识别身份」矛盾</td>\n</tr>\n<tr>\n<td><b>C. après</b></td>\n<td>在...之后</td>\n<td><b>✗</b> un après un → \"一个接一个\"（仅表时间顺序），<b>缺失「逐一」的核心含义</b></td>\n</tr>\n<tr>\n<td><b>D. par</b></td>\n<td>（介词）</td>\n<td>✔ 唯一正确：构成固定搭配 <b>un par un</b>（逐一）</td>\n</tr>\n</tbody>\n</table>\n\n3. 语法与语义验证\n动词适配性：\n\"identifier\"（识别）需要细致处理每个对象 → \"un par un\" 强调 个"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q036",
+      "questionVersionId": "tfs4-2025-q036:v1",
+      "year": 2025,
+      "label": 36,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "primaryId": "obj-2025-cloze-explanation",
+      "primaryName": "2025完形篇章规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "36."
+        },
+        {
+          "source": "explanation",
+          "quote": "**36. 正确答案：B. connaisais**\n\n完整句子：\n\"Après le roman, je suis partie à leur recherche. Je ne les connaissais pas ! Mais c' était un peu comme ma famille...\"\n（小说完成后，我去寻找他们。我根本不认识他们！但感觉他们就像我的家人一样...）\n\n深度解析：\n1. 语境与逻辑分析\n前文背景：\n作者通过老照片发现一个陌生家庭（前文提到 \"dont je ne savais rien\"——我对他们一无所知），并基于这些照片创作了小说（\"j'ai écrit un livre\"）。\n\n本句动作：\n\"je suis partie à leur recherche\"（我去寻找他们）→ 此处的 \"recherche\"（寻找）指 现实中的寻人行动（如追踪身份、联系后人等）。\n\n关键矛盾：\n后句 \"Mais c' était un peu comme ma famille...\"（但他们就像我的家人）包含转折词 \"mais\"（但是），表明空格处需体现 情感与现实的冲突：\n→ 作者与照片中人无真实接触（不认识），却因长期研究照片而产生情感联结。\n\n3. 选项语义对比\n\n<table>\n  <thead>\n    <tr>\n      <th>选项</th>\n      <th>含义</th>\n      <th>适配性分析</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><b>A. aimais</b></td>\n      <td>喜欢/爱</td>\n      <td><b>❌</b> 逻辑矛盾：前文体现作者对照片中人情感深厚（写书、主动寻找），若\"不喜欢\"则冲突</td>\n    </tr>\n  </tbody>\n</table>\n\n19\n\n---\n\n<table>\n  <thead>\n    <tr>\n      <th>选项</th>\n      <th>含义</th>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q037",
+      "questionVersionId": "tfs4-2025-q037:v1",
+      "year": 2025,
+      "label": 37,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "primaryId": "obj-2025-cloze-explanation",
+      "primaryName": "2025完形篇章规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "37."
+        },
+        {
+          "source": "explanation",
+          "quote": "**37.正确答案：C. imaginer**\n\n完整句子：\n\"**Mais c’ était un peu comme ma famille parce que j’ ai passé beaucoup de temps à regarder ces photos et à imaginer leur vie.**\"\n（但他们就像我的家人，因为我花了大量时间凝视这些照片，并想象他们的人生。）\n\n深度解析：\n**1. 语境与逻辑分析**\n前文关键动作：\n作者在小说中为照片人物 虚构人生（\"leur inventer une vie\"，第 **34** 题）。\n\n本句因果关系：\n→ 因：凝视照片（**regarder ces photos**） + 空格动作\n→ 果：产生家人般的亲近感（**comme ma famille**）\n\n核心逻辑：\n只有 主动想象（**imaginer**）他们的生活，才能建立情感联结，与\"虚构人生\"的行动形成闭环。\n\n**2. 选项语义对比**\n\n21\n\n---\n\n<table>\n  <thead>\n    <tr>\n      <th>选项</th>\n      <th>含义</th>\n      <th>适配性分析</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><b>A. **transformer**</b></td>\n      <td>改变</td>\n      <td><b>✗</b> 语义矛盾：照片是静态历史记录，无法被\"改变\"；且前文无\"改造人生\"的铺垫</td>\n    </tr>\n<tr>\n      <td><b>B. perdre</b></td>\n      <td>失去</td>\n      <td><b>✗</b> 完全偏离： <i>perdre leur vie</i>（失去他们的人生）→ 消极含义，与后文积极转折冲突</td>\n    </tr>\n<tr>\n      <td><b>C. imaginer</b></td>\n      <td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q038",
+      "questionVersionId": "tfs4-2025-q038:v1",
+      "year": 2025,
+      "label": 38,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "primaryId": "obj-2025-cloze-explanation",
+      "primaryName": "2025完形篇章规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "38."
+        },
+        {
+          "source": "explanation",
+          "quote": "**38.正确答案：C. proche**\n\n完整句子：\n\n\"Quand je les ai rencontrés, je me suis sentie bien proche d'eux tout de suite.\"\n\n（当我见到他们时，我立刻感到与他们非常亲近。）\n\n深度解析：\n\n1. 语境与情感逻辑\n前文铺垫：\n作者长期凝视照片、想象（imaginer）并虚构（inventer）照片中人物的生活 → 建立强烈情感投射（\"comme ma famille\"）。\n\n本句场景：\n首次真实见面（\"quand je les ai rencontrés\"），空格需体现 情感共鸣的即时性（\"tout de suite\"）。\n\n结果验证：\n后文合作专辑（\"faire un disque ensemble\"）证明情感联结真实存在。\n\n2. 选项语义对比\n\n<table>\n  <thead>\n    <tr>\n      <th>选项</th>\n      <th>含义</th>\n      <th>适配性分析</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><b>A. chargée</b></td>\n      <td>负担沉重</td>\n      <td>❌ 消极含义（如 <i>une relation chargée</i> 紧张关系），与积极语境冲突</td>\n    </tr>\n<tr>\n      <td><b>B. dépendante</b></td>\n      <td>依赖的</td>\n      <td>❌ 表示心理依附（不健康关系），且主语是作者（主动方），语义错位</td>\n    </tr>\n<tr>\n      <td><b>C. proche</b></td>\n      <td>亲近的</td>\n      <td>✔️ 完美契合：指情感亲密（<b>se sentir proche de qqn</b>），呼应前文\"像家人\"的铺垫</td>\n    </tr>\n<tr>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q039",
+      "questionVersionId": "tfs4-2025-q039:v1",
+      "year": 2025,
+      "label": 39,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "primaryId": "obj-2025-cloze-explanation",
+      "primaryName": "2025完形篇章规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "39."
+        },
+        {
+          "source": "explanation",
+          "quote": "**39.正确答案：A. complète**\n\n完整句子：\n\"Dans le livre se trouve l'album. Ça complète la lecture du roman.\"\n\n24\n\n---\n\n（书中附有专辑，这 完善了 小说的阅读体验。）\n\n深度解析：\n\n1. 语境与逻辑分析\n前文关键信息：\n作者与照片中的家庭成员合作创作了专辑（\"nous avons chanté ensemble\"），该专辑 被嵌入\n书中（\"Dans le livre se trouve l'album\"）。\n\n后文补充说明：\n**\"Mais pour moi, le plus beau...\"**（但对我来说，最美好的是...）→ 强调专辑的 附加价值，而\n非替代或拯救。\n\n核心逻辑：\n专辑（音乐）与小说（文字）形成 多维度补充关系，共同构建完整故事体验。\n\n2. 选项语义对比\n\n<table>\n<thead>\n<tr>\n<th>选项</th>\n<th>含义</th>\n<th>适配性分析</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><b>A. complète</b></td>\n<td>补充/完善</td>\n<td>✔️ 完美契合：专辑作为书中附加内容，对小说进行艺术性补充（音乐+文字）</td>\n</tr>\n<tr>\n<td><b>B. réforme</b></td>\n<td>改革</td>\n<td>❌ 语义过重：专辑不改变小说本质，且\"改革\"通常用于制度/政策</td>\n</tr>\n<tr>\n<td><b>C. replace</b></td>\n<td>取代</td>\n<td>❌ 逻辑矛盾：后文强调\"书中有专辑\"，二者共存而非替代关系</td>\n</tr>\n<tr>\n<td><b>D. sauve</b></td>\n<td>拯救</td>\n<td>❌ 偏离语境：小说无需\"拯救\"（无质量缺陷暗示），且与后文情感焦点不符</td>\n</tr>\n</tbody>\n</table>\n\n3. 语法与搭配验证\n\"compléter qqch\"（完"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q040",
+      "questionVersionId": "tfs4-2025-q040:v1",
+      "year": 2025,
+      "label": 40,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "primaryId": "obj-2025-cloze-explanation",
+      "primaryName": "2025完形篇章规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "40."
+        },
+        {
+          "source": "explanation",
+          "quote": "**40.正确答案：D. recherches**\n完整句子：\n\"Mais pour moi, le plus beau, c'est que, grâce à mes recherches, les personnes sur les photos qui ne se contactaient plus ont recommencé à se voir.\"\n（但对我来说，最美好的是，多亏了我的寻找，照片中那些不再联系的人们重新开始见面。）\n\n深度解析：\n1. 语境与逻辑分析\n\n26\n\n---\n\n前文核心行动：\n→ 作者主动寻人：\"je suis partie à leur recherche\"（第 36 题，我去寻找他们）。\n→ 该行动直接导致见面：\"Quand je les ai rencontrés\"（当我见到他们时）。\n\n本句结果：\n照片中人重聚（\"ont recommencé à se voir\"） → 空格需体现 促成重聚的直接原因。\n\n关键词：\n\"grâce à\"（多亏）强调因果关系 → 需填入作者的具体行动。\n\n2. 选项语义对比\n\n<table>\n  <tr>\n    <th>选项</th>\n    <th>含义</th>\n    <th>适配性分析</th>\n  </tr>\n<tr>\n    <td><b>A. chansons</b></td>\n    <td>歌曲</td>\n    <td>❌ 间接关联：专辑是见面后产物（后文\"je leur ai proposé de faire un disque\"），非重聚原因</td>\n  </tr>\n<tr>\n    <td><b>B. excuses</b></td>\n    <td>道歉</td>\n    <td>❌ 完全无关：全文无冲突或道歉情节</td>\n  </tr>\n<tr>\n    <td><b>C. pensées</b></td>\n    <td>想法</td>\n    <td>❌ 过于抽象：想法（如前文\"imaginer\"）是情感基础，但未直接促成现实重聚</td>\n  </tr>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q041",
+      "questionVersionId": "tfs4-2025-q041:v1",
+      "year": 2025,
+      "label": 41,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Au cas où vous ________ malade, il faudrait fournir un arrêt de travail signé par votre médecin traitant."
+        },
+        {
+          "source": "explanation",
+          "quote": "41. 一、句子结构与语境分析\n原句： \"Au cas où vous________malade, il faudrait fournir un arrêt de travail signé par votre médecin traitant.\"\n\n28\n\n---\n\n核心结构：**Au cas où**（万一，如果）引导条件状语从句，主句使用条件式“il faudrait”（应该），表示“在某种假设情况下需要采取的行动”。\n\n语义：“万一你生病了，需要提供主治医生签署的病假条。”\n\n二、时态选择的语法逻辑\n\n“Au cas où”的时态规则：\n\n该短语引导的从句可根据语境使用直陈式或条件式：\n\n直陈式现在时 / 将来时：表示现实可能发生的情况（如 \"**Au cas où il pleut, prends ton parapluie.**\"）。\n\n条件式现在时：表示可能性较低的假设，或与主句的条件式形成时态呼应，增强委婉语气。\n\n主句时态对从句的影响：\n\n主句“il faudrait”为条件式现在时，暗示动作发生在假设的未来情境中，此时从句用条件式现在时（如“**seriez**”）更符合法语条件句的时态搭配规则（类似“Si + 未完成过去时，主句条件式”的逻辑，但“**au cas où**”更侧重“预防措施”）。\n\n三、选项逐一辨析\n\n<table>\n  <tr>\n    <th>选项</th>\n    <th>时态</th>\n    <th>语法分析</th>\n    <th>语境匹配度</th>\n  </tr>\n<tr>\n    <td>A. êtes</td>\n    <td>直陈式现在时</td>\n    <td>若选 **A**，主句应搭配直陈式（如“il faut”），但原题主句为条件式“il faudrait”，时态不匹配。</td>\n    <td>✗</td>\n  </tr>\n<tr>\n    <td>B. seriez</td>\n    <td>条件式现在时</td>\n    <td>- 与主句“il faudrait”的条件式时态呼应；<"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q042",
+      "questionVersionId": "tfs4-2025-q042:v1",
+      "year": 2025,
+      "label": 42,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "________ les prix augmentent, il est important de faire un budget."
+        },
+        {
+          "source": "explanation",
+          "quote": "42. 正确答案：C. Étant donné que\n\n完整句子：\n**\"Étant donné que les prix augmentent, il est important de faire un budget.\"**\n（鉴于物价上涨，制定预算十分重要。）\n\n深度解析：\n\n1. 核心逻辑关系：因果关系\n句子结构分析：\n从句：\"**______ les prix augmentent**\"（物价上涨）→ 原因\n主句：**\"il est important de faire un budget\"**（制定预算很重要）→ 结果\n需选择表达因果关系的连词：\n\"物价上涨\" 导致 \"制定预算的必要性\"\n\n2. 选项语义对比\n\n<table>\n  <thead>\n    <tr>\n      <th>选项</th>\n      <th>含义</th>\n      <th>适配性分析</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><b>A. Sous prétexte que</b></td>\n      <td>以...为借口</td>\n      <td><b>×</b> 语义矛盾：物价上涨是客观事实（非借口），与\"制定预算\"无逻辑关联</td>\n    </tr>\n  </tbody>\n</table>\n\n30\n\n---\n\n<table>\n  <thead>\n    <tr>\n      <th>选项</th>\n      <th>含义</th>\n      <th>适配性分析</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><b>B. À condition que</b></td>\n      <td>只要...（条件）</td>\n      <td><s>✗</s> 逻辑错误：制定预算的必要性不依赖\"物价上涨\"这一条件（即使物价不涨也应做预算）</td>\n    </tr>\n<tr>\n      <td><b>C. Étant donné"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q043",
+      "questionVersionId": "tfs4-2025-q043:v1",
+      "year": 2025,
+      "label": 43,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Cette pièce est encore plus ennuyeuse que je ne (n') ________ avais pensé."
+        },
+        {
+          "source": "explanation",
+          "quote": "**43.第 43 题解析：答案选 C. l'**\n\n一、句子结构与语义分析\n原句：“*Cette pièce est encore plus ennuyeuse que je ne (n') \\_\\_\\_\\_\\_\\_ avais pensé.*\"\n核心结构：**plus...que** 引导比较从句，“*que je ne...avais pensé*”表示“比我之前想的更……”。\n语义：“这部剧比我想象的还要无聊。”\n\n二、代词指代与语法规则\n省略的宾语成分：\n从句 “*je ne...avais pensé*” 中，“*penser*” 是及物动词，后接宾语时需用代词指代前文内容。这里省略的宾语是 “*cette pièce*”（这部剧），属于阴性单数名词，需用直接宾语代词 “*la*”。\n\n否定结构中的代词位置：\n原句包含否定词 “*ne*”（后接动词 “*avais*”），直接宾语代词需置于 “*ne*” 和动词之间，形成 “*ne + 代词 + 动词*” 结构。由于 “*la*” 后接以元音开头的 “*avais*” ，需缩写为 “*l’*”。\n\n三、选项逐一辨析\n\n<table>\n<thead>\n<tr>\n<th>选项</th>\n<th>词性</th>\n<th>指代对象</th>\n<th>语法错误点</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>A. y</td>\n<td>副代词</td>\n<td>指代地点（à + 名词）或抽象概念（如 “penser à qch”），但本题 “penser” 是及物动词，直接接宾语，无需 “y”。</td>\n<td>✗</td>\n</tr>\n<tr>\n<td>B. en</td>\n<td>副代词</td>\n<td>指代 “de + 名词”，如数量、材料等（如 “en avoir assez”），不能指代具体事物 “cette pièce”。</td>\n<td>✗</td>\n</tr>\n<tr>\n<td>C.</td>\n<td>直接</td>\n<td>指代阴性单数名词 “cette pièce"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q044",
+      "questionVersionId": "tfs4-2025-q044:v1",
+      "year": 2025,
+      "label": 44,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Voici l'arbre ________ ils se sont assis pour discuter."
+        },
+        {
+          "source": "explanation",
+          "quote": "**44.**这道题考查的是法语中关系代词的用法，正确答案是 D. sous lequel。以下是详细解析：\n一、句子结构分析\n主句： \"Voici l' arbre\" （这是那棵树）；\n从句： \"ils se sont assis pour discuter\" （他们坐下讨论）。\n从句需通过关系代词与主句连接，核心问题是判断 \"assis\" 与 \"arbre\" 的空间关系。\n二、关系代词的选择逻辑\n法语中，关系代词的选择取决于：\n先行词（此处为 \"l' arbre\"，指物）；\n从句中的介词搭配（即 \"assis\" 后需接的介词）。\n三、动词 \"s' asseoir\" 的介词搭配\n\"s' asseoir\" （坐下）为不及物动词，若表示 \"坐在某物上 / 下\"，需搭配介词：\ns' asseoir sur qch.（坐在…… 上面）；\ns' asseoir sous qch.（坐在…… 下面）。\n从句意为 \"他们坐在树下讨论\"，因此介词应为 **sous**。\n四、关系代词与介词的组合规则\n当先行词为物且从句需搭配介词时：\n\n33\n\n---\n\n若介词为 à，用 **auquel**（阳性）或 **auquelle**（阴性）；\n若介词为 **sur**, **sous**, **dans** 等，用 **lequel** 的相应性数形式：\n阳性单数：**lequel** → **sur lequel**, **sous lequel**;\n阴性单数：**laquelle**;\n复数：**lesquels/lesquelles**。\n此处“arbre”为阳性单数，介词为 **sous**，故组合为 **sous lequel**。\n\n五、排除其他选项的原因\nA. **où**：相当于“介词 + lequel”，但仅用于表示地点或时间，且需替代“in/at/on + 地点”。若从句为“ils se sont assis à l’arbre”，可用“où”，但此处应为“sous”，故排除。\nB. **qu’**：直接宾语关系代词，用于从句动词后无介词的情况（如“Voici le"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q045",
+      "questionVersionId": "tfs4-2025-q045:v1",
+      "year": 2025,
+      "label": 45,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Téléphonez-moi dès votre arrivée, ________ soit l'heure."
+        },
+        {
+          "source": "explanation",
+          "quote": "**45.** 这道题考查法语中让步状语从句的连词用法，正确答案是 **B. quelle que**。以下是详细解析：\n\n一、句子语义与结构分析\n主句：“Téléphonez-moi dès votre arrivée”（你一到就给我打电话）；\n从句：“______ soit l’heure”（无论几点钟），需用让步连词连接，表达“无论时间如何”的含义。\n\n二、让步连词的核心用法\n法语中，**quelque que / quelle que / quels que / quelles que** 用于引导让步从句，结构为：\n+ 连词 + 主语 + 虚拟式动词，表示“无论……如何”，且连词需与从句表语的性数一致。\n若表语为阳性单数，用 **quelque que**;\n若为阴性单数，用 **quelle que**;\n若为阳性复数，用 **quels que**;\n若为阴性复数，用 **quelles que**。\n\n三、结合本题的具体分析\n从句表语：“l’heure”为阴性单数名词（意为“时间”）；\n连词性数配合：因表语是阴性单数，故连词应为 **quelle que**;\n从句结构：采用倒装语序“**quelle que + 动词 + 主语**”，即“**quelle que soit l’heure**”（无论时间是几点）。\n\n四、排除其他选项的原因\n**A. quelque:**\n若表语为阳性单数（如“quelque jeune qu’il soit”），可用“quelque que”，但“l’heure”是阴性，排除。\n**C. quoi que:**\n意为“无论什么”，后接从句的直接宾语，而非表语。例如：“Quoi que tu fasses”（无论你做什么），与本题结构不符，排除。\n**D. quoique:**\n\n34\n\n---\n\n意为“虽然”，引导让步从句时无需性数配合，且语义不符。例如：“**Quoique l’heure soit tard**”（虽然时间很晚），但本题需表达“无论时间”，排除。\n\n## 五、总结\n\n核心考点：让步连词与表语的性数"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q046",
+      "questionVersionId": "tfs4-2025-q046:v1",
+      "year": 2025,
+      "label": 46,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Elle était ________ rouge de honte."
+        },
+        {
+          "source": "explanation",
+          "quote": "**46. 这道题考查法语中副词“tout”的性数配合用法，正确答案是 B. toute。**以下是详细解析：\n\n### 一、句子结构与语义分析\n\n句子主干：“Elle était _______ rouge de honte”（她因羞愧而_______红了）；\n核心考点：副词“tout”修饰形容词“rouge”时的性数配合规则。\n\n### 二、“tout”作为副词的性数配合规则\n\n当“tout”用作副词，修饰以辅音或嘘音“h”开头的阴性形容词时，需根据主语的性数进行配合：\n\n- 阳性单数主语：**tout** + 形容词（无需配合），如“il est tout content”；\n- 阴性单数主语：**toute** + 形容词，如“elle est toute heureuse”；\n- 阳性复数主语：**tous** + 形容词，如“ils sont tous contents”；\n- 阴性复数主语：**toutes** + 形容词，如“elles sont toutes heureuses”。\n\n### 三、结合本题的具体分析\n\n主语：“Elle”（她），为阴性单数；\n形容词：“rouge”（红的），以辅音“r”开头，且为阴性形容词（无词形变化，阴阳同形）；\n配合规则：因主语是阴性单数，“tout”需变为 **toute**，即“elle était toute rouge”（她满脸通红）。\n\n### 四、排除其他选项的原因\n\n**A. tout:**\n用于阳性单数主语或修饰以元音 / 哑音“h”开头的阴性形容词（如“toute intelligente”），但本题主语为阴性，排除。\n\n**C. tous:**\n用于阳性复数主语，如“ils sont tous contents”，与本题主语性数不符，排除。\n\n**D. toutes:**\n用于阴性复数主语，如“elles sont toutes fatiguées”，本题主语为单数，排除。\n\n### 五、补充：“tout”的特殊例外情况\n\n当阴性形容词以元音或哑音“h”开头时，“tout”无需配合，保持“tou"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q047",
+      "questionVersionId": "tfs4-2025-q047:v1",
+      "year": 2025,
+      "label": 47,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Ne tirer le signal d'alarme qu'en cas de danger : ________ abus sera puni."
+        },
+        {
+          "source": "explanation",
+          "quote": "**47. 第 47 题解析：答案选 A. tout**\n\n35\n\n---\n\n一、句子语义与结构\n原句意为：“仅在危险时拉响警报：任何滥用行为都将被惩罚。”\n前半句为命令式，后半句中 “abus” 是单数主语，“sera puni” 为单数谓语，空白处需填入修饰 “abus” 的限定词，表达 “任何” 之意。\n\n二、“abus” 的词性与数\n“abus” 意为 “滥用”，是阳性单数名词（如：un abus de pouvoir 权力滥用），因此限定词需与阳性单数名词搭配。\n\n三、限定词 “tout” 的性数变化规则\n“tout” 作为限定词时，需根据其后名词的性数变形：\n阳性单数：tout + 辅音开头名词 → tout problème（问题，阳性）\n阳性单数：tout + 元音 / 哑音 h 开头名词 → tout abus（滥用，阳性，以元音 a 开头）\n此处 “tout abus” 中，“tout” 虽以辅音 t 结尾，但后接元音开头的名词时，无需省音或特殊变形，直接使用 “tout”，语法正确。\n阴性单数：toute + 阴性名词 → toute erreur（错误，阴性）\n复数：tous/toutes + 复数名词 → tous les livres（所有书）、toutes les femmes（所有女性）\n\n四、选项辨析\n\n<table>\n  <thead>\n    <tr>\n      <th>选项</th>\n      <th>性数</th>\n      <th>适配情况</th>\n      <th>是否正确</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><b>A. tout</b></td>\n      <td>阳性单数</td>\n      <td>修饰阳性单数名词 “abus”</td>\n      <td>✔ 正确</td>\n    </tr>\n<tr>\n      <td><b>B. toute</b></td>\n      <td>阴性单数</td>\n      <td>仅"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q048",
+      "questionVersionId": "tfs4-2025-q048:v1",
+      "year": 2025,
+      "label": 48,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Son fils est un beau jeune homme ________ cheveux roux."
+        },
+        {
+          "source": "explanation",
+          "quote": "**48.** 这道题考查法语中介词的用法，正确答案是 **D. aux**。以下是详细解析：\n一、句子结构与语义分析\n\n36\n\n---\n\n句子主干：“Son fils est un beau jeune homme ________ cheveux roux”（他的儿子是个长着红头发的英俊青年）；\n核心考点：表示“具有某种特征”时，介词与名词的搭配规则。\n二、“带有 / 具有”的介词表达辨析\n**avec + 名词：**\n表示“携带、伴有”，后接具体事物或特征，如“une maison avec jardin”（带花园的房子）。\n例：“Il sort avec un parapluie”（他带着伞出门）。\n**de + 名词：**\n用于抽象特征或材质，如“une tasse de porcelaine”（瓷杯），或与某些形容词搭配（如“riche de”富有）。\n例：“Un homme de courage”（有勇气的人）。\n**à + 名词：**\n表示“属于、关于”，或用于固定搭配，如“une lettre à lui”（给他的信）。\n例：“Un livre à motifs historiques”（历史题材的书）。\n**aux + 名词：**\n是“à + les”的缩合形式，用于复数名词前，表示“具有某种特征”，尤其用于身体部位或自然属性。\n例：“un enfant aux yeux bleus”（蓝眼睛的孩子）。\n三、结合本题的具体分析\n被修饰对象：“cheveux roux”（红头发），为复数名词（“cheveu”的复数形式）；\n语义需求：表达“具有红头发的特征”，需用介词 + 定冠词的形式；\n缩合规则：\n介词“à”+ 复数定冠词“les” = aux，即“aux cheveux roux”（长着红头发的）；\n类似表达：“un chat aux oreilles pointues”（尖耳朵的猫）。\n四、排除其他选项的原因\n**A. avec:**\n虽可表示“带有”，但“avec cheveux roux”语法正确但不符合法语习惯表达，通常用“aux”搭配身"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q049",
+      "questionVersionId": "tfs4-2025-q049:v1",
+      "year": 2025,
+      "label": 49,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Je doutais que cette couleur ________ à ma fille."
+        },
+        {
+          "source": "explanation",
+          "quote": "49. 在句子“Je doutais que cette couleur ________ à ma fille.”中，正确选项是 **A. plaise**。以下是详细解析：\n\n关键语法规则：\n动词“douter que”的用法：当主句动词是“douter”（怀疑）并引导从句时，从句动词必须使用 虚拟式（subjonctif），因为“douter que”表达一种不确定性或怀疑（不是事实）。例如：\n\nJe doute qu'il vienne.（我怀疑他会来。→ 虚拟式）\n\n本句主句“Je doutais”（我怀疑）是未完成过去时（imparfait），但从句的时态不受主句过去时影响，仍需用虚拟式现在时（subjonctif présent）表示一般性或同时性的动作。\n\n选项分析：\n\n**A. plaise**：动词“plaire”（取悦，喜欢）的虚拟式现在时第三人称单数形式（“cette couleur”是第三人称单数主语）。\n\n句子含义：Je doutais que cette couleur plaise à ma fille.（我怀疑这种颜色会让我女儿喜欢。）\n\n☑ 正确：符合“douter que” + 虚拟式的语法规则。\n\n**B. plaira**：动词“plaire”的简单将来时（futur simple）。\n\n❌ 错误：简单将来时用于表达确定性或未来的事实，但“douter que”要求虚拟式，且这里没有未来确定性的语境。\n\n**C. plairait**：动词“plaire”的条件式现在时（conditionnel présent）。\n\n❌ 错误：条件式用于假设或礼貌请求（如“Je voudrais que...”），但“douter que”必须用虚拟式，且句子没有假设条件（如“si”从句）。\n\n**D. plait**：动词“plaire”的直陈式现在时（indicatif présent）。\n\n❌ 错误：直陈式用于描述事实或肯定情况，但“douter que”表达怀疑，不是事实，因此不能用直陈式。\n\n为什么虚拟式现在时（plaise）合适？"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q050",
+      "questionVersionId": "tfs4-2025-q050:v1",
+      "year": 2025,
+      "label": 50,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "La chaise, celle ________ tu as posé ta valise, est cassée."
+        },
+        {
+          "source": "explanation",
+          "quote": "50. 这道题考查法语中关系代词的用法，正确答案是 **C. où**。以下是详细解析：\n\n一、句子结构分析\n\n主句：“La chaise, celle... est cassée”（椅子，那个……坏了）；\n\n38\n\n---\n\n关系从句：“________ tu as posé ta valise”（你放了行李箱的……），修饰先行词“celle”（指代“la chaise”）。\n\n二、先行词与关系从句的逻辑关系\n先行词“celle”指代“la chaise”（椅子），是一个表示地点的名词；\n关系从句中的动词“poser”（放置）为及物动词，结构为“poser qch. sur qch.”（把某物放在某物上），从句完整句应为“tu as posé ta valise sur la chaise”（你把行李箱放在椅子上）。\n\n三、关系代词的选择依据\n关系代词的功能：需在从句中充当“地点状语”（表示“在椅子上”），而非直接宾语或主语。\n各选项辨析：\n**A. qui**: 引导关系从句时，在从句中作主语或间接宾语（需搭配介词），但此处从句主语为“tu”，无需主语代词，排除。\n**B. que**: 引导关系从句时，作直接宾语，但从句中“poser”的直接宾语是“ta valise”，“que”若使用需指代“la chaise”，但从句中“chaise”前需介词“sur”，故“que”无法直接充当成分，排除。\n**C. où**: 相当于“介词 + 先行词”，此处等价于“sur laquelle”，在从句中作地点状语（= sur la chaise），正确。\n**D. d'où**: 表示“从哪里”（= de laquelle），但从句中动作“poser”的方向是“在……上”，而非“从……”，逻辑不符，排除。\n\n四、补充：法语中关系代词“où”的用法\n基本功能：\n代替“介词 + 先行词”，在从句中作地点状语（= dans, sur, à + 地点）或时间状语（= dans, en + 时间）。\n例：\n“Le lieu où nous nous réunissons”（我们聚会"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q051",
+      "questionVersionId": "tfs4-2025-q051:v1",
+      "year": 2025,
+      "label": 51,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "T'es-tu enfin décidé ________ quitter ton pays ?"
+        },
+        {
+          "source": "explanation",
+          "quote": "**51.第 51 题解析：答案选 C. à**\n一、句子结构与核心动词\n原句意为：“你终于决定离开你的国家了吗？”\n\n39\n\n---\n\n核心动词为“se décider”（下决心），是代动词结构，空白处需填入与该动词搭配的介词，后接不定式“quitter ton pays”。\n\n二、“se décider”的介词搭配规则\n“se décider”作为代动词，常见搭配为：\nse décider à + 不定式：表示“下决心做某事”，其中“à”为固定介词。\n例：Il se décide enfin à demander son aumento.（他终于下决心要求涨工资。）\n逻辑：“se décider”强调“从犹豫到下定决心的过程”，后接动作时用“à”连接。\n\n三、选项辨析\n\n<table>\n<thead>\n<tr>\n<th>选项</th>\n<th>搭配动词</th>\n<th>例句</th>\n<th>是否正确</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>A. de</td>\n<td>décider de + 不定式（非代动词）</td>\n<td>Il a décidé de partir.</td>\n<td><b>✗</b> 若动词为普通及物动词“décider”，用“de”；但此处为代动词“se décider\"</td>\n</tr>\n<tr>\n<td>B.</td>\n<td>se décider pour qch</td>\n<td>表示“选择某事物”（如：se décider pour une solution 选择一个方案）</td>\n<td><b>✗</b> 与“下决心做动作”的语义不符</td>\n</tr>\n<tr>\n<td>C. à</td>\n<td>se décider à + 不定式</td>\n<td>T'es-tu décidé à quitter ?</td>\n<td>✔ 代动词固定搭配</td>\n</tr>\n<tr>\n<td>D.</td>\n<td>se décider par + 方式</td>\n<td>表示“通过."
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q052",
+      "year": 2025,
+      "label": 52,
+      "status": "pending",
+      "pendingReason": "source_conflict",
+      "primaryId": null,
+      "primaryName": null
+    },
+    {
+      "questionId": "tfs4-2025-q053",
+      "questionVersionId": "tfs4-2025-q053:v1",
+      "year": 2025,
+      "label": 53,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Nous manquons de chaises pour la fête et nos voisins nous ont prêté ________."
+        },
+        {
+          "source": "explanation",
+          "quote": "53.这道题考查的是法语中物主代词的用法，正确答案是 **D. les leurs**。以下是详细解析：\n一、核心语法点：物主代词的形式与搭配\n法语中，物主代词（**Pronoms possessifs**）需要根据所指代的名词的性、数以及所有者的人称来变化。\n**leurs** 是第三人称复数（ils/elles）的物主形容词，而 **les leurs** 是对应的绝对物主代词，表示“他们的（东西）”，相当于“**leurs + 复数名词**”。\n绝对物主代词的形式如下：\n\n<table>\n  <thead>\n    <tr>\n      <th>所有者人称</th>\n      <th>单数名词</th>\n      <th>复数名词</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>第一人称（我 / 我们）</td>\n      <td>le mien, la mienne</td>\n      <td>les miens, les miennes</td>\n    </tr>\n<tr>\n      <td>第二人称（你 / 你们）</td>\n      <td>le tien, la tienne</td>\n      <td>les tiens, les tiennes</td>\n    </tr>\n<tr>\n      <td>第三人称（他 / 她 / 他们）</td>\n      <td>le sien, la sienne</td>\n      <td>les siens, les siennes</td>\n    </tr>\n<tr>\n      <td></td>\n      <td>le leur, la leur</td>\n      <td><b>les leurs</b></td>\n    </tr>\n  </tbody>\n</table>\n\n二、题目分析\n句子含义：\n“Nous manquons de chaises pour la fête et nos voisins no"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q054",
+      "questionVersionId": "tfs4-2025-q054:v1",
+      "year": 2025,
+      "label": 54,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Elle a éteint son téléphone portable ________ on ne la dérange."
+        },
+        {
+          "source": "explanation",
+          "quote": "**54. 这道题考查法语中连词短语的用法，正确答案是 **B. de peur qu'**。以下是详细解析：**\n\n### 一、核心语法点：连词短语与虚拟式的搭配\n法语中，部分连词短语后需接虚拟式从句，表示“目的、担忧、愿望”等主观情感或未确定的动作。常见规则如下：\n\n**de peur que / de crainte que（担心……）**: 后接虚拟式，且从句中常加 ne（表否定，但无实际含义）。\n\n**pour que（为了……）**: 后接虚拟式，表积极目的。\n\n**de manière que / de façon que（以便……）**: 根据语境，若表“客观结果”用直陈式，表“主观目的”用虚拟式。\n\n**si bien que（因此……）**: 后接直陈式，表结果。\n\n### 二、题目分析\n**句子含义：**\n“Elle a éteint son téléphone portable ________ on ne la dérange.”\n翻译：“她关掉了手机，________ 人们不打扰她。”\n\n**逻辑关系判断：**\n前半句“关掉手机”是行为，后半句“不被打扰”是该行为的目的，且带有“避免打扰”的担忧色彩。\n\n从句中出现 ne（“on ne la dérange”），这是判断虚拟式的关键标志（部分连词短语后接虚拟式时需加 ne）。\n\n**选项解析：**\n\n**A. de manière qu’**:\n虽可表目的，但从句若用虚拟式，通常强调“主观意图”，而此处更侧重“担心被打扰”的担忧，且“de manière qu’”后加虚拟式时不一定需加 ne，与句子结构不符，排除。\n\n**B. de peur qu’**:\n意为“担心……”，后接虚拟式，且从句中必须加 ne（表否定含义，但不表示实际否定）。\n“de peur qu’on ne la dérange”即“担心有人打扰她”，符合“关手机以避免被打扰”的逻辑，正确。\n\n**C. pour que:**\n表“为了”，后接虚拟式，但从句中无需加 ne（应为“pour qu’on ne la déran"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q055",
+      "questionVersionId": "tfs4-2025-q055:v1",
+      "year": 2025,
+      "label": 55,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Je parlerai ________ en fera la demande."
+        },
+        {
+          "source": "explanation",
+          "quote": "55. 这道题考查法语中关系代词和不定代词的用法，正确答案是 **C. à quiconque**。以下是详细解析：\n\n### 一、核心语法点：引导从句的连接词选择\n\n法语中，**quiconque** 是复合关系代词，相当于“n’importe qui qui”，表示“无论谁”，后直接接从句，在句中作主语或宾语。而其他选项的用法需注意区分：\n\n- **à qui**：疑问代词或关系代词，用于提问或引导限定性从句（如“le personne à qui je parle”）。\n- **à n'importe qui**：不定代词，后接名词或单独使用，若接从句需加关系代词“qui”（如“à n'importe qui qui demande”）。\n- **auquel**：关系代词，用于限定性从句，指代前文的阳性名词，与介词搭配（如“au bureau auquel je téléphone”）。\n\n### 二、题目分析\n\n#### 句子结构：\n“Je parlerai ______ en fera la demande.”\n\n翻译：“我会和______提出请求的人交谈。”\n\n句子可拆解为：主句“Je parlerai à qn” + 从句“qn en fera la demande”，需填入“介词 + 连接词”，连接主句和从句。\n\n#### 选项匹配：\n\n**A. à qui:**  \n若为“à qui”，从句应为“qui en fera la demande”，但“à qui”通常用于限定性从句（前有先行词），而本题无先行词，需用泛指代词，排除。\n\n**B. à n'importe qui:**  \n“n'importe qui”表示“任何人”，但后接从句时需用“qui”引导，正确形式应为“à n'importe qui qui en fera la demande”，题目中无“qui”，结构错误，排除。\n\n**C. à quiconque:**  \n“quiconque”本身兼具“先行词 + 关系代词”的功能，相当于“n’importe qui qui”，“à q"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q056",
+      "questionVersionId": "tfs4-2025-q056:v1",
+      "year": 2025,
+      "label": 56,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "________ autre n'aurait pu écrire un livre pareil."
+        },
+        {
+          "source": "explanation",
+          "quote": "56. 这道题考查法语中否定代词的用法，正确答案是 **A. Nul**。以下是详细解析：\n\n一、核心语法点：否定代词的搭配与语义\n\n法语中，否定代词需与否定词 “ne” 搭配使用（部分情况 “ne” 可省略，但本题需完整结构）。各选项的关键区别如下：\n\n**Nul**: 作代词时表示 “没有人”，后接名词需加 “d’”，接动词时直接与 “ne” 搭配，语气比 “personne” 更正式、强烈。\n\n**Personne**: 最常用的否定代词 “没有人”，需与 “ne” 搭配（如 “Personne ne vient”）。\n\n**Rien**: 否定代词 “没有什么”，指代物，与 “ne” 搭配（如 “Rien ne m’effraie”）。\n\n**Quelqu’un**: 肯定代词 “某人”，不用于否定句。\n\n二、题目分析\n\n句子结构与含义：\n\n“_______ autre n'aurait pu écrire un livre pareil.”\n\n翻译：“_______ 其他人能写出这样的书。”\n\n句中已有否定词 “n’”（ne 的缩写），需填入否定代词，构成 “否定代词 + ne + 动词” 结构，表达 “没有人” 的含义。\n\n选项解析：\n\n**A. Nul:**\n\n“Nul autre” 意为 “没有其他人”，“nul” 作代词时可直接与 “ne” 搭配，“nul autre n’aurait pu” 即 “没有其他人能够”，符合语义。此外，“nul” 常用于书面语，强调 “完全否定”，与 “autre” 搭配自然，正确。\n\n**B. Personne:**\n\n“Personne” 虽表示 “没有人”，但正确用法应为 “Personne d’autre n’aurait pu”（“personne” 后接形容词 “autre” 时需加介词 “d’”），而题目中 “_______ autre” 前无 “d’”，结构错误，排除。\n\n**C. Rien:**\n\n“Rien” 指代物，而 “écrire un livre” 的主语应为 “人”，语义不符，排除。\n\n*"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q057",
+      "questionVersionId": "tfs4-2025-q057:v1",
+      "year": 2025,
+      "label": 57,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Elle m'a demandé ________ j'allais inviter pour mon anniversaire."
+        },
+        {
+          "source": "explanation",
+          "quote": "57. 详细解析：法语填空题\n\n题目：57. Elle m'a demandé _______ l'allais inviter pour mon anniversaire.\n\n选项：\nA. ce qui\nB. qui est-ce qui\nC. qui\nD. ce que\n\n正确答案：**C. qui**\n\n步骤分析：\n\n理解句子含义：\n\n45\n\n---\n\n句子原文： \"Elle m'a demandé ________ l'allais inviter pour mon anniversaire.\"\n这里有一个小错误： \"l'allais\" 应该是 \"j'allais\"（\"je allais\" 的缩合形式），即 \"我即将\"。所以正确句子应为： \"Elle m'a demandé qui j'allais inviter pour mon anniversaire.\"\n中文翻译： \"她问我，我要邀请谁参加我的生日派对。\"\n关键点：句子表达一个 间接疑问句（interrogation indirecte），由动词 \"demander\"（问）引导。空白处需要填入一个合适的疑问代词（pronom interrogatif），来引导后面的从句 \"j'allais inviter\"（我即将邀请）。\n分析句子结构：\n主句： \"Elle m'a demandé\"（她问我）。\n从句： \"________ j'allais inviter pour mon anniversaire\"（我即将邀请谁参加我的生日派对）。\n动词 \"inviter\"（邀请）是及物动词，需要一个 直接宾语（complément d'objet direct）。这里，宾语指代的是 人（邀请谁），而不是物。\n因此，空白处的疑问代词必须充当 \"inviter\" 的宾语，且针对 人。\n疑问代词的用法规则（法语间接疑问句中）：\n在间接疑问句中，疑问代词的选择取决于它在从句中的角色（主语或宾语）和所指对象（人或物）。规则如下：\n针对 人：\n作 主语 时，用 \"qui\"。\n例：直接疑问句 \"Qui vient ?\"（谁要来"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q058",
+      "questionVersionId": "tfs4-2025-q058:v1",
+      "year": 2025,
+      "label": 58,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Faites ________ fautes possible à la dictée !"
+        },
+        {
+          "source": "explanation",
+          "quote": "58.详细解析：法语填空题\n题目： 58. Faites__________ fautes possible à la dictée !\n选项：\nA. les moindres\nB. moins de\nC. le moins de\nD. les moins de\n正确答案：C. le moins de\n步骤分析：\n理解句子含义：\n句子原文： \"Faites__________ fautes possible à la dictée !\"\n中文翻译： \"在听写中，犯尽可能少的错误！\"\n这是一个命令句（impératif），动词 \"faites\"（做，犯）后接宾语 \"fautes\"（错误，复数名词），\"possible\"（尽可能的）修饰整个短语，表达最小化错误数量的含义。\n关键点：句子强调错误的数量（**quantity**），而不是错误的性质（如大小或严重程度）。因此，需要选择表达 \"尽可能少的\" 的数量结构。\n分析句子结构：\n核心结构： \"Faites + [空白] + fautes + possible\"\n\"fautes\" 是可数名词复数（errors），需要一个表示 \"最少数量\" 的限定短语。\n\"possible\" 固定搭配表示 \"尽可能的\"，常与最高级结构连用，如 \"le moins de... possible\"。\n\n47\n\n---\n\n语法要求：在法语中，表达 \"尽可能少的 + 名词\" 时，需使用最高级结构 \"le moins de + 名词 + **possible**\"。这里的 \"le\" 是中性冠词（*article neutre*），不随名词的性数变化，表示 \"最少的量\"。\n\n疑问代词的用法规则（法语数量表达）：\n\n**\"le moins de\"：**\n\n含义：相当于英语的 \"the least\" 或 \"as few as possible\"，用于表示 \"最少的数量\"，后接可数名词复数或不可数名词。\n\n规则：\n名词是复数可数（如 \"fautes\"）： \"**le moins de fautes possible**\"（尽可能少的错误）。\n名词是不可数（如"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q059",
+      "questionVersionId": "tfs4-2025-q059:v1",
+      "year": 2025,
+      "label": 59,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Ces expériences sont encore ________ peu nombreuses ________ on puisse tirer des conclusions."
+        },
+        {
+          "source": "explanation",
+          "quote": "59.正确答案：D. trop, pour qu'\n步骤分析:\n理解句子含义和逻辑:\n句子原文： \"Ces expériences sont encore________peu nombreuses, on puisse tirer des conclusions.\"\n中文翻译： \"这些实验还________少，以至于我们无法得出结论。\"\n关键点:\n\"peu nombreuses\" 表示 \"数量少\"。\n从句 \"on puisse tirer des conclusions\" 使用虚拟式（subjonctif），表明这是一个表达“可能性”或“不确定性”的结构，逻辑上应表示“实验太少，无法得出结论”。\n因此，空白处需要填入一个表达 “太...而不能” 的否定含义结构。\n分析句子结构:\n主句： \"Ces expériences sont encore________peu nombreuses\"（这些实验还________少）。\n从句： \"on puisse tirer des conclusions\"（我们可以得出结论）。\n语法要求:\n从句使用虚拟式 \"puisse\"（pouvoir 的虚拟式现在时第三人称单数），这提示主句结构必须要求虚拟式。\n在法语中，某些固定结构（如表达“足够...以便”或“太...而不能”）后接 \"pour que\" 时，必须使用虚拟式。\n逻辑上，实验数量少（\"peu nombreuses\"）应导致“无法得出结论”，因此需要一个否定结果的表达。\n选项逐个分析:\n**A. assez, pour qu':**\n含义： \"assez...pour que\" 表示 “足够...以便”（相当于英语的 \"enough...to\"），要求虚拟式。\n问题:\n填入后句子： \"Ces expériences sont encore assez peu nombreuses pour qu'on puisse tirer des conclusions.\"（这些实验还足够少，以便我们可以得出结论。）\n\n49\n\n---\n\n逻辑矛盾：\"assez peu nombreus"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q060",
+      "questionVersionId": "tfs4-2025-q060:v1",
+      "year": 2025,
+      "label": 60,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "________ avoir un travail de dernière minute, je serai chez vous à 18 heures précises."
+        },
+        {
+          "source": "explanation",
+          "quote": "60.详细解析：法语填空题\n题目： 60. __________ avoir un travail de dernière minute, je serai chez vous à 18 heures précises.\n选项：\nA. Faute d'\nB. À moins d'\nC. Au risque d'\nD. À condition d'\n正确答案：B. À moins d'\n步骤分析：\n理解句子含义和逻辑：\n句子原文： \"__________ avoir un travail de dernière minute, je serai chez vous à 18 heures précises.\"\n中文翻译： \"__________有最后一分钟的工作，我会在 **18** 点整到您家。\"\n关键点：\n主句表达一个肯定承诺： \"je serai chez vous à 18 heures précises\"（我会在 **18** 点整到您家）。\n从句 \"avoir un travail de dernière minute\"（有最后一分钟的工作）描述一个可能发生的负面情况（即“最后一分钟的工作”通常指突发任务，可能导致迟到或取消计划）。\n句子逻辑：需要一个表达“除非”或“如果...不”的结构，表示“如果这种情况不发生，我就会准时到；但如果发生，我可能无法准时”。\n分析选项的含义和用法：\n\n**A. Faute d':**\n含义： “由于缺乏...”，表示因为缺少某物而导致负面结果（相当于英语 \"for lack of\"）。\n填入后： \"Faute d'avoir un travail de dernière minute, je serai chez vous...\"（由于没有最后一分钟的工作，我会在 **18** 点整到您家）。\n问题：\n逻辑错误： “没有最后一分钟的工作” 是正面条件，但 \"faute d'\" 强调“缺乏”导致的负面结果（如无法做某事），而这里主句是正面结果（我会到），语义矛盾。\n语法：虽可接动词原形，但语义不匹配。\n排除原因：不符合句子逻辑"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q061",
+      "year": 2025,
+      "label": 61,
+      "status": "pending",
+      "pendingReason": "explanation_error",
+      "primaryId": null,
+      "primaryName": null
+    },
+    {
+      "questionId": "tfs4-2025-q062",
+      "questionVersionId": "tfs4-2025-q062:v1",
+      "year": 2025,
+      "label": 62,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Le monde ira mieux quand la condition des femmes _______."
+        },
+        {
+          "source": "explanation",
+          "quote": "62.详细解析：法语填空题\n\n题目： **62. Le monde ira mieux quand la condition des femmes_______.**\n\n选项：\nA. se seront améliorées\nB. se sera améliorée\nC. s'amélioreront\nD. s'améliorera\n\n正确答案：**B. se sera améliorée**\n\n步骤分析：\n理解句子逻辑：\n主句： \"Le monde ira mieux\"（世界会变得更好）→ 将来时（futur simple）。\n从句： \"quand la condition des femmes_______\"（当女性的状况_______）→ 需用 将来时 或 先将来时（futur antérieur），因为 \"quand\" 引导的时间从句中，动作发生在主句动作之前或同时。\n\n关键点：\n动作顺序：女性状况改善（先）→ 世界变好（后），因此从句需用 先将来时（强调动作完成）。\n主语： \"la condition\"（单数阴性名词），动词必须与其性数一致。\n分析选项语法：\n\n**A. se seront améliorées:**\n时态：先将来时（助动词 \"se seront\" + 过去分词 \"améliorées\"）。\n错误：过去分词 \"améliorées\" 是阴性复数，但主语 \"la condition\" 是单数。\n错误示例： \"la condition... se seront améliorées\" → 主谓不一致（主语单数，动词复数）。\n\n**B. se sera améliorée:**\n时态：先将来时（助动词 \"se sera\" + 过去分词 \"améliorée\"）。\n正确性：\n助动词 \"être\" 变位 \"sera\"（第三人称单数），匹配主语 \"la condition\"。\n\n54\n\n---\n\n过去分词 \"améliorée\" 与主语性数一致（阴性单数）。\n语法规则：代动词动词（verbe pronominal）在复合时态中，过去分词与主语一致（当自反"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q063",
+      "questionVersionId": "tfs4-2025-q063:v1",
+      "year": 2025,
+      "label": 63,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Éric a une faim de loup comme s'il _______ depuis deux ou trois jours."
+        },
+        {
+          "source": "explanation",
+          "quote": "63.详细解析：法语填空题\n\n55\n\n---\n\n题目： 63. Eric a une faim de loup comme s'il_______depuis deux ou trois jours.\n选项：\nA. n'a pas mangé\nB. n'avait pas mangé\nC. ne mangeait pas\nD. ne mange pas\n正确答案：B. n'avait pas mangé\n步骤分析：\n理解句子逻辑：\n主句： \"Eric a une faim de loup\"（埃里克饿得像狼一样）→ 现在时（**présent**），描述当前状态。\n从句： \"comme s'il_______depuis deux ou trois jours\"（好像他两三天没吃饭似的）→ 表达一个 与事实相反的假设（埃里克实际可能刚吃过饭，但饥饿程度让他看起来像很久没吃）。\n关键点：\n\"comme si\"（好像）引导的从句必须使用 未完成过去时（**imparfait**）或 愈过去时（**plus-que-parfait**），不能使用现在时或复合过去时。\n动作时间： \"depuis deux ou trois jours\"（持续两三天）强调动作从过去持续到现在，需用 愈过去时（表示动作在主句之前已完成）。\n语法规则：\n\"comme si\" 的时态要求：\n永远接 未完成过去时 或 愈过去时，表达非现实或假设情境。\n若假设与主句同时发生，用 未完成过去时（如 \"Il agit comme s'il était riche\"）。\n若假设动作发生在主句之前，用 愈过去时（如本题）。\n禁止使用现在时或复合过去时（选项 A、D 错误）。\n愈过去时的构成：助动词（avoir/être）的未完成过去时 + 过去分词。\n本题动词： \"manger\"（及物动词，助动词用 avoir）。\n否定形式： \"n'avait pas mangé\"（第三人称单数）。\n选项分析：\n**A. n'a pas mangé**（复合过去时）：\n错误： \"comme si\" 后不能用复合过去时（直陈式）。"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q064",
+      "questionVersionId": "tfs4-2025-q064:v1",
+      "year": 2025,
+      "label": 64,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Les beaux jours _______ sans interruption pendant un mois."
+        },
+        {
+          "source": "explanation",
+          "quote": "64.详细解析：法语填空题\n题目： 64. Les beaux jours \\_\\_\\_\\_sans interruption pendant un mois.\n选项：\nA. se succédaient\nB. se sont succédés\nC. se sont succédé\nD. se succéderons\n**正确答案：C. se sont succédé**\n步骤分析：\n理解句子逻辑：\n句子描述 \"Les beaux jours\"（好天气/晴朗的日子）如何 \"se succéder sans interruption\"（连续不间断地更替），动作持续 \"pendant un mois\"（一个月）。\n时间状语 \"pendant un mois\" 强调一个 已完成的、有限持续的动作，发生在过去。\n因此，时态需用 过去时，且动作有明确终点，优先选择 复合过去时（<u>passé composé</u>）。\n时态选择：\n**D. se succéderons（简单将来时）**：表示未来动作，与 \"pendant un mois\"（过去时间）矛盾，排除。\n**A. se succédaient（未完成过去时）**：用于描述过去习惯性、持续性或背景动作，但这里强调一个 具体完成的事件（持续一个月后结束），未完成过去时不精确。\n**B. se sont succédés 和 C. se sont succédé 均为复合过去时，但涉及动词变位的关键差异：过去分词的性数配合。**\n\n57\n\n---\n\n动词变位分析：\n动词 \"se succéder\" 是 代动词（verbe pronominal），结构为 \"se + succéder\"。\n在复合过去时中，助动词用 **être**（变位为 \"se sont\"）。\n过去分词配合规则：\n当自反代词 \"se\" 是 直接宾语（COD） 时，过去分词与主语性数配合。\n当 \"se\" 是 间接宾语（COI） 时，过去分词 不配合。\n动词 \"succéder\" 的用法：\n\"succéder à quelqu'un/quelque chos"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q065",
+      "questionVersionId": "tfs4-2025-q065:v1",
+      "year": 2025,
+      "label": 65,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "C'est maintenant que tu arrives ! Tu _______ me prévenir."
+        },
+        {
+          "source": "explanation",
+          "quote": "65. 详细解析：法语填空题\n\n题目：65. C'est maintenant que tu arrives ! Tu _______ me prévenir.\n\n选项：\nA. as dû\nB. devrais\nC. aurais dû\nD. devras\n\n**正确答案：C. aurais dû**\n\n步骤分析：\n\n理解句子逻辑：\n主句： \"C'est maintenant que tu arrives !\"（你现在才到！）→ 表达 对迟到的不满或责备。\n从句： \"Tu _______ me prévenir.\"（你本该提前通知我。）\n\n关键点：\n动作 \"prévenir\"（通知）应在 \"arriver\"（到达）之前发生（但实际未发生）。\n需用 过去时态 表达 “本应该做却未做” 的遗憾或责备。\n\n语法规则：\n条件式过去时（conditionnel passé）：\n结构：助动词（avoir/être）的条件式现在时 + 过去分词。\n功能：表达 过去未实现的义务或建议（相当于英语 \"should have done\"）。\n本题： \"aurais dû\"（devoir 的条件式过去时，意为“本该”）。\n\n其他时态对比：\nA. as dû（复合过去时）：\"必须做了\"（实际可能已做），与责备语义矛盾。\n**B. devrais（条件式现在时）：** \"现在应该\"（不涉及过去动作）。\n**D. devras（简单将来时）：** \"将来必须\"（与过去动作无关）。\n\n选项分析：\n**A. as dû（复合过去时）：**\n错误： \"Tu as dû me prévenir\" 意为“你一定通知我了”（推测已发生），但上下文是责备未通知，语义矛盾。\n\n**B. devrais（条件式现在时）：**\n错误： \"Tu devrais me prévenir\" 意为“你现在应该通知我”，但到达已发生，通知应更早。\n\n**C. aurais dû（条件式过去时）：**\n正确： \"Tu aurais dû me prévenir\"（你本该提前通知我）→ 精准表达 过去应做而未做 的责备。\n语法："
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q066",
+      "year": 2025,
+      "label": 66,
+      "status": "pending",
+      "pendingReason": "source_conflict",
+      "primaryId": null,
+      "primaryName": null
+    },
+    {
+      "questionId": "tfs4-2025-q067",
+      "year": 2025,
+      "label": 67,
+      "status": "pending",
+      "pendingReason": "source_conflict",
+      "primaryId": null,
+      "primaryName": null
+    },
+    {
+      "questionId": "tfs4-2025-q068",
+      "year": 2025,
+      "label": 68,
+      "status": "pending",
+      "pendingReason": "source_conflict",
+      "primaryId": null,
+      "primaryName": null
+    },
+    {
+      "questionId": "tfs4-2025-q069",
+      "year": 2025,
+      "label": 69,
+      "status": "pending",
+      "pendingReason": "source_conflict",
+      "primaryId": null,
+      "primaryName": null
+    },
+    {
+      "questionId": "tfs4-2025-q070",
+      "year": 2025,
+      "label": 70,
+      "status": "pending",
+      "pendingReason": "source_conflict",
+      "primaryId": null,
+      "primaryName": null
+    },
+    {
+      "questionId": "tfs4-2025-q071",
+      "questionVersionId": "tfs4-2025-q071:v1",
+      "year": 2025,
+      "label": 71,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Les Dubois ont préparé tout _______ ils ont besoin pour leurs vacances."
+        },
+        {
+          "source": "explanation",
+          "quote": "71. 正确答案是 C. ce dont。\n完整句子：\n**Les Dubois ont préparé tout ce dont ils ont besoin pour leurs vacances.**\n（Dubois 一家已经准备了他们度假所需的一切。）\n详细解析：\n语法核心：动词短语和关系代词的搭配\n动词短语 \"avoir besoin de\" 表示“需要”，其后必须接介词 \"de\" 才能引入宾语（如 \"avoir besoin de quelque chose\"）。\n在关系从句中，当需要代替介词 \"de\" + 先行词 时，必须使用关系代词 \"ce dont\"（相当于英语的 \"what\" 或 \"that which\"）。\n这里，先行词是 \"tout\"（一切），与 \"ce\" 结合形成 \"tout ce\"（所有...的东西），关系从句则用 \"dont\" 来承载介词 \"de\" 的含义。\n因此，结构是：\"tout ce dont + 主语 + avoir besoin\"（所需的一切）。\n为什么选 C. ce dont？\n\"ce dont\" 直接满足 \"avoir besoin de\" 的介词要求，意思是“所需的东西”。\n句子中，\"tout ce dont ils ont besoin\" 完整表达“他们所需的一切”，语法正确且自然。\n例句：\nPrends tout ce dont tu as besoin.（带上你所需的一切。）\nVoici tout ce dont j'ai besoin.（这就是我需要的一切。）\n其他选项的错误分析：\n**A. ce qui**：用于关系从句的主语（代替 \"qui\"），但这里 \"ils\" 已是主语，且不涉及介词 \"de\"。\n**✕ 错误示例**：tout ce qui ils ont besoin（意思混乱，不符合结构）。\n**B. ce qu'**：是 \"ce que\" 的缩写（用于直接宾语），但 \"avoir besoin\" 要求介词 \"de\"，不能直接接宾语。\n**✕ 错误示例**：tout ce qu'ils ont beso"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q072",
+      "questionVersionId": "tfs4-2025-q072:v1",
+      "year": 2025,
+      "label": 72,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Envoyez-moi un message et je tâcherai de (d') _______ répondre au plus vite."
+        },
+        {
+          "source": "explanation",
+          "quote": "72. 问题解析\n\n句子： Envoyez-moi un message et je tacherai de (d')________répondre au plus vite.\n\n选项：A. en, B. le, C. lui, D. y\n\n句子意思\n\n\"Envoyez-moi un message\"：意思是“给我发一条消息”。\n\n\"et je tacherai de (d')________répondre au plus vite\"：意思是“我会尽力尽快_______回复”。\n\n\"tâcher de\" 是一个固定短语，表示“尽力”或“试图”，后接动词不定式（如 répondre）。\n\n\"au plus vite\" 意思是“尽快”。\n\n整个句子逻辑：对方发送消息，我尽力尽快回复（这条消息或这个人）。\n\n关键语法点：动词 \"répondre\" 的搭配\n\n法语动词 \"répondre\"（回复）必须与介词 \"à\" 搭配使用，表示“回复某人”或“回复某事”。如果宾语是人（如“回复您”），结构为 \"répondre à [quelqu'un]\"，例如：\n\n\"répondre à vous\"（回复您）→ 使用间接宾语代词 lui（第三人称单数）或 vous（第二人称），但选项中没有 \"vous\"。\n\n如果宾语是事物（如“回复消息”），结构为 \"répondre à [quelque chose]\"，例如：\n\n\"répondre au message\"（回复消息）→ 使用代词 y 替代 \"à + 事物\"。\n\n在代词位置：\n\n代词必须放在动词不定式（répondre）之前。\n\n句子中的 \"(d')\" 提示：介词 \"de\" 后接代词时，如果代词以元音开头，需进行省音（élision），即 \"de\" 变为 \"d'\"。\n\n选项分析\n\nA. en:\n\n\"en\" 是代词，用于替代 \"de + 名词\"（表示来源、部分或材料），例如 \"parler de quelque chose\" → \"en parler\"（谈论它）。\n\n但 \"répondre\" 不与 \"de\" 搭配，而是与 \"à\" 搭配"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q073",
+      "questionVersionId": "tfs4-2025-q073:v1",
+      "year": 2025,
+      "label": 73,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Ce stylo n'a plus d'encre. _______ un autre."
+        },
+        {
+          "source": "explanation",
+          "quote": "73. **en-moi**。我将逐步分析句子含义、语法规则和选项，最终给出答案。\n\n1. 句子含义分析\n原句： \"Ce stylo n'a plus d' encre. \\_\\_\\_\\_\\_\\_ un autre.\"\n第一部分： \"Ce stylo n'a plus d' encre\" 意思是 \"这支钢笔没墨水了\"。\n第二部分： \"**\\_\\_\\_\\_\\_\\_** un autre\" 意思是 \"**\\_\\_\\_\\_\\_\\_** 另一支（钢笔）\"，其中 \"un autre\" 是名词短语，指 \"另一支钢笔\"（隐含上文提到的 \"stylo\"）。\n整体语境：钢笔没墨水了，所以需要请求别人 \"给我另一支钢笔\"。空白处应填入一个命令式短语，表达 \"给我\" 的意思，并与 \"un autre\" 结合形成完整命令。\n\n2. 语法规则回顾：命令式与代词\n**命令式（impératif）**：用于表达命令或请求。动词 \"**donner**\"（给）的命令式第二人称单数形式是 \"**donne**\"（注意：命令式去掉词尾 \"s\"，不同于直陈式 \"donnes\"）。\n代词位置：在肯定命令式中，代词需附着在动词后，并用连字符连接。代词的顺序规则为：间接宾语代词（me, te, nous, vous）+ 直接宾语代词（le, la, les）或副词代词（<u>y, en</u>）。\n其中，\"**me**\" 和 \"**te**\" 在元音或哑音 **h** 开头的词前要省略为 \"**m**\" 和 \"**t**\"。\n关键点：\n间接宾语 \"à moi\"（给我）在命令式中变为 \"**moi**\"，但与其他代词结合时需缩约（如 \"m'\"）。\n\"**en**\" 是副词代词，替代由 \"**de**\" 引导的部分（如部分冠词 **du/de la/des** + 名词，或不定冠词 **un/une** + 名词），意思是 \"一些\" 或 \"某个东西\"。\n在本句中，\"**un autre**\" 相当于 \"**un autre stylo**\"（另一支钢笔），其中 \"**un**\" 是不定冠词，因此可以用 \"**en*"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q074",
+      "questionVersionId": "tfs4-2025-q074:v1",
+      "year": 2025,
+      "label": 74,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Si Picasso n'avait pas été un artiste exceptionnel, il __________ une œuvre aussi impressionnante."
+        },
+        {
+          "source": "explanation",
+          "quote": "**74.正确答案：C. n'aurait pas peint**\n\n逐步分析：\n句子含义和语境：\n原 句： \"Si Picasso n'avait pas été un artiste exceptionnel, il _______ une œuvre aussi impressionnante.\"\n中文翻译：\"如果毕加索不是一位杰出的艺术家，他就不会创作出如此令人印象深刻的作品。\"\n\n语境：这是一个假设性条件句，谈论的是 过去不可能发生的情况（毕加索实际是杰出的艺术家，但假设他不是）。句子描述的是：在假设条件下，毕加索的过去行为（创作作品）不会发生。\n\n语法规则：条件句类型（*Les conditionnels*）\n法语条件句分为三种类型，本题属于 第三条件句（*conditionnel de la troisième type*），用于表达 对过去事件的假设，强调结果的不可能性。\n\n结构规则：\n从句（si 引导的条件部分）：使用 **plus-que-parfait**（过去完成时），表示过去的假设条件。这里：\"Si Picasso n'avait pas été...\"（n'avait pas été 是 *être* 的 **plus-que-parfait** 否定形式）。\n主句（结果部分）：必须使用 **conditionnel passé**（条件过去时），表示在假设条件下过去不会发生的结果。\n动词结构：auxiliaire (avoir/être) 的 conditionnel présent + participe passé（过去分词）。\n这里：\"il n'aurait pas peint\"（aurait peint 是 *peindre* 的 conditionnel passé 形式，*avoir* 作助动词）。\n\n为什么是第三条件句？\n从句的 \"n'avait pas été\"（**plus-que-parfait**）明确指向 过去假设（毕加索的艺术家身份是过去事实，但被否定）。\n主句需对应过去结果（创作作品是过去事件，在假设下不会发生"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q075",
+      "questionVersionId": "tfs4-2025-q075:v1",
+      "year": 2025,
+      "label": 75,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Mon amie Cécile a beaucoup changé __________ elle est mère de famille."
+        },
+        {
+          "source": "explanation",
+          "quote": "75. 详细解析：第 75 题\n题目： Mon amie Cecile a beaucoup change______elle est mere de famille.\n选项:\nA. apres\nB. depuis qu'\nC. dès qu’\nD. une fois qu'\n\n71\n\n---\n\n正确答案：**B. depuis qu'**\n\n逐步分析：\n\n句子含义和语境：\n\n原句：\"Mon amie Cecile a beaucoup change_______elle est mere de famille.\"\n\n中文翻译：\"我的朋友 Cecile 变化很大_______她是家庭主妇（即她成为了母亲）。\"\n\n关键点：句子描述 **Cecile** 的\"变化\"（a beaucoup change）与她\"**成为母亲**\"（**elle est mere de famille**）之间的时间关系。变化是显著的（**beaucoup change**），并且很可能是一个渐进的过程，而不是瞬间事件。\n\n语境需求：空白处需填入一个连接词，表达\"自从成为母亲以来\"的变化，强调变化从过去某个点开始并持续到现在。\n\n语法规则：**时间连接词的选择**\n\n法语中，时间连接词用于连接主句和从句，表达动作的时间关系。时态和逻辑必须一致：\n\n主句使用复合过去时（**passé composé**）：\"a beaucoup change\"，表示变化已经发生，且其效果可能持续到现在。\n\n从句\"elle est mere de famille\"使用现在时（**présent**），表示\"成为母亲\"这一状态从过去开始并持续到现在（即她现在仍是母亲）。\n\n选项分析：\n\n**A. apres:**\n\n含义：\"之后\"，但语法错误。\n\n\"apres\" 单独使用时不能直接引导从句；它必须后接名词、动词不定式或与\"**que**\"结合形成 \"apres que\"（如\"apres qu'elle est devenue mere\"）。\n\n填入后句子为：\"Mon amie Cecile a beaucoup c"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q076",
+      "questionVersionId": "tfs4-2025-q076:v1",
+      "year": 2025,
+      "label": 76,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "– Vous avez aimé le film ?\n– Pas __________ que ça. Ce n'était pas extraordinaire."
+        },
+        {
+          "source": "explanation",
+          "quote": "**76.正确答案：C. tant**\n完整答句：**Pas tant que ça**.（没那么喜欢/没那么厉害。）\n逐步分析：\n句子含义和语境：\n问句询问对电影的喜爱程度（\"aimé le film\"）。\n答句先否定程度（\"Pas _____ que ça\"），后补充原因（\"C’ était pas extraordinaire\"）。\n关键：空白处需填入一个表示程度的词，与\"que ça\"结合形成固定表达，意为\"没有那么...\"，表达\"喜爱程度不高\"。\n语法规则：固定表达 \"pas tant que ça\"\n\"Pas tant que ça\" 是法语口语中常见表达：\n\"tant\" 表示程度，相当于英语的\"so much\"或\"that much\"。\n\"que ça\" 是口语化强调，相当于\"as that\"。\n整体意思：\"没那么多/没那么厉害\"，用于淡化程度（如喜欢、疼痛、严重性等）。\n例句：\n**Tu as aimé ?** - **Pas tant que ça**.（你喜欢吗？——没那么喜欢。）\n**Ça fait mal ?** - **Pas tant que ça**.（疼吗？——没那么疼。）\n\n73\n\n---\n\n选项逐一分析：\n\n**A. aussi（如此）：**\n填入后：\"Pas aussi que ça\"。\n问题：语法错误。\"aussi\" 必须后接形容词/副词构成比较级（如\"pas aussi **bien que ça**\"）。单独使用\"pas aussi que ça\" 不完整，不符合法语习惯。\n错误原因：缺少比较对象（如 **bien, bon**），句子结构不成立。\n\n**B. beaucoup（多）：**\n填入后：\"Pas beaucoup que ça\"。\n问题：语义和语法错误。\"beaucoup\" 直接表示数量（如\"j'aime beaucoup\"=我很喜欢），但：它不与\"que ça\"搭配使用。\n正确否定形式是直接说\"pas beaucoup\"（如\"Je n'aime pas beaucoup\"=我不太喜欢）。\n错误原因：强行组合后意"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q077",
+      "questionVersionId": "tfs4-2025-q077:v1",
+      "year": 2025,
+      "label": 77,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Ce matin-là, Victor m'a dit qu'il allait partir __________."
+        },
+        {
+          "source": "explanation",
+          "quote": "**77.正确答案：A. le lendemain**\n\n逐步分析：\n句子含义和时态关键点：\n**主句：** \"Ce matin-là, Victor m'a dit\"（那天早上，维克多告诉我）— 使用 **passé composé**（复合过去时），表示过去发生的动作（说话发生在过去）。\n**从句：** \"qu'il allait partir\"（他即将离开）— 使用 **futur proche dans le passé**（过去将来时），表示从过去的角度看将要发生的动作（维克多在说话时，离开是未来的计划）。\n**核心规则：** 当主句是过去时（如 **passé composé**），从句中的时间表达必须进行 时态调整（*concordance des temps*），以反映从过去视角看的时间关系。\n\n选项逐一分析（基于时态调整规则）：\n\n**A. le lendemain（第二天）：**\n含义：从过去角度看“第二天”，相当于英语的 \"the next day\"。\n正确性：如果维克多在说话时（那天早上）说 \"Je vais partir demain\"（我明天要离开），在转述到过去时态时，\"demain\" 必须调整为 \"le lendemain\"。\n填入后句子：\"Ce matin-là, Victor m'a dit qu'il allait partir le lendemain.\"（那天早上，维克多告诉我他第二天要离开。）\n逻辑和语法完美匹配：过去将来时 \"allait partir\" 与 \"le lendemain\" 结合，表示从过去视角的近期未来。\n正确选项。\n\n**B. dans deux jours（两天后）：**\n含义：从现在的角度看“两天后”。\n问题：在从句中，主句是过去时，\"dans deux jours\" 必须调整为 \"deux jours plus tard\" 或 \"dans deux jours\" 需替换（标准语法要求调整时间副词）。直接使用 \"dans deux jours\" 会造成时态不一致，因为它隐含“从现在起”的视角，而非从过"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q078",
+      "questionVersionId": "tfs4-2025-q078:v1",
+      "year": 2025,
+      "label": 78,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Personne n'a touché à ses affaires, elle les a retrouvées __________."
+        },
+        {
+          "source": "explanation",
+          "quote": "**78.正确答案：B. telles quelles**\n逐步分析：\n句子含义和语境：\n原句：\"Personne n'a touché à ses affaires, elle les a retrouvées________.\"\n中文翻译：\"没有人碰过她的东西，她找回它们_______。\"\n上下文：前半句强调\"东西未被触碰\"，暗示找回时物品保持原状。空白处需填入一个表示\"原封不动\"或\"照原样\"的固定表达，且必须与所修饰的名词在性、数上一致。\n语法规则：固定表达 \"tel quel\" 的性数配合\n\"**tel quel**\" 是法语固定短语，意为\"原样\"、\"原封不动\"，用于描述事物未被改变的状态。\n它必须与修饰的名词在性、数上一致：\n阳性单数：**tel quel**（例如：un livre tel quel）\n阴性单数：**telle quelle**（例如：une table telle quelle）\n阳性复数：**tels quels**（例如：des livres tels quels）\n阴性复数：**telles quelles**（例如：des affaires telles quelles）\n本题中，修饰的对象是 \"les\"（代词，指代前文 \"ses affaires\"）。\n\"affaires\"（物品/东西）是阴性复数名词。\n因此，必须使用阴性复数形式 \"**telles quelles**\"。\n选项逐一分析：\n**A. tel quel:**\n形式：阳性单数。\n问题：与修饰对象 \"affaires\"（阴性复数）性数不一致。填入后句子为：\"elle les a retrouvées\n\n76\n\n---\n\n**tel quel**，语法错误（\"tel quel\" 无法匹配 \"affaires\"）。\n错误原因：性数配合错误。\n\n**B. telles quelles:**\n形式：阴性复数。\n正确性：\n完全匹配 \"affaires\" 的性数（阴性复数）。\n填入后句子：\"Personne n'a touché à ses affaires, elle les"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q079",
+      "questionVersionId": "tfs4-2025-q079:v1",
+      "year": 2025,
+      "label": 79,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Sauvons la planète Terre __________ il ne soit trop tard !"
+        },
+        {
+          "source": "explanation",
+          "quote": "79.详细解析：第 79 题\n题目： Sauvons la planète Terre________il ne soit trop tard !\n选项：\n\n77\n\n---\n\nA. aussi longtemps qu'\nB. avant qu'\nC. jusqu'à ce qu'\nD. après qu'\n正确答案：B. avant qu'\n完整句：Sauvons la planète Terre avant qu'il ne soit trop tard !\n(\"趁还来得及，拯救地球吧！\")\n逐步分析：\n句子含义和语境：\n主句：\"Sauvons la planète Terre\"（让我们拯救地球）— 使用命令式（impératif），表达紧急呼吁。\n从句：\"il ne soit trop tard\"（为时已晚）— 动词 \"soit\" 是 être 的虚拟式（subjonctif）现在时。\n关键：空白处需填入一个引导时间状语从句的连词短语，且必须与虚拟式搭配，同时符合语义逻辑（拯救地球的紧迫性）。\n语法规则：连词短语与虚拟式\n法语中，部分时间连词短语必须后接虚拟式（subjonctif），主要包括：\n\"avant que\"（在...之前）→ 必须用虚拟式 + \"ne\" 赘词（explétif）。\n\"jusqu'à ce que\"（直到...）→ 必须用虚拟式（但语义不符本题）。\n\"après que\"（在...之后）→ 用直陈式（indicatif），与本题动词 \"soit\"（虚拟式）冲突。\n\"aussi longtemps que\"（只要...）→ 用直陈式，与虚拟式冲突。\n选项逐一分析：\n**A. aussi longtemps qu'**（只要...）：\n语法错误：后接直陈式（如 \"il n'est pas trop tard\"），但句中 \"soit\" 是虚拟式。\n语义错误：\"只要还不算太晚\" 与主句 \"拯救地球\" 的紧迫性矛盾（暗示\"可以慢慢来\"）。\n排除原因：动词形式冲突 + 逻辑不通。\n**B. avant qu'**（在...之前）：\n语法正确：\n后接"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q080",
+      "questionVersionId": "tfs4-2025-q080:v1",
+      "year": 2025,
+      "label": 80,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2025-grammar-explanation",
+      "primaryName": "2025语法规则候选",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "C'est au contact d'autrui que l'on devient __________."
+        },
+        {
+          "source": "explanation",
+          "quote": "80.\n详细解析：第 80 题\n题目： C'est au contact d'autrui que l'on devient_______.\n选项：\nA. autre chose\nB. ça\nC. lui-même\nD. soi\n正确答案：D. soi\n完整句：C'est au contact d'autrui que l'on devient soi.（正是在与他人的接触中，一个人成为自己。）\n逐步分析：\n句子含义和语境：\n原句是一个强调结构（mise en relief），使用 \"C'est... que...\"，强调 \"au contact d'autrui\"（在与他人的接触中）。\n核心动词： \"devenir\"（成为），表示一种变化或发展过程。\n主语： \"l'on\"（\"on\" 的正式形式），是泛指代词，意为 \"一个人\" 或 \"我们\"，指代普遍意义上的人，不指定性别或具体对象。\n语境：句子表达一个哲学或心理学观点——通过与他人互动，个体实现自我认知或自我发展。空白处需填入一个反身代词，表示 \"成为自己\"。\n语法规则：泛指代词 \"on\" 与反身代词的配合\n当主语是泛指代词 \"on\" 时，反身代词必须使用 \"soi\"（或 \"soi-même\"），而不是其他人称形式（如 \"lui-même\"）。\n原因:\"on\" 是中性、泛指的概念，不指代具体性别或个体，因此反身代词需用泛指形式 \"soi\"。\n\n79\n\n---\n\n例句：\n**On doit rester fidèle à soi.**（一个人必须忠于自己。）\n**On devient soi-même grâce aux expériences.**（通过经历，一个人成为自己。）\n\n选项分析：\n**D. soi** 是泛指反身代词，与 \"on\" 完美匹配，填入后句子完整且语法正确。\n\n选项逐一分析：\n\n**A. autre chose**（别的东西）：\n含义：表示 \"成为其他事物\"，暗示本质改变（如从人变成物）。\n问题：语义不匹配。句子强调自我发展（*devenir soi*），而非变成完全不同的东西。填入后句子逻辑不"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q081",
+      "questionVersionId": "tfs4-2025-q081:v1",
+      "year": 2025,
+      "label": 81,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Selon les idées reçues, ___________."
+        },
+        {
+          "source": "explanation",
+          "quote": "**81. 正确答案：B. le somnambule marche les bras tendus et les yeux fermés**\n（梦游者会伸直手臂、闭着眼睛行走）\n解析依据：\n题干关键词定位：\n题干要求找出\"普遍认知\"（*les idées reçues*）中的错误观念\n原文开篇明确提到：\n\"Les idées reçues ont la vie dure... les personnes concernées ne se déplacent pas les bras tendus\n\n85\n\n---\n\net les yeux fermés\"\n\n（普遍认知根深蒂固... 梦游者并非伸直手臂、闭着眼睛行走）\n\n错误观念的来源：\n\n原文第三段指出这种形象是影视作品的误导：\n\n**\"La personne endormie qui marche les bras tendus et les yeux fermés, c'est une image amusante pour les dessins animés ou les films\"**\n\n（这种伸直手臂闭眼行走的形象是动画或电影中的趣味表现）\n\n事实真相的对比：\n\n原文直接否定 **B** 选项的描述，并给出科学事实（对应 **C** 选项）：\n\n*\"en pratique, cela ne se passe pas comme ça : les somnambules ont les yeux ouverts et le regard absent\"*\n\n（现实中并非如此：梦游者睁着眼睛且目光呆滞）\n\n选项辨析：\n\n<table>\n  <tr>\n    <th>选项</th>\n    <th>内容</th>\n    <th>是否符合原文</th>\n  </tr>\n<tr>\n    <td>A</td>\n    <td>梦游者自言自语行走</td>\n    <td>文中未提及</td>\n  </tr>\n<tr>\n    <td><b>B</b></td>\n    <td>伸直手臂、闭眼行走</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q082",
+      "questionVersionId": "tfs4-2025-q082:v1",
+      "year": 2025,
+      "label": 82,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Réveiller une personne en état de somnambulisme, ça peut ___________."
+        },
+        {
+          "source": "explanation",
+          "quote": "**82. 正确答案：D. lui provoquer de la mauvaise humeur ou de la peur**\n\n（可能引发其情绪不佳或恐惧）\n\n解析依据：\n\n题干关键词定位：\n\n题干核心：唤醒梦游者的后果（Réveiller une personne en état de somnambulisme）\n\n原文明确说明：\n\n**\"Pas de risque cardiaque, mais cela peut provoquer de la mauvaise humeur ou de la peur\"**\n\n（没有心脏风险，但可能引发情绪不佳或恐惧）\n\n选项逐项排除：\n\n<table>\n  <tr>\n    <th>选项</th>\n    <th>内容</th>\n    <th>原文依据</th>\n    <th>是否符合</th>\n  </tr>\n<tr>\n    <td>A</td>\n    <td>导致死亡</td>\n    <td>开篇直接否定：\"non, vous ne tuerez pas...\"（不，你不会杀死梦游者）</td>\n    <td><s>×</s></td>\n  </tr>\n<tr>\n    <td>B</td>\n    <td>导致受伤</td>\n    <td>后文提到受伤是梦游者<u>自己行为导致</u>（如摔下楼梯），<b>非唤醒直接造成</b> <s>×</s></td>\n  </tr>\n</table>\n\n86\n\n---\n\n<table>\n<thead>\n<tr>\n<th>选项</th>\n<th>内容</th>\n<th>原文依据</th>\n<th>是否符合</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><b>D</b></td>\n<td>引发情绪不佳或恐惧</td>\n<td>原文直接对应：<b>\"provoquer de la mauvaise humeur ou de la peur\"</b></td>\n<td>✔</td>\n</tr>\n<tr>\n<td>C</td>\n<td>引发"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q083",
+      "questionVersionId": "tfs4-2025-q083:v1",
+      "year": 2025,
+      "label": 83,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Selon le texte, le somnambulisme ___________."
+        },
+        {
+          "source": "explanation",
+          "quote": "**83.正确答案：B. intervient dans la période de sommeil profond**\n（发生在深度睡眠阶段）\n解析依据：\n题干关键词定位：\n原文直接说明梦游的本质：\n**\"Le somnambulisme est un trouble du sommeil qui intervient pendant la période de sommeil profond\"**\n（梦游是一种睡眠障碍，发生在深度睡眠阶段）\n选项逐项排除：\n\n<table>\n<thead>\n<tr>\n<th>选项</th>\n<th>内容</th>\n<th>原文依据</th>\n<th>是否符合</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>A</td>\n<td>是心理障碍</td>\n<td>原文定义为<b>\"trouble du sommeil\"</b>（睡眠障碍），未提及心理因素</td>\n<td>✖</td>\n</tr>\n<tr>\n<td><b>B</b></td>\n<td>发生在深度睡眠阶段</td>\n<td>原文直接对应：<b>\"intervient pendant la période de sommeil profond\"</b></td>\n<td>✔</td>\n</tr>\n<tr>\n<td>C</td>\n<td>儿童比成人少见</td>\n<td>原文数据：<b>\"1 enfant sur 4\"</b>（25%儿童） vs <b>\"2-4% des adultes\"</b>（2-4%成人）→ 儿童更常见</td>\n<td>✖</td>\n</tr>\n<tr>\n<td>D</td>\n<td>总是表现为复杂行为</td>\n<td>原文明确：<b>\"des actes simples\"</b>（简单行为）是常态，复杂行为是少数（\"<b>beaucoup moins fréquents</b>\"）</td>\n<td>✖</td>\n</tr>\n</tbody>\n</table>\n\n关键细节强化：\n原文用医学定义精准定位睡眠阶段：**\"pé"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q084",
+      "questionVersionId": "tfs4-2025-q084:v1",
+      "year": 2025,
+      "label": 84,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Que faut-il faire si l'on croise un somnambule ?"
+        },
+        {
+          "source": "explanation",
+          "quote": "**84.正确答案：C. En cas de danger, il faut le réveiller en l'appelant et en lui parlant**\n（若存在危险，应通过呼唤和交谈唤醒梦游者）\n解析依据：\n原文指令精准定位：\n\"S'il y a un danger... comme quand elle s'approche d'un escalier, réveillez-la en l'appelant, parlez-lui\"\n（若存在危险，例如当梦游者靠近楼梯时，应通过呼唤和交谈唤醒她）\n选项逐项排除：\n\n<table>\n<thead>\n<tr>\n<th>选项</th>\n<th>内容</th>\n<th>原文依据</th>\n<th>是否符合</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>A</td>\n<td>切勿与梦游者交谈</td>\n<td>原文要求通过<strong>交谈唤醒</strong>（\"parlez-lui\"）</td>\n<td><s>×</s> 直接矛盾</td>\n</tr>\n<tr>\n<td>B</td>\n<td>立即送医</td>\n<td>原文仅建议<strong>自身发现伤口时</strong>就医（\"vous pouvez aller consulter\"）</td>\n<td><s>×</s> 过度处理</td>\n</tr>\n<tr>\n<td><b>C</b></td>\n<td><b>有危险时呼唤并交谈唤醒</b></td>\n<td>完全对应危险场景操作：<b>\"réveillez-la en l'appelant, parlez-lui\"</b></td>\n<td>✔</td>\n</tr>\n<tr>\n<td>D</td>\n<td>有危险时轻柔引导回床</td>\n<td>原文明确<strong>无危险时</strong>才用此方法（\"S'il n'y a pas de danger...\"）</td>\n<td><s>×</s> 场景错配</td>\n</tr>\n</tbody>\n</tabl"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q085",
+      "questionVersionId": "tfs4-2025-q085:v1",
+      "year": 2025,
+      "label": 85,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-exclusion",
+      "primaryName": "否定问法与信息排除",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Laquelle des affirmations suivantes ne correspond pas au texte ?"
+        },
+        {
+          "source": "explanation",
+          "quote": "**85.正确答案：D. Le somnambule a un vague souvenir de ce qui s'est passé la nuit.**\n（梦游者对夜间发生的事有模糊记忆）\n解析依据（逐项对照原文）：\n\n88\n\n---\n\n<table>\n  <thead>\n    <tr>\n      <th>选项</th>\n      <th>内容</th>\n      <th>原文依据</th>\n      <th>是否符合文本</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><b>A</b></td>\n      <td>梦游者夜间可能身处危险</td>\n      <td><b>\"certains se blessent... en tombant dans les escaliers ou en utilisant des couteaux\"</b><br />(有些人会受伤... 如摔下楼梯或使用刀具)</td>\n      <td>✔ 符合</td>\n    </tr>\n<tr>\n      <td><b>B</b></td>\n      <td>梦游者当下感受不到疼痛</td>\n      <td><b>\"les somnambules ne ressentent sur le moment aucune douleur\"</b><br />(梦游者当下感受不到任何疼痛)</td>\n      <td>✔ 符合</td>\n    </tr>\n<tr>\n      <td><b>C</b></td>\n      <td>梦游发作通常不超过 10 分钟</td>\n      <td><b>\"Généralement, les crises ne dépassent pas 10 minutes\"</b><br />(通常发作不超过 10 分钟)</td>\n      <td>✔ 符合</td>\n    </tr>\n<tr>\n      <td><b>D</b></td>\n      <td"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q086",
+      "questionVersionId": "tfs4-2025-q086:v1",
+      "year": 2025,
+      "label": 86,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "En France, à partir de quel âge peut-on passer le permis de conduire ?"
+        },
+        {
+          "source": "explanation",
+          "quote": "**86. 根据 Texte 2 的明确描述，对问题 86. En France, à partir de quel âge peut-on passer le permis de conduire ?（在法国，年满多少岁可以参加驾照考试？）的解析如下：**\n文本关键句：\n\"En France, seules les personnes majeures (+ 18 ans) peuvent se présenter à l'examen de conduite\"\n（在法国，只有成年人（年满 **18** 岁）可以参加驾驶考试）\n选项分析：\n\n<table>\n<thead>\n<tr>\n<th>选项</th>\n<th>内容</th>\n<th>文本依据</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>A. 15 ans</td>\n<td>15 岁</td>\n<td>❌ 错误：15 岁仅可开始培训（\"commencer la formation\"），不能考试</td>\n</tr>\n<tr>\n<td>B. 16 ans</td>\n<td>16 岁</td>\n<td>❌ 错误：16 岁可在<u>父母</u>监督下练习驾驶（\"conduire sous la surveillance des parents\"），不能考试</td>\n</tr>\n<tr>\n<td>C. 17 ans</td>\n<td>17 岁</td>\n<td>❌ 错误：文本未提及 17 岁可考试</td>\n</tr>\n<tr>\n<td><b>D. 18 ans</b></td>\n<td><b>18 岁</b></td>\n<td>✔ 正确：文本明确要求<strong>成年（18 岁）</strong>才能参加考试</td>\n</tr>\n</tbody>\n</table>\n\n补充说明：\n**18 岁**是法定成年年龄：法国法律规定驾驶考试（路考）参与者必须年满 **18** 周岁。\n其他年龄权限：\n**15 岁**：允许注册驾校并开始理论学习\n**16 岁**：允许在父母监督下进行实际驾驶练"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q087",
+      "questionVersionId": "tfs4-2025-q087:v1",
+      "year": 2025,
+      "label": 87,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Le forfait de base du permis de conduire est de __________ euros en moyenne."
+        },
+        {
+          "source": "explanation",
+          "quote": "**87. 题目解析：**\n基础驾驶套餐的平均价格是多少欧元？\n关键信息定位：\n\n90\n\n---\n\n文中明确提到：“Le plus souvent, il est bien trop élevé pour la petite bourse des étudiants : 1 067 euros en moyenne pour le forfait de base.”（通常，这对学生的微薄预算来说太高了：基础套餐平均 **1067** 欧元。）\n\n选项分析：\n\n**A. 780 欧元**：文中提到里尔的基础套餐价格为 **780** 欧元，但这是特定地区的价格，并非全国平均。\n\n**B. 1 067 欧元**：与原文 “**1 067 euros en moyenne**” 完全对应，是全国范围内基础套餐的平均价格。\n\n**C. 1 387 欧元**：文中未提及该数值，属于干扰项。\n\n**D. 1 425 欧元**：这是巴黎地区的平均价格，而非全国平均，因此不符合题意。\n\n结论：\n\n正确答案为 **B. 1 067**，该选项准确对应原文中基础套餐的全国平均价格。\n\n## 88. 题目解析：\n\n如果考生想重考驾驶考试，他需要支付什么费用？\n\n关键信息定位：\n\n文中明确提到：“Ajoutez à cela les frais de réinscription en cas d'échec aux examens, de 60 à 130 euros environ pour le code et 60 à 190 euros environ pour la conduite...”（此外，考试失败时需支付补考注册费，交规考试约 **60** 至 **130** 欧元，驾驶考试约 **60** 至 **190** 欧元……）\n\n选项分析：\n\n选项分析：\n\n<table>\n<thead>\n<tr>\n<th>选项</th>\n<th>内容</th>\n<th>文本依据</th>\n<th>结论</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>A. 另一个基础"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q088",
+      "questionVersionId": "tfs4-2025-q088:v1",
+      "year": 2025,
+      "label": 88,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Si le candidat veut repasser les examens de conduite, il devra payer __________."
+        },
+        {
+          "source": "explanation",
+          "quote": "## 88. 题目解析：\n\n如果考生想重考驾驶考试，他需要支付什么费用？\n\n关键信息定位：\n\n文中明确提到：“Ajoutez à cela les frais de réinscription en cas d'échec aux examens, de 60 à 130 euros environ pour le code et 60 à 190 euros environ pour la conduite...”（此外，考试失败时需支付补考注册费，交规考试约 **60** 至 **130** 欧元，驾驶考试约 **60** 至 **190** 欧元……）\n\n选项分析：\n\n选项分析：\n\n<table>\n<thead>\n<tr>\n<th>选项</th>\n<th>内容</th>\n<th>文本依据</th>\n<th>结论</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>A. 另一个基础套餐 (un autre forfait de base)</td>\n<td><b>❌ 错误</b></td>\n<td>文本明确基础套餐 <b>已包含首次考试费</b> (\"comporte [...] les frais d'inscription aux deux examens\")，重考只需补考费</td>\n<td>❌</td>\n</tr>\n<tr>\n<td>B. 额外课时费 (des heures supplémentaires)</td>\n<td><b>❌ 错误</b></td>\n<td>额外课时针对 <b>培训不足</b>（如超过 20 小时），<b>与考试费无关</b></td>\n<td>❌</td>\n</tr>\n<tr>\n<td><b>C. 重新注册费</b> (les frais de réinscription)</td>\n<td>☑ <b>正确</b></td>\n<td>文本直接定义重考费用为 <b>\"frais de réinscription\"</b>（重新注册费）</td>\n<td>☑</td>\n</tr>\n<tr>\n<td>D. 交规理"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q089",
+      "questionVersionId": "tfs4-2025-q089:v1",
+      "year": 2025,
+      "label": 89,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Le « permis à un euro par jour » __________."
+        },
+        {
+          "source": "explanation",
+          "quote": "## 89. 题目解析\n\n**题目：** Le « *permis à un euro par jour* » （“每天 1 欧元驾照” 计划）的描述正确的是？\n选项：\nA. 是从国有银行获得的零利率贷款\nB. 是针对大学生的国家计划\nC. 按每天 1 欧元的基准偿还\nD. 对年轻人非常有利的套餐\n\n### 一、定位原文关键信息\n\n根据文本最后两段：\n**Le « permis à 1 euro par jour » est un programme national destiné aux 16-25 ans.**\n（“每天 1 欧元驾照” 是面向 16-25 岁人群的国家计划。）\n\n**Le remboursement du prêt s'effectue ainsi : un euro par jour pendant la durée nécessaire pour rembourser le montant exact de la formation.**\n（贷款偿还方式为：在偿还培训费用的必要期间内，每天支付 1 欧元。）\n\n### 二、逐项分析选项\n\n**A. 是从国有银行获得的零利率贷款**\n原文提到：“*un prêt à taux zéro auprès d'une banque ayant passé une convention avec l'Etat*”\n（与国家签订协议的银行提供的零利率贷款）。但并未明确要求银行是国有银行（“*nationalisée*”），选项扩大了范围，属于错误信息。\n\n**B. 是针对大学生的国家计划**\n原文明确指出计划面向 \"**16-25 岁人群**\"（“*destiné aux 16-25 ans*”），而不仅仅是 “大学生”（“*étudiants*”），选项缩小了范围，属于错误信息。\n\n**C. 按每天 1 欧元的基准偿还**\n与原文 “*Le remboursement du prêt s'effectue ainsi : un euro par jour*” （贷款按每天 1 欧元偿还）完全一致，属于"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q090",
+      "questionVersionId": "tfs4-2025-q090:v1",
+      "year": 2025,
+      "label": 90,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-exclusion",
+      "primaryName": "否定问法与信息排除",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Laquelle des affirmations suivantes ne correspond pas au texte ?"
+        },
+        {
+          "source": "explanation",
+          "quote": "## 90. 选项与文本对照：\n\n<table>\n  <thead>\n    <tr>\n      <th>选项</th>\n      <th>内容</th>\n      <th>文本依据</th>\n      <th>是否符合文本</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><b>A. 16-17 岁青年可在父母陪同下驾驶</b><br />(Jeunes 16-17 ans conduire</td>\n      <td>✔ 符合</td>\n      <td>\"De 16 à 18 ans, le jeune est autorisé à conduire <b>sous la surveillance de ses parents</b>\"</td>\n      <td>✔</td>\n    </tr>\n  </tbody>\n</table>\n\n92\n\n---\n\n<table>\n  <thead>\n    <tr>\n      <th>选项</th>\n      <th>内容</th>\n      <th>文本依据</th>\n      <th>是否符合文本</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>accompagnés)</td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n<tr>\n      <td><b>B. 学费对学生而言过高</b><br />(Prix trop élevé pour étudiants)</td>\n      <td>✔ 符合</td>\n      <td>\"Le prix [...] est bien <b>trop élevé pour la petite bourse des étudiants\"</b><br />(费用对学生钱包而言过高)</td>\n      <td>✔</td>\n    </tr>\n<tr>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q091",
+      "questionVersionId": "tfs4-2025-q091:v1",
+      "year": 2025,
+      "label": 91,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "D'où viennent les œuvres de Matisse exposées ?"
+        },
+        {
+          "source": "explanation",
+          "quote": "91.文本依据：\n\"**Les œuvres exposées lors de cette exposition proviennent du musée du Cateau-Cambrésis\"**\n（本次展览的展品 来自卡托-康布雷齐博物馆）\n\n93\n\n---\n\n选项分析：\n\ntd><b>B. 卡托-康布雷齐博物馆</b>\n\n<table>\n<thead>\n<tr>\n<th>选项</th>\n<th>内容</th>\n<th>是否符合文本</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>A. 上海 UCCA Edge 美术馆</td>\n<td>❌ 错误</td>\n<td>仅为展览场地之一（文本提及其为第二站）</td>\n</tr>\n<tr>\n<td>✔ 正确</td>\n<td>文本明确说明作品来源</td>\n</tr>\n<tr>\n<td>C. 北京 UCCA 当代艺术中心</td>\n<td>❌ 错误</td>\n<td>仅为展览首站场地</td>\n</tr>\n<tr>\n<td>D. Sophie Le Flamanc 的私人收藏</td>\n<td>❌ 错误</td>\n<td>Sophie 是博物馆副馆长，文本未提及私人收藏</td>\n</tr>\n</tbody>\n</table>\n\n补充证据：\n博物馆地位：\n**\"le musée du Cateau-Cambrésis, le seul musée créé par Matisse\"**\n（卡托-康布雷齐博物馆是 马蒂斯亲自创建的唯一博物馆）\n藏品权威性：\n**\"abrite la collection la plus importante au monde d'œuvres de Matisse\"**\n（拥有 全球最重要的马蒂斯作品收藏）\n结论：\n正确答案：**B（卡托-康布雷齐博物馆）**\n其他选项均混淆了 作品来源 与 展览场地。\n\n**92.正确答案：C（是马蒂斯创建的唯一博物馆）**\n文本依据：\n**\"le musée du Cateau-Cambrésis, le seul mus"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q092",
+      "questionVersionId": "tfs4-2025-q092:v1",
+      "year": 2025,
+      "label": 92,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Le musée du Cateau-Cambrésis ___________."
+        },
+        {
+          "source": "explanation",
+          "quote": "**92.正确答案：C（是马蒂斯创建的唯一博物馆）**\n文本依据：\n**\"le musée du Cateau-Cambrésis, le seul musée créé par Matisse\"**\n（卡托-康布雷齐博物馆是 马蒂斯亲自创建的唯一博物馆）\n错误选项排除：\n\n<table>\n<thead>\n<tr>\n<th>选项</th>\n<th>错误原因</th>\n<th>文本反证</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><b>A. 仅收藏马蒂斯的作品</b><br />(ne collectionne que les œuvres de Matisse)</td>\n<td>❌ 过度解读</td>\n<td>文本称其拥有 \"全球最重要的马蒂斯藏品\"（collection la plus importante），但未排除其他艺术家作品</td>\n</tr>\n<tr>\n<td><b>B. 收藏马蒂斯的全部作品</b><br />(collectionne toutes les œuvres)</td>\n<td>❌ 无依据</td>\n<td>\"最重要\" ≠ \"完整\"；全球其他博物馆（如尼斯马蒂斯博物馆）也藏有其作品</td>\n</tr>\n<tr>\n<td><b>D. 位于法国南部</b><br />(se trouve dans le sud)</td>\n<td>❌ 直接矛盾</td>\n<td>文本开篇明确 \"**(nord de France)**\"（法国北部）</td>\n</tr>\n</tbody>\n</table>\n\n选项 **C** 的补充证据：\n历史事实：\n**马蒂斯 1952 年亲自在家乡创立该博物馆，并捐赠大量个人作品（文本强调 \"créé par **Matisse**\"）。**\n唯一性：\n文本用 \"**le seul**\"（唯一的）强调其特殊地位，区别于其他收藏马蒂斯作品的机构（如巴黎蓬皮杜中心）。\n结论：\n\n94\n\n---\n\nC 选项完全符合文本，其他选项均被文本内容或事实否定。\n\n**93. 正确答案：B（健康状况不佳"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q093",
+      "questionVersionId": "tfs4-2025-q093:v1",
+      "year": 2025,
+      "label": 93,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Dans quelle circonstance Matisse a-t-il découvert la technique des papiers découpés ?"
+        },
+        {
+          "source": "explanation",
+          "quote": "**93. 正确答案：B（健康状况不佳时）**\n\n文本依据：\n**\"Sans oublier les papiers découpés, dont l'artiste a découvert la technique quand il était alité et très malade.\"**\n（不要忘记剪纸艺术——艺术家在卧床且病重时发现了这项技术。）\n\n错误选项分析：\n\n<table>\n<thead>\n<tr>\n<th>选项</th>\n<th>错误原因</th>\n<th>关键矛盾点</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><b>A. 开始实践野兽派艺术时</b></td>\n<td><s>×</s> 时间线错误</td>\n<td>野兽派创立于 1905 年左右（马蒂斯 36 岁），而剪纸技术是 1941 年（马蒂斯 71 岁）病中发现的</td>\n</tr>\n<tr>\n<td><b>C. 当学徒期间</b></td>\n<td><s>×</s> 时间线错误</td>\n<td>学徒期是 19 世纪末（马蒂斯 20 余岁），比剪纸技术早 40 余年</td>\n</tr>\n<tr>\n<td><b>D. 当他去睡觉时</b></td>\n<td><s>×</s> 词义曲解</td>\n<td>\"alité\"（因病卧床）≠ \"aller au lit\"（日常就寝）；文本强调 \"très malade\"（病重）</td>\n</tr>\n</tbody>\n</table>\n\n历史背景补充：\n**1941 年：71 岁的马蒂斯因肠癌手术并发症长期卧床，行动受限。**\n创作突破：无法站立绘画的他，转向剪纸（*gouaches découpées*）作为新艺术形式，代表作包括《爵士》系列。\n\n结论：\n**B 选项完全匹配文本，其他选项均被文本细节或历史事实否定。**\n\n**94. 正确答案：A（是马蒂斯晚年的杰作）**\n\n文本依据：\n**\"sa participation à la conception de son chef-d' œuvre final,"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q094",
+      "questionVersionId": "tfs4-2025-q094:v1",
+      "year": 2025,
+      "label": 94,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "La Chapelle du Rosaire de Vence ___________."
+        },
+        {
+          "source": "explanation",
+          "quote": "**94. 正确答案：A（是马蒂斯晚年的杰作）**\n\n文本依据：\n**\"sa participation à la conception de son chef-d' œuvre final, la Chapelle du Rosaire de Vence\"**\n（他参与设计了自己的最终杰作——文斯玫瑰园小教堂）\n\n错误选项分析：\n\n<table>\n<thead>\n<tr>\n<th>选项</th>\n<th>错误原因</th>\n<th>文本反证</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><b>B. 为致敬马蒂斯而设计</b><br />(conçue pour rendre hommage)</td>\n<td><s>×</s> 无依据</td>\n<td>文本仅说明马蒂斯 <b>亲自参与设计</b>（\"sa participation\"），未提及致敬目的</td>\n</tr>\n<tr>\n<td><b>C. 被\"马蒂斯教堂\"取代</b><br />(remplacée par la Chapelle Matisse)</td>\n<td><s>×</s> 偷换概念</td>\n<td>文本明确 \"dite également Chapelle Matisse\"（亦称马蒂斯教堂）→ 是同一建筑的别称，非新建筑取代</td>\n</tr>\n<tr>\n<td><b>D. 归马蒂斯家族所有</b><br />(propriété de Matisse)</td>\n<td><s>×</s> 未提及</td>\n<td>文本聚焦艺术价值，未涉及所有权归属</td>\n</tr>\n</tbody>\n</table>\n\n核心细节：\n**\"chef-d' œuvre final\"**（最终杰作）直接对应 晚年创作：\n该教堂设计于 **1947-1951 年**（马蒂斯 76-82 岁），是其艺术生涯封笔之作。\n\n名称澄清：\n\n95\n\n---\n\n\"**Chapelle Matisse**\"（马蒂斯教堂）是文斯玫瑰园教堂的 非官方别称，非独立建筑（如文本中 \"dite ég"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q095",
+      "questionVersionId": "tfs4-2025-q095:v1",
+      "year": 2025,
+      "label": 95,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-exclusion",
+      "primaryName": "否定问法与信息排除",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "À propos de la section spéciale de l'exposition, laquelle des affirmations suivantes correspond au texte ?"
+        },
+        {
+          "source": "explanation",
+          "quote": "95.\n\n<table>\n<thead>\n<tr>\n<th>选项</th>\n<th>错误原因</th>\n<th>文本反证</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><b>A.</b> 追溯马蒂斯的艺术生涯 (retrace la carrière)</td>\n<td><b>✕</b> 范围错误</td>\n<td>整个展览（非特别展区）展示其生涯（\"vision complète de la carrière\"）</td>\n</tr>\n<tr>\n<td><b>B.</b> 在 <b>20</b> 世纪上半叶被知晓 (s'est fait connaître)</td>\n<td><b>✕</b> 主语混淆</td>\n<td>\"s'est fait connaître\" 的主语是 <b>野兽派作品</b>（非展区本身）</td>\n</tr>\n<tr>\n<td><b>D.</b> 专注 1920-1940 年代的野兽派艺术家 (consacrée aux artistes)</td>\n<td><b>✕</b> 对象错误</td>\n<td>展区探讨 野兽派对中国的影响，时间范围指 <b>中国现代绘画兴起期</b>（非野兽派活动期）</td>\n</tr>\n</tbody>\n</table>\n\n**选项 C 的精准性：**\n**标题直接对应：**\n《Matisse, le fauvisme et la peinture chinoise moderne》 → 明确连接野兽派与中国现代绘画\n动词\"examiner\"（探讨）的核心内容：\n传播过程（s'est fait connaître en Chine）\n艺术影响（influence sur le mouvement）\n**结论：**\n**C** 选项完全匹配文本，其他选项均曲解展区主题、时间范围或主语对象。\n\n# 《伏尔泰计划》\n\n从小学到职业生涯，跨越高等教育与个人活动，书写无处不在。无论拼写错误源于学生时代的知识漏洞，还是因逐渐遗忘复杂语法规则所致，其后果可能令人苦恼：当众书写时缺乏自信、在合作"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q096",
+      "questionVersionId": "tfs4-2025-q096:v1",
+      "year": 2025,
+      "label": 96,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Selon le texte, les fautes d'orthographe ___________."
+        },
+        {
+          "source": "explanation",
+          "quote": "96.题目解析：\n\n96\n\n---\n\n根据文章，拼写错误会产生什么影响？\n关键信息定位：\n文中第一段明确提到拼写错误的后果：「manque d'assurance lorsqu'il faut écrire en public, **perte de crédibilité auprès de ses partenaires, candidature rejetée dans la vie professionnelle...**」\n（当众书写时缺乏自信、在合作伙伴面前失去可信度、职业申请被拒……）\n选项分析：\n**A. peuvent exercer une influence négative sur l'emploi**（可能对就业产生负面影响）\n正确。原文中「candidature rejetée dans la vie professionnelle」（职业申请被拒）直接表明拼写错误会对就业造成消极影响，与选项表述一致。\n**B. sont inexcusables dans la vie professionnelle**（在职业生涯中不可原谅）\n错误。文中仅说明拼写错误会导致求职被拒或失去可信度，但未提及“不可原谅”这一主观判断，属于过度推断。\n**C. sont à l'origine de la baisse du niveau scolaire**（是学校水平下降的根源）\n错误。原文提到拼写错误可能源于“学生时代的知识漏洞”（「les trous datent de la scolarité」），但并未说拼写错误是学校水平下降的原因，逻辑颠倒。\n**D. sont oubliées progressivement avec le temps**（随时间逐渐被遗忘）\n错误。原文指出拼写错误可能因“逐渐遗忘复杂语法规则”（「oubli progressif des règles grammaticales」）而产生，而非“错误本身被遗忘”，属于偷换概念。\n结论：\n正确答案为 **A**，该选项准确概括了原文中拼写错误对职业发展（就业）的负面影响。其他选"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q097",
+      "questionVersionId": "tfs4-2025-q097:v1",
+      "year": 2025,
+      "label": 97,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Le Projet Voltaire ___________."
+        },
+        {
+          "source": "explanation",
+          "quote": "97. 题目解析：\n伏尔泰计划的描述正确的是？\n关键信息定位：\n文中第二段明确提到：「Le Projet Voltaire proposec à tous les intéressés un parcours totalement **individualisé.**」（伏尔泰计划为所有感兴趣者提供完全个性化的学习路径。）\n此外，第一段提及计划旨在解决拼写与表达问题，第二段强调其目标是「**rendant l'expression et l'orthographe accessibles à tous**」（让所有人掌握表达与拼写）。\n选项分析：\n**A. a pour but de renouveler les manuels scolaires**（旨在更新学校教材）\n错误。文中明确反对「le retour aux manuels scolaires」（回归学校手册），因此更新教材并非计划目标。\n**B. crée un outil gratuit pour corriger les fautes d'orthographe**（创建免费工具纠正拼写错误）\n错误。文中未提及工具“免费”（*gratuit*），仅说明工具旨在让表达与拼写更易掌握，属于无中生有。\n**C. cherche à remplacer les cours de grammaire à l'école par ses cours individualisés**（试图用个性化课程取代学校语法课）\n错误。文中仅强调避免“单调的语法课程”（*cours monotones de grammaire*），但未提及“取代学校课程”，属于过度推断。\n**D. propose une formation individualisée à la maîtrise de l'orthographe et de l'expression**（提供个性化培训以掌握拼写与表达）\n正确。与原文“个性化学习路径”（*parcours individualisé*）及“掌握表达与拼写”（*maîtrise de l'or"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q098",
+      "questionVersionId": "tfs4-2025-q098:v1",
+      "year": 2025,
+      "label": 98,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Que signifie « ludique » dans le texte ?"
+        },
+        {
+          "source": "explanation",
+          "quote": "**98. 题目解析：**\n文中“ludique”是什么意思？\n关键信息定位：\n文中第二段提到伏尔泰计划的两大原则：**「Deux mots d'ordre : ludique et efficace ! Le but est d'éviter le retour aux manuels scolaires et aux cours monotones de grammar.**」（两大关键词：趣味性与高效性！旨在避免回归刻板的学校手册和单调的语法课程。）\n词汇解析与选项对照：\n“ludique”的词源与含义：\n源自拉丁语“ludus”（游戏），法语中意为“游戏的、趣味性的、以娱乐为目的的”，强调通过轻松有趣的方式实现学习目标。\n选项分析：\n**A. dur（困难的）**：与“避免单调课程”的语境矛盾，排除。\n**B. visuel（视觉的）**：文中未提及视觉元素，属于无关干扰项。\n**C. répétitif（重复的）**：与“避免单调”的目标相悖，重复学习正是计划试图摒弃的模式，排除。\n**D. récréatif（娱乐性的、有趣的）**：与“ludique”含义完全一致，均强调学习过程的趣味性，符合文中“对抗单调课程”的语境。\n结论：\n正确答案为 **D. récréatif**，该选项准确对应“ludique”在文中“趣味性、娱乐性”的含义。\n\n**99. 题目解析：**\n伏尔泰计划成为领域第一的原因是？\n关键信息定位：\n文中第三段明确指出：**「Son savoir-faire et son approche innovante font du Projet Voltaire le N<sup>°</sup> 1 de la remise à niveau en expression et en orthographe...」**（其专业知识与创新方法使伏尔泰计划成为表达与拼写能力提升领域的佼佼者……）\n选项分析：\n**A. sa large base d'utilisateurs（庞大的用户基础）**\n错误。用户基数（超 700 万）是计划成功的表现，而"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q099",
+      "questionVersionId": "tfs4-2025-q099:v1",
+      "year": 2025,
+      "label": 99,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Le Projet Voltaire est devenu le N°1 de son domaine grâce à ___________."
+        },
+        {
+          "source": "explanation",
+          "quote": "**99. 题目解析：**\n伏尔泰计划成为领域第一的原因是？\n关键信息定位：\n文中第三段明确指出：**「Son savoir-faire et son approche innovante font du Projet Voltaire le N<sup>°</sup> 1 de la remise à niveau en expression et en orthographe...」**（其专业知识与创新方法使伏尔泰计划成为表达与拼写能力提升领域的佼佼者……）\n选项分析：\n**A. sa large base d'utilisateurs（庞大的用户基础）**\n错误。用户基数（超 700 万）是计划成功的表现，而非原因，属于因果倒置。\n**B. la participation active des entreprises partenaires（合作企业的积极参与）**\n错误。合作企业（2200 家）是计划的资源支持，但原文未提及“积极参与”是成为行业第一的核心原因，属于次要因素。\n**C. la collaboration des plus grandes institutions（顶尖机构的合作）**\n错误。文中提到服务被顶尖机构认可（「reconnue par les plus grandes institutions」），但这是结果而非原因，逻辑不符。\n**D. son expertise et sa méthode innovante（专业知识与创新方法）**\n正确。与原文“savoir-faire（专业技能）”和**“approche innovante（创新方法）”**完全对应，是计划成为行业第一的直接原因。\n\n98\n\n---\n\n结论：\n正确答案为 **D**，该选项准确对应原文中关于伏尔泰计划成功因素的表述。其他选项均存在因果关系混淆或逻辑偏差。\n\n## 100. 题目解析：\n以下哪项表述与原文不符？\n选项逐一对照原文：\n\n**A.** 2200 家企业与伏尔泰计划有合作关系。\n原文依据：第三段「**2 200 entreprises parte"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2025-q100",
+      "questionVersionId": "tfs4-2025-q100:v1",
+      "year": 2025,
+      "label": 100,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-exclusion",
+      "primaryName": "否定问法与信息排除",
+      "status": "candidate",
+      "basis": "三源校对通过后，依据答案解析的考点说明形成初标；仍需与现有目录叶逐题竞争复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Laquelle des affirmations suivantes ne correspond pas au texte ?"
+        },
+        {
+          "source": "explanation",
+          "quote": "## 100. 题目解析：\n以下哪项表述与原文不符？\n选项逐一对照原文：\n\n**A.** 2200 家企业与伏尔泰计划有合作关系。\n原文依据：第三段「**2 200 entreprises partenaires**」（2200 家合作企业）。\n结论：与原文一致，正确，排除。\n\n**B.** 残障使命于 2013 年成立。\n原文依据：第四段「Le Projet Voltaire a ainsi engagé depuis 2013 une Mission Handicap」（伏尔泰计划自 2013 年起启动残障使命）。\n结论：与原文一致，正确，排除。\n\n**C.** 残障使命促进残障人士进入劳动力市场。\n原文依据：第四段提到残障使命的目标是「**développer des fonctionnalités destinées aux personnes sourdes, non voyantes...**」（为听障、视障等人群开发功能），并未提及“促进就业”或“劳动力市场”。\n结论：原文未涉及该内容，错误，当选。\n\n**D.** 语法规则的复杂性可能导致拼写错误。\n原文依据：第一段「les trous datent de la scolarité ou d’ un oubli progressif des règles grammaticales parfois complexes, les conséquences des fautes d’ orthographe peuvent être douloureuses」（拼写错误的根源可能是学习阶段的漏洞或对复杂语法规则的逐渐遗忘）。\n结论：原文表明“复杂语法规则的遗忘”是拼写错误的原因之一，选项中“语法规则的复杂性”是对该原因的合理概括，正确，排除。\n\n最终答案：C\n\n## 作文\n\n### Héros\n（有一年作文是跳水救人，类似）\n\nLe lundi matin, il faisait beau. Leo a pris le métro pour aller à l'école comme d'habitude."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "choiceQuestions": 80,
+    "candidateAnnotated": 73,
+    "pending": 7,
+    "hearingExcluded": 20,
+    "verbExplanationMissing": 20,
+    "answersAdopted": false,
+    "classificationApproved": false
+  }
+}

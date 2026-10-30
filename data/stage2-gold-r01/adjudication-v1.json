@@ -1,0 +1,865 @@
+{
+  "version": 1,
+  "createdAt": "2026-10-30T02:32:24.701Z",
+  "executor": "Codex root; unblinded MD adjudication after independent reviews",
+  "comparisonSha256": "bc993d8485735726952d8863c72ac58f9e0acca2352d09a23335117202255b00",
+  "reviewHashes": [
+    {
+      "year": 2012,
+      "sha256": "715745a28ee4a39066bb59fb9d1d28be9f20b73a9575392b6b75c3ca9bb0ca53"
+    },
+    {
+      "year": 2013,
+      "sha256": "ed08cf488fa2b166e21668fded24af348669233eb1e4ebd88022d1aa36b651a8"
+    },
+    {
+      "year": 2023,
+      "sha256": "dfebd0e8bcb30854d95f6182be38028170141584761badb23ea3a80e49df1a84"
+    }
+  ],
+  "contentInputs": [
+    {
+      "year": 2012,
+      "sha256": "912908a43300f93016c1f29296528e49f4632bef19f162667a96235ca78de759"
+    },
+    {
+      "year": 2013,
+      "sha256": "3f10c4378bcbba2ef5dd6de7bdc26043ed4ac734b86a02d6249d8f63ad61c70d"
+    },
+    {
+      "year": 2023,
+      "sha256": "c4ca0f846c142d86f65cdc3077e33a5dc1899154a37174507cefb14215d39a0d"
+    }
+  ],
+  "summary": {
+    "disputes": 17,
+    "resolved": 12,
+    "pending": 5
+  },
+  "records": [
+    {
+      "questionId": "tfs4-2012-q076",
+      "questionVersionId": "tfs4-2012-q076:v2",
+      "previous": "obj-degree-pour",
+      "independent": null,
+      "status": "resolved",
+      "primaryId": "obj-degree-pour",
+      "rationale": "保留程度结果归类。trop petit与pour que共同表达程度妨碍结果；不是目的从句。现定义未明确从句形式，需边界澄清，不因省略que字样另造重复节点。",
+      "evidence": {
+        "question": [
+          {
+            "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+            "page": 10,
+            "start": 0,
+            "end": 118,
+            "quote": "76. Il est trop petit ______ on le laisse voyager tout seul.\nA. de sorte qu' B. pour qu' C. si bien qu' D. de sorte à\n"
+          }
+        ],
+        "material": [],
+        "references": [
+          {
+            "id": "tfs4-2012-ref-63",
+            "kind": "answer",
+            "originalLabel": "76",
+            "text": "76: B",
+            "evidence": [
+              {
+                "documentId": "tfs4-2012-answers-24e43da16ed6",
+                "page": 3,
+                "start": 1910,
+                "end": 1915,
+                "quote": "76: B"
+              }
+            ]
+          }
+        ]
+      },
+      "answerAdopted": false,
+      "classificationPublished": false
+    },
+    {
+      "questionId": "tfs4-2012-q090",
+      "questionVersionId": "tfs4-2012-q090:v2",
+      "previous": "obj-r-inference",
+      "independent": "obj-r-time",
+      "status": "resolved",
+      "primaryId": "obj-r-time",
+      "rationale": "改为时间关系定位：1981年的重逢比去世早两年，得1983；专门时间叶优先于一般跨句推理。",
+      "evidence": {
+        "question": [
+          {
+            "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+            "page": 13,
+            "start": 368,
+            "end": 503,
+            "quote": "\n90. Quand est-ce que Hergé nous a quittés pour toujours ?\n\nA. En 1979.\nB. En 1981.\nC. En 1983.\nD. On ne l'a pas précisé dans ce texte."
+          }
+        ],
+        "material": [
+          {
+            "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+            "page": 12,
+            "start": 197,
+            "end": 1657,
+            "quote": "## **2. Hergé et Tchang**\n\nLa relation avec Tchang ne s'arrête pas à l'ouvrage de *Tintin au Tibet*. En effet, Hergé cherchait dans la vie réelle Tchang Tchong-Jen avec presque autant d'obstination que Tintin. Tchang Tchong-Jen et Hergé se sont rencontrés alors que ce dernier écrivait *Le Lotus Bleu*. Cet étudiant chinois était rentré en Chine à la fin des années trente et ils ont perdu le contact peu après.\n\nUn jour de 1976, dans un restaurant, Hergé comme à son habitude, ne manqua pas dès qu'il était en relation avec des Chinois, de leur demander s'ils connaissaient un certain Tchang Tchong-Jen. La réponse fut cette fois positive, Tchang vivait à Shanghai en tant que directeur d'une académie de sculpture.\n\nLes deux amis reprirent contact et suite à un échange de lettres, Hergé envoya *Le Lotus bleu* en couleur et *Tintin au Tibet*. C'est alors que Gérard Valet, journaliste français, co-auteur du film *Moï Tintin*, eut l'idée et entreprit l'organisation du retour de Tchang en Belgique. Une rencontre qui à l'origine devait se produire au cinquantième anniversaire de Tintin, eut finalement lieu en 1981. Les retrouvailles furent chargées d'émotions, Tchang fut accueilli à la manière d'un chef d'État à l'aéroport de Zaventem. En effet, Hergé n'était plus ce jeune dessinateur que Tchang avait connu mais une célébrité mondiale. Cette rencontre précéda de deux ans la mort du créateur et constitua à n'en pas douter une de ses dernières joies.\n"
+          }
+        ],
+        "references": [
+          {
+            "id": "tfs4-2012-ref-97",
+            "kind": "answer",
+            "originalLabel": "90",
+            "text": "90: C",
+            "evidence": [
+              {
+                "documentId": "tfs4-2012-answers-24e43da16ed6",
+                "page": 3,
+                "start": 2816,
+                "end": 2821,
+                "quote": "90: C"
+              }
+            ]
+          }
+        ]
+      },
+      "answerAdopted": false,
+      "classificationPublished": false
+    },
+    {
+      "questionId": "tfs4-2012-q093",
+      "questionVersionId": "tfs4-2012-q093:v2",
+      "previous": "obj-r-detail",
+      "independent": "obj-r-number",
+      "status": "resolved",
+      "primaryId": "obj-r-number",
+      "rationale": "改为数量范围定位：80岁阈值限定日本和法国，不能把后句70岁国家混入。",
+      "evidence": {
+        "question": [
+          {
+            "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+            "page": 14,
+            "start": 340,
+            "end": 539,
+            "quote": "\n93. En 2005, l'espérance de vie dépasse 80 ans _______.\n\nA. seulement au Japon\nB. seulement en France\nC. au Japon et en France\nD. au Japon, en France, au Chili, en Jamaïque, au Liban et à Sri Lanka\n"
+          }
+        ],
+        "material": [
+          {
+            "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+            "page": 13,
+            "start": 505,
+            "end": 2281,
+            "quote": "## **3. Vieillissement et qualité de la vie**\n\nLe vieillissement est un phénomène planétaire. D'ici 2050, environ 80% des personnes âgées vivront dans les pays en développement. Le vieillissement de la population coïncide avec une urbanisation grandissante : en 2007, plus de la moitié de la population mondiale habite en ville et cette proportion devrait dépasser 60% d'ici 2030. Il reflète une amélioration de la santé dans le monde mais s'accompagne aussi de difficultés particulières auxquelles tous les pays devront faire face au XXI<sup>e</sup> siècle. L'espérance de vie, qui, en 2005, dépassait déjà 80 ans au Japon ou en France, augmente également dans les pays en développement. Par exemple, un enfant qui naît aujourd'hui au Chili, en Jamaïque, au Liban, à Sri Lanka peut espérer vivre plus de 70 ans.\n\nDe fortes inégalités dans le domaine de la santé persistent dans le monde, comme le montre clairement l'existence de grands écarts d'espérance de vie à la naissance. Ainsi, alors que le Japon détient, avec 82,2 ans, le record mondial d'espérance de vie, dans plusieurs pays d'Afrique l'espérance de vie dépasse à peine 40 ans.\n\nLes dépenses de santé augmentent avec l'âge mais sont concentrées pendant les deux dernières années de la vie, quel que soit l'âge de la personne. À mesure que les gens vieillissent, il est important de faire en sorte que ces années supplémentaires soient vécues en bonne santé de sorte que le coût des soins de santé reste facile à gérer. Les personnes âgées en bonne santé représentent aussi une ressource pour leur famille, leur entourage et l'économie. Il est rarement trop tard pour abandonner de mauvaises habitudes : par exemple, si l'on arrête de fumer entre 60 ans et 75 ans, le risque de décès prématuré baisse de 50%.\n\n-35-"
+          }
+        ],
+        "references": [
+          {
+            "id": "tfs4-2012-ref-90",
+            "kind": "answer",
+            "originalLabel": "93",
+            "text": "93: C",
+            "evidence": [
+              {
+                "documentId": "tfs4-2012-answers-24e43da16ed6",
+                "page": 3,
+                "start": 2657,
+                "end": 2662,
+                "quote": "93: C"
+              }
+            ]
+          }
+        ]
+      },
+      "answerAdopted": false,
+      "classificationPublished": false
+    },
+    {
+      "questionId": "tfs4-2012-q096",
+      "questionVersionId": "tfs4-2012-q096:v2",
+      "previous": "obj-r-context",
+      "independent": "obj-r-exclusion",
+      "status": "resolved",
+      "primaryId": "obj-r-context",
+      "rationale": "保留语境词义。虽有否定问法，决定条件是e-book、numérique、électronique、virtuel的同义身份与papier的区别；不能仅因否定题干压过词义操作。",
+      "evidence": {
+        "question": [
+          {
+            "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+            "page": 15,
+            "start": 1593,
+            "end": 1763,
+            "quote": "\n96. Laquelle des appellations ci-dessous n'est pas l'équivalent de l'e-book ?\n\nA. Le livre électronique.\nB. Le livre numérique.\nC. Le livre virtuel.\nD. Le livre papier.\n"
+          }
+        ],
+        "material": [
+          {
+            "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+            "page": 14,
+            "start": 1010,
+            "end": 1524,
+            "quote": "## **4. Le livre papier à l'ère du numérique**\n\nIl y a un peu moins de 10 ans, arrivait en grande pompe le « e-book » – qu'on appelle maintenant livre numérique ou électronique. Si vous vous souvenez, les éditeurs s'étaient alors demandé si le livre virtuel n'allait pas peu à peu précipiter la baisse du livre papier. « Les livres seront-ils piratés ? Les prix vont-ils chuter ? Des métiers vont-ils disparaître ? »\n\nReculons un peu dans le temps … Quand la radio s'est fait connaître dans les années vingt,\n\n-36-"
+          },
+          {
+            "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+            "page": 15,
+            "start": 0,
+            "end": 1593,
+            "quote": "on a prédit la mort des journaux. Quand la télé a fait son entrée dans les foyers dans les années soixante, on a cru à la mort de la radio et des journaux. Dès l'entrée fulgurante d'Internet, on a annoncé la mort des trois ! Pourtant, on constate aujourd'hui que ces médias d'information font bon ménage et se partagent les faveurs du public. Et l'avenir du livre papier dans tout ça ?\n\nLe plaisir de toucher un bouquin, l'odeur du papier, de l'encre, et son aspect pratique, constituent autant de raisons pour lesquelles le livre électronique n'a pas réussi à remplacer le livre papier dans le cœur des amoureux du livre. Par contre, ce n'est pas parce que la version papier conserve tout son charme que le livre électronique n'a pas d'avenir. Les qualités technologiques du livre électronique ont de quoi séduire l'amateur de lecture : sa mémoire permet de constituer de véritables bibliothèques portatives ; il facilite la prise et l'organisation des notes, la recherche d'occurrences de mots ou d'expressions, la consultation d'un dictionnaire interne, l'impression d'extraits et de pages choisis. Le texte peut ainsi être traité avec beaucoup de facilité à la maison ou au bureau mais aussi en déplacement ou dans les transports.\n\nAutres avantages : les éditeurs en ligne n'ont pas de stocks de livres imprimés, de gestion des retours et d'éventuelles opérations de distribution à gérer. En plus d'éviter que plus d'arbres soient coupés pour la fabrication du papier, on économise sur l'encre, sur le coût de l'essence des camions transportant les caisses de livres, et sur le personnel.\n"
+          }
+        ],
+        "references": [
+          {
+            "id": "tfs4-2012-ref-83",
+            "kind": "answer",
+            "originalLabel": "96",
+            "text": "96: D",
+            "evidence": [
+              {
+                "documentId": "tfs4-2012-answers-24e43da16ed6",
+                "page": 3,
+                "start": 2498,
+                "end": 2503,
+                "quote": "96: D"
+              }
+            ]
+          }
+        ]
+      },
+      "answerAdopted": false,
+      "classificationPublished": false
+    },
+    {
+      "questionId": "tfs4-2012-verb-9",
+      "questionVersionId": "tfs4-2012-verb-9:v2",
+      "previous": "obj-imparfait-state",
+      "independent": "obj-imparfait-background",
+      "status": "resolved",
+      "primaryId": "obj-imparfait-background",
+      "rationale": "改为背景描写：空气清新与溪水声音为森林事件提供环境；était参考与该时态一致。",
+      "evidence": {
+        "question": [
+          {
+            "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+            "page": 10,
+            "start": 1124,
+            "end": 1130,
+            "quote": "(être)"
+          }
+        ],
+        "material": [
+          {
+            "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+            "page": 10,
+            "start": 539,
+            "end": 1858,
+            "quote": "**PARTIE V : Compétence grammaticale (II) (10 points)**\n\n*Mettez les verbes entre parenthèses au temps et au mode qui conviennent.*\n\n## Une aventure inoubliable\n\n« Papa, (raconter) <u>-moi</u> ton aventure inoubliable, s'il te plaît ».\n\n« Bon. Je vais réfléchir. L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) ______ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, <u>(parvenir)</u> <u>au premier étage</u>, j'ai poussé la porte d'une salle. Une jeune fille (porter) <u>une robe blanche</u>, <u>(lire)</u> <u>un roman attentivement</u> sur une chaise longue. La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres sans frapper à la porte, Papa »\n\n« Chéri, c'est ainsi que ta maman et moi, nous nous sommes rencontrés ! »\n\n"
+          }
+        ],
+        "references": [
+          {
+            "id": "tfs4-2012-mdreview-verb-ref-9",
+            "kind": "answer",
+            "originalLabel": "Part V · 9",
+            "text": "*être* <u>était</u>",
+            "evidence": [
+              {
+                "documentId": "tfs4-2012-answers-24e43da16ed6",
+                "page": 1,
+                "start": 1553,
+                "end": 1572,
+                "quote": "*être* <u>était</u>"
+              }
+            ]
+          }
+        ]
+      },
+      "answerAdopted": false,
+      "classificationPublished": false
+    },
+    {
+      "questionId": "tfs4-2013-q091",
+      "questionVersionId": "tfs4-2013-q091:v2",
+      "previous": "obj-r-detail",
+      "independent": "obj-r-number",
+      "status": "resolved",
+      "primaryId": "obj-r-number",
+      "rationale": "改为数量比较：36500与12500提供性别人数比较；年龄段比例不可代替人数。",
+      "evidence": {
+        "question": [
+          {
+            "documentId": "tfs4-2013-paper-9f40705cac10",
+            "page": 15,
+            "start": 0,
+            "end": 136,
+            "quote": "91. L'alcool provoque plus de morts chez _______.\nA. les hommes\nB. les femmes\nC. les personnes d'entre deux âges\nD. les personnes âgées\n"
+          }
+        ],
+        "material": [
+          {
+            "documentId": "tfs4-2013-paper-9f40705cac10",
+            "page": 14,
+            "start": 648,
+            "end": 2146,
+            "quote": "# 3. **Les Français boivent beaucoup trop !**\n\nLa consommation d'alcool en France est responsable de 49 000 morts en 2009 : 36 500 décès chez l'homme, ce qui représente 13% de la mortalité totale masculine et de 12 500 décès chez la femme, soit 5% de la mortalité totale.\n\nL'alcool est une cause importante de mortalité prématurée, puisqu'il est responsable de 22% (près d'un sur quatre) des décès entre 15 et 34 ans, 18% (près d'un sur cinq) des décès entre 35 et 64 ans et 7% des décès à partir de 65 ans.\n\nLes décès attribuables à l'alcool sont surtout des cancers (15 000 décès) et des maladies cardio-vasculaires (12 000 décès), s'y ajoutent notamment 8 000 morts dues à des maladies digestives et autant dues à des accidents et suicides. Le reste relève d'autres maladies dont des troubles mentaux liés à l'alcool.\n\nLa consommation d'alcool a diminué de 50% ces cinquante dernières années. Elle était de 33 g d'alcool par jour et par adulte en 1994, de 30 g en 2002-2003, de 27 en 2009 et a peu bougé depuis (26,6 en 2010, 27,3 en 2011).\n\nLa proportion des décès attribuables à l'alcool parmi les hommes en France (13%) est ainsi bien supérieure à celle observée dans d'autres pays comme par exemple la Suisse (5%), l'Italie (3%) et le Danemark (1%). Il en va de même pour la mortalité féminine due à l'alcool qui est plus élevée en France qu'en Italie (2%) ou au Danemark (1%).\n\nTous estiment nécessaire de poursuivre les efforts pour réduire encore la consommation d'alcool en France.\n\n-51-"
+          }
+        ],
+        "references": [
+          {
+            "id": "tfs4-2013-ref-90",
+            "kind": "answer",
+            "originalLabel": "91",
+            "text": "<td>91</td>\n    <td>A</td>",
+            "evidence": [
+              {
+                "documentId": "tfs4-2013-answers-dd3370403f9e",
+                "page": 3,
+                "start": 5033,
+                "end": 5059,
+                "quote": "<td>91</td>\n    <td>A</td>"
+              }
+            ]
+          }
+        ]
+      },
+      "answerAdopted": false,
+      "classificationPublished": false
+    },
+    {
+      "questionId": "tfs4-2013-q092",
+      "questionVersionId": "tfs4-2013-q092:v2",
+      "previous": "obj-r-detail",
+      "independent": "obj-r-number",
+      "status": "resolved",
+      "primaryId": "obj-r-number",
+      "rationale": "改为数量比较：15000高于12000和8000，疾病名称定位本身不足以选择最高项。",
+      "evidence": {
+        "question": [
+          {
+            "documentId": "tfs4-2013-paper-9f40705cac10",
+            "page": 15,
+            "start": 136,
+            "end": 304,
+            "quote": "\n92. Les maladies les plus mortelles dues à l'alcool sont _______.\nA. les cancers\nB. les maladies cardio-vasculaires\nC. les maladies digestives\nD. les troubles mentaux\n"
+          }
+        ],
+        "material": [
+          {
+            "documentId": "tfs4-2013-paper-9f40705cac10",
+            "page": 14,
+            "start": 648,
+            "end": 2146,
+            "quote": "# 3. **Les Français boivent beaucoup trop !**\n\nLa consommation d'alcool en France est responsable de 49 000 morts en 2009 : 36 500 décès chez l'homme, ce qui représente 13% de la mortalité totale masculine et de 12 500 décès chez la femme, soit 5% de la mortalité totale.\n\nL'alcool est une cause importante de mortalité prématurée, puisqu'il est responsable de 22% (près d'un sur quatre) des décès entre 15 et 34 ans, 18% (près d'un sur cinq) des décès entre 35 et 64 ans et 7% des décès à partir de 65 ans.\n\nLes décès attribuables à l'alcool sont surtout des cancers (15 000 décès) et des maladies cardio-vasculaires (12 000 décès), s'y ajoutent notamment 8 000 morts dues à des maladies digestives et autant dues à des accidents et suicides. Le reste relève d'autres maladies dont des troubles mentaux liés à l'alcool.\n\nLa consommation d'alcool a diminué de 50% ces cinquante dernières années. Elle était de 33 g d'alcool par jour et par adulte en 1994, de 30 g en 2002-2003, de 27 en 2009 et a peu bougé depuis (26,6 en 2010, 27,3 en 2011).\n\nLa proportion des décès attribuables à l'alcool parmi les hommes en France (13%) est ainsi bien supérieure à celle observée dans d'autres pays comme par exemple la Suisse (5%), l'Italie (3%) et le Danemark (1%). Il en va de même pour la mortalité féminine due à l'alcool qui est plus élevée en France qu'en Italie (2%) ou au Danemark (1%).\n\nTous estiment nécessaire de poursuivre les efforts pour réduire encore la consommation d'alcool en France.\n\n-51-"
+          }
+        ],
+        "references": [
+          {
+            "id": "tfs4-2013-ref-91",
+            "kind": "answer",
+            "originalLabel": "92",
+            "text": "<td>92</td>\n    <td>A</td>",
+            "evidence": [
+              {
+                "documentId": "tfs4-2013-answers-dd3370403f9e",
+                "page": 3,
+                "start": 5077,
+                "end": 5103,
+                "quote": "<td>92</td>\n    <td>A</td>"
+              }
+            ]
+          }
+        ]
+      },
+      "answerAdopted": false,
+      "classificationPublished": false
+    },
+    {
+      "questionId": "tfs4-2013-q094",
+      "questionVersionId": "tfs4-2013-q094:v2",
+      "previous": "obj-r-inference",
+      "independent": "obj-r-number",
+      "status": "pending",
+      "primaryId": null,
+      "rationale": "参考D指丹麦男女各1%，但百分比的分母不同，不能推出死亡人数相等。可候选数量比例节点，暂不纳入无争议金标；不改题干或参考。",
+      "evidence": {
+        "question": [
+          {
+            "documentId": "tfs4-2013-paper-9f40705cac10",
+            "page": 15,
+            "start": 435,
+            "end": 576,
+            "quote": "\n94. C'est _______ qu'on constate autant de décès chez les hommes que chez les femmes.\nA. en France\nB. en Suisse\nC. en Italie\nD. au Danemark\n"
+          }
+        ],
+        "material": [
+          {
+            "documentId": "tfs4-2013-paper-9f40705cac10",
+            "page": 14,
+            "start": 648,
+            "end": 2146,
+            "quote": "# 3. **Les Français boivent beaucoup trop !**\n\nLa consommation d'alcool en France est responsable de 49 000 morts en 2009 : 36 500 décès chez l'homme, ce qui représente 13% de la mortalité totale masculine et de 12 500 décès chez la femme, soit 5% de la mortalité totale.\n\nL'alcool est une cause importante de mortalité prématurée, puisqu'il est responsable de 22% (près d'un sur quatre) des décès entre 15 et 34 ans, 18% (près d'un sur cinq) des décès entre 35 et 64 ans et 7% des décès à partir de 65 ans.\n\nLes décès attribuables à l'alcool sont surtout des cancers (15 000 décès) et des maladies cardio-vasculaires (12 000 décès), s'y ajoutent notamment 8 000 morts dues à des maladies digestives et autant dues à des accidents et suicides. Le reste relève d'autres maladies dont des troubles mentaux liés à l'alcool.\n\nLa consommation d'alcool a diminué de 50% ces cinquante dernières années. Elle était de 33 g d'alcool par jour et par adulte en 1994, de 30 g en 2002-2003, de 27 en 2009 et a peu bougé depuis (26,6 en 2010, 27,3 en 2011).\n\nLa proportion des décès attribuables à l'alcool parmi les hommes en France (13%) est ainsi bien supérieure à celle observée dans d'autres pays comme par exemple la Suisse (5%), l'Italie (3%) et le Danemark (1%). Il en va de même pour la mortalité féminine due à l'alcool qui est plus élevée en France qu'en Italie (2%) ou au Danemark (1%).\n\nTous estiment nécessaire de poursuivre les efforts pour réduire encore la consommation d'alcool en France.\n\n-51-"
+          }
+        ],
+        "references": [
+          {
+            "id": "tfs4-2013-ref-93",
+            "kind": "answer",
+            "originalLabel": "94",
+            "text": "<td>94</td>\n    <td>D</td>",
+            "evidence": [
+              {
+                "documentId": "tfs4-2013-answers-dd3370403f9e",
+                "page": 3,
+                "start": 5165,
+                "end": 5191,
+                "quote": "<td>94</td>\n    <td>D</td>"
+              }
+            ]
+          }
+        ]
+      },
+      "answerAdopted": false,
+      "classificationPublished": false
+    },
+    {
+      "questionId": "tfs4-2013-verb-9",
+      "questionVersionId": "tfs4-2013-verb-9:v2",
+      "previous": "obj-past-future",
+      "independent": "obj-imparfait-state",
+      "status": "pending",
+      "primaryId": null,
+      "rationale": "MD参考serait支持过去将来，题面与était riche并列也容许状态读法。参考映射不足以唯一裁决时态语义，保留过去将来候选，不采纳独立était作为新答案。",
+      "evidence": {
+        "question": [
+          {
+            "documentId": "tfs4-2013-paper-9f40705cac10",
+            "page": 11,
+            "start": 1693,
+            "end": 1699,
+            "quote": "(être)"
+          }
+        ],
+        "material": [
+          {
+            "documentId": "tfs4-2013-paper-9f40705cac10",
+            "page": 11,
+            "start": 836,
+            "end": 2485,
+            "quote": "**PARTIE V : Compétence grammaticale (II) (10 points)**\n\n*Mettez les verbes entre parenthèses au temps et au mode qui conviennent.*\n\n## Farida, une jeune Algérienne en France\n\nFarida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener) \\_\\_\\_\\_\\_\\_\\_\\_ à Paris, elle (être) <u>petite</u> mais elle (se souvenir) <u>\\_\\_\\_\\_\\_\\_\\_\\_</u> bien de ses premières impressions. Ses parents (dire) <u>\\_\\_\\_\\_\\_\\_\\_\\_ toujours</u> : « Ici en Algérie, la vie est trop difficile. Nous (devoir) \\_\\_\\_\\_\\_\\_\\_\\_ partir en France. Tout (être) \\_\\_\\_\\_\\_\\_\\_\\_ plus facile là-bas. Il y a du travail pour tous. On (pouvoir) \\_\\_\\_\\_\\_\\_\\_\\_ trouver un meilleur logement. »\n\nDans sa petite tête, Fabrida (voir) \\_\\_\\_\\_\\_\\_\\_\\_ la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être) \\_\\_\\_\\_\\_\\_\\_\\_ moins dure.\n\nIls sont arrivés à Paris un jour où il (pleuvoir) \\_\\_\\_\\_\\_\\_\\_\\_ très fort et où il (faire) \\_\\_\\_\\_\\_\\_\\_\\_ vraiment froid. La première nuit, ils (aller) \\_\\_\\_\\_\\_\\_\\_\\_ dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) \\_\\_\\_\\_\\_\\_\\_\\_ rester deux ou trois jours (attendre) \\_\\_\\_\\_\\_\\_\\_\\_ de (trouver) \\_\\_\\_\\_\\_\\_\\_\\_ un logement. En réalité la recherche d'un logement pas trop cher (être) <u>\\_\\_\\_\\_\\_\\_\\_\\_ très difficile</u>. Il (falloir) \\_\\_\\_\\_\\_\\_\\_\\_ toujours aller en banlieue et les banlieues étaient bien loin. Où (être) \\_\\_\\_\\_\\_\\_\\_\\_ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) \\_\\_\\_\\_\\_\\_\\_\\_ si dans ce pays le soleil (exister) \\_\\_\\_\\_\\_\\_\\_\\_ encore.\n\n-48-"
+          }
+        ],
+        "references": [
+          {
+            "id": "tfs4-2013-mdreview-verb-ref-9",
+            "kind": "answer",
+            "originalLabel": "Part V · 9",
+            "text": "*être* <u>serait</u>",
+            "evidence": [
+              {
+                "documentId": "tfs4-2013-answers-dd3370403f9e",
+                "page": 1,
+                "start": 1492,
+                "end": 1512,
+                "quote": "*être* <u>serait</u>"
+              }
+            ]
+          }
+        ]
+      },
+      "answerAdopted": false,
+      "classificationPublished": false
+    },
+    {
+      "questionId": "tfs4-2013-verb-14",
+      "questionVersionId": "tfs4-2013-verb-14:v2",
+      "previous": "obj-gerund",
+      "independent": null,
+      "status": "resolved",
+      "primaryId": "obj-gerund",
+      "rationale": "参考明确en attendant，整段是penser rester…en attendant de trouver；题面无en因为参考填写覆盖整个副动词短语，不需要猜补或修改题面。",
+      "evidence": {
+        "question": [
+          {
+            "documentId": "tfs4-2013-paper-9f40705cac10",
+            "page": 11,
+            "start": 2043,
+            "end": 2053,
+            "quote": "(attendre)"
+          }
+        ],
+        "material": [
+          {
+            "documentId": "tfs4-2013-paper-9f40705cac10",
+            "page": 11,
+            "start": 836,
+            "end": 2485,
+            "quote": "**PARTIE V : Compétence grammaticale (II) (10 points)**\n\n*Mettez les verbes entre parenthèses au temps et au mode qui conviennent.*\n\n## Farida, une jeune Algérienne en France\n\nFarida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener) \\_\\_\\_\\_\\_\\_\\_\\_ à Paris, elle (être) <u>petite</u> mais elle (se souvenir) <u>\\_\\_\\_\\_\\_\\_\\_\\_</u> bien de ses premières impressions. Ses parents (dire) <u>\\_\\_\\_\\_\\_\\_\\_\\_ toujours</u> : « Ici en Algérie, la vie est trop difficile. Nous (devoir) \\_\\_\\_\\_\\_\\_\\_\\_ partir en France. Tout (être) \\_\\_\\_\\_\\_\\_\\_\\_ plus facile là-bas. Il y a du travail pour tous. On (pouvoir) \\_\\_\\_\\_\\_\\_\\_\\_ trouver un meilleur logement. »\n\nDans sa petite tête, Fabrida (voir) \\_\\_\\_\\_\\_\\_\\_\\_ la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être) \\_\\_\\_\\_\\_\\_\\_\\_ moins dure.\n\nIls sont arrivés à Paris un jour où il (pleuvoir) \\_\\_\\_\\_\\_\\_\\_\\_ très fort et où il (faire) \\_\\_\\_\\_\\_\\_\\_\\_ vraiment froid. La première nuit, ils (aller) \\_\\_\\_\\_\\_\\_\\_\\_ dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) \\_\\_\\_\\_\\_\\_\\_\\_ rester deux ou trois jours (attendre) \\_\\_\\_\\_\\_\\_\\_\\_ de (trouver) \\_\\_\\_\\_\\_\\_\\_\\_ un logement. En réalité la recherche d'un logement pas trop cher (être) <u>\\_\\_\\_\\_\\_\\_\\_\\_ très difficile</u>. Il (falloir) \\_\\_\\_\\_\\_\\_\\_\\_ toujours aller en banlieue et les banlieues étaient bien loin. Où (être) \\_\\_\\_\\_\\_\\_\\_\\_ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) \\_\\_\\_\\_\\_\\_\\_\\_ si dans ce pays le soleil (exister) \\_\\_\\_\\_\\_\\_\\_\\_ encore.\n\n-48-"
+          }
+        ],
+        "references": [
+          {
+            "id": "tfs4-2013-mdreview-verb-ref-14",
+            "kind": "answer",
+            "originalLabel": "Part V · 14",
+            "text": "**attendre** **en attendant**",
+            "evidence": [
+              {
+                "documentId": "tfs4-2013-answers-dd3370403f9e",
+                "page": 1,
+                "start": 1864,
+                "end": 1893,
+                "quote": "**attendre** **en attendant**"
+              }
+            ]
+          }
+        ]
+      },
+      "answerAdopted": false,
+      "classificationPublished": false
+    },
+    {
+      "questionId": "tfs4-2013-verb-16",
+      "questionVersionId": "tfs4-2013-verb-16:v2",
+      "previous": "obj-passe-compose",
+      "independent": "obj-imparfait-state",
+      "status": "pending",
+      "primaryId": null,
+      "rationale": "参考a été可概括一次找房经历；était可描述其困难状态。当前MD无排他解析，不用参考存在证明时态唯一，暂留两种分析。",
+      "evidence": {
+        "question": [
+          {
+            "documentId": "tfs4-2013-paper-9f40705cac10",
+            "page": 11,
+            "start": 2166,
+            "end": 2172,
+            "quote": "(être)"
+          }
+        ],
+        "material": [
+          {
+            "documentId": "tfs4-2013-paper-9f40705cac10",
+            "page": 11,
+            "start": 836,
+            "end": 2485,
+            "quote": "**PARTIE V : Compétence grammaticale (II) (10 points)**\n\n*Mettez les verbes entre parenthèses au temps et au mode qui conviennent.*\n\n## Farida, une jeune Algérienne en France\n\nFarida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener) \\_\\_\\_\\_\\_\\_\\_\\_ à Paris, elle (être) <u>petite</u> mais elle (se souvenir) <u>\\_\\_\\_\\_\\_\\_\\_\\_</u> bien de ses premières impressions. Ses parents (dire) <u>\\_\\_\\_\\_\\_\\_\\_\\_ toujours</u> : « Ici en Algérie, la vie est trop difficile. Nous (devoir) \\_\\_\\_\\_\\_\\_\\_\\_ partir en France. Tout (être) \\_\\_\\_\\_\\_\\_\\_\\_ plus facile là-bas. Il y a du travail pour tous. On (pouvoir) \\_\\_\\_\\_\\_\\_\\_\\_ trouver un meilleur logement. »\n\nDans sa petite tête, Fabrida (voir) \\_\\_\\_\\_\\_\\_\\_\\_ la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être) \\_\\_\\_\\_\\_\\_\\_\\_ moins dure.\n\nIls sont arrivés à Paris un jour où il (pleuvoir) \\_\\_\\_\\_\\_\\_\\_\\_ très fort et où il (faire) \\_\\_\\_\\_\\_\\_\\_\\_ vraiment froid. La première nuit, ils (aller) \\_\\_\\_\\_\\_\\_\\_\\_ dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) \\_\\_\\_\\_\\_\\_\\_\\_ rester deux ou trois jours (attendre) \\_\\_\\_\\_\\_\\_\\_\\_ de (trouver) \\_\\_\\_\\_\\_\\_\\_\\_ un logement. En réalité la recherche d'un logement pas trop cher (être) <u>\\_\\_\\_\\_\\_\\_\\_\\_ très difficile</u>. Il (falloir) \\_\\_\\_\\_\\_\\_\\_\\_ toujours aller en banlieue et les banlieues étaient bien loin. Où (être) \\_\\_\\_\\_\\_\\_\\_\\_ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) \\_\\_\\_\\_\\_\\_\\_\\_ si dans ce pays le soleil (exister) \\_\\_\\_\\_\\_\\_\\_\\_ encore.\n\n-48-"
+          }
+        ],
+        "references": [
+          {
+            "id": "tfs4-2013-mdreview-verb-ref-16",
+            "kind": "answer",
+            "originalLabel": "Part V · 16",
+            "text": "*être* <u>a été</u>",
+            "evidence": [
+              {
+                "documentId": "tfs4-2013-answers-dd3370403f9e",
+                "page": 1,
+                "start": 1513,
+                "end": 1532,
+                "quote": "*être* <u>a été</u>"
+              }
+            ]
+          }
+        ]
+      },
+      "answerAdopted": false,
+      "classificationPublished": false
+    },
+    {
+      "questionId": "tfs4-2013-verb-17",
+      "questionVersionId": "tfs4-2013-verb-17:v2",
+      "previous": "obj-imparfait-state",
+      "independent": "obj-imparfait-habit",
+      "status": "resolved",
+      "primaryId": "obj-imparfait-habit",
+      "rationale": "改为过去习惯：toujours aller en banlieue指找房中反复需要去郊区，参考fallait支持。",
+      "evidence": {
+        "question": [
+          {
+            "documentId": "tfs4-2013-paper-9f40705cac10",
+            "page": 11,
+            "start": 2216,
+            "end": 2225,
+            "quote": "(falloir)"
+          }
+        ],
+        "material": [
+          {
+            "documentId": "tfs4-2013-paper-9f40705cac10",
+            "page": 11,
+            "start": 836,
+            "end": 2485,
+            "quote": "**PARTIE V : Compétence grammaticale (II) (10 points)**\n\n*Mettez les verbes entre parenthèses au temps et au mode qui conviennent.*\n\n## Farida, une jeune Algérienne en France\n\nFarida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener) \\_\\_\\_\\_\\_\\_\\_\\_ à Paris, elle (être) <u>petite</u> mais elle (se souvenir) <u>\\_\\_\\_\\_\\_\\_\\_\\_</u> bien de ses premières impressions. Ses parents (dire) <u>\\_\\_\\_\\_\\_\\_\\_\\_ toujours</u> : « Ici en Algérie, la vie est trop difficile. Nous (devoir) \\_\\_\\_\\_\\_\\_\\_\\_ partir en France. Tout (être) \\_\\_\\_\\_\\_\\_\\_\\_ plus facile là-bas. Il y a du travail pour tous. On (pouvoir) \\_\\_\\_\\_\\_\\_\\_\\_ trouver un meilleur logement. »\n\nDans sa petite tête, Fabrida (voir) \\_\\_\\_\\_\\_\\_\\_\\_ la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être) \\_\\_\\_\\_\\_\\_\\_\\_ moins dure.\n\nIls sont arrivés à Paris un jour où il (pleuvoir) \\_\\_\\_\\_\\_\\_\\_\\_ très fort et où il (faire) \\_\\_\\_\\_\\_\\_\\_\\_ vraiment froid. La première nuit, ils (aller) \\_\\_\\_\\_\\_\\_\\_\\_ dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) \\_\\_\\_\\_\\_\\_\\_\\_ rester deux ou trois jours (attendre) \\_\\_\\_\\_\\_\\_\\_\\_ de (trouver) \\_\\_\\_\\_\\_\\_\\_\\_ un logement. En réalité la recherche d'un logement pas trop cher (être) <u>\\_\\_\\_\\_\\_\\_\\_\\_ très difficile</u>. Il (falloir) \\_\\_\\_\\_\\_\\_\\_\\_ toujours aller en banlieue et les banlieues étaient bien loin. Où (être) \\_\\_\\_\\_\\_\\_\\_\\_ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) \\_\\_\\_\\_\\_\\_\\_\\_ si dans ce pays le soleil (exister) \\_\\_\\_\\_\\_\\_\\_\\_ encore.\n\n-48-"
+          }
+        ],
+        "references": [
+          {
+            "id": "tfs4-2013-mdreview-verb-ref-17",
+            "kind": "answer",
+            "originalLabel": "Part V · 17",
+            "text": "*falloir* <u>fallait</u>",
+            "evidence": [
+              {
+                "documentId": "tfs4-2013-answers-dd3370403f9e",
+                "page": 1,
+                "start": 1593,
+                "end": 1617,
+                "quote": "*falloir* <u>fallait</u>"
+              }
+            ]
+          }
+        ]
+      },
+      "answerAdopted": false,
+      "classificationPublished": false
+    },
+    {
+      "questionId": "tfs4-2023-q077",
+      "questionVersionId": "tfs4-2023-q077:v1",
+      "previous": "obj-unless",
+      "independent": null,
+      "status": "pending",
+      "primaryId": null,
+      "rationale": "确认旧obj-unless错误：参考A及显式ne…pas构成à condition que，不是赘词ne的à moins que。目录缺适用叶，提出新节点，待目录修订与影响复核后纳入。",
+      "evidence": {
+        "question": [
+          {
+            "documentId": "tfs4-2023-paper-cb80be213370",
+            "page": 10,
+            "start": 1380,
+            "end": 1522,
+            "quote": "\n77. Il gagnera le Tour de France ________ il n'y ait pas d'incident imprévu.\nA. à condition qu'\nB. de crainte qu'\nC. à moins qu'\nD. sinon qu'"
+          }
+        ],
+        "material": [],
+        "references": [
+          {
+            "id": "tfs4-2023-ref-76",
+            "kind": "answer",
+            "originalLabel": "77",
+            "text": "71-80: BABCB DAADC",
+            "evidence": [
+              {
+                "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+                "page": 1,
+                "start": 990,
+                "end": 1008,
+                "quote": "71-80: BABCB DAADC"
+              }
+            ]
+          }
+        ]
+      },
+      "answerAdopted": false,
+      "classificationPublished": false
+    },
+    {
+      "questionId": "tfs4-2023-q081",
+      "questionVersionId": "tfs4-2023-q081:v1",
+      "previous": "obj-r-main",
+      "independent": "obj-r-cause",
+      "status": "resolved",
+      "primaryId": "obj-r-cause",
+      "rationale": "改为活动目的定位，题问campagne的but而非作者写作目的；首段contre les stéréotypes及préjugés直接支持。",
+      "evidence": {
+        "question": [
+          {
+            "documentId": "tfs4-2023-paper-cb80be213370",
+            "page": 13,
+            "start": 0,
+            "end": 233,
+            "quote": "81. Quel est le but de cette campagne de sensibilisation ?\nA. Combattre les préjugés liés aux nationalités.\nB. Mieux connaître les pays d'Europe.\nC. Échanger des idées et se faire des amis.\nD. Éliminer les stéréotypes sur la France.\n"
+          }
+        ],
+        "material": [
+          {
+            "documentId": "tfs4-2023-paper-cb80be213370",
+            "page": 12,
+            "start": 167,
+            "end": 2033,
+            "quote": "## **1. Les étudiants contre les stéréotypes (刻板印象)**\n\nÀ l'Université de Bordeaux, les étudiants étrangers ont décidé de créer une association et de lancer une campagne de sensibilisation (宣传活动) contre les stéréotypes. Ces étudiants originaires de pays d'Europe, d'Asie et d'Afrique en ont assez d'être victimes de préjugés en fonction de leur nationalité. La campagne appelée « pour en finir avec les stéréotypes » a commencé en janvier et se poursuivra jusqu'en mars. Pendant ces trois mois, il y aura des expositions de photos, des débats et des conférences sur les stéréotypes.\n\nAkiko est une étudiante japonaise : « Ici les gens pensent que les Japonais voyagent toujours en groupe et qu'ils passent leur temps à prendre des photos. Mais ce n'est pas le cas de tous les Japonais. Par exemple, la première fois que je suis venue en Europe, j'ai voyagé seule. Et je n'avais pas d'appareil photo ! »\n\nPaola, l'Italienne, sourit. Dès que les gens apprennent qu'elle est Italienne, ils lui parlent de pizza et se mettent à parler avec les mains. « En Europe, il y a encore beaucoup de personnes qui pensent qu'avec la tradition familiale, les femmes ne travaillent pas en Italie. J'aimerais changer cette image, car c'est faux : il y a beaucoup de femmes qui ont fait de grandes carrières professionnelles. »\n\nKodjo, étudiant togolais (多哥的), rajoute : « Les gens pensent que l'Afrique est un seul et même pays, et que tous les Africains se ressemblent. C'est totalement faux. L'Afrique est un continent très diversifié. Et non, tous les Africains ne savent pas danser ! »\n\nDes étudiants français comme Ludovic font également partie de cette association. « **Quand nous partons en stage à l'étranger, on nous dit que les Français ont souvent l'air arrogants, qu'ils ont la réputation de tout critiquer. Nous allons animer un atelier pour casser toutes ces images. »**"
+          }
+        ],
+        "references": [
+          {
+            "id": "tfs4-2023-ref-80",
+            "kind": "answer",
+            "originalLabel": "81",
+            "text": "81-85:ADBCA",
+            "evidence": [
+              {
+                "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+                "page": 1,
+                "start": 1021,
+                "end": 1032,
+                "quote": "81-85:ADBCA"
+              }
+            ]
+          }
+        ]
+      },
+      "answerAdopted": false,
+      "classificationPublished": false
+    },
+    {
+      "questionId": "tfs4-2023-q095",
+      "questionVersionId": "tfs4-2023-q095:v1",
+      "previous": "obj-r-detail",
+      "independent": "obj-r-inference",
+      "status": "pending",
+      "primaryId": null,
+      "rationale": "参考D存在，但fin de la chasse不能严格推出法律上的interdite。其他项不符不补足该蕴含缺口；暂不在事实定位与推断间强制取一。",
+      "evidence": {
+        "question": [
+          {
+            "documentId": "tfs4-2023-paper-cb80be213370",
+            "page": 17,
+            "start": 1215,
+            "end": 1511,
+            "quote": "\n95. Laquelle des affirmations suivantes correspond au texte ?\nA. Les pandas sont toujours une espèce en voie d'extinction.\nB. Le nombre des baleines bleues observées n'a pas augmenté.\nC. *Orca* est l'usine la plus polluante au monde.\nD. La chasse commerciale des baleines bleues a été interdite."
+          }
+        ],
+        "material": [
+          {
+            "documentId": "tfs4-2023-paper-cb80be213370",
+            "page": 16,
+            "start": 0,
+            "end": 2020,
+            "quote": "# 3. Restons positifs !\n\nRestons positifs ! Bien sûr, l'ambiance actuelle est tendue et les crises se succèdent, mais la période a aussi apporté son lot de bonnes nouvelles !\n\nL'année 2021 a prouvé que les gens retrouvent leur passion de lecture. Par exemple, elle a enregistré un record de ventes de livres en France, avec 400 millions d'exemplaires vendus dans le pays. Les confinements（封控）y sont sûrement pour quelque chose.\n\nDes avancées sociétales sont également connues dans le monde. Selon la Banque mondiale, le taux mondial de pauvreté continue à reculer. L'un des objectifs de développement durable de l'ONU pour 2030 (l'Agenda 2030) est de réduire au maximum voire d'éliminer l'extrême pauvreté dans le monde dont le seuil est de 1,25 dollar par jour par personne. La lutte contre la pauvreté en Chine a grandement contribué à la réduction de la pauvreté mondiale pour atteindre l'objectif de l'Agenda 2030, avec 10 ans d'avance sur le programme.\n\n2020 a été une année riche pour la conquête spatiale. Les Chinois ont envoyé vers Mars la sonde（探测器）*Tianwen-1*, transportant un robot téléguidé à roues qui a pris en photo les traces dans le sol de la planète rouge et a recueilli des données importantes. Une autre sonde *Parker Solar Probe* a « touché » le soleil pour la première fois, après un voyage de près de deux ans et demi. Ce robot, très résistant à la chaleur, a permis de collecter des données précieuses. 2021, c'est aussi l'année des premiers touristes dans l'espace. Quatre touristes spatiaux ont passé trois jours à bord de *SpaceX*.\n\nLa nature a eu, elle aussi, son lot de bonnes nouvelles. Tout d'abord, les baleines bleues sont revenues en Antarctique alors que l'espèce était en voie de disparition. Plusieurs dizaines ont pu être observées. Du jamais vu depuis la fin de la chasse commerciale ! Les pandas, quant à eux, ont été retirés de la liste des animaux en voie de disparition. Pour finir, on a lancé en Islande la plus grande usine au monde à dépolluer l'air. Son nom ? *Orca*.\n\n---"
+          }
+        ],
+        "references": [
+          {
+            "id": "tfs4-2023-ref-94",
+            "kind": "answer",
+            "originalLabel": "95",
+            "text": "91-95:DCBAD",
+            "evidence": [
+              {
+                "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+                "page": 1,
+                "start": 1045,
+                "end": 1056,
+                "quote": "91-95:DCBAD"
+              }
+            ]
+          }
+        ]
+      },
+      "answerAdopted": false,
+      "classificationPublished": false
+    },
+    {
+      "questionId": "tfs4-2023-q098",
+      "questionVersionId": "tfs4-2023-q098:v1",
+      "previous": "obj-r-detail",
+      "independent": "obj-r-context",
+      "status": "resolved",
+      "primaryId": "obj-r-context",
+      "rationale": "改为语境术语释义：题目询问canard在十八世纪的含义，材料有明确历史定义。",
+      "evidence": {
+        "question": [
+          {
+            "documentId": "tfs4-2023-paper-cb80be213370",
+            "page": 19,
+            "start": 415,
+            "end": 614,
+            "quote": "\n98. Au XVIII<sup>e</sup> siècle, « canard » désignait ___________.\nA. les fausses informations répandues par la presse\nB. un journal de mauvaise qualité\nC. un journal méconnu\nD. un journal ironique\n"
+          }
+        ],
+        "material": [
+          {
+            "documentId": "tfs4-2023-paper-cb80be213370",
+            "page": 18,
+            "start": 0,
+            "end": 2076,
+            "quote": "# **4. Une feuille de chou, un canard ou un ours ?**\n\nSi votre ami français vous montre un journal en le traitant de « feuille de chou », vous pouvez en conclure qu'il est de mauvaise qualité ! Votre ami ne fait pas référence ici à la qualité du papier, mais à la qualité des informations qu'on y trouve. Pourquoi ce légume en particulier ? Quand l'expression est née au **XIX<sup>e</sup> siècle**, la population française était majoritairement rurale. Les paysans mangeaient le plus souvent des légumes, surtout ceux qui étaient peu chers, comme le chou. Les gens ont pris l'habitude de comparer le chou, légume commun et bon marché, à tout ce qui était insignifiant et sans valeur.\n\nOn peut aussi traiter un journal de « canard ». Au **XVIII<sup>e</sup> siècle**, on appelait « canard » les fausses nouvelles propagées par la presse qu'on distribuait dans la rue et qui rapportait souvent des faits divers. Ces bulletins d'informations n'étaient pas considérés comme une presse sérieuse, mais ils étaient populaires. Cette appellation viendrait peut-être d'une vieille expression française du **XVI<sup>e</sup> siècle**, « bailler un canard à moitié », qui signifiait « tromper ». Le mot « canard » a fini par faire référence aux journaux peu crédibles. Aujourd'hui, le terme est devenu neutre, même s'il n'est pas flatteur pour ~~une~~ publication d'être qualifiée de « canard ». Une exception cependant : *Le Canard enchaîné*. Symbole d'une presse indépendante, ce journal hebdomadaire revendique une certaine liberté d'expression et emploie l'ironie jusque dans son nom ! Il en faut effectivement beaucoup pour lui faire fermer son bec (喙) !\n\nOuvrez un journal ou un magazine : vous pouvez être sûr d'y trouver un ours ! Dans le jargon (行话) de la presse, l'« ours » désigne l'encadré (方框) où sont mentionnés les noms de toutes les personnes qui ont participé à la publication. Pourquoi parle-t-on d'« ours » ? Ce terme viendrait de Grande-Bretagne. En anglais, « ours » (prononcez le mot à l'anglaise) signifie « les nôtres », désignant ainsi toute l'équipe d'un journal."
+          }
+        ],
+        "references": [
+          {
+            "id": "tfs4-2023-ref-97",
+            "kind": "answer",
+            "originalLabel": "98",
+            "text": "96-100:ACADC",
+            "evidence": [
+              {
+                "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+                "page": 1,
+                "start": 1057,
+                "end": 1069,
+                "quote": "96-100:ACADC"
+              }
+            ]
+          }
+        ]
+      },
+      "answerAdopted": false,
+      "classificationPublished": false
+    },
+    {
+      "questionId": "tfs4-2023-verb-3",
+      "questionVersionId": "tfs4-2023-verb-3:v2",
+      "previous": "obj-etre-agreement",
+      "independent": "obj-passe-compose",
+      "status": "resolved",
+      "primaryId": "obj-passe-compose",
+      "rationale": "改为完成事件时态：Maman est sortie及Et puis…revenir推进过去叙事，参考est revenue支持；être性数配合是次要形态，不作为本题主考点。",
+      "evidence": {
+        "question": [
+          {
+            "documentId": "tfs4-2023-paper-cb80be213370",
+            "page": 11,
+            "start": 761,
+            "end": 772,
+            "quote": "(*revenir*)"
+          }
+        ],
+        "material": [
+          {
+            "documentId": "tfs4-2023-paper-cb80be213370",
+            "page": 11,
+            "start": 377,
+            "end": 1941,
+            "quote": "# **Partie V : Compétence grammaticale (II) (10 points)**\n\n*Mettez les verbes entre parenthèses au temps et au mode qui conviennent.*\n\n## La lampe de poche\n\nMaman est sortie. Je (J') (**éteindre**) ____(1)____ la lumière et je (se *mettre*) ____(2)____ au travail. C'est très chouette de faire les devoirs avec une lampe de poche, même si c'est de l'arithmétique (算术) ! Et puis Maman (*revenir*) ____(3)____ dans la chambre et (*allumer*) ____(4)____ la grosse lumière : elle (*ne pas être*) ____(5)____ contente du tout.\n\n- Je croyais (*te dire*) ____(6)____ de faire les devoirs avant de jouer ? m'a dit Maman.\n- Mais je (j') (**être**) ____(7)____ en train de les faire, mes devoirs, lui ai-je expliqué.\n- Dans l'obscurité ? Avec cette petite lampe ridicule ? Mais tu (*aller*) ____(8)____ te crever les yeux, Nicolas ! a crié Maman.\n\nJ'ai dit à Maman que ce (*ne pas être*) ____(9)____ une petite lampe ridicule, et qu'elle (*donner*) ____(10)____ une lumière terrible, mais Maman n'a rien voulu savoir et elle (*prendre*) ____(11)____ ma lampe, et elle a dit qu'elle me la (l') (*rendre*) ____(12)____ quand je (j') (*finir*) ____(13)____ mes devoirs. Je (J') (*essayer*) ____(14)____ de pleurer un coup, mais je sais qu'avec Maman ça (*ne presque jamais servir*) ____(15)____ à rien, alors je (j') (*faire*) ____(16)____ mon problème le plus vite possible.\n\nJe suis descendu (*courir*) ____(17)____ et je (j') (*demander*) ____(18)____ à Maman qu'elle me (m') (*rendre*) ____(19)____ ma lampe de poche.\n\n- Bon, mais (*être*) ____(20)____ sage, m'a dit Maman."
+          }
+        ],
+        "references": [
+          {
+            "id": "tfs4-2023-mdreview-verb-ref-3",
+            "kind": "answer",
+            "originalLabel": "Part V · 3",
+            "text": "3. est revenue",
+            "evidence": [
+              {
+                "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+                "page": 1,
+                "start": 1113,
+                "end": 1127,
+                "quote": "3. est revenue"
+              }
+            ]
+          }
+        ]
+      },
+      "answerAdopted": false,
+      "classificationPublished": false
+    }
+  ],
+  "catalogProposals": [
+    {
+      "id": "obj-degree-pour",
+      "action": "clarify",
+      "definition": "trop+形容词+pour+不定式或pour que+虚拟式表达程度妨碍结果；从句形式不是单纯目的。",
+      "status": "proposal_not_applied"
+    },
+    {
+      "id": "obj-condition-que",
+      "parentId": "obj-clauses",
+      "action": "add",
+      "definition": "à condition que+虚拟式引入主句成立的必要条件，区别à moins que的例外条件和赘词ne。",
+      "status": "proposal_not_applied"
+    }
+  ],
+  "goldStatus": "partial_adjudication_not_full_gold",
+  "productionChanged": false
+}

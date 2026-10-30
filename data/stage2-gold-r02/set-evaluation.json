@@ -1,0 +1,974 @@
+{
+  "createdAt": "2026-10-30T02:42:50.782Z",
+  "method": "Unblinded semantic audit against original tree sets; provisional, not independent gold validation. Recall is limited to reviewed candidates, not the entire bank.",
+  "inputHashes": [
+    {
+      "file": "reading-audit.json",
+      "sha256": "7dc5984ae98780f5fd9388e1c4e5e25b007a8d55ff0980969c0e05f2e1109e3e"
+    },
+    {
+      "file": "nonreading-audit.json",
+      "sha256": "55206dd018781b4a78c4a881bf69b99ff1a7586e023e3d31a05cb313b83a3013"
+    },
+    {
+      "file": "root-reading-adjudication.json",
+      "sha256": "2b389cb6ba20096389ae45103303880a278a674a2170dab552c24ffaee6f5879"
+    }
+  ],
+  "catalogRevisionSha256": "6fa66bf9e10e9d40f0a46c0ae7ea39f7bee5ab2859f492385b813f7d013fb7e7",
+  "summary": {
+    "multiLeaves": 38,
+    "originalMemberships": 143,
+    "auditedQuestions": 151,
+    "truePositive": 118,
+    "wrong": 12,
+    "pending": 13,
+    "missingWithinAuditScope": 12,
+    "microPrecisionAmongResolved": 0.9076923076923077,
+    "conservativeSupportedFraction": 0.8251748251748252,
+    "macroPrecisionAmongResolved": 0.9542606516290726,
+    "recallWithinAuditScope": 0.9076923076923077,
+    "fullGoldGatePassed": false,
+    "unreviewedOutsideScope": 131
+  },
+  "rows": [
+    {
+      "nodeId": "obj-possessive",
+      "name": "主有代词的性数与介词",
+      "predicted": [
+        "tfs4-2012-q045",
+        "tfs4-2013-q051",
+        "tfs4-2013-q061",
+        "tfs4-2023-q047"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-q045",
+        "tfs4-2013-q051",
+        "tfs4-2013-q061",
+        "tfs4-2023-q047"
+      ],
+      "truePositive": 4,
+      "wrong": [],
+      "unresolved": [],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 1,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-interrogative",
+      "name": "疑问代词lequel的选择",
+      "predicted": [
+        "tfs4-2012-q041",
+        "tfs4-2013-q045"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-q041",
+        "tfs4-2013-q045"
+      ],
+      "truePositive": 2,
+      "wrong": [],
+      "unresolved": [],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 1,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-relative-de",
+      "name": "dont替代de补语",
+      "predicted": [
+        "tfs4-2012-q077",
+        "tfs4-2013-q053",
+        "tfs4-2023-q053"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-q077",
+        "tfs4-2013-q053",
+        "tfs4-2023-q053"
+      ],
+      "truePositive": 3,
+      "wrong": [],
+      "unresolved": [],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 1,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-relative-preposition",
+      "name": "介词后复合关系代词",
+      "predicted": [
+        "tfs4-2013-q070",
+        "tfs4-2023-q051"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2013-q070",
+        "tfs4-2023-q051"
+      ],
+      "truePositive": 2,
+      "wrong": [],
+      "unresolved": [],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 1,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-clitic-order",
+      "name": "直接间接宾语代词顺序",
+      "predicted": [
+        "tfs4-2012-q055",
+        "tfs4-2013-q074"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-q055",
+        "tfs4-2013-q074"
+      ],
+      "truePositive": 2,
+      "wrong": [],
+      "unresolved": [],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 1,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-soi",
+      "name": "泛指主语对应soi",
+      "predicted": [
+        "tfs4-2012-q059",
+        "tfs4-2013-q056"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-q059"
+      ],
+      "truePositive": 1,
+      "wrong": [],
+      "unresolved": [
+        "tfs4-2013-q056"
+      ],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 0.5,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-negative-rien",
+      "name": "rien/personne等否定代词",
+      "predicted": [
+        "tfs4-2013-q049",
+        "tfs4-2023-q058"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2013-q049",
+        "tfs4-2023-q058"
+      ],
+      "truePositive": 2,
+      "wrong": [],
+      "unresolved": [],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 1,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-futur-simple",
+      "name": "简单将来时表达未来",
+      "predicted": [
+        "tfs4-2012-verb-2",
+        "tfs4-2013-verb-6",
+        "tfs4-2013-verb-7"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-verb-2",
+        "tfs4-2013-verb-6"
+      ],
+      "truePositive": 2,
+      "wrong": [],
+      "unresolved": [
+        "tfs4-2013-verb-7"
+      ],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 0.6666666666666666,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-passe-compose",
+      "name": "复合过去时叙述完成事件",
+      "predicted": [
+        "tfs4-2012-verb-3",
+        "tfs4-2012-verb-7",
+        "tfs4-2012-verb-12",
+        "tfs4-2012-verb-13",
+        "tfs4-2013-verb-12",
+        "tfs4-2013-verb-16",
+        "tfs4-2023-verb-1",
+        "tfs4-2023-verb-4",
+        "tfs4-2023-verb-11",
+        "tfs4-2023-verb-14",
+        "tfs4-2023-verb-18"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-verb-3",
+        "tfs4-2012-verb-7",
+        "tfs4-2012-verb-12",
+        "tfs4-2012-verb-13",
+        "tfs4-2013-verb-12",
+        "tfs4-2023-verb-1",
+        "tfs4-2023-verb-3",
+        "tfs4-2023-verb-4",
+        "tfs4-2023-verb-11",
+        "tfs4-2023-verb-14",
+        "tfs4-2023-verb-18"
+      ],
+      "truePositive": 10,
+      "wrong": [],
+      "unresolved": [
+        "tfs4-2013-verb-16"
+      ],
+      "missing": [
+        "tfs4-2023-verb-3"
+      ],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 0.9090909090909091,
+      "recallWithinAuditScope": 0.9090909090909091
+    },
+    {
+      "nodeId": "obj-imparfait-state",
+      "name": "未完成过去时描述过去状态",
+      "predicted": [
+        "tfs4-2012-verb-4",
+        "tfs4-2012-verb-6",
+        "tfs4-2012-verb-9",
+        "tfs4-2013-verb-2",
+        "tfs4-2013-verb-17",
+        "tfs4-2013-verb-18",
+        "tfs4-2013-verb-20",
+        "tfs4-2023-verb-5"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-verb-4",
+        "tfs4-2013-verb-2",
+        "tfs4-2013-verb-18",
+        "tfs4-2013-verb-20",
+        "tfs4-2023-verb-5"
+      ],
+      "truePositive": 5,
+      "wrong": [
+        "tfs4-2012-verb-9",
+        "tfs4-2013-verb-17"
+      ],
+      "unresolved": [
+        "tfs4-2012-verb-6"
+      ],
+      "missing": [],
+      "precisionAmongResolved": 0.7142857142857143,
+      "conservativeSupportedFraction": 0.625,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-imparfait-background",
+      "name": "未完成过去时描写事件背景",
+      "predicted": [
+        "tfs4-2012-verb-10",
+        "tfs4-2012-verb-17",
+        "tfs4-2012-verb-19",
+        "tfs4-2013-verb-10",
+        "tfs4-2013-verb-11"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-verb-9",
+        "tfs4-2012-verb-10",
+        "tfs4-2012-verb-17",
+        "tfs4-2012-verb-19",
+        "tfs4-2013-verb-10",
+        "tfs4-2013-verb-11"
+      ],
+      "truePositive": 5,
+      "wrong": [],
+      "unresolved": [],
+      "missing": [
+        "tfs4-2012-verb-9"
+      ],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 1,
+      "recallWithinAuditScope": 0.8333333333333334
+    },
+    {
+      "nodeId": "obj-imparfait-habit",
+      "name": "未完成过去时表达过去习惯",
+      "predicted": [
+        "tfs4-2012-q073",
+        "tfs4-2013-verb-4"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-q073",
+        "tfs4-2013-verb-4",
+        "tfs4-2013-verb-17"
+      ],
+      "truePositive": 2,
+      "wrong": [],
+      "unresolved": [],
+      "missing": [
+        "tfs4-2013-verb-17"
+      ],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 1,
+      "recallWithinAuditScope": 0.6666666666666666
+    },
+    {
+      "nodeId": "obj-imparfait-view",
+      "name": "未完成过去时表达过去的想法",
+      "predicted": [
+        "tfs4-2013-verb-8",
+        "tfs4-2013-verb-13",
+        "tfs4-2013-verb-19"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2013-verb-8",
+        "tfs4-2013-verb-13",
+        "tfs4-2013-verb-19"
+      ],
+      "truePositive": 3,
+      "wrong": [],
+      "unresolved": [],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 1,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-plusqueparfait",
+      "name": "愈过去时表示过去的过去",
+      "predicted": [
+        "tfs4-2012-verb-8",
+        "tfs4-2012-verb-14"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-verb-8",
+        "tfs4-2012-verb-14"
+      ],
+      "truePositive": 2,
+      "wrong": [],
+      "unresolved": [],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 1,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-past-future",
+      "name": "条件式现在时表达过去将来",
+      "predicted": [
+        "tfs4-2013-verb-9",
+        "tfs4-2023-q078",
+        "tfs4-2023-verb-12"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2023-q078",
+        "tfs4-2023-verb-12"
+      ],
+      "truePositive": 2,
+      "wrong": [],
+      "unresolved": [
+        "tfs4-2013-verb-9"
+      ],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 0.6666666666666666,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-present-state",
+      "name": "直陈式现在时的当前或一般状态",
+      "predicted": [
+        "tfs4-2013-verb-3",
+        "tfs4-2013-verb-5",
+        "tfs4-2023-verb-15"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2013-verb-5",
+        "tfs4-2023-verb-15"
+      ],
+      "truePositive": 2,
+      "wrong": [],
+      "unresolved": [
+        "tfs4-2013-verb-3"
+      ],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 0.6666666666666666,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-since-duration",
+      "name": "pendant/depuis的时段与持续",
+      "predicted": [
+        "tfs4-2013-q069",
+        "tfs4-2023-q046"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2013-q069",
+        "tfs4-2023-q046"
+      ],
+      "truePositive": 2,
+      "wrong": [],
+      "unresolved": [],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 1,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-pronominal-agreement",
+      "name": "代词式动词过去分词配合",
+      "predicted": [
+        "tfs4-2012-q042",
+        "tfs4-2023-q056"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-q042",
+        "tfs4-2023-q056"
+      ],
+      "truePositive": 2,
+      "wrong": [],
+      "unresolved": [],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 1,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-infinitive-past",
+      "name": "过去不定式表示先完成",
+      "predicted": [
+        "tfs4-2012-q069",
+        "tfs4-2023-verb-6"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-q069",
+        "tfs4-2023-verb-6"
+      ],
+      "truePositive": 2,
+      "wrong": [],
+      "unresolved": [],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 1,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-gerund",
+      "name": "副动词en加现在分词",
+      "predicted": [
+        "tfs4-2012-q075",
+        "tfs4-2013-verb-14",
+        "tfs4-2023-verb-17"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-q075",
+        "tfs4-2013-verb-14",
+        "tfs4-2023-verb-17"
+      ],
+      "truePositive": 3,
+      "wrong": [],
+      "unresolved": [],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 1,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-imperative",
+      "name": "命令式表达要求",
+      "predicted": [
+        "tfs4-2012-verb-1",
+        "tfs4-2023-verb-20"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-verb-1",
+        "tfs4-2023-verb-20"
+      ],
+      "truePositive": 2,
+      "wrong": [],
+      "unresolved": [],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 1,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-comme-si",
+      "name": "comme si后的时态",
+      "predicted": [
+        "tfs4-2012-q061",
+        "tfs4-2013-q066",
+        "tfs4-2023-q065"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-q061",
+        "tfs4-2013-q066",
+        "tfs4-2023-q065"
+      ],
+      "truePositive": 3,
+      "wrong": [],
+      "unresolved": [],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 1,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-concession-prep",
+      "name": "让步介词malgré/en dépit de",
+      "predicted": [
+        "tfs4-2013-q044",
+        "tfs4-2023-q066"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2013-q044",
+        "tfs4-2023-q066"
+      ],
+      "truePositive": 2,
+      "wrong": [],
+      "unresolved": [],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 1,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-concession-qui",
+      "name": "qui que表示无论何人",
+      "predicted": [
+        "tfs4-2013-q079",
+        "tfs4-2023-q067"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2013-q079"
+      ],
+      "truePositive": 1,
+      "wrong": [],
+      "unresolved": [
+        "tfs4-2023-q067"
+      ],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 0.5,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-degree-pour",
+      "name": "trop…pour的程度与结果",
+      "predicted": [
+        "tfs4-2012-q076",
+        "tfs4-2013-q062"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-q076",
+        "tfs4-2013-q062"
+      ],
+      "truePositive": 2,
+      "wrong": [],
+      "unresolved": [],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 1,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-before-que",
+      "name": "avant que的先后与虚拟式",
+      "predicted": [
+        "tfs4-2012-q072",
+        "tfs4-2013-q072",
+        "tfs4-2023-q052"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-q072",
+        "tfs4-2013-q072",
+        "tfs4-2023-q052"
+      ],
+      "truePositive": 3,
+      "wrong": [],
+      "unresolved": [],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 1,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-unless",
+      "name": "à moins que表达除非",
+      "predicted": [
+        "tfs4-2012-q080",
+        "tfs4-2013-q067",
+        "tfs4-2023-q077"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-q080",
+        "tfs4-2013-q067"
+      ],
+      "truePositive": 2,
+      "wrong": [
+        "tfs4-2023-q077"
+      ],
+      "unresolved": [],
+      "missing": [],
+      "precisionAmongResolved": 0.6666666666666666,
+      "conservativeSupportedFraction": 0.6666666666666666,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-unit-price",
+      "name": "按单位计价的冠词与介词",
+      "predicted": [
+        "tfs4-2012-q062",
+        "tfs4-2013-q060",
+        "tfs4-2023-q041"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-q062",
+        "tfs4-2013-q060",
+        "tfs4-2023-q041"
+      ],
+      "truePositive": 3,
+      "wrong": [],
+      "unresolved": [],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 1,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-r-number",
+      "name": "数量、比例与范围定位",
+      "predicted": [
+        "tfs4-2012-q082",
+        "tfs4-2012-q083",
+        "tfs4-2012-q092",
+        "tfs4-2013-q088",
+        "tfs4-2013-q093",
+        "tfs4-2023-q086",
+        "tfs4-2023-q088"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-q082",
+        "tfs4-2012-q092",
+        "tfs4-2012-q093",
+        "tfs4-2013-q088",
+        "tfs4-2013-q091",
+        "tfs4-2013-q092",
+        "tfs4-2013-q093",
+        "tfs4-2023-q086",
+        "tfs4-2023-q088"
+      ],
+      "truePositive": 6,
+      "wrong": [],
+      "unresolved": [
+        "tfs4-2012-q083"
+      ],
+      "missing": [
+        "tfs4-2012-q093",
+        "tfs4-2013-q091",
+        "tfs4-2013-q092"
+      ],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 0.8571428571428571,
+      "recallWithinAuditScope": 0.6666666666666666
+    },
+    {
+      "nodeId": "obj-r-time",
+      "name": "时间、日期与顺序定位",
+      "predicted": [
+        "tfs4-2012-q087",
+        "tfs4-2012-q089",
+        "tfs4-2013-q087"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-q087",
+        "tfs4-2012-q089",
+        "tfs4-2012-q090",
+        "tfs4-2013-q087",
+        "tfs4-2023-q087"
+      ],
+      "truePositive": 3,
+      "wrong": [],
+      "unresolved": [],
+      "missing": [
+        "tfs4-2012-q090",
+        "tfs4-2023-q087"
+      ],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 1,
+      "recallWithinAuditScope": 0.6
+    },
+    {
+      "nodeId": "obj-r-detail",
+      "name": "人物、事件与事实定位",
+      "predicted": [
+        "tfs4-2012-q081",
+        "tfs4-2012-q088",
+        "tfs4-2012-q091",
+        "tfs4-2012-q093",
+        "tfs4-2012-q094",
+        "tfs4-2012-q095",
+        "tfs4-2012-q097",
+        "tfs4-2013-q091",
+        "tfs4-2013-q092",
+        "tfs4-2013-q095",
+        "tfs4-2013-q096",
+        "tfs4-2013-q097",
+        "tfs4-2013-q098",
+        "tfs4-2023-q082",
+        "tfs4-2023-q083",
+        "tfs4-2023-q085",
+        "tfs4-2023-q090",
+        "tfs4-2023-q093",
+        "tfs4-2023-q094",
+        "tfs4-2023-q095",
+        "tfs4-2023-q097",
+        "tfs4-2023-q098",
+        "tfs4-2023-q099"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-q081",
+        "tfs4-2012-q088",
+        "tfs4-2012-q094",
+        "tfs4-2012-q095",
+        "tfs4-2012-q097",
+        "tfs4-2013-q096",
+        "tfs4-2013-q097",
+        "tfs4-2013-q098",
+        "tfs4-2023-q082",
+        "tfs4-2023-q083",
+        "tfs4-2023-q085",
+        "tfs4-2023-q090",
+        "tfs4-2023-q094",
+        "tfs4-2023-q097",
+        "tfs4-2023-q099"
+      ],
+      "truePositive": 15,
+      "wrong": [
+        "tfs4-2012-q091",
+        "tfs4-2012-q093",
+        "tfs4-2013-q091",
+        "tfs4-2013-q092",
+        "tfs4-2023-q093",
+        "tfs4-2023-q098"
+      ],
+      "unresolved": [
+        "tfs4-2013-q095",
+        "tfs4-2023-q095"
+      ],
+      "missing": [],
+      "precisionAmongResolved": 0.7142857142857143,
+      "conservativeSupportedFraction": 0.6521739130434783,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-r-cause",
+      "name": "原因、目的与功能定位",
+      "predicted": [
+        "tfs4-2013-q089",
+        "tfs4-2023-q089"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2013-q089",
+        "tfs4-2023-q081",
+        "tfs4-2023-q089",
+        "tfs4-2023-q093"
+      ],
+      "truePositive": 2,
+      "wrong": [],
+      "unresolved": [],
+      "missing": [
+        "tfs4-2023-q081",
+        "tfs4-2023-q093"
+      ],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 1,
+      "recallWithinAuditScope": 0.5
+    },
+    {
+      "nodeId": "obj-r-exclusion",
+      "name": "否定问法与信息排除",
+      "predicted": [
+        "tfs4-2012-q098",
+        "tfs4-2012-q099",
+        "tfs4-2012-q100",
+        "tfs4-2013-q100",
+        "tfs4-2023-q084",
+        "tfs4-2023-q087"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-q098",
+        "tfs4-2012-q099",
+        "tfs4-2012-q100",
+        "tfs4-2013-q100",
+        "tfs4-2023-q084"
+      ],
+      "truePositive": 5,
+      "wrong": [
+        "tfs4-2023-q087"
+      ],
+      "unresolved": [],
+      "missing": [],
+      "precisionAmongResolved": 0.8333333333333334,
+      "conservativeSupportedFraction": 0.8333333333333334,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-r-inference",
+      "name": "跨句推理与隐含结论",
+      "predicted": [
+        "tfs4-2012-q084",
+        "tfs4-2012-q085",
+        "tfs4-2012-q090",
+        "tfs4-2013-q094",
+        "tfs4-2023-q092"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-q085",
+        "tfs4-2023-q092"
+      ],
+      "truePositive": 2,
+      "wrong": [
+        "tfs4-2012-q090"
+      ],
+      "unresolved": [
+        "tfs4-2012-q084",
+        "tfs4-2013-q094"
+      ],
+      "missing": [],
+      "precisionAmongResolved": 0.6666666666666666,
+      "conservativeSupportedFraction": 0.4,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-r-main",
+      "name": "主旨与写作目的",
+      "predicted": [
+        "tfs4-2013-q086",
+        "tfs4-2023-q081",
+        "tfs4-2023-q091"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2013-q086",
+        "tfs4-2023-q091"
+      ],
+      "truePositive": 2,
+      "wrong": [
+        "tfs4-2023-q081"
+      ],
+      "unresolved": [],
+      "missing": [],
+      "precisionAmongResolved": 0.6666666666666666,
+      "conservativeSupportedFraction": 0.6666666666666666,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-r-context",
+      "name": "语境词义与术语解释",
+      "predicted": [
+        "tfs4-2012-q096",
+        "tfs4-2013-q099",
+        "tfs4-2023-q096",
+        "tfs4-2023-q100"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-q091",
+        "tfs4-2012-q096",
+        "tfs4-2013-q099",
+        "tfs4-2023-q096",
+        "tfs4-2023-q098"
+      ],
+      "truePositive": 3,
+      "wrong": [],
+      "unresolved": [
+        "tfs4-2023-q100"
+      ],
+      "missing": [
+        "tfs4-2012-q091",
+        "tfs4-2023-q098"
+      ],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 0.75,
+      "recallWithinAuditScope": 0.6
+    },
+    {
+      "nodeId": "obj-lex-save",
+      "name": "épargner/ménager的节约保留含义",
+      "predicted": [
+        "tfs4-2012-q025",
+        "tfs4-2013-q024"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-q025",
+        "tfs4-2013-q024"
+      ],
+      "truePositive": 2,
+      "wrong": [],
+      "unresolved": [],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 1,
+      "recallWithinAuditScope": 1
+    },
+    {
+      "nodeId": "obj-lex-joy",
+      "name": "喜悦与不满的表达",
+      "predicted": [
+        "tfs4-2012-q030",
+        "tfs4-2023-q030"
+      ],
+      "expectedWithinAuditScope": [
+        "tfs4-2012-q030",
+        "tfs4-2023-q030"
+      ],
+      "truePositive": 2,
+      "wrong": [],
+      "unresolved": [],
+      "missing": [],
+      "precisionAmongResolved": 1,
+      "conservativeSupportedFraction": 1,
+      "recallWithinAuditScope": 1
+    }
+  ],
+  "strata": {
+    "reading": {
+      "nodes": 8,
+      "truePositive": 38,
+      "wrong": 9,
+      "unresolved": 6,
+      "precisionAmongResolved": 0.8085106382978723,
+      "recallWithinAuditScope": 0.8085106382978723
+    },
+    "vocabulary": {
+      "nodes": 2,
+      "truePositive": 4,
+      "wrong": 0,
+      "unresolved": 0,
+      "precisionAmongResolved": 1,
+      "recallWithinAuditScope": 1
+    },
+    "grammar": {
+      "nodes": 28,
+      "truePositive": 76,
+      "wrong": 3,
+      "unresolved": 7,
+      "precisionAmongResolved": 0.9620253164556962,
+      "recallWithinAuditScope": 0.9620253164556962
+    },
+    "crossType": {
+      "nodes": 4,
+      "truePositive": 9,
+      "wrong": 0,
+      "unresolved": 1,
+      "precisionAmongResolved": 1,
+      "recallWithinAuditScope": 0.9
+    }
+  }
+}

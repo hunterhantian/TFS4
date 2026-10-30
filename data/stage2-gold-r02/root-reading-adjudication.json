@@ -1,0 +1,19 @@
+{
+  "scope": "Unblinded adjudication of audit suggestions; preserve reviewer original",
+  "records": [
+    {
+      "questionId": "tfs4-2012-q095",
+      "proposedPrimaryId": "obj-r-detail",
+      "status": "resolved",
+      "reason": "保留一般事实对应。正确项直接改写医疗支出集中于最后两年的事实，无需数字运算或多个数值范围比较；有数字或错误项涉及风险比例不足以让数量成为主操作。",
+      "quote": "Les dépenses de santé augmentent avec l'âge mais sont concentrées pendant les deux dernières années de la vie, quel que soit l'âge de la personne."
+    },
+    {
+      "questionId": "tfs4-2013-q095",
+      "proposedPrimaryId": null,
+      "status": "pending",
+      "reason": "参考C省略proportion，字面可读绝对人数；材料只给跨国比例，不能确认人数比较。与2013/94采用相同证据边界，候选而不直接改归数量。",
+      "quote": "La proportion des décès attribuables à l'alcool parmi les hommes en France (13%) est ainsi bien supérieure"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "auditDate": "2026-10-30",
+  "scope": "read-only three-paper objective pilot; no independent semantic relabelling",
+  "planSha256": "1425f8d1a8932c80d4f76609e64ac9ed0c8b453b7ba33585356e21e60cdab9e4",
+  "counts": {
+    "total": 360,
+    "available": 277,
+    "pending": 83
+  },
+  "byYear": [
+    {
+      "year": 2012,
+      "total": 120,
+      "available": 95,
+      "pending": 25
+    },
+    {
+      "year": 2013,
+      "total": 120,
+      "available": 88,
+      "pending": 32
+    },
+    {
+      "year": 2023,
+      "total": 120,
+      "available": 94,
+      "pending": 26
+    }
+  ],
+  "byType": [
+    {
+      "typeId": "dialogue",
+      "total": 30,
+      "available": 0,
+      "pending": 30
+    },
+    {
+      "typeId": "interview",
+      "total": 30,
+      "available": 0,
+      "pending": 30
+    },
+    {
+      "typeId": "synonym",
+      "total": 15,
+      "available": 15,
+      "pending": 0
+    },
+    {
+      "typeId": "antonym",
+      "total": 15,
+      "available": 15,
+      "pending": 0
+    },
+    {
+      "typeId": "cloze",
+      "total": 30,
+      "available": 29,
+      "pending": 1
+    },
+    {
+      "typeId": "grammar-choice",
+      "total": 120,
+      "available": 110,
+      "pending": 10
+    },
+    {
+      "typeId": "reading",
+      "total": 60,
+      "available": 53,
+      "pending": 7
+    },
+    {
+      "typeId": "verb-form",
+      "total": 60,
+      "available": 55,
+      "pending": 5
+    }
+  ],
+  "byDomain": [
+    {
+      "id": "obj-grammar",
+      "total": 185,
+      "available": 170,
+      "pending": 15
+    },
+    {
+      "id": "obj-vocabulary",
+      "total": 55,
+      "available": 54,
+      "pending": 1
+    },
+    {
+      "id": "obj-reading",
+      "total": 60,
+      "available": 53,
+      "pending": 7
+    },
+    {
+      "id": "obj-listening",
+      "total": 60,
+      "available": 0,
+      "pending": 60
+    }
+  ],
+  "leafCoverage": {
+    "total": 190,
+    "withAvailable": 172,
+    "pendingOnly": 18,
+    "singleAvailable": 134,
+    "multipleAvailable": 38,
+    "availableQuestionsInMultipleLeaves": 143,
+    "crossYearLeaves": 36,
+    "availableQuestionsInCrossYearLeaves": 138,
+    "crossTypeLeaves": 4,
+    "availableQuestionsInCrossTypeLeaves": 10
+  },
+  "crossTypeNodes": [
+    {
+      "id": "obj-imparfait-habit",
+      "questions": 2,
+      "types": [
+        "grammar-choice",
+        "verb-form"
+      ]
+    },
+    {
+      "id": "obj-past-future",
+      "questions": 3,
+      "types": [
+        "verb-form",
+        "grammar-choice"
+      ]
+    },
+    {
+      "id": "obj-infinitive-past",
+      "questions": 2,
+      "types": [
+        "grammar-choice",
+        "verb-form"
+      ]
+    },
+    {
+      "id": "obj-gerund",
+      "questions": 3,
+      "types": [
+        "grammar-choice",
+        "verb-form"
+      ]
+    }
+  ],
+  "evidence": {
+    "recordsWithSingleEvidence": 360,
+    "questionEvidence": 270,
+    "materialEvidence": 90,
+    "genericBasisPrefix": 349,
+    "note": "Quote presence is traceability, not proof that the assigned rule uniquely determines the answer."
+  },
+  "checks": {
+    "planDatabaseLabelsAndStatesAgree": true,
+    "databaseIntegrity": "ok",
+    "foreignKeyErrors": 0,
+    "possessiveAvailable": 4,
+    "gerundAvailable": 3
+  },
+  "accuracy": {
+    "independentGoldLabelsAvailable": false,
+    "blindReviewArtifactsAvailable": false,
+    "heldOutYearEvaluated": false,
+    "semanticAccuracy": null,
+    "retrievalPrecision": null,
+    "reviewerAgreement": null,
+    "annotationTimeAndCostMeasured": false
+  },
+  "verdict": {
+    "engineeringPilotReusable": true,
+    "goldDatasetEstablished": false,
+    "full21PaperRolloutReady": false,
+    "controlledNextPaperAfterQualityGate": true
+  }
+}

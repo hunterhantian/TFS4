@@ -1,5 +1,7 @@
 # Codex 执行入口
 
+后续剩余MD生产按用户已确认的 `docs/Stage2剩余MD分批生产计划.md` 推进：三卷基线收敛 → 未见场次完整验证 → 每批2–3套先校对后标注 → 逐批验收。
+
 继续开发前先读 `docs/CODEX-WEB-HANDOFF.md`、`docs/软柿子开发清单.md`、`docs/Stage2匹配原则.md` 和 `docs/2026-10-30-三卷测试审计与金标方案.md`。交接文档是当前事实导航，历史记录不是待重做任务。
 
 - 当前开发分支为 `stage-2-question-bank`；`main` 是已验收Stage1基线。继续在Stage2分支或其任务分支工作，不自动合并main、不自动部署。

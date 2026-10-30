@@ -1,0 +1,27 @@
+{
+  "id": "2011-explanations",
+  "year": "2011",
+  "sourcePdfSha256": "755013f807f83297b15ce6c40d8093dfc55551f14271211c034262b13c3b54c7",
+  "parser": {
+    "tier": "fast",
+    "version": "latest",
+    "processing_options": {
+      "ocr_parameters": {
+        "languages": [
+          "fr",
+          "ch_sim"
+        ]
+      }
+    },
+    "output_options": {
+      "watermark_handling": "remove"
+    }
+  },
+  "pages": 73,
+  "emptyPages": [],
+  "output": "2011 年法语专业四级真题详解.md",
+  "outputSha256": "4ba18164f7c8d1d886e1fd1d774f0f69aba953bfb90ec07e6e3397775d332dd3",
+  "status": "unreviewed",
+  "answersAdopted": false,
+  "classificationApproved": false
+}

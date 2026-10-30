@@ -1,0 +1,27 @@
+{
+  "id": "2010-explanations",
+  "year": "2010",
+  "sourcePdfSha256": "b6d23e06b9f8b64d18b3afb4c760fc417c650419ee8843710c45f0a96668edce",
+  "parser": {
+    "tier": "fast",
+    "version": "latest",
+    "processing_options": {
+      "ocr_parameters": {
+        "languages": [
+          "fr",
+          "ch_sim"
+        ]
+      }
+    },
+    "output_options": {
+      "watermark_handling": "remove"
+    }
+  },
+  "pages": 67,
+  "emptyPages": [],
+  "output": "2010年法语专四真题详解.md",
+  "outputSha256": "2150efb85550bdde687d1b02ad1d57b25c52260fcf0b1ac847ca95225b8a2412",
+  "status": "unreviewed",
+  "answersAdopted": false,
+  "classificationApproved": false
+}

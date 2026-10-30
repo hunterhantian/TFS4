@@ -1,0 +1,27 @@
+{
+  "id": "2014-explanations",
+  "year": "2014",
+  "sourcePdfSha256": "91189c84af7727a499de57616f025b56835a76700c208d752859e3e36dc6da60",
+  "parser": {
+    "tier": "fast",
+    "version": "latest",
+    "processing_options": {
+      "ocr_parameters": {
+        "languages": [
+          "fr",
+          "ch_sim"
+        ]
+      }
+    },
+    "output_options": {
+      "watermark_handling": "remove"
+    }
+  },
+  "pages": 92,
+  "emptyPages": [],
+  "output": "2014年法语专四解析.md",
+  "outputSha256": "cc6581e25e74936d6178250996f0eb1c9499aafc9fbf14757d94b4067acc7fab",
+  "status": "unreviewed",
+  "answersAdopted": false,
+  "classificationApproved": false
+}

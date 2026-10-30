@@ -1,0 +1,27 @@
+{
+  "id": "2012-explanations",
+  "year": "2012",
+  "sourcePdfSha256": "d8fab1b8678e3180f82acac3907a59e4d9e32d3bad454530f8398b25e10d5e5d",
+  "parser": {
+    "tier": "fast",
+    "version": "latest",
+    "processing_options": {
+      "ocr_parameters": {
+        "languages": [
+          "fr",
+          "ch_sim"
+        ]
+      }
+    },
+    "output_options": {
+      "watermark_handling": "remove"
+    }
+  },
+  "pages": 70,
+  "emptyPages": [],
+  "output": "2012年法语专四真题解析(1).md",
+  "outputSha256": "c4e6d25fef08f90d68ca7b08b1200cae33031e8815fd2a131b7008366f7ed875",
+  "status": "unreviewed",
+  "answersAdopted": false,
+  "classificationApproved": false
+}

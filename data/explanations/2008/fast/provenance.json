@@ -1,0 +1,27 @@
+{
+  "id": "2008-explanations",
+  "year": "2008",
+  "sourcePdfSha256": "0f45ba53c36ad5be744078292bd4f701c569a8ffd998ab13a1dc4acad56c1716",
+  "parser": {
+    "tier": "fast",
+    "version": "latest",
+    "processing_options": {
+      "ocr_parameters": {
+        "languages": [
+          "fr",
+          "ch_sim"
+        ]
+      }
+    },
+    "output_options": {
+      "watermark_handling": "remove"
+    }
+  },
+  "pages": 87,
+  "emptyPages": [],
+  "output": "2008年法语专四真题解析.md",
+  "outputSha256": "eafc3490b89f468eccb4a6fbe5afad1b1a01b1100944a5c724e93662dab74a9c",
+  "status": "unreviewed",
+  "answersAdopted": false,
+  "classificationApproved": false
+}

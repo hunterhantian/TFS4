@@ -1,0 +1,27 @@
+{
+  "id": "2018-explanations",
+  "year": "2018",
+  "sourcePdfSha256": "c9373dce405e860c25cd9b78b9f0bce67098a1f5a8846dd07cc39c40072ff6fd",
+  "parser": {
+    "tier": "fast",
+    "version": "latest",
+    "processing_options": {
+      "ocr_parameters": {
+        "languages": [
+          "fr",
+          "ch_sim"
+        ]
+      }
+    },
+    "output_options": {
+      "watermark_handling": "remove"
+    }
+  },
+  "pages": 89,
+  "emptyPages": [],
+  "output": "2018年法语专四真题解析.md",
+  "outputSha256": "40272c110957e63d376d14acf248819e74550eb8190b9aa133a7e1dbeaf176f2",
+  "status": "unreviewed",
+  "answersAdopted": false,
+  "classificationApproved": false
+}

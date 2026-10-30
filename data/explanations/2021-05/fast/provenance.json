@@ -1,0 +1,27 @@
+{
+  "id": "2021-05-explanations",
+  "year": "2021-05",
+  "sourcePdfSha256": "8cdcf679dd4b3107cd169ef067f735d716126029a09aad254f6bf34f389daddc",
+  "parser": {
+    "tier": "fast",
+    "version": "latest",
+    "processing_options": {
+      "ocr_parameters": {
+        "languages": [
+          "fr",
+          "ch_sim"
+        ]
+      }
+    },
+    "output_options": {
+      "watermark_handling": "remove"
+    }
+  },
+  "pages": 90,
+  "emptyPages": [],
+  "output": "2021年5月法语专四真题解析.md",
+  "outputSha256": "5e5968f3718f0c166f24b99a80daebff170840f34d35dc0c43630fde8f6eed8c",
+  "status": "unreviewed",
+  "answersAdopted": false,
+  "classificationApproved": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2022-explanations",
+  "year": "2022",
+  "sourcePdfSha256": "6e5dc4ffec94ae4cdb4fa82665e99382a3a8463f494284159d3e6b86581023fa",
+  "parser": {
+    "tier": "fast",
+    "version": "latest",
+    "processing_options": {
+      "ocr_parameters": {
+        "languages": [
+          "fr",
+          "ch_sim"
+        ]
+      }
+    },
+    "output_options": {
+      "watermark_handling": "remove"
+    }
+  },
+  "pages": 80,
+  "emptyPages": [],
+  "output": "2022年法语专四真题解析为主，别看答案.md",
+  "outputSha256": "464eadc95bed7dcf070c3e044c45e02d91b86d8223c8706325dfd9e04a9a43aa",
+  "status": "unreviewed",
+  "answersAdopted": false,
+  "classificationApproved": false
+}

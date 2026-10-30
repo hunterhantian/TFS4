@@ -1,0 +1,27 @@
+{
+  "id": "2024-explanations",
+  "year": "2024",
+  "sourcePdfSha256": "b226de845283a376a135852fc47ed0b6d8dfefec3929c4bc7b1c139b7ec16b09",
+  "parser": {
+    "tier": "fast",
+    "version": "latest",
+    "processing_options": {
+      "ocr_parameters": {
+        "languages": [
+          "fr",
+          "ch_sim"
+        ]
+      }
+    },
+    "output_options": {
+      "watermark_handling": "remove"
+    }
+  },
+  "pages": 109,
+  "emptyPages": [],
+  "output": "2024年法语专业四级真题解析.md",
+  "outputSha256": "9a190fe2ae82ee749b4e3e6cad673022ca997bf12d98b81a559f0f0f64ffb9f1",
+  "status": "unreviewed",
+  "answersAdopted": false,
+  "classificationApproved": false
+}

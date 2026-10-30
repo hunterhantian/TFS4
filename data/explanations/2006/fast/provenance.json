@@ -1,0 +1,27 @@
+{
+  "id": "2006-explanations",
+  "year": "2006",
+  "sourcePdfSha256": "2c47ac20ddd5360d2174730bccc5ef79f00db90dd1bcc1bd4005a951f487283d",
+  "parser": {
+    "tier": "fast",
+    "version": "latest",
+    "processing_options": {
+      "ocr_parameters": {
+        "languages": [
+          "fr",
+          "ch_sim"
+        ]
+      }
+    },
+    "output_options": {
+      "watermark_handling": "remove"
+    }
+  },
+  "pages": 81,
+  "emptyPages": [],
+  "output": "2006年法语专四真题解析.md",
+  "outputSha256": "67d7a8ac6c6c756ba51e977a9eba731d89fb11ba530b97d0e41db85f89cf2667",
+  "status": "unreviewed",
+  "answersAdopted": false,
+  "classificationApproved": false
+}

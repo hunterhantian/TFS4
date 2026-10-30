@@ -1,0 +1,224 @@
+{
+  "createdDate": "2026-10-30",
+  "scope": "LlamaParse explanation PDFs converted to Markdown; all outputs unreviewed",
+  "fastConfig": {
+    "tier": "fast",
+    "version": "latest",
+    "languages": [
+      "fr",
+      "ch_sim"
+    ],
+    "watermarkHandling": "remove (ignored by fast per API docs)"
+  },
+  "documents": [
+    {
+      "year": "2005",
+      "version": "fast",
+      "id": "2005-explanations",
+      "pages": 92,
+      "md": "2005年法语专四真题解析.md",
+      "bytes": 187847,
+      "sha256": "a18c6150504a5de71f8b0e189700138b391003be584b82374d433d1cc644b6a4"
+    },
+    {
+      "year": "2006",
+      "version": "fast",
+      "id": "2006-explanations",
+      "pages": 81,
+      "md": "2006年法语专四真题解析.md",
+      "bytes": 172868,
+      "sha256": "67d7a8ac6c6c756ba51e977a9eba731d89fb11ba530b97d0e41db85f89cf2667"
+    },
+    {
+      "year": "2007",
+      "version": "fast",
+      "id": "2007-explanations",
+      "pages": 91,
+      "md": "2007年法语专四真题解析.md",
+      "bytes": 202172,
+      "sha256": "ab51b8b188ca60a89d7ca93e0e90e4ea0c5c4c142c402118313a47556fdfb1bf"
+    },
+    {
+      "year": "2008",
+      "version": "fast",
+      "id": "2008-explanations",
+      "pages": 87,
+      "md": "2008年法语专四真题解析.md",
+      "bytes": 211677,
+      "sha256": "eafc3490b89f468eccb4a6fbe5afad1b1a01b1100944a5c724e93662dab74a9c"
+    },
+    {
+      "year": "2009",
+      "version": "fast",
+      "id": "2009-explanations",
+      "pages": 35,
+      "md": "2009年法语专四真题解析.md",
+      "bytes": 48058,
+      "sha256": "fc4d5ca5d836af6aea859dd147c6e169ca3470b10e3b32a81368d577cb09902d"
+    },
+    {
+      "year": "2010",
+      "version": "fast",
+      "id": "2010-explanations",
+      "pages": 67,
+      "md": "2010年法语专四真题详解.md",
+      "bytes": 78405,
+      "sha256": "2150efb85550bdde687d1b02ad1d57b25c52260fcf0b1ac847ca95225b8a2412"
+    },
+    {
+      "year": "2011",
+      "version": "fast",
+      "id": "2011-explanations",
+      "pages": 73,
+      "md": "2011 年法语专业四级真题详解.md",
+      "bytes": 77187,
+      "sha256": "4ba18164f7c8d1d886e1fd1d774f0f69aba953bfb90ec07e6e3397775d332dd3"
+    },
+    {
+      "year": "2012",
+      "version": "fast",
+      "id": "2012-explanations",
+      "pages": 70,
+      "md": "2012年法语专四真题解析(1).md",
+      "bytes": 170752,
+      "sha256": "c4e6d25fef08f90d68ca7b08b1200cae33031e8815fd2a131b7008366f7ed875"
+    },
+    {
+      "year": "2013",
+      "version": "fast",
+      "id": "2013-explanations",
+      "pages": 89,
+      "md": "2013年法语专四真题解析.md",
+      "bytes": 196709,
+      "sha256": "2550f8ee073a34aa0ef1f6b6ee9c79bbec3e67ccc0d170bd4427153469071128"
+    },
+    {
+      "year": "2014",
+      "version": "fast",
+      "id": "2014-explanations",
+      "pages": 92,
+      "md": "2014年法语专四解析.md",
+      "bytes": 103669,
+      "sha256": "cc6581e25e74936d6178250996f0eb1c9499aafc9fbf14757d94b4067acc7fab"
+    },
+    {
+      "year": "2015",
+      "version": "fast",
+      "id": "2015-explanations",
+      "pages": 96,
+      "md": "2015法语专四真题解析.md",
+      "bytes": 111946,
+      "sha256": "fc6124eeb8488704f019bec1b0e93519346379461735d498219ab5fe0391cdc6"
+    },
+    {
+      "year": "2016",
+      "version": "fast",
+      "id": "2016-explanations",
+      "pages": 88,
+      "md": "2016法语专四解析.md",
+      "bytes": 104874,
+      "sha256": "ae10c69ae9f3d7cf59fc2c9035cde8d61dae88e93f7d8b3c9feadbc8db52155f"
+    },
+    {
+      "year": "2017",
+      "version": "fast",
+      "id": "2017-explanations",
+      "pages": 82,
+      "md": "2017年法语专四真题解析.md",
+      "bytes": 95010,
+      "sha256": "b8b82d32749cb9a297dbb0ef75243605d9dec7ced48adde4fa926655bc05a8bd"
+    },
+    {
+      "year": "2018",
+      "version": "fast",
+      "id": "2018-explanations",
+      "pages": 89,
+      "md": "2018年法语专四真题解析.md",
+      "bytes": 189995,
+      "sha256": "40272c110957e63d376d14acf248819e74550eb8190b9aa133a7e1dbeaf176f2"
+    },
+    {
+      "year": "2019",
+      "version": "fast",
+      "id": "2019-explanations",
+      "pages": 75,
+      "md": "2019年法语专四解析（2）_20250522103947.md",
+      "bytes": 166023,
+      "sha256": "ad526d9db2866a5cf9f3f82e1c202abaa22357d087cdc963b0b6a58c0d283126"
+    },
+    {
+      "year": "2021-05",
+      "version": "fast",
+      "id": "2021-05-explanations",
+      "pages": 90,
+      "md": "2021年5月法语专四真题解析.md",
+      "bytes": 212861,
+      "sha256": "5e5968f3718f0c166f24b99a80daebff170840f34d35dc0c43630fde8f6eed8c"
+    },
+    {
+      "year": "2021-06",
+      "version": "fast",
+      "id": "2021-06-explanations",
+      "pages": 89,
+      "md": "2021年6月法语专四真题解析(2).md",
+      "bytes": 209790,
+      "sha256": "f686723a39258949065883d65487dd306aa2f5af193bac260d5453ab231359a0"
+    },
+    {
+      "year": "2022",
+      "version": "fast",
+      "id": "2022-explanations",
+      "pages": 80,
+      "md": "2022年法语专四真题解析为主，别看答案.md",
+      "bytes": 202013,
+      "sha256": "464eadc95bed7dcf070c3e044c45e02d91b86d8223c8706325dfd9e04a9a43aa"
+    },
+    {
+      "year": "2023",
+      "version": "fast-main",
+      "id": "2023-explanations",
+      "pages": 87,
+      "md": "2023年法语专四真题解析.md",
+      "bytes": 201747,
+      "sha256": "fa2760d02a35900be08c3209ca79ec3d286aa4ac66390c735d4fd4c19f79f2fe"
+    },
+    {
+      "year": "2023",
+      "version": "fast-supplement",
+      "id": "2023-explanations-supplement",
+      "pages": 88,
+      "md": "2023年法语专四真题解析5758看解析，59AB不确定.md",
+      "bytes": 203347,
+      "sha256": "df8d8a19000068c5e454720d7beb53743f64685a2e96bcd4b47be431edebcafa"
+    },
+    {
+      "year": "2024",
+      "version": "fast",
+      "id": "2024-explanations",
+      "pages": 109,
+      "md": "2024年法语专业四级真题解析.md",
+      "bytes": 157187,
+      "sha256": "9a190fe2ae82ee749b4e3e6cad673022ca997bf12d98b81a559f0f0f64ffb9f1"
+    },
+    {
+      "year": "2025",
+      "version": "fast",
+      "id": "2025-explanations",
+      "pages": 100,
+      "md": "2025年法语专四真题解析.md",
+      "bytes": 237534,
+      "sha256": "e154fbcd949cbf8873fde37353a0b9a25c62eafe910c1b847d14bc59c8b4451a"
+    },
+    {
+      "year": "2025",
+      "version": "v1",
+      "pages": 100,
+      "md": "2025年法语专四真题解析.md",
+      "bytes": 255947,
+      "sha256": "2d23e59102f56a9f51f65ce011bf49216299e75623bf641defc9245e97a5b21b"
+    }
+  ],
+  "totalFastOutputs": 22,
+  "totalFastPages": 1850,
+  "note": "2025/v1 cost_effective result retained; all fast outputs are complete runs under approved parameters. 2023 main and supplement kept separate."
+}

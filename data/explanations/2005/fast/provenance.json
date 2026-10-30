@@ -1,0 +1,27 @@
+{
+  "id": "2005-explanations",
+  "year": "2005",
+  "sourcePdfSha256": "9bc83140874f261caf4d9ac5d29af96ad8a4ee5cc02180a7425131646dc27203",
+  "parser": {
+    "tier": "fast",
+    "version": "latest",
+    "processing_options": {
+      "ocr_parameters": {
+        "languages": [
+          "fr",
+          "ch_sim"
+        ]
+      }
+    },
+    "output_options": {
+      "watermark_handling": "remove"
+    }
+  },
+  "pages": 92,
+  "emptyPages": [],
+  "output": "2005年法语专四真题解析.md",
+  "outputSha256": "a18c6150504a5de71f8b0e189700138b391003be584b82374d433d1cc644b6a4",
+  "status": "unreviewed",
+  "answersAdopted": false,
+  "classificationApproved": false
+}

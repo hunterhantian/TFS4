@@ -1,0 +1,27 @@
+{
+  "id": "2009-explanations",
+  "year": "2009",
+  "sourcePdfSha256": "b424a8cc0ba3120294c0c7d58dffd1e5ad28c6dabc1763003424beec7014a7e6",
+  "parser": {
+    "tier": "fast",
+    "version": "latest",
+    "processing_options": {
+      "ocr_parameters": {
+        "languages": [
+          "fr",
+          "ch_sim"
+        ]
+      }
+    },
+    "output_options": {
+      "watermark_handling": "remove"
+    }
+  },
+  "pages": 35,
+  "emptyPages": [],
+  "output": "2009年法语专四真题解析.md",
+  "outputSha256": "fc4d5ca5d836af6aea859dd147c6e169ca3470b10e3b32a81368d577cb09902d",
+  "status": "unreviewed",
+  "answersAdopted": false,
+  "classificationApproved": false
+}

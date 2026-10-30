@@ -1,0 +1,27 @@
+{
+  "id": "2015-explanations",
+  "year": "2015",
+  "sourcePdfSha256": "9cd38b9bd48e96e3d8c62f68b2267641a0928f9bf8928ab20649dcb0d6f49cc6",
+  "parser": {
+    "tier": "fast",
+    "version": "latest",
+    "processing_options": {
+      "ocr_parameters": {
+        "languages": [
+          "fr",
+          "ch_sim"
+        ]
+      }
+    },
+    "output_options": {
+      "watermark_handling": "remove"
+    }
+  },
+  "pages": 96,
+  "emptyPages": [],
+  "output": "2015法语专四真题解析.md",
+  "outputSha256": "fc6124eeb8488704f019bec1b0e93519346379461735d498219ab5fe0391cdc6",
+  "status": "unreviewed",
+  "answersAdopted": false,
+  "classificationApproved": false
+}

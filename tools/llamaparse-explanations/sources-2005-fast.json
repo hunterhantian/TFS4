@@ -1,0 +1,31 @@
+{
+  "createdDate": "2026-10-30",
+  "note": "2005单卷试跑：fast，fr/ch_sim，watermark_handling=remove。官方文档说明fast忽略去水印选项，不保证去水印生效。",
+  "keyFile": "D:/老蒋/llamakeys.txt",
+  "config": {
+    "tier": "fast",
+    "version": "latest",
+    "processing_options": {
+      "ocr_parameters": {
+        "languages": [
+          "fr",
+          "ch_sim"
+        ]
+      }
+    },
+    "output_options": {
+      "watermark_handling": "remove"
+    }
+  },
+  "items": [
+    {
+      "id": "2005-explanations",
+      "sitting": "2005",
+      "role": "explanations",
+      "input": "D:/老蒋/2005-2024答案详细解析/2005年法语专四真题解析.pdf",
+      "inputSha256": "9bc83140874f261caf4d9ac5d29af96ad8a4ee5cc02180a7425131646dc27203",
+      "expectedPages": 92,
+      "note": ""
+    }
+  ]
+}

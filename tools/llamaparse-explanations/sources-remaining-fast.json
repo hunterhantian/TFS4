@@ -1,0 +1,211 @@
+{
+  "createdDate": "2026-10-30",
+  "note": "2005 fast试跑完成后的剩余21份PDF；含2023两个版本和2025，全部用fast/fr,ch_sim/watermark_handling=remove。2025此前cost_effective结果独立保留，本批按新参数重新转换。",
+  "keyFile": "D:/老蒋/llamakeys.txt",
+  "config": {
+    "tier": "fast",
+    "version": "latest",
+    "processing_options": {
+      "ocr_parameters": {
+        "languages": [
+          "fr",
+          "ch_sim"
+        ]
+      }
+    },
+    "output_options": {
+      "watermark_handling": "remove"
+    }
+  },
+  "items": [
+    {
+      "id": "2006-explanations",
+      "sitting": "2006",
+      "role": "explanations",
+      "input": "D:/老蒋/2005-2024答案详细解析/2006年法语专四真题解析.pdf",
+      "inputSha256": "2c47ac20ddd5360d2174730bccc5ef79f00db90dd1bcc1bd4005a951f487283d",
+      "expectedPages": 81,
+      "note": ""
+    },
+    {
+      "id": "2007-explanations",
+      "sitting": "2007",
+      "role": "explanations",
+      "input": "D:/老蒋/2005-2024答案详细解析/2007年法语专四真题解析.pdf",
+      "inputSha256": "fd8bbac92f67bbab886d8a33e3114b63433fd76308257059555e8a0a18ab7e38",
+      "expectedPages": 91,
+      "note": ""
+    },
+    {
+      "id": "2008-explanations",
+      "sitting": "2008",
+      "role": "explanations",
+      "input": "D:/老蒋/2005-2024答案详细解析/2008年法语专四真题解析.pdf",
+      "inputSha256": "0f45ba53c36ad5be744078292bd4f701c569a8ffd998ab13a1dc4acad56c1716",
+      "expectedPages": 87,
+      "note": ""
+    },
+    {
+      "id": "2009-explanations",
+      "sitting": "2009",
+      "role": "explanations",
+      "input": "D:/老蒋/2005-2024答案详细解析/2009年法语专四真题解析.pdf",
+      "inputSha256": "b424a8cc0ba3120294c0c7d58dffd1e5ad28c6dabc1763003424beec7014a7e6",
+      "expectedPages": 35,
+      "note": ""
+    },
+    {
+      "id": "2010-explanations",
+      "sitting": "2010",
+      "role": "explanations",
+      "input": "D:/老蒋/2005-2024答案详细解析/2010年法语专四真题详解.pdf",
+      "inputSha256": "b6d23e06b9f8b64d18b3afb4c760fc417c650419ee8843710c45f0a96668edce",
+      "expectedPages": 67,
+      "note": ""
+    },
+    {
+      "id": "2011-explanations",
+      "sitting": "2011",
+      "role": "explanations",
+      "input": "D:/老蒋/2005-2024答案详细解析/2011 年法语专业四级真题详解.pdf",
+      "inputSha256": "755013f807f83297b15ce6c40d8093dfc55551f14271211c034262b13c3b54c7",
+      "expectedPages": 73,
+      "note": ""
+    },
+    {
+      "id": "2012-explanations",
+      "sitting": "2012",
+      "role": "explanations",
+      "input": "D:/老蒋/2005-2024答案详细解析/2012年法语专四真题解析(1).pdf",
+      "inputSha256": "d8fab1b8678e3180f82acac3907a59e4d9e32d3bad454530f8398b25e10d5e5d",
+      "expectedPages": 70,
+      "note": ""
+    },
+    {
+      "id": "2013-explanations",
+      "sitting": "2013",
+      "role": "explanations",
+      "input": "D:/老蒋/2005-2024答案详细解析/2013年法语专四真题解析.pdf",
+      "inputSha256": "cea6c94c3befd32851f6a088b7f4d206a41ba1f5a84c3b467046c165a9986c82",
+      "expectedPages": 89,
+      "note": ""
+    },
+    {
+      "id": "2014-explanations",
+      "sitting": "2014",
+      "role": "explanations",
+      "input": "D:/老蒋/2005-2024答案详细解析/2014年法语专四解析.pdf",
+      "inputSha256": "91189c84af7727a499de57616f025b56835a76700c208d752859e3e36dc6da60",
+      "expectedPages": 92,
+      "note": ""
+    },
+    {
+      "id": "2015-explanations",
+      "sitting": "2015",
+      "role": "explanations",
+      "input": "D:/老蒋/2005-2024答案详细解析/2015法语专四真题解析.pdf",
+      "inputSha256": "9cd38b9bd48e96e3d8c62f68b2267641a0928f9bf8928ab20649dcb0d6f49cc6",
+      "expectedPages": 96,
+      "note": ""
+    },
+    {
+      "id": "2016-explanations",
+      "sitting": "2016",
+      "role": "explanations",
+      "input": "D:/老蒋/2005-2024答案详细解析/2016法语专四解析.pdf",
+      "inputSha256": "0121bf959689326753a2fec2472466fa877ed85d7d3fe55d8b261792bfd1e0bd",
+      "expectedPages": 88,
+      "note": ""
+    },
+    {
+      "id": "2017-explanations",
+      "sitting": "2017",
+      "role": "explanations",
+      "input": "D:/老蒋/2005-2024答案详细解析/2017年法语专四真题解析.pdf",
+      "inputSha256": "cfd23348e7fafdd79e0910a2e44060eef2de8a8fbd43b307c0868dc39e167085",
+      "expectedPages": 82,
+      "note": ""
+    },
+    {
+      "id": "2018-explanations",
+      "sitting": "2018",
+      "role": "explanations",
+      "input": "D:/老蒋/2005-2024答案详细解析/2018年法语专四真题解析.pdf",
+      "inputSha256": "c9373dce405e860c25cd9b78b9f0bce67098a1f5a8846dd07cc39c40072ff6fd",
+      "expectedPages": 89,
+      "note": ""
+    },
+    {
+      "id": "2019-explanations",
+      "sitting": "2019",
+      "role": "explanations",
+      "input": "D:/老蒋/2005-2024答案详细解析/2019年法语专四解析（2）_20250522103947.pdf",
+      "inputSha256": "00ba5be89add91de7f41be74c10510f85014a5ac3104303faa5262cda899794b",
+      "expectedPages": 75,
+      "note": ""
+    },
+    {
+      "id": "2021-05-explanations",
+      "sitting": "2021-05",
+      "role": "explanations",
+      "input": "D:/老蒋/2005-2024答案详细解析/2021年5月法语专四真题解析.pdf",
+      "inputSha256": "8cdcf679dd4b3107cd169ef067f735d716126029a09aad254f6bf34f389daddc",
+      "expectedPages": 90,
+      "note": ""
+    },
+    {
+      "id": "2021-06-explanations",
+      "sitting": "2021-06",
+      "role": "explanations",
+      "input": "D:/老蒋/2005-2024答案详细解析/2021年6月法语专四真题解析(2).pdf",
+      "inputSha256": "ecc2f5f859aeaea8ef6d80e043b8dc919b01a5e06e48f9576cfb40cebd3515d3",
+      "expectedPages": 89,
+      "note": ""
+    },
+    {
+      "id": "2022-explanations",
+      "sitting": "2022",
+      "role": "explanations",
+      "input": "D:/老蒋/2005-2024答案详细解析/2022年法语专四真题解析为主，别看答案.pdf",
+      "inputSha256": "6e5dc4ffec94ae4cdb4fa82665e99382a3a8463f494284159d3e6b86581023fa",
+      "expectedPages": 80,
+      "note": "原文件名注明“解析为主，别看答案”；转换保留原文，不将其中答案直接采纳为正式判分。"
+    },
+    {
+      "id": "2023-explanations",
+      "sitting": "2023",
+      "role": "explanations",
+      "input": "D:/老蒋/2005-2024答案详细解析/2023年法语专四真题解析.pdf",
+      "inputSha256": "fc3fac888777c67328e9761e2ef866ce5f7526eea37a7b7df3abb9da9fb4e948",
+      "expectedPages": 87,
+      "note": ""
+    },
+    {
+      "id": "2023-explanations-supplement",
+      "sitting": "2023",
+      "role": "explanations",
+      "input": "D:/老蒋/2005-2024答案详细解析/2023年法语专四真题解析5758看解析，59AB不确定.pdf",
+      "inputSha256": "e918cca52a2df12d8364174ed948766169d391c6b5c4c2c371207a778087dbb7",
+      "expectedPages": 88,
+      "note": "2023另一版本；原文件名注明57/58看解析、59AB不确定。独立保存，不覆盖或合并主文件。"
+    },
+    {
+      "id": "2024-explanations",
+      "sitting": "2024",
+      "role": "explanations",
+      "input": "D:/老蒋/2005-2024答案详细解析/2024年法语专业四级真题解析.pdf",
+      "inputSha256": "b226de845283a376a135852fc47ed0b6d8dfefec3929c4bc7b1c139b7ec16b09",
+      "expectedPages": 109,
+      "note": ""
+    },
+    {
+      "id": "2025-explanations",
+      "sitting": "2025",
+      "role": "explanations",
+      "input": "D:/老蒋/2005-2024答案详细解析/2025年法语专四真题解析.pdf",
+      "inputSha256": "c0326bcac00956fb20f816fce9daec9f3a78f11d258665ff86d61109fd15637d",
+      "expectedPages": 100,
+      "note": ""
+    }
+  ]
+}

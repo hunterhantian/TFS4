@@ -1,0 +1,28 @@
+{
+  "id": "2023-explanations",
+  "year": "2023",
+  "variant": "fast-main",
+  "sourcePdfSha256": "fc3fac888777c67328e9761e2ef866ce5f7526eea37a7b7df3abb9da9fb4e948",
+  "parser": {
+    "tier": "fast",
+    "version": "latest",
+    "processing_options": {
+      "ocr_parameters": {
+        "languages": [
+          "fr",
+          "ch_sim"
+        ]
+      }
+    },
+    "output_options": {
+      "watermark_handling": "remove"
+    }
+  },
+  "pages": 87,
+  "emptyPages": [],
+  "output": "2023年法语专四真题解析.md",
+  "outputSha256": "fa2760d02a35900be08c3209ca79ec3d286aa4ac66390c735d4fd4c19f79f2fe",
+  "status": "unreviewed",
+  "answersAdopted": false,
+  "classificationApproved": false
+}

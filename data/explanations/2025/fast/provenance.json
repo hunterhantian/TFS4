@@ -1,0 +1,27 @@
+{
+  "id": "2025-explanations",
+  "year": "2025",
+  "sourcePdfSha256": "c0326bcac00956fb20f816fce9daec9f3a78f11d258665ff86d61109fd15637d",
+  "parser": {
+    "tier": "fast",
+    "version": "latest",
+    "processing_options": {
+      "ocr_parameters": {
+        "languages": [
+          "fr",
+          "ch_sim"
+        ]
+      }
+    },
+    "output_options": {
+      "watermark_handling": "remove"
+    }
+  },
+  "pages": 100,
+  "emptyPages": [],
+  "output": "2025年法语专四真题解析.md",
+  "outputSha256": "e154fbcd949cbf8873fde37353a0b9a25c62eafe910c1b847d14bc59c8b4451a",
+  "status": "unreviewed",
+  "answersAdopted": false,
+  "classificationApproved": false
+}

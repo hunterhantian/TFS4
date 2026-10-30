@@ -1,0 +1,27 @@
+{
+  "id": "2021-06-explanations",
+  "year": "2021-06",
+  "sourcePdfSha256": "ecc2f5f859aeaea8ef6d80e043b8dc919b01a5e06e48f9576cfb40cebd3515d3",
+  "parser": {
+    "tier": "fast",
+    "version": "latest",
+    "processing_options": {
+      "ocr_parameters": {
+        "languages": [
+          "fr",
+          "ch_sim"
+        ]
+      }
+    },
+    "output_options": {
+      "watermark_handling": "remove"
+    }
+  },
+  "pages": 89,
+  "emptyPages": [],
+  "output": "2021年6月法语专四真题解析(2).md",
+  "outputSha256": "f686723a39258949065883d65487dd306aa2f5af193bac260d5453ab231359a0",
+  "status": "unreviewed",
+  "answersAdopted": false,
+  "classificationApproved": false
+}

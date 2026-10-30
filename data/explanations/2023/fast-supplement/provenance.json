@@ -1,0 +1,28 @@
+{
+  "id": "2023-explanations-supplement",
+  "year": "2023",
+  "variant": "fast-supplement",
+  "sourcePdfSha256": "e918cca52a2df12d8364174ed948766169d391c6b5c4c2c371207a778087dbb7",
+  "parser": {
+    "tier": "fast",
+    "version": "latest",
+    "processing_options": {
+      "ocr_parameters": {
+        "languages": [
+          "fr",
+          "ch_sim"
+        ]
+      }
+    },
+    "output_options": {
+      "watermark_handling": "remove"
+    }
+  },
+  "pages": 88,
+  "emptyPages": [],
+  "output": "2023年法语专四真题解析5758看解析，59AB不确定.md",
+  "outputSha256": "df8d8a19000068c5e454720d7beb53743f64685a2e96bcd4b47be431edebcafa",
+  "status": "unreviewed",
+  "answersAdopted": false,
+  "classificationApproved": false
+}

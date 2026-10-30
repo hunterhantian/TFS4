@@ -1,0 +1,27 @@
+{
+  "id": "2007-explanations",
+  "year": "2007",
+  "sourcePdfSha256": "fd8bbac92f67bbab886d8a33e3114b63433fd76308257059555e8a0a18ab7e38",
+  "parser": {
+    "tier": "fast",
+    "version": "latest",
+    "processing_options": {
+      "ocr_parameters": {
+        "languages": [
+          "fr",
+          "ch_sim"
+        ]
+      }
+    },
+    "output_options": {
+      "watermark_handling": "remove"
+    }
+  },
+  "pages": 91,
+  "emptyPages": [],
+  "output": "2007年法语专四真题解析.md",
+  "outputSha256": "ab51b8b188ca60a89d7ca93e0e90e4ea0c5c4c142c402118313a47556fdfb1bf",
+  "status": "unreviewed",
+  "answersAdopted": false,
+  "classificationApproved": false
+}

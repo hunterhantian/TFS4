@@ -1,0 +1,27 @@
+{
+  "id": "2019-explanations",
+  "year": "2019",
+  "sourcePdfSha256": "00ba5be89add91de7f41be74c10510f85014a5ac3104303faa5262cda899794b",
+  "parser": {
+    "tier": "fast",
+    "version": "latest",
+    "processing_options": {
+      "ocr_parameters": {
+        "languages": [
+          "fr",
+          "ch_sim"
+        ]
+      }
+    },
+    "output_options": {
+      "watermark_handling": "remove"
+    }
+  },
+  "pages": 75,
+  "emptyPages": [],
+  "output": "2019年法语专四解析（2）_20250522103947.md",
+  "outputSha256": "ad526d9db2866a5cf9f3f82e1c202abaa22357d087cdc963b0b6a58c0d283126",
+  "status": "unreviewed",
+  "answersAdopted": false,
+  "classificationApproved": false
+}

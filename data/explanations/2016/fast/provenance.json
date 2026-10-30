@@ -1,0 +1,27 @@
+{
+  "id": "2016-explanations",
+  "year": "2016",
+  "sourcePdfSha256": "0121bf959689326753a2fec2472466fa877ed85d7d3fe55d8b261792bfd1e0bd",
+  "parser": {
+    "tier": "fast",
+    "version": "latest",
+    "processing_options": {
+      "ocr_parameters": {
+        "languages": [
+          "fr",
+          "ch_sim"
+        ]
+      }
+    },
+    "output_options": {
+      "watermark_handling": "remove"
+    }
+  },
+  "pages": 88,
+  "emptyPages": [],
+  "output": "2016法语专四解析.md",
+  "outputSha256": "ae10c69ae9f3d7cf59fc2c9035cde8d61dae88e93f7d8b3c9feadbc8db52155f",
+  "status": "unreviewed",
+  "answersAdopted": false,
+  "classificationApproved": false
+}

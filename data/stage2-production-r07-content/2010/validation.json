@@ -1,0 +1,91 @@
+{
+  "valid": true,
+  "errors": [],
+  "warnings": [
+    {
+      "path": "tfs4-2010-q081",
+      "code": "MISSING_MATERIAL"
+    },
+    {
+      "path": "tfs4-2010-q082",
+      "code": "MISSING_MATERIAL"
+    },
+    {
+      "path": "tfs4-2010-q083",
+      "code": "MISSING_MATERIAL"
+    },
+    {
+      "path": "tfs4-2010-q084",
+      "code": "MISSING_MATERIAL"
+    },
+    {
+      "path": "tfs4-2010-q085",
+      "code": "MISSING_MATERIAL"
+    },
+    {
+      "path": "tfs4-2010-q086",
+      "code": "MISSING_MATERIAL"
+    },
+    {
+      "path": "tfs4-2010-q087",
+      "code": "MISSING_MATERIAL"
+    },
+    {
+      "path": "tfs4-2010-q088",
+      "code": "MISSING_MATERIAL"
+    },
+    {
+      "path": "tfs4-2010-q089",
+      "code": "MISSING_MATERIAL"
+    },
+    {
+      "path": "tfs4-2010-q090",
+      "code": "UNUSABLE_OPTIONS",
+      "message": "候选选项结构不适合作答"
+    },
+    {
+      "path": "tfs4-2010-q090",
+      "code": "MISSING_MATERIAL"
+    },
+    {
+      "path": "tfs4-2010-q091",
+      "code": "MISSING_MATERIAL"
+    },
+    {
+      "path": "tfs4-2010-q092",
+      "code": "MISSING_MATERIAL"
+    },
+    {
+      "path": "tfs4-2010-q093",
+      "code": "MISSING_MATERIAL"
+    },
+    {
+      "path": "tfs4-2010-q094",
+      "code": "MISSING_MATERIAL"
+    },
+    {
+      "path": "tfs4-2010-q095",
+      "code": "MISSING_MATERIAL"
+    },
+    {
+      "path": "tfs4-2010-q096",
+      "code": "MISSING_MATERIAL"
+    },
+    {
+      "path": "tfs4-2010-q097",
+      "code": "MISSING_MATERIAL"
+    },
+    {
+      "path": "tfs4-2010-q098",
+      "code": "MISSING_MATERIAL"
+    },
+    {
+      "path": "tfs4-2010-q099",
+      "code": "MISSING_MATERIAL"
+    },
+    {
+      "path": "tfs4-2010-q100",
+      "code": "MISSING_MATERIAL"
+    }
+  ]
+}

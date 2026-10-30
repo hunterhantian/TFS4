@@ -1,0 +1,4910 @@
+[
+  {
+    "year": "2010",
+    "sources": {
+      "paper": {
+        "file": "/workspace/TFS4/data/stage2-handoff/md-batch/output/2010-paper/2010年法语专四真题（无水印版）.md",
+        "sha256": "c89dea8f864c7239788bba5a9f278706e3f92f6897152259bfdab888211319c5"
+      },
+      "answers": {
+        "file": "/workspace/TFS4/data/stage2-handoff/md-batch/output/2010-answers/2010年法语专四答案.md",
+        "sha256": "f233b045d682b6cca11f2f1ab9b838f3cc39298d86567dd9b77fa5bcf5816ccd"
+      },
+      "explanation": {
+        "file": "/workspace/TFS4/data/explanations/2010/fast/2010年法语专四真题详解.md",
+        "sha256": "2150efb85550bdde687d1b02ad1d57b25c52260fcf0b1ac847ca95225b8a2412"
+      }
+    },
+    "coverage": {
+      "choiceQuestions": 100,
+      "triSourceMatched": 33,
+      "pending": 67
+    },
+    "annotation": {
+      "count": 33,
+      "sourcePolicy": "question + explanation only",
+      "answersOnlyForMatching": true
+    },
+    "records": [
+      {
+        "number": 1,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 2,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 3,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 4,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 5,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 6,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 7,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 8,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 9,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 10,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 11,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 12,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 13,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 14,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 15,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 16,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 17,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 18,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 19,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 20,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 21,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 30,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 31,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 39,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 40,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 41,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 50,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 51,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 60,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 61,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 70,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 71,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 80,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      }
+    ]
+  },
+  {
+    "year": "2011",
+    "sources": {
+      "paper": {
+        "file": "/workspace/TFS4/data/stage2-handoff/md-batch/output/2011-paper/2011年法语专四真题（无水印版）.md",
+        "sha256": "afc43e08e94b5b9f852144b11000071052f1a83da949dac392f203f482aa60c9"
+      },
+      "answers": {
+        "file": "/workspace/TFS4/data/stage2-handoff/md-batch/output/2011-answers/2011年法语专四答案.md",
+        "sha256": "cb675e335be77cc699feb48fd5844eaf0b7a5864bc8aa33f6945624d9afdfb70"
+      },
+      "explanation": {
+        "file": "/workspace/TFS4/data/explanations/2011/fast/2011 年法语专业四级真题详解.md",
+        "sha256": "4ba18164f7c8d1d886e1fd1d774f0f69aba953bfb90ec07e6e3397775d332dd3"
+      }
+    },
+    "coverage": {
+      "choiceQuestions": 100,
+      "triSourceMatched": 100,
+      "pending": 0
+    },
+    "annotation": {
+      "count": 100,
+      "sourcePolicy": "question + explanation only",
+      "answersOnlyForMatching": true
+    },
+    "records": [
+      {
+        "number": 1,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 2,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 3,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 4,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 5,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 6,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 7,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 8,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 9,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 10,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 11,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 12,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 13,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 14,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 15,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 16,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 17,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 18,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 19,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 20,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 21,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 22,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 23,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 24,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 25,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 26,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 27,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 28,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 29,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 30,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 31,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 32,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 33,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 34,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 35,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 36,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 37,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 38,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 39,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 40,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 41,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 42,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 43,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 44,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 45,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 46,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 47,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 48,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 49,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 50,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 51,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 52,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 53,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 54,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 55,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 56,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 57,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 58,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 59,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 60,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 61,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 62,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 63,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 64,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 65,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 66,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 67,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 68,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 69,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 70,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 71,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 72,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 73,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 74,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 75,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 76,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 77,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 78,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 79,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 80,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 81,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 82,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 83,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 84,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 85,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 86,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 87,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 88,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 89,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 90,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 91,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 92,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 93,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 94,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 95,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 96,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 97,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 98,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 99,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 100,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      }
+    ]
+  },
+  {
+    "year": "2012",
+    "sources": {
+      "paper": {
+        "file": "/workspace/TFS4/data/stage2-handoff/md-batch/output/2012-paper/2012年法语专四真题（无水印版）.md",
+        "sha256": "3b0d3411e6fbc67be71bfee6642e1a0f817eb64f867566c50eead237b9a680e5"
+      },
+      "answers": {
+        "file": "/workspace/TFS4/data/stage2-handoff/md-batch/output/2012-answers/2012年法语专四真题答案.md",
+        "sha256": "24e43da16ed6487cdfac68f67ea5a9657c95002dffa08937a60b390c10a7b44e"
+      },
+      "explanation": {
+        "file": "/workspace/TFS4/data/explanations/2012/fast/2012年法语专四真题解析(1).md",
+        "sha256": "c4e6d25fef08f90d68ca7b08b1200cae33031e8815fd2a131b7008366f7ed875"
+      }
+    },
+    "coverage": {
+      "choiceQuestions": 100,
+      "triSourceMatched": 100,
+      "pending": 0
+    },
+    "annotation": {
+      "count": 100,
+      "sourcePolicy": "question + explanation only",
+      "answersOnlyForMatching": true
+    },
+    "records": [
+      {
+        "number": 1,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 2,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 3,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 4,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 5,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 6,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 7,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 8,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 9,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 10,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 11,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 12,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 13,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 14,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 15,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 16,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 17,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 18,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 19,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 20,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 21,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 22,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 23,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 24,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 25,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 26,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 27,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 28,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 29,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 30,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 31,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 32,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 33,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 34,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 35,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 36,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 37,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 38,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 39,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 40,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 41,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 42,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 43,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 44,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 45,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 46,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 47,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 48,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 49,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 50,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 51,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 52,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 53,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 54,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 55,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 56,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 57,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 58,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 59,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 60,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 61,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 62,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 63,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 64,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 65,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 66,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 67,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 68,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 69,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 70,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 71,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 72,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 73,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 74,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 75,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 76,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 77,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 78,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 79,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 80,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 81,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 82,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 83,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 84,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 85,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 86,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 87,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 88,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 89,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 90,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 91,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 92,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 93,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 94,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 95,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 96,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 97,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 98,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 99,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 100,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      }
+    ]
+  },
+  {
+    "year": "2013",
+    "sources": {
+      "paper": {
+        "file": "/workspace/TFS4/data/stage2-handoff/md-batch/output/2013-paper/2013年法语专四真题（无水印版）.md",
+        "sha256": "9f40705cac10152b8edc3f1172c01827009aa4486d83d7146a31456bb151665e"
+      },
+      "answers": {
+        "file": "/workspace/TFS4/data/stage2-handoff/md-batch/output/2013-answers/2013年法语专四答案.md",
+        "sha256": "dd3370403f9ef85c5e1ee6d0b024ebd8a0f71c2805755532251fe1b7e157c631"
+      },
+      "explanation": {
+        "file": "/workspace/TFS4/data/explanations/2013/fast/2013年法语专四真题解析.md",
+        "sha256": "2550f8ee073a34aa0ef1f6b6ee9c79bbec3e67ccc0d170bd4427153469071128"
+      }
+    },
+    "coverage": {
+      "choiceQuestions": 100,
+      "triSourceMatched": 100,
+      "pending": 0
+    },
+    "annotation": {
+      "count": 100,
+      "sourcePolicy": "question + explanation only",
+      "answersOnlyForMatching": true
+    },
+    "records": [
+      {
+        "number": 1,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 2,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 3,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 4,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 5,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 6,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 7,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 8,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 9,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 10,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 11,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 12,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 13,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 14,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 15,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 16,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 17,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 18,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 19,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 20,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 21,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 22,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 23,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 24,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 25,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 26,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 27,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 28,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 29,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 30,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 31,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 32,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 33,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 34,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 35,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 36,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 37,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 38,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 39,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 40,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 41,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 42,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 43,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 44,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 45,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 46,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 47,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 48,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 49,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 50,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 51,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 52,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 53,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 54,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 55,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 56,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 57,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 58,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 59,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 60,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 61,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 62,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 63,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 64,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 65,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 66,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 67,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 68,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 69,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 70,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 71,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 72,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 73,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 74,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 75,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 76,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 77,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 78,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 79,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 80,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 81,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 82,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 83,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 84,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 85,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 86,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 87,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 88,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 89,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 90,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 91,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 92,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 93,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 94,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 95,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 96,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 97,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 98,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 99,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 100,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      }
+    ]
+  },
+  {
+    "year": "2014",
+    "sources": {
+      "paper": {
+        "file": "/workspace/TFS4/data/stage2-handoff/md-batch/output/2014-paper/2014年法语专四真题（无水印版）.md",
+        "sha256": "b3db5104666537d2456d53bf5f9d9812785d65c2aa416d6466e729a652cbe598"
+      },
+      "answers": {
+        "file": "/workspace/TFS4/data/stage2-handoff/md-batch/output/2014-answers/2014年法语专四真题答案.md",
+        "sha256": "715f8f10b6b51d36aaae424e0691ee688ac728e655f6931b6ed1b3549d053710"
+      },
+      "explanation": {
+        "file": "/workspace/TFS4/data/explanations/2014/fast/2014年法语专四解析.md",
+        "sha256": "cc6581e25e74936d6178250996f0eb1c9499aafc9fbf14757d94b4067acc7fab"
+      }
+    },
+    "coverage": {
+      "choiceQuestions": 100,
+      "triSourceMatched": 100,
+      "pending": 0
+    },
+    "annotation": {
+      "count": 100,
+      "sourcePolicy": "question + explanation only",
+      "answersOnlyForMatching": true
+    },
+    "records": [
+      {
+        "number": 1,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 2,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 3,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 4,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 5,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 6,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 7,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 8,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 9,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 10,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 11,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 12,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 13,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 14,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 15,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 16,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 17,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 18,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 19,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 20,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 21,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 22,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 23,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 24,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 25,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 26,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 27,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 28,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 29,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 30,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 31,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 32,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 33,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 34,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 35,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 36,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 37,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 38,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 39,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 40,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-vocabulary-candidate"
+      },
+      {
+        "number": 41,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 42,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 43,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 44,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 45,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 46,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 47,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 48,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 49,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 50,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 51,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 52,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 53,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 54,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 55,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 56,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 57,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 58,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 59,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 60,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 61,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 62,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 63,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 64,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 65,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 66,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 67,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 68,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 69,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 70,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 71,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 72,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 73,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 74,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 75,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 76,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 77,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 78,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 79,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 80,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-grammar-candidate"
+      },
+      {
+        "number": 81,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 82,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 83,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 84,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 85,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 86,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 87,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 88,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 89,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 90,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 91,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 92,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 93,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 94,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 95,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 96,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 97,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 98,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 99,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      },
+      {
+        "number": 100,
+        "answerMatched": true,
+        "explanationMatched": true,
+        "status": "matched",
+        "basis": [
+          "question",
+          "explanation"
+        ],
+        "leafId": "obj-reading-candidate"
+      }
+    ]
+  }
+]

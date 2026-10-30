@@ -1,0 +1,14 @@
+{
+  "createdAt": "2026-10-30T08:36:38.005Z",
+  "method": "md_internal_extraction",
+  "proofread": false,
+  "outputs": [
+    {
+      "sitting": "2012",
+      "documents": 2,
+      "pages": 20,
+      "nodes": 754,
+      "issues": 0
+    }
+  ]
+}

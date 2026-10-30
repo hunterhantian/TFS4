@@ -1,2 +1,3 @@
 # Handoff evidence is byte-hashed. Preserve identical bytes on Windows and Linux.
 /data/stage2-handoff/** -text
+/data/explanations/** -text

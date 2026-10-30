@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-30",
+  "kind": "unreviewed_explanation_markdown",
+  "year": 2025,
+  "sourceFilename": "2025年法语专四真题解析.pdf",
+  "sourcePdfSha256": "c0326bcac00956fb20f816fce9daec9f3a78f11d258665ff86d61109fd15637d",
+  "parser": {
+    "tier": "cost_effective",
+    "version": "latest",
+    "processing_options": {
+      "ocr_parameters": {
+        "languages": [
+          "ch_sim",
+          "fr"
+        ]
+      }
+    }
+  },
+  "pages": 100,
+  "emptyPages": [],
+  "proofread": false,
+  "answersAdopted": false,
+  "classificationApproved": false,
+  "files": [
+    {
+      "path": "2025年法语专四真题解析.md",
+      "sha256": "2d23e59102f56a9f51f65ce011bf49216299e75623bf641defc9245e97a5b21b",
+      "bytes": 255947
+    },
+    {
+      "path": "pages.json",
+      "sha256": "97296219ac501a8b8e1431031c79f37b9149a77e321671603b34e213fe6d075f",
+      "bytes": 270397
+    }
+  ],
+  "note": "MD bytes unchanged. Page projection preserves source order and text, excludes service credentials and job metadata. Existing question-bank content and answers unchanged."
+}

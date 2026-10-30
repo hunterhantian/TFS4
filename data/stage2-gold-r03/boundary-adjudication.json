@@ -1,0 +1,113 @@
+{
+  "version": "r03",
+  "records": [
+    {
+      "questionId": "tfs4-2012-q083",
+      "decision": "pending",
+      "primaryId": "obj-r-number",
+      "reason": "参考C=40%；近60%接受的补集不必全是反对者，也不是精确40%。数量候选，证据不足保留pending。",
+      "referenceAdopted": false
+    },
+    {
+      "questionId": "tfs4-2012-q084",
+      "decision": "pending",
+      "primaryId": "obj-r-inference",
+      "reason": "参考D还含ver de terre；全文只给蜜蜂功用，未陈述蚯蚓功用，不能用常识补完功利选择。推断候选待核。",
+      "referenceAdopted": false
+    },
+    {
+      "questionId": "tfs4-2012-verb-6",
+      "decision": "resolved",
+      "primaryId": "obj-imparfait-state",
+      "reason": "采用人物属性/居住状态优先于场景背景的目录边界，habitaient描述祖父母住所；天气/环境和同时动作归背景。参考habitaient明确时态，不改原文。",
+      "referenceAdopted": false
+    },
+    {
+      "questionId": "tfs4-2013-q056",
+      "decision": "pending",
+      "primaryId": "obj-soi",
+      "reason": "chacun可作分配性的第三人称，chez lui和泛指chez soi均有合理读法；参考B不能排除A，旧节点把soi表述为唯一，待边界裁决。",
+      "referenceAdopted": false
+    },
+    {
+      "questionId": "tfs4-2013-q094",
+      "decision": "pending",
+      "primaryId": "obj-r-inference",
+      "reason": "后句女性丹麦也是1%，但性别总死亡人数分母不同，不能推出人数相等；沿用r01 pending。",
+      "referenceAdopted": false
+    },
+    {
+      "questionId": "tfs4-2013-q095",
+      "decision": "pending",
+      "primaryId": "obj-r-number",
+      "reason": "参考C省略proportion，字面可读绝对人数；材料只给跨国比例，不能确认人数比较。与2013/94采用相同证据边界，候选而不直接改归数量。",
+      "referenceAdopted": false
+    },
+    {
+      "questionId": "tfs4-2013-verb-3",
+      "decision": "pending",
+      "primaryId": "obj-present-state",
+      "reason": "开篇Farida est Algérienne的现在叙述回看童年，se souvient可指目前记忆；但整句也容许était…se souvenait，参考不足排除过去认知读法。",
+      "referenceAdopted": false
+    },
+    {
+      "questionId": "tfs4-2013-verb-7",
+      "decision": "pending",
+      "primaryId": "obj-futur-simple",
+      "reason": "父母预期移居后能找到更好住所，pourra与前空sera连贯；但peut同样能描述那里一般能力，参考不能唯一决定未来规则。",
+      "referenceAdopted": false
+    },
+    {
+      "questionId": "tfs4-2013-verb-9",
+      "decision": "pending",
+      "primaryId": "obj-past-future",
+      "reason": "沿用既有pending：serait可过去将来，était也能与前句并列状态；不以参考唯一裁定。",
+      "referenceAdopted": false
+    },
+    {
+      "questionId": "tfs4-2013-verb-16",
+      "decision": "pending",
+      "primaryId": "obj-passe-compose",
+      "reason": "沿用既有pending：a été可概括经历，était可描述当时困难；MD未给排他解释。",
+      "referenceAdopted": false
+    },
+    {
+      "questionId": "tfs4-2023-q067",
+      "decision": "pending",
+      "primaryId": "obj-concession-qui",
+      "reason": "参考D Quel qu’il soit是表语quel que结构，非旧叶qui que；但Qui qu’il soit亦可读作无论何人，冻结目录无quel que叶，暂待裁决。",
+      "referenceAdopted": false
+    },
+    {
+      "questionId": "tfs4-2023-q095",
+      "decision": "pending",
+      "primaryId": "obj-r-detail",
+      "reason": "fin未说明法律禁止；参考D的interdite不是必然蕴含，不能靠排除其余项补出，沿用r01 pending。",
+      "referenceAdopted": false
+    },
+    {
+      "questionId": "tfs4-2023-q100",
+      "decision": "pending",
+      "primaryId": "obj-r-context",
+      "reason": "参考C整团队仅在英语词源ours=les nôtres的解释出现，法语行话实际指署名栏；不能将词源对象直接等同术语定义，语境词义候选pending。",
+      "referenceAdopted": false
+    }
+  ],
+  "definitionChanges": [
+    {
+      "id": "obj-imparfait-state",
+      "parentId": "obj-tenses",
+      "name": "未完成过去时描述过去状态",
+      "definition": "描述过去的年龄、状态或持续情景，不以该动作的起止作为叙事推进点。 与背景叶竞争时，人物年龄、身份、居住等属性优先归本叶；天气、环境及事件中的同时动作归背景叶。",
+      "leaf": true
+    },
+    {
+      "id": "obj-imparfait-background",
+      "parentId": "obj-tenses",
+      "name": "未完成过去时描写事件背景",
+      "definition": "为过去发生的主要事件提供天气或同时进行的背景动作。 人物年龄、身份与居住属性优先归状态叶，不能仅因事件背景功能而重复归类。",
+      "leaf": true
+    }
+  ],
+  "note": "All r02 checked tense neighbours were already audited; this refines precedence without rewriting content or adopting answers."
+}

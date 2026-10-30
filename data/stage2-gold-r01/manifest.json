@@ -1,0 +1,34 @@
+{
+  "createdAt": "2026-10-30T02:13:38.112Z",
+  "baselinePlanSha256": "1425f8d1a8932c80d4f76609e64ac9ed0c8b453b7ba33585356e21e60cdab9e4",
+  "catalogSha256": "c2cbd99b005da6b963a00ab138ce5377a2d9c895e95733c605fc5e5648ee3906",
+  "count": 277,
+  "files": [
+    {
+      "file": "blind-2012.json",
+      "sha256": "b240017ad58da742091084f564646361c476404a98ff98d768dc712b6466b766",
+      "count": 95
+    },
+    {
+      "file": "blind-2013.json",
+      "sha256": "e9ba4e200559ae50f9f9df56cd92c2b2952a0cccd8972967f1f36b6f5e9705b0",
+      "count": 88
+    },
+    {
+      "file": "blind-2023.json",
+      "sha256": "98ebe73a2e37cde15f83173c197211be76a293fa7ab565235b9eccff4a0ae57c",
+      "count": 94
+    }
+  ],
+  "status": "prepared_not_reviewed",
+  "excludedFields": [
+    "primaryId",
+    "primaryName",
+    "basis",
+    "keyEvidence",
+    "review",
+    "annotations",
+    "answer"
+  ],
+  "independence": "Must be reviewed by a fresh context without access to the original annotation plan; no gold conclusion exists yet."
+}

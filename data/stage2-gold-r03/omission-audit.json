@@ -1,0 +1,1856 @@
+{
+  "version": "omission-audit-r03",
+  "auditType": "解盲补查漏归语义审计；已经看到旧标签，不是独立盲标或独立金标",
+  "scope": "原始277 checked中未出现于r02 reading-audit/nonreading-audit的全部131题；逐题读取content-v4题面、必要完整材料、内嵌MD参考，与r02 reviewed-plan现有叶定义核对。单题叶允许保留，不因需要多题而按共同父节点或相同词语并归。",
+  "constraints": {
+    "baselineModified": false,
+    "pdfRead": false,
+    "audioRead": false,
+    "answerAdopted": false,
+    "classificationPublished": false,
+    "reviewedCatalog": "data/stage2-gold-r02/reviewed-plan.json",
+    "rootAdjudication": "后续目录裁决应另存，不能覆盖此原始解盲审阅"
+  },
+  "summary": {
+    "reviewed": 131,
+    "resolved": 126,
+    "pending": 5,
+    "reclassified": 1
+  },
+  "records": [
+    {
+      "questionId": "tfs4-2012-q021",
+      "oldPrimaryId": "obj-lex-certainty",
+      "proposedPrimaryId": "obj-lex-certainty",
+      "status": "resolved",
+      "quote": "Elle viendra forcément ce soir, elle me l'a promis.",
+      "reason": "承诺me l'a promis使forcément表示确信，参考sûrement；不与概率或自然方式混同。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "21: A"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q022",
+      "oldPrimaryId": "obj-lex-sadness",
+      "proposedPrimaryId": "obj-lex-sadness",
+      "status": "resolved",
+      "quote": "Après avoir reçu la lettre, elle a le cœur gros.",
+      "reason": "avoir le cœur gros是忧伤习语，参考triste；忧伤与joy叶的喜悦方向不同。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "22: C"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q023",
+      "oldPrimaryId": "obj-lex-encourage",
+      "proposedPrimaryId": "obj-lex-encourage",
+      "status": "resolved",
+      "quote": "Les villes, aidées par l'État, cherchent à favoriser l'usage de modes de déplacement plus écologiques.",
+      "reason": "favoriser l'usage指促进使用，参考encourager；不是计划行为本身。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "23: B"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q024",
+      "oldPrimaryId": "obj-lex-control",
+      "proposedPrimaryId": "obj-lex-control",
+      "status": "resolved",
+      "quote": "Il a su dominer sa colère.",
+      "reason": "dominer sa colère指克制情绪，参考maîtriser；不属于程度超过的beyond叶。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "24: D"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q026",
+      "oldPrimaryId": "obj-lex-fat",
+      "proposedPrimaryId": null,
+      "status": "pending",
+      "quote": "Si tu veux garder ta belle ligne, il vaut mieux ne pas manger gras.",
+      "reason": "参考léger与manger gras相对，但maigre也是饮食反义候选；现有MD只有答案，无消歧说明，保留词义候选。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "26: A"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q027",
+      "oldPrimaryId": "obj-lex-light",
+      "proposedPrimaryId": "obj-lex-light",
+      "status": "resolved",
+      "quote": "Nous avons allumé la lampe en appuyant sur ce bouton.",
+      "reason": "灯与按钮限定allumer/éteindre为开灯和熄灯反义，不是一般开闭名词的opening叶。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "27: B"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q028",
+      "oldPrimaryId": "obj-lex-hard",
+      "proposedPrimaryId": "obj-lex-hard",
+      "status": "resolved",
+      "quote": "Ce pain est trop dur, quand est-ce que tu l'as acheté ?",
+      "reason": "pain限定dur为硬，参考mou；不能按性格或难度解释。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "28: B"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q029",
+      "oldPrimaryId": "obj-lex-artificial",
+      "proposedPrimaryId": "obj-lex-artificial",
+      "status": "resolved",
+      "quote": "C'est un lac artificiel, mais je l'aime bien.",
+      "reason": "lac限定artificiel与naturel的人造/天然对立；不是正确或现实性。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "29: B"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q031",
+      "oldPrimaryId": "obj-col-age",
+      "proposedPrimaryId": "obj-col-age",
+      "status": "resolved",
+      "quote": " et expressions convenables.\n\n# L'éducation change le monde\n\nEn 2011, 67 millions d'enfants en __31__ d'aller à l'école primaire n'ont toujours pas __32__ à l'éducation. Les __33__, les enfants en situation de handicap, issus des minorités ou de",
+      "reason": "en __31__ d'aller要求en âge de结构；参考âge，区别年龄资格与普通时间定位。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "31: B"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q032",
+      "oldPrimaryId": "obj-col-access",
+      "proposedPrimaryId": "obj-col-access",
+      "status": "resolved",
+      "quote": " monde\n\nEn 2011, 67 millions d'enfants en __31__ d'aller à l'école primaire n'ont toujours pas __32__ à l'éducation. Les __33__, les enfants en situation de handicap, issus des minorités ou des milieux les plus pauvres en sont les principaux exc",
+      "reason": "n'ont pas __32__ à l'éducation要求avoir accès à；参考accès，非avoir envie de。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "32: C"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q033",
+      "oldPrimaryId": "obj-col-girls",
+      "proposedPrimaryId": null,
+      "status": "pending",
+      "quote": "ns d'enfants en __31__ d'aller à l'école primaire n'ont toujours pas __32__ à l'éducation. Les __33__, les enfants en situation de handicap, issus des minorités ou des milieux les plus pauvres en sont les principaux exclus.\n\nL'éducation est un é",
+      "reason": "前文未指明性别，列举handicap/minorités/pauvreté也不能排除garçons/aînés/cadets；参考filles不足以补出决定性条件。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "33: A"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q034",
+      "oldPrimaryId": "obj-col-influence",
+      "proposedPrimaryId": "obj-col-influence",
+      "status": "resolved",
+      "quote": "les principaux exclus.\n\nL'éducation est un élément essentiel du développement. Elle exerce une __34__ directe sur la santé des communautés. Elle permet d'améliorer la participation démocratique, de lutter contre les __35__ et d'améliorer la croi",
+      "reason": "exerce une与sur共同约束influence；impact/effet为阳性，不是泛化的影响话题。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "34: B"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q035",
+      "oldPrimaryId": "obj-col-discrimination",
+      "proposedPrimaryId": "obj-col-discrimination",
+      "status": "resolved",
+      "quote": "é des communautés. Elle permet d'améliorer la participation démocratique, de lutter contre les __35__ et d'améliorer la croissance. __36__ ces effets, l'éducation est un __37__ humain fondamental, il doit être __38__ et étendu.\n\nL'organisation A",
+      "reason": "教育改善社会与列举受排斥群体支持lutter contre les discriminations；不是消除移民群体。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "35: D"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q036",
+      "oldPrimaryId": "obj-col-beyond",
+      "proposedPrimaryId": "obj-col-beyond",
+      "status": "resolved",
+      "quote": "iorer la participation démocratique, de lutter contre les __35__ et d'améliorer la croissance. __36__ ces effets, l'éducation est un __37__ humain fondamental, il doit être __38__ et étendu.\n\nL'organisation Aide et Action International a été cré",
+      "reason": "列举健康、民主、增长的作用后补充基本权利，Au-delà de延展范围；与词汇题au-delà de应检查重复叶。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "36: A"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q037",
+      "oldPrimaryId": "obj-col-right",
+      "proposedPrimaryId": "obj-col-right",
+      "status": "resolved",
+      "quote": "e lutter contre les __35__ et d'améliorer la croissance. __36__ ces effets, l'éducation est un __37__ humain fondamental, il doit être __38__ et étendu.\n\nL'organisation Aide et Action International a été créée en 2007. Elle __39__ déjà cinq memb",
+      "reason": "un __37__ humain fondamental限定droit为权利，区别droite方向与devoir义务。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "37: C"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q038",
+      "oldPrimaryId": "obj-passive-infinitive",
+      "proposedPrimaryId": "obj-passive-infinitive",
+      "status": "resolved",
+      "quote": "r la croissance. __36__ ces effets, l'éducation est un __37__ humain fondamental, il doit être __38__ et étendu.\n\nL'organisation Aide et Action International a été créée en 2007. Elle __39__ déjà cinq membres : France, Suisse, Afrique, Asie du S",
+      "reason": "il doit être __38__ et étendu要求被动分词défendu，与扩展权利并列；不与纯分词名词修饰叶混并。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "38: D"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q039",
+      "oldPrimaryId": "obj-col-count",
+      "proposedPrimaryId": "obj-col-count",
+      "status": "resolved",
+      "quote": " être __38__ et étendu.\n\nL'organisation Aide et Action International a été créée en 2007. Elle __39__ déjà cinq membres : France, Suisse, Afrique, Asie du Sud et Asie du Sud-Est. Elle est __40__ par un Congrès regroupant des représentants de tou",
+      "reason": "组织与cinq membres限定compter为拥有成员；不是计算操作或收入变化。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "39: B"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q040",
+      "oldPrimaryId": "obj-col-govern",
+      "proposedPrimaryId": "obj-col-govern",
+      "status": "resolved",
+      "quote": "e __39__ déjà cinq membres : France, Suisse, Afrique, Asie du Sud et Asie du Sud-Est. Elle est __40__ par un Congrès regroupant des représentants de toutes les régions.",
+      "reason": "par un Congrès引出治理组织的主体，参考gouvernée；选项均分词，词义比一般被动形式更具区分力。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "40: A"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q043",
+      "oldPrimaryId": "obj-servir-de",
+      "proposedPrimaryId": "obj-servir-de",
+      "status": "resolved",
+      "quote": "Comme il ne parle pas français, je lui sers _______.",
+      "reason": "je lui sers与身份interprète要求servir de，区别使用物品se servir de。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "43: B"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q046",
+      "oldPrimaryId": "obj-preferer-a",
+      "proposedPrimaryId": "obj-preferer-a",
+      "status": "resolved",
+      "quote": "Je préfère le jus de pomme _______ coca.",
+      "reason": "préférer A à B且coca为阳性，à+le缩合au；不是一般COI代词。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "46: B"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q047",
+      "oldPrimaryId": "obj-passe-anterieur",
+      "proposedPrimaryId": "obj-passe-anterieur",
+      "status": "resolved",
+      "quote": "Dès qu'il _______ de manger, il alla à l'école.",
+      "reason": "主句alla为简单过去时，dès que从句先完成用eut fini；有专门时态叶，优先于仅表连接意义的des-que。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "47: C"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q049",
+      "oldPrimaryId": "obj-tout-pronoun",
+      "proposedPrimaryId": "obj-tout-pronoun",
+      "status": "resolved",
+      "quote": "_______ est bien qui finit bien.",
+      "reason": "Tout独立作主语表示一切；不是副词tout或数词前quelque。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "49: A"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q050",
+      "oldPrimaryId": "obj-duration-pour",
+      "proposedPrimaryId": "obj-duration-pour",
+      "status": "resolved",
+      "quote": "Attendez-moi s'il vous plaît, je n'en ai que ______ deux minutes.",
+      "reason": "je n'en ai que与two minutes构成en avoir pour预计所需时间；区别任命期限的intended-duration。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "50: D"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q051",
+      "oldPrimaryId": "obj-cause-puisque",
+      "proposedPrimaryId": "obj-cause-puisque",
+      "status": "resolved",
+      "quote": "_______ vous désirez vous entretenir avec moi, nous serons mieux dans mon bureau.",
+      "reason": "对方已表达会谈意愿作为既知前提，Puisque引出安排地点的理由；不是后果donc。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "51: A"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q052",
+      "oldPrimaryId": "obj-futur-anterieur",
+      "proposedPrimaryId": "obj-futur-anterieur",
+      "status": "resolved",
+      "quote": "Je viendrai te voir à la campagne dès que _______ terminé mon travail.",
+      "reason": "viendrai确立未来参照，完成工作先于拜访，用j'aurai terminé；区别过去视角的条件式过去时。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "52: B"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q053",
+      "oldPrimaryId": "obj-tenir-a",
+      "proposedPrimaryId": "obj-tenir-a",
+      "status": "resolved",
+      "quote": "Je tiens _______ vous raccompagner chez vous, la nuit tombe déjà.",
+      "reason": "tiens与raccompagner构成tenir à faire，表达坚持送回家；不是目的pour。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "53: B"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q054",
+      "oldPrimaryId": "obj-presentative",
+      "proposedPrimaryId": "obj-presentative",
+      "status": "resolved",
+      "quote": "Enfin _______ voilà, nos invités étrangers.",
+      "reason": "nos invités为阳性复数，voilà前选les；呈现结构而非普通clitic-order双宾语顺序。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "54: C"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q056",
+      "oldPrimaryId": "obj-en-service",
+      "proposedPrimaryId": "obj-en-service",
+      "status": "resolved",
+      "quote": "Le T.G.V., mis _______ service dès le début des années 80, est un moyen de transport rapide et confortable.",
+      "reason": "mis与service构成mis en service固定表达，年代信息不决定介词。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "56: C"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q057",
+      "oldPrimaryId": "obj-finir-par",
+      "proposedPrimaryId": "obj-finir-par",
+      "status": "resolved",
+      "quote": "Après dix ans d'effort, il a fini _______ réaliser son rêve d'enfant.",
+      "reason": "十年努力后终于实现梦想，fini par faire表示最终结果；区别finir de结束活动。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "57: C"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q058",
+      "oldPrimaryId": "obj-coi",
+      "proposedPrimaryId": "obj-coi",
+      "status": "resolved",
+      "quote": "Quand ma sœur était à Paris l'été dernier, maman _______ téléphonait tous les jours.",
+      "reason": "téléphoner à ma sœur的指人间接宾语用lui；不能与指物à补语的y叶合并。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "58: C"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q060",
+      "oldPrimaryId": "obj-distinguer-de",
+      "proposedPrimaryId": "obj-distinguer-de",
+      "status": "resolved",
+      "quote": "Il faut savoir distinguer le vrai _______ faux.",
+      "reason": "distinguer le vrai de le faux缩合du；保留动词具体支配，不以介词de相同合并。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "60: B"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q063",
+      "oldPrimaryId": "obj-adverb-cher",
+      "proposedPrimaryId": "obj-adverb-cher",
+      "status": "resolved",
+      "quote": "Ces voitures importées coûtent très _______.",
+      "reason": "coûter后cher作副词修饰价格，不随voitures阴性复数变化；不同于一般形容词配合。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "63: A"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q064",
+      "oldPrimaryId": "obj-compound-plural",
+      "proposedPrimaryId": "obj-compound-plural",
+      "status": "resolved",
+      "quote": "Il a donné la plupart de ses _______ au musée de la région.",
+      "reason": "ses要求复数，chef-d'œuvre只有chef加s；不同于颜色词不变的规则。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "64: B"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q065",
+      "oldPrimaryId": "obj-colour",
+      "proposedPrimaryId": "obj-colour",
+      "status": "resolved",
+      "quote": "J'aime bien ces assiettes _______.",
+      "reason": "bleu ciel为复合颜色，修饰assiettes仍不变；不是普通性数配合。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "65: C"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q066",
+      "oldPrimaryId": "obj-participle-adjective",
+      "proposedPrimaryId": "obj-participle-adjective",
+      "status": "resolved",
+      "quote": "Après 3 heures de marche à pied, elle est _______.",
+      "reason": "步行三小时后的elle承受疲劳状态，fatiguée与主动使人疲劳的fatigante不同；不是être复合时态。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "66: C"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q070",
+      "oldPrimaryId": "obj-subj-emotion",
+      "proposedPrimaryId": "obj-subj-emotion",
+      "status": "resolved",
+      "quote": "Je suis très heureuse que tu _______ voir mon exposition.",
+      "reason": "heureuse que触发情感评价后虚拟式viennes；不同于peu probable的低可能性触发。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "70: D"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q071",
+      "oldPrimaryId": "obj-subject-agreement",
+      "proposedPrimaryId": "obj-subject-agreement",
+      "status": "resolved",
+      "quote": "Ni ton frère ni moi ne _______ ton avis.",
+      "reason": "ni ton frère ni moi含第一人称复数主语，partageons；不是否定冠词规则。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "71: C"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q074",
+      "oldPrimaryId": "obj-hope-indicative",
+      "proposedPrimaryId": "obj-hope-indicative",
+      "status": "resolved",
+      "quote": "J'espère que tu _______ ton examen.",
+      "reason": "肯定espère que的未来希望采用réussiras，区别情感评价后虚拟式；未来指向未显式限定，参考用于支持读法。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "74: C"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q078",
+      "oldPrimaryId": "obj-faute-de",
+      "proposedPrimaryId": "obj-faute-de",
+      "status": "resolved",
+      "quote": "______ de café, nous buvons du thé vert.",
+      "reason": "咖啡缺少而喝茶的替代关系，用À défaut de；不是普通因果连接词。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "78: B"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-q079",
+      "oldPrimaryId": "obj-du-a",
+      "proposedPrimaryId": "obj-du-a",
+      "status": "resolved",
+      "quote": "Cet accident est ______ son imprudence.",
+      "reason": "est与imprudence之间需dû à形成归因谓语；à cause de等介词不能直接完成此谓语。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "79: A"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-verb-5",
+      "oldPrimaryId": "obj-compound-participle",
+      "proposedPrimaryId": "obj-compound-participle",
+      "status": "resolved",
+      "quote": " dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer)",
+      "reason": "考上中学毕业会考先于探望祖父母，MD参考Ayant réussi为复合分词先时；不是单一过去分词到达状态。",
+      "referenceEvidence": [
+        {
+          "value": "Ayant réussi",
+          "reference": "*réussir* <u>Ayant réussi</u>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-verb-11",
+      "oldPrimaryId": "obj-perception-infinitive",
+      "proposedPrimaryId": "obj-perception-infinitive",
+      "status": "resolved",
+      "quote": "uvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais pers",
+      "reason": "entendre le ruisseau后murmurer描述所听动作，感知动词不定式；不同于介词后不定式。",
+      "referenceEvidence": [
+        {
+          "value": "murmurer",
+          "reference": "*murmurer* <u>murmurer</u>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-verb-15",
+      "oldPrimaryId": "obj-past-participle-detached",
+      "proposedPrimaryId": "obj-past-participle-detached",
+      "status": "resolved",
+      "quote": "J'ai appelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, (parvenir) au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) une robe blanche, (lire) un roman attentivement sur une chaise",
+      "reason": "Enfin, (parvenir) au premier étage与j'ai poussé共享主语，parvenu表达到达后的完成状态；不同于ayant复合分词。",
+      "referenceEvidence": [
+        {
+          "value": "parvenu",
+          "reference": "*parvenir* <u>parvenu</u>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2012-verb-20",
+      "oldPrimaryId": "obj-past-regret",
+      "proposedPrimaryId": "obj-past-regret",
+      "status": "resolved",
+      "quote": "umière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres sans frapper à la porte, Papa »\n\n« Chéri, c'est ainsi que ta maman et moi, nous nous sommes rencontrés !",
+      "reason": "回顾擅闯的过去行为，以n'aurais pas dû表示责备；无si条件从句，不并入过去非现实条件叶。",
+      "referenceEvidence": [
+        {
+          "value": "n'aurais pas dû",
+          "reference": "<u>ne pas devoir</u> <u>n'aurais pas dû</u>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q021",
+      "oldPrimaryId": "obj-lex-actual",
+      "proposedPrimaryId": "obj-lex-actual",
+      "status": "resolved",
+      "quote": "Il est plus inquiet qu'il ne paraît effectivement.",
+      "reason": "effectivement为实际，参考réellement；不是表象apparemment或概率probablement。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "<td>(A) 21</td>\n    <td>C</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q022",
+      "oldPrimaryId": "obj-lex-advantage",
+      "proposedPrimaryId": "obj-lex-advantage",
+      "status": "resolved",
+      "quote": "À la fin de l'année, on vend des articles à un prix intéressant.",
+      "reason": "prix intéressant在促销语境指划算，参考avantageux；不是好奇有趣。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "<td>22</td>\n    <td>A</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q023",
+      "oldPrimaryId": "obj-lex-plan",
+      "proposedPrimaryId": "obj-lex-plan",
+      "status": "resolved",
+      "quote": "Les Martin projettent de faire un voyage en Chine cet été.",
+      "reason": "projettent de表示计划，参考envisagent；不是已经承诺的s'engager à。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "<td>23</td>\n    <td>D</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q025",
+      "oldPrimaryId": "obj-lex-dismiss",
+      "proposedPrimaryId": "obj-lex-dismiss",
+      "status": "resolved",
+      "quote": "Par suite de la crise économique, le patron a dû licencier des ouvriers.",
+      "reason": "雇主和ouvriers限定licencier为解雇，参考renvoyer；不扩展为任意驱逐。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "<td>25</td>\n    <td>C</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q026",
+      "oldPrimaryId": "obj-lex-modest",
+      "proposedPrimaryId": "obj-lex-modest",
+      "status": "resolved",
+      "quote": "Il mène un train de vie modeste.",
+      "reason": "train de vie modeste的反义luxueux为奢华生活；不是miserable近义程度选择。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "<td>(B) 26</td>\n    <td>B</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q027",
+      "oldPrimaryId": "obj-lex-opening",
+      "proposedPrimaryId": "obj-lex-opening",
+      "status": "resolved",
+      "quote": "À la suite de la fermeture de l'usine, il est au chômage.",
+      "reason": "工厂fermeture的反义ouverture；与allumer灯的反义动作具体词义不同。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "<td>27</td>\n    <td>D</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q028",
+      "oldPrimaryId": "obj-lex-warm",
+      "proposedPrimaryId": "obj-lex-warm",
+      "status": "resolved",
+      "quote": "Le temps se met au froid, portez des vêtements chauds.",
+      "reason": "寒冷天气要求保暖vêtements chauds，其反义légers为薄衣；不是气温frais替换衣着搭配。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "<td>28</td>\n    <td>B</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q029",
+      "oldPrimaryId": "obj-lex-shorten",
+      "proposedPrimaryId": "obj-lex-shorten",
+      "status": "resolved",
+      "quote": "Il essaie de raccourcir son article.",
+      "reason": "raccourcir son article缩短篇幅，反义allonger；不能与增长收入的augmenter仅按变化方向合并。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "<td>29</td>\n    <td>C</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q030",
+      "oldPrimaryId": "obj-lex-increase",
+      "proposedPrimaryId": "obj-lex-increase",
+      "status": "resolved",
+      "quote": "Il a changé de travail, son revenu a augmenté.",
+      "reason": "revenu a augmenté的反义a baissé，强调收入数量下降；区别篇幅长短的动词。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "<td>30</td>\n    <td>A</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q032",
+      "oldPrimaryId": "obj-col-solo",
+      "proposedPrimaryId": null,
+      "status": "pending",
+      "quote": "Le Vendée Globe est une course __31__ monde à la voile, __32__ sans escale et sans assistance.\n\nLes concurrents suivent __33__ précis(e). Ne pas le respecter, c'est être automatiquement __34__. Cette course",
+      "reason": "材料未明说单人参赛，无停靠/无援助也不排除团队，D=en solitaire仅有参考支持；不凭Vendée Globe赛事常识补证。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "<td>32</td>\n    <td>D</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q033",
+      "oldPrimaryId": "obj-col-route",
+      "proposedPrimaryId": "obj-col-route",
+      "status": "resolved",
+      "quote": "ourse __31__ monde à la voile, __32__ sans escale et sans assistance.\n\nLes concurrents suivent __33__ précis(e). Ne pas le respecter, c'est être automatiquement __34__. Cette course a lieu tous les quatre ans.\n\nLe 2 février 2005, c'est un skippe",
+      "reason": "concurrents suivent、précis和后接le共同支持un itinéraire为规定路线；不是海岸航行longer。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "<td>33</td>\n    <td>A</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q034",
+      "oldPrimaryId": "obj-col-disqualify",
+      "proposedPrimaryId": "obj-col-disqualify",
+      "status": "resolved",
+      "quote": "ce.\n\nLes concurrents suivent __33__ précis(e). Ne pas le respecter, c'est être automatiquement __34__. Cette course a lieu tous les quatre ans.\n\nLe 2 février 2005, c'est un skipper français, Vincent Riou, qui __35__ le premier la ligne d'arrivée",
+      "reason": "不遵守规定路线导致自动失格，参考disqualifié；不是主动弃赛abandonné。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "<td>34</td>\n    <td>C</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q035",
+      "oldPrimaryId": "obj-col-cross",
+      "proposedPrimaryId": "obj-col-cross",
+      "status": "resolved",
+      "quote": "e a lieu tous les quatre ans.\n\nLe 2 février 2005, c'est un skipper français, Vincent Riou, qui __35__ le premier la ligne d'arrivée.\n\nLe 7 novembre 2004, il avait quitté les Sables-d'Olonne, en Vendée, avec vingt autres concurrents. Le lendemain",
+      "reason": "终点线作为宾语要求franchir la ligne d'arrivée，参考a franchi；不是使人解放affranchir。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "<td>35</td>\n    <td>C</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q036",
+      "oldPrimaryId": "obj-col-waves",
+      "proposedPrimaryId": "obj-col-waves",
+      "status": "resolved",
+      "quote": "ne, en Vendée, avec vingt autres concurrents. Le lendemain, le 8 novembre, il s'était retrouvé __36__ les vagues énormes du golfe de Gascogne, puis il était passé au large des îles Canaries. Le premier décembre, il était entré dans __37__ indien",
+      "reason": "航行环境les vagues配dans，参考B；不与天气固定par tous les temps合并。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "<td>36</td>\n    <td>B</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q037",
+      "oldPrimaryId": "obj-col-ocean",
+      "proposedPrimaryId": "obj-col-ocean",
+      "status": "resolved",
+      "quote": "ogne, puis il était passé au large des îles Canaries. Le premier décembre, il était entré dans __37__ indien(ne). Dix jours plus tard, il a aperçu les côtes de l'Australie... Après être remonté __38__ Horne, rendez-vous de tous les vents de la t",
+      "reason": "indien与航海路线限定l'océan Indien地理名称；不是一般海岸方向。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "<td>37</td>\n    <td>C</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q038",
+      "oldPrimaryId": "obj-col-cape",
+      "proposedPrimaryId": "obj-col-cape",
+      "status": "resolved",
+      "quote": "__ indien(ne). Dix jours plus tard, il a aperçu les côtes de l'Australie... Après être remonté __38__ Horne, rendez-vous de tous les vents de la terre, de toutes les vagues, il __39__ la côte brésilienne et enfin avait pris la dernière ligne dro",
+      "reason": "Horne与航海路线指海角，cap名词符合；原拼写保留，不能凭修正来源声称新证据。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "<td>38</td>\n    <td>B</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q039",
+      "oldPrimaryId": "obj-col-coast",
+      "proposedPrimaryId": "obj-col-coast",
+      "status": "resolved",
+      "quote": "être remonté __38__ Horne, rendez-vous de tous les vents de la terre, de toutes les vagues, il __39__ la côte brésilienne et enfin avait pris la dernière ligne droite vers les Sables-d'Olonne, où il était arrivé le 2 février 2005. Il venait de p",
+      "reason": "côte为沿行对象，参考avait longé表示沿海岸；不是横穿traverser。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "<td>39</td>\n    <td>D</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q040",
+      "oldPrimaryId": "obj-col-positive",
+      "proposedPrimaryId": "obj-col-positive",
+      "status": "resolved",
+      "quote": "l avait parcouru 43 000 kilomètres de souffrance, de solitude, de découragement, mais aussi de __40__.",
+      "reason": "souffrance/solitude/découragement后mais aussi转向积极体验，只有joie；虽含喜悦词，不同于直接近反义joy叶任务。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "<td>40</td>\n    <td>C</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q041",
+      "oldPrimaryId": "obj-relative-cod",
+      "proposedPrimaryId": "obj-relative-cod",
+      "status": "resolved",
+      "quote": "Mes voisins se plaignent du bruit _ je fais.",
+      "reason": "je fais缺直接宾语，bruit由que回指；不是de补语dont。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "<td>41</td>\n    <td>C</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q042",
+      "oldPrimaryId": "obj-obeir-a",
+      "proposedPrimaryId": "obj-obeir-a",
+      "status": "resolved",
+      "quote": "Il n'obéit jamais _ ses parents.",
+      "reason": "obéir以à引入服从对象parents；与tenir à等同介词不构成同一具体支配。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "<td>42</td>\n    <td>A</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q043",
+      "oldPrimaryId": "obj-cause-pour",
+      "proposedPrimaryId": "obj-cause-pour",
+      "status": "resolved",
+      "quote": "Il a payé une amende _ avoir roulé trop vite sur l'autoroute.",
+      "reason": "已超速而受罚，pour avoir roulé为过去不定式表原因；比泛化过去不定式先时叶更具体。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "<td>43</td>\n    <td>D</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q047",
+      "oldPrimaryId": "obj-par-temps",
+      "proposedPrimaryId": "obj-par-temps",
+      "status": "resolved",
+      "quote": "_ tous les temps, il promène son chien après le dîner.",
+      "reason": "tous les temps指所有天气，par tous les temps固定表达；不是未来期限pour。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "<td>47</td>\n    <td>D</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q048",
+      "oldPrimaryId": "obj-suite-de",
+      "proposedPrimaryId": "obj-suite-de",
+      "status": "resolved",
+      "quote": "Il a dû garder le lit _______ cet accident.",
+      "reason": "事故后卧床为事件后果，à la suite de；malgré转折与语境不符。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "<td>48</td>\n    <td>D</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q050",
+      "oldPrimaryId": "obj-colere-contre",
+      "proposedPrimaryId": "obj-colere-contre",
+      "status": "resolved",
+      "quote": "Le chef de chantier se met en colère _______ des ouvriers nonchalants.",
+      "reason": "se met en colère以contre引入生气对象；不是respect envers。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "<td>50</td>\n    <td>C</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q052",
+      "oldPrimaryId": "obj-indefinite",
+      "proposedPrimaryId": "obj-indefinite",
+      "status": "resolved",
+      "quote": "Anne adore les sacs à main, elle en possède _______.",
+      "reason": "en已替代sacs，空位需能独立出现的plusieurs；quelques限定词不能单独使用。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "<td>52</td>\n    <td>D</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q054",
+      "oldPrimaryId": "obj-en-cost",
+      "proposedPrimaryId": "obj-en-cost",
+      "status": "resolved",
+      "quote": "Nous avons fait refaire la maison natale, nous _______ avons eu pour près de 4 000 euros.",
+      "reason": "金额près de 4 000 euros与avons eu pour构成en avoir pour花费；区别时间量的duration-pour。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "<td>54</td>\n    <td>D</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q057",
+      "oldPrimaryId": "obj-respect-envers",
+      "proposedPrimaryId": "obj-respect-envers",
+      "status": "resolved",
+      "quote": "Sa lettre était pleine de respect _______ son professeur.",
+      "reason": "respect名词的尊重对象用envers；与对某人生气contre不合并。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "<td>57</td>\n    <td>D</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q059",
+      "oldPrimaryId": "obj-quelques-uns",
+      "proposedPrimaryId": "obj-quelques-uns",
+      "status": "resolved",
+      "quote": "Ces fraises sont bonnes, goûtez_______.",
+      "reason": "独立替代fraises阴性复数，用quelques-unes；比一般indefinite代词/限定词边界更具体。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "<td>59</td>\n    <td>A</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q063",
+      "oldPrimaryId": "obj-peu-unpeu",
+      "proposedPrimaryId": "obj-peu-unpeu",
+      "status": "resolved",
+      "quote": "_______ de whisky ne vous fera pas de mal : c'est bon pour le cœur.",
+      "reason": "ne fera pas de mal与c'est bon为少量饮酒的正向评价，un peu区别强调不足的peu。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "<td>63</td>\n    <td>C</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q064",
+      "oldPrimaryId": "obj-opposition",
+      "proposedPrimaryId": "obj-opposition",
+      "status": "resolved",
+      "quote": "Je n'aime pas le théâtre de Victor Hugo, _______ j'aime bien ses romans.",
+      "reason": "同一作者戏剧不喜欢、小说喜欢形成对照，en revanche；不是递进non seulement。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "<td>64</td>\n    <td>B</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q065",
+      "oldPrimaryId": "obj-addition",
+      "proposedPrimaryId": "obj-addition",
+      "status": "resolved",
+      "quote": "Non seulement il fait chaud, _______ il fait aussi très humide.",
+      "reason": "Non seulement与mais aussi配对递进，mais为结构必要成分；不是一般转折。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "<td>65</td>\n    <td>D</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q068",
+      "oldPrimaryId": "obj-demonstrative",
+      "proposedPrimaryId": "obj-demonstrative",
+      "status": "resolved",
+      "quote": "Ma chambre est petite, _______ de mes parents est grande.",
+      "reason": "回指chambre阴性单数并接de mes parents，用celle；不含所有者人称决定形式的主有代词。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "<td>68</td>\n    <td>A</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q071",
+      "oldPrimaryId": "obj-jaloux-de",
+      "proposedPrimaryId": "obj-jaloux-de",
+      "status": "resolved",
+      "quote": "Auguste est jaloux _______ la réussite de sa petite sœur.",
+      "reason": "jaloux支配de引入嫉妒对象réussite，不能按情感对象统一并入respect/colère。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "<td>71</td>\n    <td>D</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q073",
+      "oldPrimaryId": "obj-relative-person",
+      "proposedPrimaryId": "obj-relative-person",
+      "status": "resolved",
+      "quote": "C'est Isabelle et Sophie avec _______ je partage la chambre.",
+      "reason": "先行词Isabelle et Sophie指人，avec后qui；不是lequel独立疑问选择。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "<td>73</td>\n    <td>B</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q076",
+      "oldPrimaryId": "obj-des-que",
+      "proposedPrimaryId": "obj-des-que",
+      "status": "resolved",
+      "quote": "________ il a posé la tête sur l'oreiller, il s'est endormi.",
+      "reason": "刚放下头就睡着为紧接发生，Dès qu'连接从句；选项不涉及时态先完成对比。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "<td>76</td>\n    <td>D</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q077",
+      "oldPrimaryId": "obj-au-cas-ou",
+      "proposedPrimaryId": "obj-au-cas-ou",
+      "status": "resolved",
+      "quote": "Je te passerais un coup de téléphone ________ j'aurais un empêchement.",
+      "reason": "j'aurais empêchement为条件式，au cas où表示万一；不是si+愈过去时的过去反事实。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "<td>77</td>\n    <td>B</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q078",
+      "oldPrimaryId": "obj-sans-que",
+      "proposedPrimaryId": "obj-sans-que",
+      "status": "resolved",
+      "quote": "Les deux jeunes se sont fiancés ________ leurs familles en soient au courant.",
+      "reason": "完整从句leurs familles en soient au courant要求sans que，虚拟式表达未伴随知晓；不是sans接名词。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "<td>78</td>\n    <td>A</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-q080",
+      "oldPrimaryId": "obj-concession-quelque",
+      "proposedPrimaryId": "obj-concession-quelque",
+      "status": "resolved",
+      "quote": "________ paresseux qu'il ait été, il a réussi à l'examen final.",
+      "reason": "paresseux为形容词，quelque...que表达无论多么且不变；不同于quel que后名词性数配合。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "<td>80</td>\n    <td>C</td>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2013-verb-15",
+      "oldPrimaryId": "obj-infinitive-link",
+      "proposedPrimaryId": "obj-infinitive-link",
+      "status": "resolved",
+      "quote": " un hôtel bien triste. Ils (penser) ________ rester deux ou trois jours (attendre) ________ de (trouver) ________ un logement. En réalité la recherche d'un logement pas trop cher (être) ________ très difficile. Il (falloir) ________ toujours all",
+      "reason": "attendre de后trouver为原形不定式，MD参考吻合；没有感知动词，不归perception-infinitive。",
+      "referenceEvidence": [
+        {
+          "value": "trouver",
+          "reference": "*trouver* <u>trouver</u>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q021",
+      "oldPrimaryId": "obj-lex-authorize",
+      "proposedPrimaryId": "obj-lex-authorize",
+      "status": "resolved",
+      "quote": "L'Académie a donné son feu vert à la féminisation de certains noms de métier.",
+      "reason": "donner son feu vert是给予授权，参考autorisation；不是承诺采取行动。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "21-30: DCACA CDBDA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q022",
+      "oldPrimaryId": "obj-lex-engage",
+      "proposedPrimaryId": "obj-lex-engage",
+      "status": "resolved",
+      "quote": "Grâce à ce programme de sports, ils pourront se livrer à leur sport favori.",
+      "reason": "se livrer à son sport为投入从事活动，参考se donner à；不是单纯感兴趣。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "21-30: DCACA CDBDA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q023",
+      "oldPrimaryId": "obj-lex-demonstrate",
+      "proposedPrimaryId": "obj-lex-demonstrate",
+      "status": "resolved",
+      "quote": "L'institutrice a fait preuve d' une grande patience avec cet enfant difficile.",
+      "reason": "faire preuve de patience表示表现耐心，参考a montré；不是体验éprouver。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "21-30: DCACA CDBDA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q024",
+      "oldPrimaryId": "obj-lex-promise",
+      "proposedPrimaryId": "obj-lex-promise",
+      "status": "resolved",
+      "quote": "Le président s'est engagé à réduire le chômage.",
+      "reason": "s'engager à réduire为承诺减少失业，参考a promis de；不是仅计划或愿望。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "21-30: DCACA CDBDA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q025",
+      "oldPrimaryId": "obj-lex-beyond",
+      "proposedPrimaryId": "obj-col-beyond",
+      "status": "resolved",
+      "quote": "Vos résultats sont au-delà de mes espérances.",
+      "reason": "au-delà de mes espérances与dépassent同义，和2012/36同为超出范围；obj-col-beyond定义不限题型，建议合并既有重复叶。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "21-30: DCACA CDBDA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q026",
+      "oldPrimaryId": "obj-lex-correct",
+      "proposedPrimaryId": "obj-lex-correct",
+      "status": "resolved",
+      "quote": "J'ai tout examiné, vos calculs sont justes.",
+      "reason": "calculs justes为计算准确，反义inexacts；不是道德公正。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "21-30: DCACA CDBDA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q027",
+      "oldPrimaryId": "obj-lex-ordinary",
+      "proposedPrimaryId": "obj-lex-ordinary",
+      "status": "resolved",
+      "quote": "On lui a préparé un cadeau hors du commun pour son mariage.",
+      "reason": "hors du commun表示不寻常，反义banal；不是价格便宜。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "21-30: DCACA CDBDA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q028",
+      "oldPrimaryId": "obj-lex-renew",
+      "proposedPrimaryId": "obj-lex-renew",
+      "status": "resolved",
+      "quote": "Je viens juste de renouveler mon abonnement à ce magazine.",
+      "reason": "renouveler abonnement为续订，反义annuler；不是修改或付款的泛化动作。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "21-30: DCACA CDBDA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q029",
+      "oldPrimaryId": "obj-lex-spend",
+      "proposedPrimaryId": "obj-lex-spend",
+      "status": "resolved",
+      "quote": "Il jette l'argent par les fenêtres de sorte qu'il est réduit à la misère.",
+      "reason": "jeter l'argent par les fenêtres指挥霍，反义économe；不是直接épargner动词替换，保留习语叶。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "21-30: DCACA CDBDA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q031",
+      "oldPrimaryId": "obj-cloze-reference",
+      "proposedPrimaryId": "obj-cloze-reference",
+      "status": "resolved",
+      "quote": "s toujours facile. Les grandes villes proposent depuis longtemps des moyens de transport, mais __31__ ont aussi leurs inconvénients. Le métro est très fréquenté aux heures de pointe, et on ne s'y sent pas toujours __32__ après certaines heures à",
+      "reason": "ces derniers回指前文moyens de transport阳性复数；区别名词后限定词toutes及缺关系从句的lesquelles。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "31-40: ABCCA BDBAA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q032",
+      "oldPrimaryId": "obj-col-security",
+      "proposedPrimaryId": "obj-col-security",
+      "status": "resolved",
+      "quote": "nconvénients. Le métro est très fréquenté aux heures de pointe, et on ne s'y sent pas toujours __32__ après certaines heures à cause de la montée de la délinquance (违法，犯罪). Le bus est certes très pratique, mais très dépendant __33__ la qualité d",
+      "reason": "犯罪增加使乘客缺安全感，en sécurité；不是身体状态en forme或一般舒适。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "31-40: ABCCA BDBAA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q033",
+      "oldPrimaryId": "obj-dependant-de",
+      "proposedPrimaryId": "obj-dependant-de",
+      "status": "resolved",
+      "quote": "e de la montée de la délinquance (违法，犯罪). Le bus est certes très pratique, mais très dépendant __33__ la qualité du trafic. Les taxis sont trop chers pour une utilisation __34__. Le tramway, quant à lui, ne __35__ qu'une zone très limitée de l'e",
+      "reason": "dépendant后de引出依赖的trafic因素；不同于动词contribuer à。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "31-40: ABCCA BDBAA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q034",
+      "oldPrimaryId": "obj-col-daily",
+      "proposedPrimaryId": "obj-col-daily",
+      "status": "resolved",
+      "quote": "ais très dépendant __33__ la qualité du trafic. Les taxis sont trop chers pour une utilisation __34__. Le tramway, quant à lui, ne __35__ qu'une zone très limitée de l'espace urbain. On peut bien sûr prendre sa voiture ou pratiquer le covoiturag",
+      "reason": "昂贵票价使日常使用受限，参考quotidienne；occasionnelle也可形成语法句但语篇对日常出行的论述支持C。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "31-40: ABCCA BDBAA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q035",
+      "oldPrimaryId": "obj-col-cover",
+      "proposedPrimaryId": "obj-col-cover",
+      "status": "resolved",
+      "quote": " du trafic. Les taxis sont trop chers pour une utilisation __34__. Le tramway, quant à lui, ne __35__ qu'une zone très limitée de l'espace urbain. On peut bien sûr prendre sa voiture ou pratiquer le covoiturage (拼车), mais les embouteillages ou l",
+      "reason": "tramway与zone为交通覆盖范围，couvre；不是service动词serve在该选项中的形态。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "31-40: ABCCA BDBAA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q036",
+      "oldPrimaryId": "obj-col-guarantee",
+      "proposedPrimaryId": "obj-col-guarantee",
+      "status": "resolved",
+      "quote": "les difficultés pour se garer sont nombreux et l'heure d'arrivée à un rendez-vous n'est jamais __36__. Depuis les années 2000, on constate un changement de mentalité. Les médias, les entreprises, les municipalités, les écologistes invitent __37_",
+      "reason": "堵车及停车困难使到达时间无保证，garantie；不是成功达成某目标。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "31-40: ABCCA BDBAA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q037",
+      "oldPrimaryId": "obj-col-increasing",
+      "proposedPrimaryId": "obj-col-increasing",
+      "status": "resolved",
+      "quote": "ngement de mentalité. Les médias, les entreprises, les municipalités, les écologistes invitent __37__ les citoyens à utiliser leurs vélos pour circuler dans les grandes villes. Il n'est pas forcément nécessaire de posséder un vélo. __38__, les s",
+      "reason": "自2000年心态变化对应逐渐增加的倡导趋势，de plus en plus；不是递进连接en plus。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "31-40: ABCCA BDBAA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q038",
+      "oldPrimaryId": "obj-col-indeed",
+      "proposedPrimaryId": "obj-col-indeed",
+      "status": "resolved",
+      "quote": " pour circuler dans les grandes villes. Il n'est pas forcément nécessaire de posséder un vélo. __38__, les services de location se sont développés un peu partout : c'est le cas du Vélib' à Paris et du Vélo'v à Lyon. Enfin, pour __39__ aux cyclis",
+      "reason": "租赁服务事实解释不必自己拥有自行车，En effet；与转折cependant不同。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "31-40: ABCCA BDBAA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q039",
+      "oldPrimaryId": "obj-permettre-de",
+      "proposedPrimaryId": null,
+      "status": "pending",
+      "quote": "nt développés un peu partout : c'est le cas du Vélib' à Paris et du Vélo'v à Lyon. Enfin, pour __39__ aux cyclistes de se déplacer en toute sécurité, un vrai réseau de pistes cyclables a été aménagé dans __40__ des grandes villes.\n\nQuestion\nA\nB\n",
+      "reason": "permettre/conseiller/promettre都可接à quelqu'un de faire，语境只支持使能词义；现有permettre-de叶纯句法定义未覆盖真正区分条件，待边界裁决。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "31-40: ABCCA BDBAA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q040",
+      "oldPrimaryId": "obj-majority-de",
+      "proposedPrimaryId": "obj-majority-de",
+      "status": "resolved",
+      "quote": "listes de se déplacer en toute sécurité, un vrai réseau de pistes cyclables a été aménagé dans __40__ des grandes villes.\n\nQuestion\nA\nB\nC\nD",
+      "reason": "空前dans、空后des grandes villes，la majorité des构成完整数量结构；beaucoup/nombre后应为de而非des。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "31-40: ABCCA BDBAA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q042",
+      "oldPrimaryId": "obj-de-adjective",
+      "proposedPrimaryId": "obj-de-adjective",
+      "status": "resolved",
+      "quote": "Bien qu'il ait fait _______ grands efforts, il a échoué au concours.",
+      "reason": "grands为复数名词efforts前置形容词，des通常改de；不是普通否定冠词规则。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "41-50: CABBD CBCBA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q044",
+      "oldPrimaryId": "obj-bien-des",
+      "proposedPrimaryId": "obj-bien-des",
+      "status": "resolved",
+      "quote": "Bien _______ gens ne sont pas satisfaits de leurs conditions d'habitation.",
+      "reason": "bien表示很多接des gens；不同于beaucoup de，排除按一般数量表达改de。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "41-50: CABBD CBCBA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q045",
+      "oldPrimaryId": "obj-negative-ni",
+      "proposedPrimaryId": "obj-negative-ni",
+      "status": "resolved",
+      "quote": "Au dîner, elle ne prend _______ viande _______ poisson.",
+      "reason": "ne...ni viande ni poisson成对并列否定且省冠词；不是rien不定代词。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "41-50: CABBD CBCBA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q048",
+      "oldPrimaryId": "obj-y",
+      "proposedPrimaryId": "obj-y",
+      "status": "resolved",
+      "quote": "L'argent ne fait pas le bonheur mais il _______ contribue.",
+      "reason": "contribuer à ce bonheur为指物à补语，以y代替；不选指人lui。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "41-50: CABBD CBCBA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q049",
+      "oldPrimaryId": "obj-intended-duration",
+      "proposedPrimaryId": "obj-intended-duration",
+      "status": "resolved",
+      "quote": "Il est nommé _______ une durée indéterminée au Quai d'Orsay.",
+      "reason": "nommé与durée indéterminée为预定任期pour；不是en avoir pour预计完成所需时长。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "41-50: CABBD CBCBA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q050",
+      "oldPrimaryId": "obj-consister-en",
+      "proposedPrimaryId": "obj-consister-en",
+      "status": "resolved",
+      "quote": "Le programme consiste _______ quatre sessions de formation couvrant huit thèmes différents.",
+      "reason": "consiste与quatre sessions表示组成内容，consister en；不是consister à faire。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "41-50: CABBD CBCBA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q054",
+      "oldPrimaryId": "obj-verbal-participle",
+      "proposedPrimaryId": "obj-verbal-participle",
+      "status": "resolved",
+      "quote": "Les bruits, _______ tout le monde, devenaient de plus en plus forts.",
+      "reason": "fatiguer带直接宾语tout le monde，动词性现在分词fatiguant；区别动形容词fatigants及一般无补语名词修饰。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "51-60: BDCCD BADAB"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q055",
+      "oldPrimaryId": "obj-par-hasard",
+      "proposedPrimaryId": "obj-par-hasard",
+      "status": "resolved",
+      "quote": "_______ un heureux hasard, son directeur de mémoire est un grand amateur de science-fiction.",
+      "reason": "un heureux hasard构成par un hasard固定表达；不是其他原因介词的通用选取。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "51-60: BDCCD BADAB"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q057",
+      "oldPrimaryId": "obj-distance-no-agreement",
+      "proposedPrimaryId": "obj-distance-no-agreement",
+      "status": "resolved",
+      "quote": "Les cinq kilomètres que Magie _______ l'ont épuisée.",
+      "reason": "cinq kilomètres是courir的距离状语，a couru不配合；比一般avoir前置宾语叶更具体。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "51-60: BDCCD BADAB"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q059",
+      "oldPrimaryId": "obj-ce-que",
+      "proposedPrimaryId": null,
+      "status": "pending",
+      "quote": "Personne ne sait _______ est devenu mon oncle.",
+      "reason": "devenir后缺表语，ce qu'est devenu mon oncle中que是表语而非直接宾语；obj-ce-que现定义只列主语/宾语，需先扩充边界或另裁决。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "51-60: BDCCD BADAB"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q060",
+      "oldPrimaryId": "obj-tel",
+      "proposedPrimaryId": "obj-tel",
+      "status": "resolved",
+      "quote": "J'aime les fruits rouges _______ que la fraise, la framboise et la cerise.",
+      "reason": "tel que按举例对象fruits rouges阳性复数为tels；不是与列举的fraises等逐项配合。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "51-60: BDCCD BADAB"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q061",
+      "oldPrimaryId": "obj-determiner-a",
+      "proposedPrimaryId": "obj-determiner-a",
+      "status": "resolved",
+      "quote": "La montée du chômage a déterminé le gouvernement _______ prendre des mesures de réforme.",
+      "reason": "déterminer le gouvernement à prendre为促使某人做的支配；不能与同为à的obéir合并。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "61-70: ADACD CDDAA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q062",
+      "oldPrimaryId": "obj-ce-a-quoi",
+      "proposedPrimaryId": "obj-ce-a-quoi",
+      "status": "resolved",
+      "quote": "Voici _______ un jeune talent devrait ressembler.",
+      "reason": "ressembler à保留à且无具体先行词，用ce à quoi；不是普通ce que缺直接宾语。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "61-70: ADACD CDDAA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q063",
+      "oldPrimaryId": "obj-tout-adverb",
+      "proposedPrimaryId": "obj-tout-adverb",
+      "status": "resolved",
+      "quote": "La jeune femme est _______ heureuse d'avoir obtenu son diplôme avec mention « très honorable ».",
+      "reason": "tout修饰heureuse，哑音h前保持不变；不是限定名词或独立不定代词。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "61-70: ADACD CDDAA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q064",
+      "oldPrimaryId": "obj-subj-improbable",
+      "proposedPrimaryId": "obj-subj-improbable",
+      "status": "resolved",
+      "quote": "Il est peu probable qu'elle _______.",
+      "reason": "peu probable que触发低可能性虚拟式réussisse；与情感或要求触发叶区分。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "61-70: ADACD CDDAA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q068",
+      "oldPrimaryId": "obj-pas-de-chance",
+      "proposedPrimaryId": "obj-pas-de-chance",
+      "status": "resolved",
+      "quote": "Tu n'as vraiment pas de ________.",
+      "reason": "tu n'as pas de与chance构成否定运气搭配；faim/sommeil的avoir表达不带该de。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "61-70: ADACD CDDAA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q069",
+      "oldPrimaryId": "obj-concession-beau",
+      "proposedPrimaryId": "obj-concession-beau",
+      "status": "resolved",
+      "quote": "Tu auras ________ attendre, il ne voudra pas te voir.",
+      "reason": "avoir beau attendre表达等待仍无效，beau固定不变；不是程度形容词性数配合。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "61-70: ADACD CDDAA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q070",
+      "oldPrimaryId": "obj-quelque-number",
+      "proposedPrimaryId": "obj-quelque-number",
+      "status": "resolved",
+      "quote": "J'ai dû perdre dans cette affaire ________ deux mille euros.",
+      "reason": "quelque修饰deux mille表示大约，副词不变；不是复数名词限定词quelques。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "61-70: ADACD CDDAA"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q071",
+      "oldPrimaryId": "obj-cleft",
+      "proposedPrimaryId": "obj-cleft",
+      "status": "resolved",
+      "quote": "C'est à madame Dubois ________ vous devez vous adresser.",
+      "reason": "c'est强调已有à的madame Dubois，que承接余句且不重复介词；不是介词关系代词。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "71-80: BABCB DAADC"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q072",
+      "oldPrimaryId": "obj-couvert-de",
+      "proposedPrimaryId": "obj-couvert-de",
+      "status": "resolved",
+      "quote": "C'était l'hiver : tout le territoire du Nord était couvert ________ neige.",
+      "reason": "couvert后neige为覆盖物质，用de；与被动施事par不同。",
+      "referenceEvidence": [
+        {
+          "value": "A",
+          "reference": "71-80: BABCB DAADC"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q073",
+      "oldPrimaryId": "obj-nimporte",
+      "proposedPrimaryId": "obj-nimporte",
+      "status": "resolved",
+      "quote": "Il faut être prudent, je ne confierai pas les clés de mon appartement à ________.",
+      "reason": "prudent和不随便给钥匙限定n'importe qui的任指；personne会改变为不给任何人的否定。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "71-80: BABCB DAADC"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q074",
+      "oldPrimaryId": "obj-attribute-le",
+      "proposedPrimaryId": "obj-attribute-le",
+      "status": "resolved",
+      "quote": "Devant les inconnus, elle se sent toujours gênée, mais moi, je ne ________ suis pas.",
+      "reason": "le替代前文gênée状态，不随moi性别变化；不是普通指物直接宾语。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "71-80: BABCB DAADC"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q075",
+      "oldPrimaryId": "obj-clitic-dialogue",
+      "proposedPrimaryId": "obj-clitic-dialogue",
+      "status": "resolved",
+      "quote": "- Est-ce que je pourrais dire cela à mes amis ?\n- ________.",
+      "reason": "mes amis转为leur，cela以en在parler de中回指；选否定命令ne leur en parle pas，同时检验问答指代，区别纯双宾语顺序。",
+      "referenceEvidence": [
+        {
+          "value": "B",
+          "reference": "71-80: BABCB DAADC"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q079",
+      "oldPrimaryId": "obj-if-counterfactual",
+      "proposedPrimaryId": "obj-if-counterfactual",
+      "status": "resolved",
+      "quote": "Si tu étais venu chez moi hier soir, tu ________ Maria.",
+      "reason": "si tu étais venu hier为过去反事实，结果aurais rencontré条件式过去时；不是无条件的过去责备。",
+      "referenceEvidence": [
+        {
+          "value": "D",
+          "reference": "71-80: BABCB DAADC"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q080",
+      "oldPrimaryId": "obj-reported-time",
+      "proposedPrimaryId": "obj-reported-time",
+      "status": "resolved",
+      "quote": "Il m'a dit qu'il serait de retour ________.",
+      "reason": "过去dire与serait的间接引语参照要求trois jours plus tard；不是说话当下的dans八天。",
+      "referenceEvidence": [
+        {
+          "value": "C",
+          "reference": "71-80: BABCB DAADC"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-verb-7",
+      "oldPrimaryId": "obj-present-progressive",
+      "proposedPrimaryId": "obj-present-progressive",
+      "status": "resolved",
+      "quote": "e dire) ____(6)____ de faire les devoirs avant de jouer ? m'a dit Maman.\n- Mais je (j') (être) ____(7)____ en train de les faire, mes devoirs, lui ai-je expliqué.\n- Dans l'obscurité ? Avec cette petite lampe ridicule ? Mais tu (aller) ____(8)___",
+      "reason": "直接引语Mais je与en train de les faire表示当下进行，用suis；不是叙事背景未完成过去时。",
+      "referenceEvidence": [
+        {
+          "value": "suis",
+          "reference": "7. suis"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-verb-8",
+      "oldPrimaryId": "obj-futur-proche",
+      "proposedPrimaryId": "obj-futur-proche",
+      "status": "resolved",
+      "quote": "s, lui ai-je expliqué.\n- Dans l'obscurité ? Avec cette petite lampe ridicule ? Mais tu (aller) ____(8)____ te crever les yeux, Nicolas ! a crié Maman.\n\nJ'ai dit à Maman que ce (ne pas être) ____(9)____ une petite lampe ridicule, et qu'elle (donn",
+      "reason": "直接引语tu...te crever les yeux表达临近后果，aller现在时vas构成最近将来；不是过去视角条件式。",
+      "referenceEvidence": [
+        {
+          "value": "vas",
+          "reference": "8. vas"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-verb-13",
+      "oldPrimaryId": "obj-past-future-anterior",
+      "proposedPrimaryId": "obj-past-future-anterior",
+      "status": "resolved",
+      "quote": "11)____ ma lampe, et elle a dit qu'elle me la (l') (rendre) ____(12)____ quand je (j') (finir) ____(13)____ mes devoirs. Je (J') (essayer) ____(14)____ de pleurer un coup, mais je sais qu'avec Maman ça (ne presque jamais servir) ____(15)____ à r",
+      "reason": "过去报告说rendre条件式将来于过去，quand finir先于归还，用aurais fini；区别当前视角将来完成时。",
+      "referenceEvidence": [
+        {
+          "value": "aurais fini",
+          "reference": "13. aurais fini"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-verb-19",
+      "oldPrimaryId": "obj-subj-request",
+      "proposedPrimaryId": "obj-subj-request",
+      "status": "resolved",
+      "quote": "endu (courir) ____(17)____ et je (j') (demander) ____(18)____ à Maman qu'elle me (m') (rendre) ____(19)____ ma lampe de poche.\n\n- Bon, mais (être) ____(20)____ sage, m'a dit Maman.",
+      "reason": "demander à Maman qu'elle me rende要求母亲归还手电，MD参考rende为要求后的虚拟式；与情感触发不混并。",
+      "referenceEvidence": [
+        {
+          "value": "rende",
+          "reference": "19. rende"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "version": "r02",
+  "scope": "12 direct/adjacent members manually checked via MD question and mapped reference; sample edges are boundary checks not full pair labels",
+  "records": [
+    {
+      "questionId": "tfs4-2012-q045",
+      "previous": "obj-possessive",
+      "proposed": "obj-possessive",
+      "status": "md_boundary_checked_not_full_gold",
+      "questionEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 1084,
+          "end": 1212,
+          "quote": "\n45. Tu t'occupes de tes affaires, laisse-moi m'occuper \\_\\_\\_\\_\\_\\_\\_.\nA. les miens B. les miennes C. des miens D. des miennes\n"
+        }
+      ],
+      "references": [
+        {
+          "id": "tfs4-2012-ref-56",
+          "kind": "answer",
+          "originalLabel": "45",
+          "text": "45: D",
+          "evidence": [
+            {
+              "documentId": "tfs4-2012-answers-24e43da16ed6",
+              "page": 3,
+              "start": 1764,
+              "end": 1769,
+              "quote": "45: D"
+            }
+          ]
+        }
+      ],
+      "reason": "四题共享主有代词替代与性数，人称依所有者；只有2012/45还要求de支配缩合，其他题不强制声称介词能力。"
+    },
+    {
+      "questionId": "tfs4-2012-q075",
+      "previous": "obj-gerund",
+      "proposed": "obj-gerund",
+      "status": "md_boundary_checked_not_full_gold",
+      "questionEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 1285,
+          "end": 1368,
+          "quote": "\n75. C'est _______ qu'on apprend à nager.\nA. nagé\nB. nageant\nC. en nageant\nD. nager"
+        }
+      ],
+      "references": [
+        {
+          "id": "tfs4-2012-ref-59",
+          "kind": "answer",
+          "originalLabel": "75",
+          "text": "75: C",
+          "evidence": [
+            {
+              "documentId": "tfs4-2012-answers-24e43da16ed6",
+              "page": 3,
+              "start": 1821,
+              "end": 1826,
+              "quote": "75: C"
+            }
+          ]
+        }
+      ],
+      "reason": "2012/75选项en nageant，2013/14与2023/17参考分别en attendant/en courant，均为副动词；跨题型保持同节点。"
+    },
+    {
+      "questionId": "tfs4-2012-q076",
+      "previous": "obj-degree-pour",
+      "proposed": "obj-degree-pour",
+      "status": "md_boundary_checked_not_full_gold",
+      "questionEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 0,
+          "end": 118,
+          "quote": "76. Il est trop petit ______ on le laisse voyager tout seul.\nA. de sorte qu' B. pour qu' C. si bien qu' D. de sorte à\n"
+        }
+      ],
+      "references": [
+        {
+          "id": "tfs4-2012-ref-63",
+          "kind": "answer",
+          "originalLabel": "76",
+          "text": "76: B",
+          "evidence": [
+            {
+              "documentId": "tfs4-2012-answers-24e43da16ed6",
+              "page": 3,
+              "start": 1910,
+              "end": 1915,
+              "quote": "76: B"
+            }
+          ]
+        }
+      ],
+      "reason": "2012/76为pour que从句，2013/62为pour不定式，均是程度妨碍结果，不拆重复节点。"
+    },
+    {
+      "questionId": "tfs4-2012-q080",
+      "previous": "obj-unless",
+      "proposed": "obj-unless",
+      "status": "md_boundary_checked_not_full_gold",
+      "questionEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 408,
+          "end": 537,
+          "quote": "\n80. Il arrivera demain matin ______ il n'ait un incident imprévu.\nA. sauf si B. de crainte qu' C. à moins qu' D. à condition qu'"
+        }
+      ],
+      "references": [
+        {
+          "id": "tfs4-2012-ref-79",
+          "kind": "answer",
+          "originalLabel": "80",
+          "text": "80: C",
+          "evidence": [
+            {
+              "documentId": "tfs4-2012-answers-24e43da16ed6",
+              "page": 3,
+              "start": 2266,
+              "end": 2271,
+              "quote": "80: C"
+            }
+          ]
+        }
+      ],
+      "reason": "参考à moins que及没有pas的ne结构支持例外条件，不能与2023/77混同。"
+    },
+    {
+      "questionId": "tfs4-2013-q051",
+      "previous": "obj-possessive",
+      "proposed": "obj-possessive",
+      "status": "md_boundary_checked_not_full_gold",
+      "questionEvidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 9,
+          "start": 295,
+          "end": 432,
+          "quote": "\n51. J'ai **trouvé** des clés sur le bureau, quelqu'un aurait-t-il perdu _______ ?\nA. les siens\nB. les siennes\nC. les leurs\nD. les miens\n"
+        }
+      ],
+      "references": [
+        {
+          "id": "tfs4-2013-ref-50",
+          "kind": "answer",
+          "originalLabel": "51",
+          "text": "<td>51</td>\n    <td>B</td>",
+          "evidence": [
+            {
+              "documentId": "tfs4-2013-answers-dd3370403f9e",
+              "page": 3,
+              "start": 2938,
+              "end": 2964,
+              "quote": "<td>51</td>\n    <td>B</td>"
+            }
+          ]
+        }
+      ],
+      "reason": "四题共享主有代词替代与性数，人称依所有者；只有2012/45还要求de支配缩合，其他题不强制声称介词能力。"
+    },
+    {
+      "questionId": "tfs4-2013-q061",
+      "previous": "obj-possessive",
+      "proposed": "obj-possessive",
+      "status": "md_boundary_checked_not_full_gold",
+      "questionEvidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 10,
+          "start": 0,
+          "end": 113,
+          "quote": "61. Mon appareil photo est en panne, peux-tu me prêter _______ ?\nA. le tien\nB. le vôtre\nC. la tienne\nD. la vôtre\n"
+        }
+      ],
+      "references": [
+        {
+          "id": "tfs4-2013-ref-60",
+          "kind": "answer",
+          "originalLabel": "61",
+          "text": "<td>61</td>\n    <td>A</td>",
+          "evidence": [
+            {
+              "documentId": "tfs4-2013-answers-dd3370403f9e",
+              "page": 3,
+              "start": 3378,
+              "end": 3404,
+              "quote": "<td>61</td>\n    <td>A</td>"
+            }
+          ]
+        }
+      ],
+      "reason": "四题共享主有代词替代与性数，人称依所有者；只有2012/45还要求de支配缩合，其他题不强制声称介词能力。"
+    },
+    {
+      "questionId": "tfs4-2013-q062",
+      "previous": "obj-degree-pour",
+      "proposed": "obj-degree-pour",
+      "status": "md_boundary_checked_not_full_gold",
+      "questionEvidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 10,
+          "start": 113,
+          "end": 235,
+          "quote": "\n62. Il ne peut pas nous rejoindre à la soirée, il est _______ occupé pour venir.\nA. vraiment\nB. en effet\nC. trop\nD. tant\n"
+        }
+      ],
+      "references": [
+        {
+          "id": "tfs4-2013-ref-61",
+          "kind": "answer",
+          "originalLabel": "62",
+          "text": "<td>62</td>\n    <td>C</td>",
+          "evidence": [
+            {
+              "documentId": "tfs4-2013-answers-dd3370403f9e",
+              "page": 3,
+              "start": 3422,
+              "end": 3448,
+              "quote": "<td>62</td>\n    <td>C</td>"
+            }
+          ]
+        }
+      ],
+      "reason": "2012/76为pour que从句，2013/62为pour不定式，均是程度妨碍结果，不拆重复节点。"
+    },
+    {
+      "questionId": "tfs4-2013-q067",
+      "previous": "obj-unless",
+      "proposed": "obj-unless",
+      "status": "md_boundary_checked_not_full_gold",
+      "questionEvidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 10,
+          "start": 708,
+          "end": 846,
+          "quote": "\n67. _______ il ne puisse obtenir son visa, il viendra nous rejoindre à Paris.\nA. Afin qu'\nB. À moins qu'\nC. Avant qu'\nD. À condition qu'\n"
+        }
+      ],
+      "references": [
+        {
+          "id": "tfs4-2013-ref-66",
+          "kind": "answer",
+          "originalLabel": "67",
+          "text": "<td>67</td>\n    <td>B</td>",
+          "evidence": [
+            {
+              "documentId": "tfs4-2013-answers-dd3370403f9e",
+              "page": 3,
+              "start": 3642,
+              "end": 3668,
+              "quote": "<td>67</td>\n    <td>B</td>"
+            }
+          ]
+        }
+      ],
+      "reason": "参考à moins que及没有pas的ne结构支持例外条件，不能与2023/77混同。"
+    },
+    {
+      "questionId": "tfs4-2013-verb-14",
+      "previous": "obj-gerund",
+      "proposed": "obj-gerund",
+      "status": "md_boundary_checked_not_full_gold",
+      "questionEvidence": [
+        {
+          "documentId": "tfs4-2013-paper-9f40705cac10",
+          "page": 11,
+          "start": 2043,
+          "end": 2053,
+          "quote": "(attendre)"
+        }
+      ],
+      "references": [
+        {
+          "id": "tfs4-2013-mdreview-verb-ref-14",
+          "kind": "answer",
+          "originalLabel": "Part V · 14",
+          "text": "**attendre** **en attendant**",
+          "evidence": [
+            {
+              "documentId": "tfs4-2013-answers-dd3370403f9e",
+              "page": 1,
+              "start": 1864,
+              "end": 1893,
+              "quote": "**attendre** **en attendant**"
+            }
+          ]
+        }
+      ],
+      "reason": "2012/75选项en nageant，2013/14与2023/17参考分别en attendant/en courant，均为副动词；跨题型保持同节点。"
+    },
+    {
+      "questionId": "tfs4-2023-q047",
+      "previous": "obj-possessive",
+      "proposed": "obj-possessive",
+      "status": "md_boundary_checked_not_full_gold",
+      "questionEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 8,
+          "start": 790,
+          "end": 911,
+          "quote": "\n47. Mes poissons viennent d'Indonésie. Et d'où viennent _______ ?\nA. les nôtres\nB. les vôtres\nC. les tiennes\nD. le leur\n"
+        }
+      ],
+      "references": [
+        {
+          "id": "tfs4-2023-ref-46",
+          "kind": "answer",
+          "originalLabel": "47",
+          "text": "41-50: CABBD CBCBA",
+          "evidence": [
+            {
+              "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+              "page": 1,
+              "start": 931,
+              "end": 949,
+              "quote": "41-50: CABBD CBCBA"
+            }
+          ]
+        }
+      ],
+      "reason": "四题共享主有代词替代与性数，人称依所有者；只有2012/45还要求de支配缩合，其他题不强制声称介词能力。"
+    },
+    {
+      "questionId": "tfs4-2023-q077",
+      "previous": "obj-unless",
+      "proposed": "obj-condition-que",
+      "status": "md_boundary_checked_not_full_gold",
+      "questionEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 1380,
+          "end": 1522,
+          "quote": "\n77. Il gagnera le Tour de France ________ il n'y ait pas d'incident imprévu.\nA. à condition qu'\nB. de crainte qu'\nC. à moins qu'\nD. sinon qu'"
+        }
+      ],
+      "references": [
+        {
+          "id": "tfs4-2023-ref-76",
+          "kind": "answer",
+          "originalLabel": "77",
+          "text": "71-80: BABCB DAADC",
+          "evidence": [
+            {
+              "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+              "page": 1,
+              "start": 990,
+              "end": 1008,
+              "quote": "71-80: BABCB DAADC"
+            }
+          ]
+        }
+      ],
+      "reason": "参考A及ne…pas支持必要条件，应移至新增叶。"
+    },
+    {
+      "questionId": "tfs4-2023-verb-17",
+      "previous": "obj-gerund",
+      "proposed": "obj-gerund",
+      "status": "md_boundary_checked_not_full_gold",
+      "questionEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1758,
+          "end": 1768,
+          "quote": "(*courir*)"
+        }
+      ],
+      "references": [
+        {
+          "id": "tfs4-2023-mdreview-verb-ref-17",
+          "kind": "answer",
+          "originalLabel": "Part V · 17",
+          "text": "17. en courant",
+          "evidence": [
+            {
+              "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+              "page": 1,
+              "start": 1300,
+              "end": 1314,
+              "quote": "17. en courant"
+            }
+          ]
+        }
+      ],
+      "reason": "2012/75选项en nageant，2013/14与2023/17参考分别en attendant/en courant，均为副动词；跨题型保持同节点。"
+    }
+  ],
+  "representativeChecks": [
+    {
+      "a": "tfs4-2012-q080",
+      "b": "tfs4-2023-q077",
+      "samePrimary": false,
+      "reason": "à moins que例外条件/赘词ne，与à condition que实际否定必要条件不同。"
+    },
+    {
+      "a": "tfs4-2013-q067",
+      "b": "tfs4-2023-q077",
+      "samePrimary": false,
+      "reason": "共同虚拟式或condition父类不足以合并必要条件与例外条件。"
+    },
+    {
+      "a": "tfs4-2012-q076",
+      "b": "tfs4-2013-q062",
+      "samePrimary": true,
+      "reason": "从句与不定式表面不同，同为trop…pour程度结果。"
+    },
+    {
+      "a": "tfs4-2012-q075",
+      "b": "tfs4-2013-verb-14",
+      "samePrimary": true,
+      "reason": "选择与动词空题型不同，明确en+现在分词副动词相同。"
+    },
+    {
+      "a": "tfs4-2012-q096",
+      "b": "tfs4-2012-q098",
+      "samePrimary": false,
+      "reason": "同篇且可含否定题干，e-book术语同义与多项信息排除是不同主操作。"
+    }
+  ],
+  "publication": false
+}

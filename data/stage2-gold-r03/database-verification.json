@@ -1,0 +1,25 @@
+{
+  "createdAt": "2026-10-30T02:53:10.022Z",
+  "environment": "Linux Node v24.19.0",
+  "planSha256": "789bc7f05749e1d128668d6f2819d138336768cb2c1e8dd2c80c8d7cade4b359",
+  "sourceUnchanged": true,
+  "independentRestoreVerified": true,
+  "all360QuestionStatesChecked": true,
+  "allLeafAvailableAndPendingQueriesCompared": true,
+  "gradingAnswersAdopted": false,
+  "productionChanged": false,
+  "semanticGoldCertified": false,
+  "reviewFieldNote": "Legacy independentPrimaryId schema field holds unblinded adjudication; producer explicitly records this. Not independent review evidence.",
+  "summary": {
+    "questions": 360,
+    "available": 261,
+    "pending": 99,
+    "nodes": 218
+  },
+  "integrity": [
+    {
+      "integrity_check": "ok"
+    }
+  ],
+  "foreignKeys": []
+}

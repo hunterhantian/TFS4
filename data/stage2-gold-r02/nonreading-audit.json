@@ -1,0 +1,1203 @@
+{
+  "version": "r02",
+  "reviewMode": "unblinded high-risk nonreading semantic audit; not independent blind gold",
+  "catalogReview": "r02 possessive replacement/gender-number name and degree-pour including pour que accepted; condition-que addition reviewed and used for 2023/77",
+  "coverage": {
+    "reviewed": 98,
+    "originalCheckedNonreadingMultiLeafMembers": 90,
+    "originalNonreadingMultiLeaves": 30,
+    "missingRequired": [],
+    "adjacentCount": 8,
+    "statusCounts": {
+      "retain": 82,
+      "pending": 12,
+      "reclassify": 4
+    }
+  },
+  "constraints": {
+    "baselineModified": false,
+    "pdfRead": false,
+    "audioRead": false,
+    "answerAdopted": false,
+    "classificationPublished": false,
+    "priorAdjudication": "r01 retained as historical decisions; existing pending not resolved by reference alone; 2023/77 resolved only after r02 catalog addition"
+  },
+  "records": [
+    {
+      "questionId": "tfs4-2012-q025",
+      "oldPrimaryId": "obj-lex-save",
+      "proposedPrimaryId": "obj-lex-save",
+      "status": "retain",
+      "quote": "La vie est très chère à Paris, je dois épargner le moindre sou.",
+      "reason": "生活昂贵和le moindre sou限定节省金钱，épargner与économiser同义；保留节约词义叶。",
+      "referenceValues": [
+        "A"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-q030",
+      "oldPrimaryId": "obj-lex-joy",
+      "proposedPrimaryId": "obj-lex-joy",
+      "status": "retain",
+      "quote": "La petite fille était ravie d'avoir eu l'occasion de visiter l'Exposition universelle.",
+      "reason": "反义题以ravie的喜悦和ennuyée的不快对照；不是过去分词配合题。",
+      "referenceValues": [
+        "B"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-q041",
+      "oldPrimaryId": "obj-interrogative",
+      "proposedPrimaryId": "obj-interrogative",
+      "status": "retain",
+      "quote": "de ces deux robes me va mieux",
+      "reason": "独立替代两条裙子中的一条，以laquelle阴性单数选择，不能用限定词quelle。",
+      "referenceValues": [
+        "C"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-q042",
+      "oldPrimaryId": "obj-pronominal-agreement",
+      "proposedPrimaryId": "obj-pronominal-agreement",
+      "status": "retain",
+      "quote": "Elle _______ les mains avant de passer à table.",
+      "reason": "直接宾语les mains置后，se为间接宾语；选s’est lavé，配合是各选项唯一差别。",
+      "referenceValues": [
+        "A"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-q045",
+      "oldPrimaryId": "obj-possessive",
+      "proposedPrimaryId": "obj-possessive",
+      "status": "retain",
+      "quote": "Tu t'occupes de tes affaires, laisse-moi m'occuper",
+      "reason": "affaires阴性复数且s’occuper de保留de，故des miennes；本题同时涉及性数和介词。",
+      "referenceValues": [
+        "D"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-q055",
+      "oldPrimaryId": "obj-clitic-order",
+      "proposedPrimaryId": "obj-clitic-order",
+      "status": "retain",
+      "quote": "Cette question, tu peux _______ poser tout à l'heure ? Il n'a pas encore fini son repas.",
+      "reason": "question指物阴性用la，向il提问用lui，la lui置不定式前；保留代词顺序叶。",
+      "referenceValues": [
+        "A"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-q059",
+      "oldPrimaryId": "obj-soi",
+      "proposedPrimaryId": "obj-soi",
+      "status": "retain",
+      "quote": "On n'est jamais si bien servi que par",
+      "reason": "泛指on对应反身重读soi-même；lui-même缺少特定男性指代。",
+      "referenceValues": [
+        "C"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-q061",
+      "oldPrimaryId": "obj-comme-si",
+      "proposedPrimaryId": "obj-comme-si",
+      "status": "retain",
+      "quote": "Elle me soigne comme si elle",
+      "reason": "comme si表达非现实比拟，était而非条件式或现在时；保留比拟结构叶。",
+      "referenceValues": [
+        "B"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-q062",
+      "oldPrimaryId": "obj-unit-price",
+      "proposedPrimaryId": "obj-unit-price",
+      "status": "retain",
+      "quote": "J'ai acheté des cerises à 7 euros",
+      "reason": "单价后名词kilo取定冠词le；区别已在数额前出现的à。",
+      "referenceValues": [
+        "C"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-q069",
+      "oldPrimaryId": "obj-infinitive-past",
+      "proposedPrimaryId": "obj-infinitive-past",
+      "status": "retain",
+      "quote": "Il s'excuse de ne pas vous",
+      "reason": "未预先通知是道歉之前的行为，avoir prévenu体现先时；prévoir与通知语义不符。",
+      "referenceValues": [
+        "B"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-q072",
+      "oldPrimaryId": "obj-before-que",
+      "proposedPrimaryId": "obj-before-que",
+      "status": "retain",
+      "quote": "Je rentre avant qu'il ne",
+      "reason": "avant que要求虚拟式fasse；ne为赘词，不改变从句语式。",
+      "referenceValues": [
+        "C"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-q073",
+      "oldPrimaryId": "obj-imparfait-habit",
+      "proposedPrimaryId": "obj-imparfait-habit",
+      "status": "retain",
+      "quote": "Quand elle était petite, elle _______ chaque été chez sa tante.",
+      "reason": "chaque été明确过去反复习惯，allait优于单次完成时态。",
+      "referenceValues": [
+        "B"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-q075",
+      "oldPrimaryId": "obj-gerund",
+      "proposedPrimaryId": "obj-gerund",
+      "status": "retain",
+      "quote": "C'est _______ qu'on apprend à nager.",
+      "reason": "学习游泳的手段由en nageant表达；选项明确对比有无en和分词/不定式。",
+      "referenceValues": [
+        "C"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-q076",
+      "oldPrimaryId": "obj-degree-pour",
+      "proposedPrimaryId": "obj-degree-pour",
+      "status": "retain",
+      "quote": "Il est trop petit ______ on le laisse voyager tout seul.",
+      "reason": "遵循既有裁决：trop petit与pour qu’on表达程度阻碍结果；目录须包括pour que从句。",
+      "referenceValues": [
+        "B"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-q077",
+      "oldPrimaryId": "obj-relative-de",
+      "proposedPrimaryId": "obj-relative-de",
+      "status": "retain",
+      "quote": "les informations ______ j'ai besoin",
+      "reason": "avoir besoin de的de补语由dont替代；非直接宾语que。",
+      "referenceValues": [
+        "C"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-q080",
+      "oldPrimaryId": "obj-unless",
+      "proposedPrimaryId": "obj-unless",
+      "status": "retain",
+      "quote": "Il arrivera demain matin ______ il n'ait un incident imprévu.",
+      "reason": "明日到达的例外是意外事件，à moins que引例外且ne赘词；不是必要条件。",
+      "referenceValues": [
+        "C"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-verb-1",
+      "oldPrimaryId": "obj-imperative",
+      "proposedPrimaryId": "obj-imperative",
+      "status": "retain",
+      "quote": "Papa, (raconter) -moi ton aventure inoubliable, s'il te plaît",
+      "reason": "称呼爸爸并请求讲述，raconte-moi为命令式；上下文直接给出受话者。",
+      "referenceValues": [
+        "raconte"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-verb-2",
+      "oldPrimaryId": "obj-futur-simple",
+      "proposedPrimaryId": "obj-futur-simple",
+      "status": "retain",
+      "quote": "L'aventure dont je (se souvenir) ______ toute ma vie",
+      "reason": "toute ma vie指从现在往后一生的记忆，me souviendrai为将来承诺；非叙事过去。",
+      "referenceValues": [
+        "me souviendrai"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-verb-3",
+      "oldPrimaryId": "obj-passe-compose",
+      "proposedPrimaryId": "obj-passe-compose",
+      "status": "retain",
+      "quote": "L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans.",
+      "reason": "avoir lieu标一次已发生的冒险，主叙事完成事件a eu，区别后面的年龄状态。",
+      "referenceValues": [
+        "a eu"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-verb-4",
+      "oldPrimaryId": "obj-imparfait-state",
+      "proposedPrimaryId": "obj-imparfait-state",
+      "status": "retain",
+      "quote": "quand je (avoir) ______ 18 ans",
+      "reason": "18岁是事件当时年龄状态，avais；不是一次取得或完成事件。",
+      "referenceValues": [
+        "(j')avais"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-verb-6",
+      "oldPrimaryId": "obj-imparfait-state",
+      "proposedPrimaryId": null,
+      "status": "pending",
+      "quote": "mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt",
+      "reason": "居住状态横跨来访时点，habitaient；state与background定义均可容纳此情景，目录边界重叠，保留候选。",
+      "referenceValues": [
+        "habitaient"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-verb-7",
+      "oldPrimaryId": "obj-passe-compose",
+      "proposedPrimaryId": "obj-passe-compose",
+      "status": "retain",
+      "quote": "Un jour, je (s'aventurer) ______ dans la forêt.",
+      "reason": "Un jour引一次进入森林的主事件，me suis aventuré；反身配合属次要形态。",
+      "referenceValues": [
+        "me suis aventuré"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-verb-8",
+      "oldPrimaryId": "obj-plusqueparfait",
+      "proposedPrimaryId": "obj-plusqueparfait",
+      "status": "retain",
+      "quote": "Comme il (pleuvoir) ______ la veille",
+      "reason": "la veille在森林冒险前一天，avait plu表达相对过去的先时。",
+      "referenceValues": [
+        "avait plu"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-verb-9",
+      "oldPrimaryId": "obj-imparfait-state",
+      "proposedPrimaryId": "obj-imparfait-background",
+      "status": "reclassify",
+      "quote": "Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais",
+      "reason": "沿用既有裁决：空气清新是森林情景的环境背景，改background。",
+      "referenceValues": [
+        "était"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-verb-10",
+      "oldPrimaryId": "obj-imparfait-background",
+      "proposedPrimaryId": "obj-imparfait-background",
+      "status": "retain",
+      "quote": "l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau",
+      "reason": "听见溪水的可能性描写当时森林背景，pouvait；与环境描写连续而非一次达成。",
+      "referenceValues": [
+        "pouvait"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-verb-12",
+      "oldPrimaryId": "obj-passe-compose",
+      "proposedPrimaryId": "obj-passe-compose",
+      "status": "retain",
+      "quote": "Tout à coup, une maison coquette (apparaître) ______ devant mes yeux.",
+      "reason": "Tout à coup突现并推进事件，est apparue；être与阴性配合非首要时态决定条件。",
+      "referenceValues": [
+        "est apparue"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-verb-13",
+      "oldPrimaryId": "obj-passe-compose",
+      "proposedPrimaryId": "obj-passe-compose",
+      "status": "retain",
+      "quote": "J'ai appelé, mais personne ne me (répondre)",
+      "reason": "呼叫后无人回应为该次呼叫的结果，a répondu；否定不使其变为持续背景。",
+      "referenceValues": [
+        "(m') a répondu"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-verb-14",
+      "oldPrimaryId": "obj-plusqueparfait",
+      "proposedPrimaryId": "obj-plusqueparfait",
+      "status": "retain",
+      "quote": "Sans doute, l'hôte (sortir)",
+      "reason": "无人在家由先前离开解释，était sorti先于进入/呼叫；不是être配合主考点。",
+      "referenceValues": [
+        "était sorti"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-verb-17",
+      "oldPrimaryId": "obj-imparfait-background",
+      "proposedPrimaryId": "obj-imparfait-background",
+      "status": "retain",
+      "quote": "Une jeune fille (porter) une robe blanche, (lire) un roman attentivement sur une chaise longue.",
+      "reason": "进入房间时正在读书，lisait为同时进行的背景；参考portant与本空共同构成描写。",
+      "referenceValues": [
+        "lisait"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-verb-19",
+      "oldPrimaryId": "obj-imparfait-background",
+      "proposedPrimaryId": "obj-imparfait-background",
+      "status": "retain",
+      "quote": "La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs",
+      "reason": "光照头发构成发现女孩时的场景，caressait连续背景，非一次推进事件。",
+      "referenceValues": [
+        "caressait"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-q024",
+      "oldPrimaryId": "obj-lex-save",
+      "proposedPrimaryId": "obj-lex-save",
+      "status": "retain",
+      "quote": "En raison de son âge avancé, il ménage ses forces.",
+      "reason": "年老须保存体力，ménager ses forces意为épargner；节省的对象从金钱变为体力仍属同一词义。",
+      "referenceValues": [
+        "B"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-q044",
+      "oldPrimaryId": "obj-concession-prep",
+      "proposedPrimaryId": "obj-concession-prep",
+      "status": "retain",
+      "quote": "Il fait du jogging tous les matins _ son âge.",
+      "reason": "年龄构成与每日慢跑相反的预期，en dépit de引名词性让步。",
+      "referenceValues": [
+        "C"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-q045",
+      "oldPrimaryId": "obj-interrogative",
+      "proposedPrimaryId": "obj-interrogative",
+      "status": "retain",
+      "quote": "de ces deux cravates vous intéresse",
+      "reason": "独立选择两条领带之一，cravate阴性，laquelle；不是名词前限定词。",
+      "referenceValues": [
+        "B"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-q049",
+      "oldPrimaryId": "obj-negative-rien",
+      "proposedPrimaryId": "obj-negative-rien",
+      "status": "retain",
+      "quote": "de ce qui était humain ne leur fut étranger",
+      "reason": "rien作否定主语，与ne及de补语构成没有任何人性事物陌生的结构；保留否定代词叶。",
+      "referenceValues": [
+        "B"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-q051",
+      "oldPrimaryId": "obj-possessive",
+      "proposedPrimaryId": "obj-possessive",
+      "status": "retain",
+      "quote": "J'ai trouvé des clés sur le bureau, quelqu'un aurait-t-il perdu",
+      "reason": "clés阴性复数，quelqu’un为单一所有者故les siennes；本题无待补介词。",
+      "referenceValues": [
+        "B"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-q053",
+      "oldPrimaryId": "obj-relative-de",
+      "proposedPrimaryId": "obj-relative-de",
+      "status": "retain",
+      "quote": "C'est le dictionnaire _______ nous nous servons souvent.",
+      "reason": "se servir de的de补语用dont；固定动词支配决定关系代词。",
+      "referenceValues": [
+        "C"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-q056",
+      "oldPrimaryId": "obj-soi",
+      "proposedPrimaryId": null,
+      "status": "pending",
+      "quote": "Traditionnellement, chacun rentre chez _______ pour fêter le Nouvel An chinois avec sa famille.",
+      "reason": "chacun可作分配性的第三人称，chez lui和泛指chez soi均有合理读法；参考B不能排除A，旧节点把soi表述为唯一，待边界裁决。",
+      "referenceValues": [
+        "B"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-q060",
+      "oldPrimaryId": "obj-unit-price",
+      "proposedPrimaryId": "obj-unit-price",
+      "status": "retain",
+      "quote": "elle est payée _______ l'heure",
+      "reason": "être payé à l’heure按时间单位支付，定义已明确此子结构，区别le kilo商品单价；同叶是单位计价族而非完全相同表层规则。",
+      "referenceValues": [
+        "D"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-q061",
+      "oldPrimaryId": "obj-possessive",
+      "proposedPrimaryId": "obj-possessive",
+      "status": "retain",
+      "quote": "Mon appareil photo est en panne, peux-tu me prêter",
+      "reason": "appareil photo阳性单数及tu确定le tien；本题考性数/所有者，无介词空。",
+      "referenceValues": [
+        "A"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-q062",
+      "oldPrimaryId": "obj-degree-pour",
+      "proposedPrimaryId": "obj-degree-pour",
+      "status": "retain",
+      "quote": "il est _______ occupé pour venir",
+      "reason": "不能赴会的原因是忙到不能来，trop…pour表示程度阻碍结果，非单纯目的。",
+      "referenceValues": [
+        "C"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-q066",
+      "oldPrimaryId": "obj-comme-si",
+      "proposedPrimaryId": "obj-comme-si",
+      "status": "retain",
+      "quote": "Simone et Zaza restent souvent ensemble _______ elles étaient inséparables.",
+      "reason": "后句étai​ent配comme si形成比拟；不是直陈原因parce que或puisque。",
+      "referenceValues": [
+        "C"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-q067",
+      "oldPrimaryId": "obj-unless",
+      "proposedPrimaryId": "obj-unless",
+      "status": "retain",
+      "quote": "il ne puisse obtenir son visa, il viendra nous rejoindre à Paris.",
+      "reason": "不能获签是来巴黎的例外，à moins que+虚拟式；无pas且ne可赘词。",
+      "referenceValues": [
+        "B"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-q069",
+      "oldPrimaryId": "obj-since-duration",
+      "proposedPrimaryId": "obj-since-duration",
+      "status": "retain",
+      "quote": "Il ne l'avait pas revu _______ vingt ans.",
+      "reason": "已结束的二十年未见在刚重逢处封闭，pendant表示时间跨度；与depuis持续至参照点作对比。",
+      "referenceValues": [
+        "C"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-q070",
+      "oldPrimaryId": "obj-relative-preposition",
+      "proposedPrimaryId": "obj-relative-preposition",
+      "status": "retain",
+      "quote": "C'est la rivière le long _______ nous aimons nous promener.",
+      "reason": "le long de复合介词须完整保留，rivière阴性单数故de laquelle；不能用dont拆开介词。",
+      "referenceValues": [
+        "B"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-q072",
+      "oldPrimaryId": "obj-before-que",
+      "proposedPrimaryId": "obj-before-que",
+      "status": "retain",
+      "quote": "Rentrez des bestiaux à l'étable _______ il ne pleuve.",
+      "reason": "下雨前赶进牲口，avant que+虚拟式pleuve及赘词ne；不是条件或目的。",
+      "referenceValues": [
+        "C"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-q074",
+      "oldPrimaryId": "obj-clitic-order",
+      "proposedPrimaryId": "obj-clitic-order",
+      "status": "retain",
+      "quote": "Le journal est sur le bureau, peux-tu ________ passer ?",
+      "reason": "journal用le、接受者我用me，me le前置不定式；选项对比词序及弱读/重读。",
+      "referenceValues": [
+        "B"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-q079",
+      "oldPrimaryId": "obj-concession-qui",
+      "proposedPrimaryId": "obj-concession-qui",
+      "status": "retain",
+      "quote": "________ ce soit, il faut observer les règlements de l'usine.",
+      "reason": "无论何人都守厂规，qui que ce soit任指人；quel que要求表语配合结构，此处不合。",
+      "referenceValues": [
+        "B"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-verb-2",
+      "oldPrimaryId": "obj-imparfait-state",
+      "proposedPrimaryId": "obj-imparfait-state",
+      "status": "retain",
+      "quote": "Quand ils la (amener) ________ à Paris, elle (être) petite",
+      "reason": "搬到巴黎时年幼为年龄状态，était；非事件完成。",
+      "referenceValues": [
+        "était"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-verb-3",
+      "oldPrimaryId": "obj-present-state",
+      "proposedPrimaryId": null,
+      "status": "pending",
+      "quote": "elle (être) petite mais elle (se souvenir) ________ bien de ses premières impressions.",
+      "reason": "开篇Farida est Algérienne的现在叙述回看童年，se souvient可指目前记忆；但整句也容许était…se souvenait，参考不足排除过去认知读法。",
+      "referenceValues": [
+        "se souvient"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-verb-4",
+      "oldPrimaryId": "obj-imparfait-habit",
+      "proposedPrimaryId": "obj-imparfait-habit",
+      "status": "retain",
+      "quote": "Ses parents (dire) ________ toujours",
+      "reason": "toujours明确父母过去反复说的话，disaient；习惯优先于一次认知状态。",
+      "referenceValues": [
+        "disaient"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-verb-5",
+      "oldPrimaryId": "obj-present-state",
+      "proposedPrimaryId": "obj-present-state",
+      "status": "retain",
+      "quote": "Ici en Algérie, la vie est trop difficile. Nous (devoir) ________ partir en France.",
+      "reason": "直接引语Ici及est把义务置于父母当时说话的现在，devons；过去外层不触发引号内部时态回溯。",
+      "referenceValues": [
+        "devons"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-verb-6",
+      "oldPrimaryId": "obj-futur-simple",
+      "proposedPrimaryId": "obj-futur-simple",
+      "status": "retain",
+      "quote": "Tout (être) ________ plus facile là-bas.",
+      "reason": "父母设想移居后那里的生活，sera为直接引语的未来；区别叙述者过去将来。",
+      "referenceValues": [
+        "sera"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-verb-7",
+      "oldPrimaryId": "obj-futur-simple",
+      "proposedPrimaryId": null,
+      "status": "pending",
+      "quote": "Il y a du travail pour tous. On (pouvoir) ________ trouver un meilleur logement.",
+      "reason": "父母预期移居后能找到更好住所，pourra与前空sera连贯；但peut同样能描述那里一般能力，参考不能唯一决定未来规则。",
+      "referenceValues": [
+        "pourra"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-verb-8",
+      "oldPrimaryId": "obj-imparfait-view",
+      "proposedPrimaryId": "obj-imparfait-view",
+      "status": "retain",
+      "quote": "Dans sa petite tête, Fabrida (voir) ________ la France comme un pays",
+      "reason": "当时脑中将法国想象成富裕国家，voyait是持续认知而非一次看见。",
+      "referenceValues": [
+        "voyait"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-verb-9",
+      "oldPrimaryId": "obj-past-future",
+      "proposedPrimaryId": null,
+      "status": "pending",
+      "quote": "où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être) ________ moins dure.",
+      "reason": "沿用既有pending：serait可过去将来，était也能与前句并列状态；不以参考唯一裁定。",
+      "referenceValues": [
+        "serait"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-verb-10",
+      "oldPrimaryId": "obj-imparfait-background",
+      "proposedPrimaryId": "obj-imparfait-background",
+      "status": "retain",
+      "quote": "Ils sont arrivés à Paris un jour où il (pleuvoir) ________ très fort",
+      "reason": "到达当天正在下雨，为抵达事件提供天气背景，pleuvait。",
+      "referenceValues": [
+        "pleuvait"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-verb-11",
+      "oldPrimaryId": "obj-imparfait-background",
+      "proposedPrimaryId": "obj-imparfait-background",
+      "status": "retain",
+      "quote": "un jour où il (pleuvoir) ________ très fort et où il (faire) ________ vraiment froid.",
+      "reason": "与下雨并列描述抵达当天天气，faisait背景，不能以être/faire状态词形机械分state。",
+      "referenceValues": [
+        "faisait"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-verb-12",
+      "oldPrimaryId": "obj-passe-compose",
+      "proposedPrimaryId": "obj-passe-compose",
+      "status": "retain",
+      "quote": "La première nuit, ils (aller) ________ dans l'hôtel le moins cher",
+      "reason": "第一晚入住旅馆是已发生的一步事件，sont allés；être的配合是附随形态。",
+      "referenceValues": [
+        "sont allés"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-verb-13",
+      "oldPrimaryId": "obj-imparfait-view",
+      "proposedPrimaryId": "obj-imparfait-view",
+      "status": "retain",
+      "quote": "Ils (penser) ________ rester deux ou trois jours",
+      "reason": "当时以为只住两三天，pensaient为预期想法，后文En réalité转折该认知。",
+      "referenceValues": [
+        "pensaient"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-verb-14",
+      "oldPrimaryId": "obj-gerund",
+      "proposedPrimaryId": "obj-gerund",
+      "status": "retain",
+      "quote": "Ils (penser) ________ rester deux ou trois jours (attendre) ________ de (trouver) ________ un logement.",
+      "reason": "沿用裁决：参考en attendant完整填入副动词，等找到住房是暂住时同时持续的活动；题面无需另给en。",
+      "referenceValues": [
+        "en attendant"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-verb-16",
+      "oldPrimaryId": "obj-passe-compose",
+      "proposedPrimaryId": null,
+      "status": "pending",
+      "quote": "En réalité la recherche d'un logement pas trop cher (être) ________ très difficile.",
+      "reason": "沿用既有pending：a été可概括经历，était可描述当时困难；MD未给排他解释。",
+      "referenceValues": [
+        "a été"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-verb-17",
+      "oldPrimaryId": "obj-imparfait-state",
+      "proposedPrimaryId": "obj-imparfait-habit",
+      "status": "reclassify",
+      "quote": "Il (falloir) ________ toujours aller en banlieue",
+      "reason": "沿用裁决：toujours aller表示找房反复须去郊区，fallait为过去习惯。",
+      "referenceValues": [
+        "fallait"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-verb-18",
+      "oldPrimaryId": "obj-imparfait-state",
+      "proposedPrimaryId": "obj-imparfait-state",
+      "status": "retain",
+      "quote": "Où (être) ________ le soleil de l'Algérie ?",
+      "reason": "过去找房经历中对阿尔及利亚阳光的反问，était描述相对于该时点的缺失状态；不涉及重复行为。",
+      "referenceValues": [
+        "était"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-verb-19",
+      "oldPrimaryId": "obj-imparfait-view",
+      "proposedPrimaryId": "obj-imparfait-view",
+      "status": "retain",
+      "quote": "Fabrida, dans sa petite tête, (se demander) ________ si",
+      "reason": "内心持续疑问承接过去阴冷的环境，se demandait为认知活动；不是单次提出问题。",
+      "referenceValues": [
+        "se demandait"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-verb-20",
+      "oldPrimaryId": "obj-imparfait-state",
+      "proposedPrimaryId": "obj-imparfait-state",
+      "status": "retain",
+      "quote": "si dans ce pays le soleil (exister) ________ encore.",
+      "reason": "问太阳当时是否仍存在，existait是疑问内容的持续状态；主句se demandait才是想法叶。",
+      "referenceValues": [
+        "existait"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-q030",
+      "oldPrimaryId": "obj-lex-joy",
+      "proposedPrimaryId": "obj-lex-joy",
+      "status": "retain",
+      "quote": "Après avoir remporté la médaille d'or, elle se réjouit de sa victoire.",
+      "reason": "反义题以se réjouit的喜悦对se plaint的不满；与ravi共享可核验喜悦语义。",
+      "referenceValues": [
+        "A"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-q041",
+      "oldPrimaryId": "obj-unit-price",
+      "proposedPrimaryId": "obj-unit-price",
+      "status": "retain",
+      "quote": "Les fraises coûtent 3,99 euros _______ kilo.",
+      "reason": "商品每公斤单价用le kilo；空位为冠词而非随意加入par或un。",
+      "referenceValues": [
+        "C"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-q046",
+      "oldPrimaryId": "obj-since-duration",
+      "proposedPrimaryId": "obj-since-duration",
+      "status": "retain",
+      "quote": "Ayant étudié les mathématiques _______ 4 ans à l'université, je suis maintenant enseignant _______ 3 ans.",
+      "reason": "已结束学习四年pendant，对比现在持续任教depuis；两空共同决定已结束/延续边界。",
+      "referenceValues": [
+        "C"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-q047",
+      "oldPrimaryId": "obj-possessive",
+      "proposedPrimaryId": "obj-possessive",
+      "status": "retain",
+      "quote": "Mes poissons viennent d'Indonésie. Et d'où viennent",
+      "reason": "poissons阳性复数确定les…复数形式；问对方通常用vôtres，nôtres也需所有者语境；归属仍主有代词，不含待补介词，不把参考B证明为唯一答案。",
+      "referenceValues": [
+        "B"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-q051",
+      "oldPrimaryId": "obj-relative-preposition",
+      "proposedPrimaryId": "obj-relative-preposition",
+      "status": "retain",
+      "quote": "Il parle souvent de son pays, loin _______ il s'ennuie.",
+      "reason": "loin de须保留完整介词，pays阳性单数duquel；不是动词要求de补语的dont。",
+      "referenceValues": [
+        "B"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-q052",
+      "oldPrimaryId": "obj-before-que",
+      "proposedPrimaryId": "obj-before-que",
+      "status": "retain",
+      "quote": "Il faut faire la chambre _______ elle ne soit là.",
+      "reason": "要在她到来之前收拾房间，avant que及赘词ne/虚拟式soit；连接词选择决定时间关系。",
+      "referenceValues": [
+        "D"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-q053",
+      "oldPrimaryId": "obj-relative-de",
+      "proposedPrimaryId": "obj-relative-de",
+      "status": "retain",
+      "quote": "j'ai visité un musée _______ le nom m'échappe pour l'instant.",
+      "reason": "le nom du musée为名词de补语，用dont；先行词musée不是从句宾语。",
+      "referenceValues": [
+        "C"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-q056",
+      "oldPrimaryId": "obj-pronominal-agreement",
+      "proposedPrimaryId": "obj-pronominal-agreement",
+      "status": "retain",
+      "quote": "Ils se sont _______ de leur erreur dès le premier clic.",
+      "reason": "se rendre compte类词义不可机械替换：se sont aperçus de为代词动词，主语复数分词配合；B与A的s差决定配合。",
+      "referenceValues": [
+        "B"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-q058",
+      "oldPrimaryId": "obj-negative-rien",
+      "proposedPrimaryId": "obj-negative-rien",
+      "status": "retain",
+      "quote": "Je n'ai jamais trouvé _______ de plus sérieux qu'elle.",
+      "reason": "否定代词后de+形容词比较结构，参考rien；保留rien/personne综合否定代词叶，不将elle误判成人称宾语替代题。",
+      "referenceValues": [
+        "D"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-q065",
+      "oldPrimaryId": "obj-comme-si",
+      "proposedPrimaryId": "obj-comme-si",
+      "status": "retain",
+      "quote": "Il s'est dépêché de monter dans le bus, comme s'il",
+      "reason": "comme si引假想先时未看见，plus-que-parfait ne m’avait pas vu；相同比拟叶允许时态随先时变化。",
+      "referenceValues": [
+        "D"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-q066",
+      "oldPrimaryId": "obj-concession-prep",
+      "proposedPrimaryId": "obj-concession-prep",
+      "status": "retain",
+      "quote": "________ un vent très fort, il est sorti se promener.",
+      "reason": "大风与出门形成让步预期，malgré引名词短语，非原因或缺少条件。",
+      "referenceValues": [
+        "C"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-q067",
+      "oldPrimaryId": "obj-concession-qui",
+      "proposedPrimaryId": null,
+      "status": "pending",
+      "quote": "________ il soit, il doit respecter les autres.",
+      "reason": "参考D Quel qu’il soit是表语quel que结构，非旧叶qui que；但Qui qu’il soit亦可读作无论何人，冻结目录无quel que叶，暂待裁决。",
+      "referenceValues": [
+        "D"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-q077",
+      "oldPrimaryId": "obj-unless",
+      "proposedPrimaryId": "obj-condition-que",
+      "status": "reclassify",
+      "quote": "Il gagnera le Tour de France ________ il n'y ait pas d'incident imprévu.",
+      "reason": "r01曾因目录缺叶而pending；r02已新增condition-que，ne…pas表达无意外这一必要条件，à condition que适用，明确区别unless例外条件。",
+      "referenceValues": [
+        "A"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-q078",
+      "oldPrimaryId": "obj-past-future",
+      "proposedPrimaryId": "obj-past-future",
+      "status": "retain",
+      "quote": "Elle se doutait bien que je ________ le lendemain.",
+      "reason": "se doutait的过去参照加le lendemain后时，n’irais pas为过去将来；并非条件假设。",
+      "referenceValues": [
+        "A"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-verb-1",
+      "oldPrimaryId": "obj-passe-compose",
+      "proposedPrimaryId": "obj-passe-compose",
+      "status": "retain",
+      "quote": "ode qui conviennent.\n\n## La lampe de poche\n\nMaman est sortie. Je (J') (éteindre) ____(1)____ la lumière et je (se mettre) ____(2)____ au travail. C'est très chouette de faire les devoirs avec une lampe de poche, mêm",
+      "reason": "关灯接着开始做功课，过去事件链，j’ai éteint；不是持续照明背景。",
+      "referenceValues": [
+        "J'ai éteint"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-verb-3",
+      "oldPrimaryId": "obj-etre-agreement",
+      "proposedPrimaryId": "obj-passe-compose",
+      "status": "reclassify",
+      "quote": "Et puis Maman (revenir) ____(3)____ dans la chambre et (allumer) ____(4)____ la grosse lumière",
+      "reason": "沿用裁决：Et puis推进母亲回来这一完成事件，主规则passe-compose；revenue性数配合次要。",
+      "referenceValues": [
+        "est revenue"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-verb-4",
+      "oldPrimaryId": "obj-passe-compose",
+      "proposedPrimaryId": "obj-passe-compose",
+      "status": "retain",
+      "quote": "Et puis Maman (revenir) ____(3)____ dans la chambre et (allumer) ____(4)____ la grosse lumière",
+      "reason": "回来后开灯是事件链下一步，a allumé；与其后的情绪状态有别。",
+      "referenceValues": [
+        "a allumé"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-verb-5",
+      "oldPrimaryId": "obj-imparfait-state",
+      "proposedPrimaryId": "obj-imparfait-state",
+      "status": "retain",
+      "quote": "elle (ne pas être) ____(5)____ contente du tout.",
+      "reason": "她当时不高兴是开灯事件伴随心理状态，n’était pas；状态叶优于背景动作叶。",
+      "referenceValues": [
+        "n'était pas"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-verb-6",
+      "oldPrimaryId": "obj-infinitive-past",
+      "proposedPrimaryId": "obj-infinitive-past",
+      "status": "retain",
+      "quote": "Je croyais (te dire) ____(6)____ de faire les devoirs avant de jouer ?",
+      "reason": "母亲认为此前已告诫，t’avoir dit为过去不定式，先于croyais；非只按过去叙事变位。",
+      "referenceValues": [
+        "t'avoir dit"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-verb-11",
+      "oldPrimaryId": "obj-passe-compose",
+      "proposedPrimaryId": "obj-passe-compose",
+      "status": "retain",
+      "quote": "mais Maman n'a rien voulu savoir et elle (prendre) ____(11)____ ma lampe",
+      "reason": "拒绝解释后收走灯，a pris推进事件；不是习惯性拿取。",
+      "referenceValues": [
+        "a pris"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-verb-12",
+      "oldPrimaryId": "obj-past-future",
+      "proposedPrimaryId": "obj-past-future",
+      "status": "retain",
+      "quote": "elle a dit qu'elle me la (l') (rendre) ____(12)____ quand je (j') (finir) ____(13)____ mes devoirs.",
+      "reason": "过去说话时尚待归还，rendrait为过去将来；作业完成是归还前置事件。",
+      "referenceValues": [
+        "rendrait"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-verb-14",
+      "oldPrimaryId": "obj-passe-compose",
+      "proposedPrimaryId": "obj-passe-compose",
+      "status": "retain",
+      "quote": "Je (J') (essayer) ____(14)____ de pleurer un coup",
+      "reason": "un coup使尝试哭一次有界并推进故事，j’ai essayé；不是持续心理状态。",
+      "referenceValues": [
+        "J'ai essayé"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-verb-15",
+      "oldPrimaryId": "obj-present-state",
+      "proposedPrimaryId": "obj-present-state",
+      "status": "retain",
+      "quote": "mais je sais qu'avec Maman ça (ne presque jamais servir) ____(15)____ à rien",
+      "reason": "现在je sais引对妈妈的一般经验，ne sert presque jamais；不因叙述过去机械改未完成时。",
+      "referenceValues": [
+        "ne sert presque jamais"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-verb-17",
+      "oldPrimaryId": "obj-gerund",
+      "proposedPrimaryId": "obj-gerund",
+      "status": "retain",
+      "quote": "Je suis descendu (courir) ____(17)____",
+      "reason": "同一主语下楼的方式为奔跑，MD参考en courant完整副动词；未给en不构成来源缺口。",
+      "referenceValues": [
+        "en courant"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-verb-18",
+      "oldPrimaryId": "obj-passe-compose",
+      "proposedPrimaryId": "obj-passe-compose",
+      "status": "retain",
+      "quote": "Je suis descendu (courir) ____(17)____ et je (j') (demander) ____(18)____ à Maman",
+      "reason": "下楼后向妈妈提出一次要求，j’ai demandé为完成事件；从句rende另属虚拟式。",
+      "referenceValues": [
+        "j'ai demandé"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-verb-20",
+      "oldPrimaryId": "obj-imperative",
+      "proposedPrimaryId": "obj-imperative",
+      "status": "retain",
+      "quote": "Bon, mais (être) ____(20)____ sage, m'a dit Maman.",
+      "reason": "妈妈对Nicolas直接下指令sois sage，命令式；第三人称叙述外框不改变受话者。",
+      "referenceValues": [
+        "sois"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-verb-16",
+      "oldPrimaryId": "obj-present-participle",
+      "proposedPrimaryId": "obj-present-participle",
+      "status": "retain",
+      "quote": "Une jeune fille (porter) une robe blanche, (lire) un roman attentivement",
+      "reason": "portant作非限定描写修饰jeune fille，空后逗号与主谓lisait分工；保留现在分词，不按叙事时态一律重标。",
+      "referenceValues": [
+        "portant"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2012-verb-18",
+      "oldPrimaryId": "obj-past-participle-passive",
+      "proposedPrimaryId": "obj-past-participle-passive",
+      "status": "retain",
+      "quote": "La lumière du jour, (tamiser) ______ par les vitraux",
+      "reason": "par les vitraux给被动分词修饰lumière，tamisée阴性配合；本空不选限定时态。",
+      "referenceValues": [
+        "tamisée"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2013-verb-1",
+      "oldPrimaryId": "obj-avoir-agreement",
+      "proposedPrimaryId": null,
+      "status": "pending",
+      "quote": "Quand ils la (amener) ________ à Paris",
+      "reason": "参考l’ont amenée的代词/助动词映射已有unusable问题，不能把配合或完成时作为确定主点。",
+      "referenceValues": [
+        "l'ont amenée"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-verb-2",
+      "oldPrimaryId": "obj-pronominal-agreement",
+      "proposedPrimaryId": null,
+      "status": "pending",
+      "quote": "je (se mettre) ____(2)____ au travail",
+      "reason": "参考me suis mis à与题面已有au形成重复介词，保持来源阻断；不据此增列确定时态或配合题。",
+      "referenceValues": [
+        "me suis mis à"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-verb-9",
+      "oldPrimaryId": "obj-present-state",
+      "proposedPrimaryId": null,
+      "status": "pending",
+      "quote": "J'ai dit à Maman que ce (ne pas être) ____(9)____ une petite lampe ridicule",
+      "reason": "间接引语可当前性质陈述或时态回溯；参考n’est pas不足决定现在状态唯一。",
+      "referenceValues": [
+        "n'est pas"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-verb-10",
+      "oldPrimaryId": "obj-present-state",
+      "proposedPrimaryId": null,
+      "status": "pending",
+      "quote": "et qu'elle (donner) ____(10)____ une lumière terrible",
+      "reason": "与第9空同属过去转述，donne可保持当前性质，也可donnait回溯；保持pending。",
+      "referenceValues": [
+        "donne"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    },
+    {
+      "questionId": "tfs4-2023-verb-16",
+      "oldPrimaryId": "obj-passe-compose",
+      "proposedPrimaryId": null,
+      "status": "pending",
+      "quote": "alors je (j') (faire) ____(16)____ mon problème le plus vite possible.",
+      "reason": "参考fais与过去叙事推进关系不稳，既有待核不清零；非配合问题。",
+      "referenceValues": [
+        "fais"
+      ],
+      "sourceReview": "reviewed-pilots content-v4 question/full verb material and mapped MD reference; unblinded"
+    }
+  ]
+}

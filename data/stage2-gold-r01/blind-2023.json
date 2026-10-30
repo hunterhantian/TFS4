@@ -1,0 +1,3430 @@
+{
+  "schemaVersion": 1,
+  "year": 2023,
+  "items": [
+    {
+      "questionId": "tfs4-2023-q021",
+      "questionVersionId": "tfs4-2023-q021:v1",
+      "year": 2023,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "text": "L'Académie a donné son feu vert à la féminisation de certains noms de métier.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "permis"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "avis"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "soutien"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "autorisation"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 6,
+          "start": 122,
+          "end": 257,
+          "quote": "\n21. L'Académie a donné son <u>feu vert</u> à la féminisation de certains noms de métier.\nA. permis\nB. avis\nC. soutien\nD. autorisation\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q022",
+      "questionVersionId": "tfs4-2023-q022:v1",
+      "year": 2023,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "text": "Grâce à ce programme de sports, ils pourront se livrer à leur sport favori.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "s'intéresser à"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "se tenir à"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "se donner à"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "s'attacher à"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 6,
+          "start": 257,
+          "end": 408,
+          "quote": "\n22. Grâce à ce programme de sports, ils pourront <u>se livrer à</u> leur sport favori.\nA. s'intéresser à\nB. se tenir à\nC. se donner à\nD. s'attacher à\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q023",
+      "questionVersionId": "tfs4-2023-q023:v1",
+      "year": 2023,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "text": "L'institutrice a fait preuve d' une grande patience avec cet enfant difficile.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "a montré"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "a délivré"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "a détaillé"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "a éprouvé"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 6,
+          "start": 408,
+          "end": 551,
+          "quote": "\n23. L'institutrice <u>a fait preuve d'</u> une grande patience avec cet enfant difficile.\nA. a montré\nB. a délivré\nC. a détaillé\nD. a éprouvé\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q024",
+      "questionVersionId": "tfs4-2023-q024:v1",
+      "year": 2023,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "text": "Le président s'est engagé à réduire le chômage.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "a accepté de"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "a souhaité"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "a promis de"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "s'est efforcé de"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 6,
+          "start": 551,
+          "end": 676,
+          "quote": "\n24. Le président <u>s'est engagé à</u> réduire le chômage.\nA. a accepté de\nB. a souhaité\nC. a promis de\nD. s'est efforcé de\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q025",
+      "questionVersionId": "tfs4-2023-q025:v1",
+      "year": 2023,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "text": "Vos résultats sont au-delà de mes espérances.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "dépassent"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "sont à la hauteur de"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "correspondent à"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "déçoivent"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 6,
+          "start": 676,
+          "end": 802,
+          "quote": "\n25. Vos résultats <u>sont au-delà de</u> mes espérances.\nA. dépassent\nB. sont à la hauteur de\nC. correspondent à\nD. déçoivent"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q026",
+      "questionVersionId": "tfs4-2023-q026:v1",
+      "year": 2023,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "text": "J'ai tout examiné, vos calculs sont justes.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "justifiés"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "inappropriés"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "inexacts"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "exagérés"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 6,
+          "start": 918,
+          "end": 1027,
+          "quote": "\n26. J'ai tout examiné, vos calculs sont <u>justes</u>.\nA. justifiés\nB. inappropriés\nC. inexacts\nD. exagérés\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q027",
+      "questionVersionId": "tfs4-2023-q027:v1",
+      "year": 2023,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "text": "On lui a préparé un cadeau hors du commun pour son mariage.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "bon marché"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "de qualité"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "sur mesure"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "banal"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 6,
+          "start": 1027,
+          "end": 1150,
+          "quote": "\n27. On lui a préparé un cadeau <u>hors du commun</u> pour son mariage.\nA. bon marché\nB. de qualité\nC. sur mesure\nD. banal\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q028",
+      "questionVersionId": "tfs4-2023-q028:v1",
+      "year": 2023,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "text": "Je viens juste de renouveler mon abonnement à ce magazine.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "gérer"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "(d')annuler"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "modifier"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "payer"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 6,
+          "start": 1150,
+          "end": 1266,
+          "quote": "\n28. Je viens juste de <u>renouveler</u> mon abonnement à ce magazine.\nA. gérer\nB. (d')annuler\nC. modifier\nD. payer\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q029",
+      "questionVersionId": "tfs4-2023-q029:v1",
+      "year": 2023,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "text": "Il jette l'argent par les fenêtres de sorte qu'il est réduit à la misère.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "est généreux"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "est dépensier"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "est indiscret"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "est économe"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 6,
+          "start": 1266,
+          "end": 1417,
+          "quote": "\n29. Il <u>jette l'argent par les fenêtres</u> de sorte qu'il est réduit à la misère.\nA. est généreux\nB. est dépensier\nC. est indiscret\nD. est économe\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q030",
+      "questionVersionId": "tfs4-2023-q030:v1",
+      "year": 2023,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "text": "Après avoir remporté la médaille d'or, elle se réjouit de sa victoire.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "se plaint de"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "se rappelle"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "profite de"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "se félicite de"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 6,
+          "start": 1417,
+          "end": 1562,
+          "quote": "\n30. Après avoir remporté la médaille d'or, elle <u>se réjouit de</u> sa victoire.\nA. se plaint de\nB. se rappelle\nC. profite de\nD. se félicite de"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q031",
+      "questionVersionId": "tfs4-2023-q031:v1",
+      "year": 2023,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "31.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "ces derniers"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "toutes"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "les seconds"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "lesquelles"
+        }
+      ],
+      "material": "# Section B (10 points)\n\nComplétez le texte suivant avec les mots et expressions qui conviennent.\n\nSe déplacer en ville, ce n'est pas toujours facile. Les grandes villes proposent depuis longtemps des moyens de transport, mais __31__ ont aussi leurs inconvénients. Le métro est très fréquenté aux heures de pointe, et on ne s'y sent pas toujours __32__ après certaines heures à cause de la montée de la délinquance (违法，犯罪). Le bus est certes très pratique, mais très dépendant __33__ la qualité du trafic. Les taxis sont trop chers pour une utilisation __34__. Le tramway, quant à lui, ne __35__ qu'une zone très limitée de l'espace urbain. On peut bien sûr prendre sa voiture ou pratiquer le covoiturage (拼车), mais les embouteillages ou les difficultés pour se garer sont nombreux et l'heure d'arrivée à un rendez-vous n'est jamais __36__. Depuis les années 2000, on constate un changement de mentalité. Les médias, les entreprises, les municipalités, les écologistes invitent __37__ les citoyens à utiliser leurs vélos pour circuler dans les grandes villes. Il n'est pas forcément nécessaire de posséder un vélo. __38__, les services de location se sont développés un peu partout : c'est le cas du Vélib' à Paris et du Vélo'v à Lyon. Enfin, pour __39__ aux cyclistes de se déplacer en toute sécurité, un vrai réseau de pistes cyclables a été aménagé dans __40__ des grandes villes.\n\nQuestion\nA\nB\nC\nD",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 7,
+          "start": 1502,
+          "end": 1617,
+          "quote": "<td>31.</td>\n<td>A. ces derniers</td>\n<td>B. toutes</td>\n<td>C. les seconds</td>\n<td>D. lesquelles</td>\n</tr>\n<tr>\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q032",
+      "questionVersionId": "tfs4-2023-q032:v1",
+      "year": 2023,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "32.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "à l'aise"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "en sécurité"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "en forme"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "en confiance"
+        }
+      ],
+      "material": "# Section B (10 points)\n\nComplétez le texte suivant avec les mots et expressions qui conviennent.\n\nSe déplacer en ville, ce n'est pas toujours facile. Les grandes villes proposent depuis longtemps des moyens de transport, mais __31__ ont aussi leurs inconvénients. Le métro est très fréquenté aux heures de pointe, et on ne s'y sent pas toujours __32__ après certaines heures à cause de la montée de la délinquance (违法，犯罪). Le bus est certes très pratique, mais très dépendant __33__ la qualité du trafic. Les taxis sont trop chers pour une utilisation __34__. Le tramway, quant à lui, ne __35__ qu'une zone très limitée de l'espace urbain. On peut bien sûr prendre sa voiture ou pratiquer le covoiturage (拼车), mais les embouteillages ou les difficultés pour se garer sont nombreux et l'heure d'arrivée à un rendez-vous n'est jamais __36__. Depuis les années 2000, on constate un changement de mentalité. Les médias, les entreprises, les municipalités, les écologistes invitent __37__ les citoyens à utiliser leurs vélos pour circuler dans les grandes villes. Il n'est pas forcément nécessaire de posséder un vélo. __38__, les services de location se sont développés un peu partout : c'est le cas du Vélib' à Paris et du Vélo'v à Lyon. Enfin, pour __39__ aux cyclistes de se déplacer en toute sécurité, un vrai réseau de pistes cyclables a été aménagé dans __40__ des grandes villes.\n\nQuestion\nA\nB\nC\nD",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 7,
+          "start": 1617,
+          "end": 1732,
+          "quote": "<td>32.</td>\n<td>A. à l'aise</td>\n<td>B. en sécurité</td>\n<td>C. en forme</td>\n<td>D. en confiance</td>\n</tr>\n<tr>\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q033",
+      "questionVersionId": "tfs4-2023-q033:v1",
+      "year": 2023,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "33.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "à"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "en"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "de"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "dans"
+        }
+      ],
+      "material": "# Section B (10 points)\n\nComplétez le texte suivant avec les mots et expressions qui conviennent.\n\nSe déplacer en ville, ce n'est pas toujours facile. Les grandes villes proposent depuis longtemps des moyens de transport, mais __31__ ont aussi leurs inconvénients. Le métro est très fréquenté aux heures de pointe, et on ne s'y sent pas toujours __32__ après certaines heures à cause de la montée de la délinquance (违法，犯罪). Le bus est certes très pratique, mais très dépendant __33__ la qualité du trafic. Les taxis sont trop chers pour une utilisation __34__. Le tramway, quant à lui, ne __35__ qu'une zone très limitée de l'espace urbain. On peut bien sûr prendre sa voiture ou pratiquer le covoiturage (拼车), mais les embouteillages ou les difficultés pour se garer sont nombreux et l'heure d'arrivée à un rendez-vous n'est jamais __36__. Depuis les années 2000, on constate un changement de mentalité. Les médias, les entreprises, les municipalités, les écologistes invitent __37__ les citoyens à utiliser leurs vélos pour circuler dans les grandes villes. Il n'est pas forcément nécessaire de posséder un vélo. __38__, les services de location se sont développés un peu partout : c'est le cas du Vélib' à Paris et du Vélo'v à Lyon. Enfin, pour __39__ aux cyclistes de se déplacer en toute sécurité, un vrai réseau de pistes cyclables a été aménagé dans __40__ des grandes villes.\n\nQuestion\nA\nB\nC\nD",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 7,
+          "start": 1732,
+          "end": 1817,
+          "quote": "<td>33.</td>\n<td>A. à</td>\n<td>B. en</td>\n<td>C. de</td>\n<td>D. dans</td>\n</tr>\n<tr>\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q034",
+      "questionVersionId": "tfs4-2023-q034:v1",
+      "year": 2023,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "34.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "commerciale"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "occasionnelle"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "quotidienne"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "particulière"
+        }
+      ],
+      "material": "# Section B (10 points)\n\nComplétez le texte suivant avec les mots et expressions qui conviennent.\n\nSe déplacer en ville, ce n'est pas toujours facile. Les grandes villes proposent depuis longtemps des moyens de transport, mais __31__ ont aussi leurs inconvénients. Le métro est très fréquenté aux heures de pointe, et on ne s'y sent pas toujours __32__ après certaines heures à cause de la montée de la délinquance (违法，犯罪). Le bus est certes très pratique, mais très dépendant __33__ la qualité du trafic. Les taxis sont trop chers pour une utilisation __34__. Le tramway, quant à lui, ne __35__ qu'une zone très limitée de l'espace urbain. On peut bien sûr prendre sa voiture ou pratiquer le covoiturage (拼车), mais les embouteillages ou les difficultés pour se garer sont nombreux et l'heure d'arrivée à un rendez-vous n'est jamais __36__. Depuis les années 2000, on constate un changement de mentalité. Les médias, les entreprises, les municipalités, les écologistes invitent __37__ les citoyens à utiliser leurs vélos pour circuler dans les grandes villes. Il n'est pas forcément nécessaire de posséder un vélo. __38__, les services de location se sont développés un peu partout : c'est le cas du Vélib' à Paris et du Vélo'v à Lyon. Enfin, pour __39__ aux cyclistes de se déplacer en toute sécurité, un vrai réseau de pistes cyclables a été aménagé dans __40__ des grandes villes.\n\nQuestion\nA\nB\nC\nD",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 7,
+          "start": 1817,
+          "end": 1940,
+          "quote": "<td>34.</td>\n<td>A. commerciale</td>\n<td>B. occasionnelle</td>\n<td>C. quotidienne</td>\n<td>D. particulière</td>\n</tr>\n<tr>\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q035",
+      "questionVersionId": "tfs4-2023-q035:v1",
+      "year": 2023,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "35.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "couvre"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "définit"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "remplit"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "sert"
+        }
+      ],
+      "material": "# Section B (10 points)\n\nComplétez le texte suivant avec les mots et expressions qui conviennent.\n\nSe déplacer en ville, ce n'est pas toujours facile. Les grandes villes proposent depuis longtemps des moyens de transport, mais __31__ ont aussi leurs inconvénients. Le métro est très fréquenté aux heures de pointe, et on ne s'y sent pas toujours __32__ après certaines heures à cause de la montée de la délinquance (违法，犯罪). Le bus est certes très pratique, mais très dépendant __33__ la qualité du trafic. Les taxis sont trop chers pour une utilisation __34__. Le tramway, quant à lui, ne __35__ qu'une zone très limitée de l'espace urbain. On peut bien sûr prendre sa voiture ou pratiquer le covoiturage (拼车), mais les embouteillages ou les difficultés pour se garer sont nombreux et l'heure d'arrivée à un rendez-vous n'est jamais __36__. Depuis les années 2000, on constate un changement de mentalité. Les médias, les entreprises, les municipalités, les écologistes invitent __37__ les citoyens à utiliser leurs vélos pour circuler dans les grandes villes. Il n'est pas forcément nécessaire de posséder un vélo. __38__, les services de location se sont développés un peu partout : c'est le cas du Vélib' à Paris et du Vélo'v à Lyon. Enfin, pour __39__ aux cyclistes de se déplacer en toute sécurité, un vrai réseau de pistes cyclables a été aménagé dans __40__ des grandes villes.\n\nQuestion\nA\nB\nC\nD",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 7,
+          "start": 1940,
+          "end": 2040,
+          "quote": "<td>35.</td>\n<td>A. couvre</td>\n<td>B. définit</td>\n<td>C. remplit</td>\n<td>D. sert</td>\n</tr>\n<tr>\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q036",
+      "questionVersionId": "tfs4-2023-q036:v1",
+      "year": 2023,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "36.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "réussie"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "garantie"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "atteinte"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "réalisée"
+        }
+      ],
+      "material": "# Section B (10 points)\n\nComplétez le texte suivant avec les mots et expressions qui conviennent.\n\nSe déplacer en ville, ce n'est pas toujours facile. Les grandes villes proposent depuis longtemps des moyens de transport, mais __31__ ont aussi leurs inconvénients. Le métro est très fréquenté aux heures de pointe, et on ne s'y sent pas toujours __32__ après certaines heures à cause de la montée de la délinquance (违法，犯罪). Le bus est certes très pratique, mais très dépendant __33__ la qualité du trafic. Les taxis sont trop chers pour une utilisation __34__. Le tramway, quant à lui, ne __35__ qu'une zone très limitée de l'espace urbain. On peut bien sûr prendre sa voiture ou pratiquer le covoiturage (拼车), mais les embouteillages ou les difficultés pour se garer sont nombreux et l'heure d'arrivée à un rendez-vous n'est jamais __36__. Depuis les années 2000, on constate un changement de mentalité. Les médias, les entreprises, les municipalités, les écologistes invitent __37__ les citoyens à utiliser leurs vélos pour circuler dans les grandes villes. Il n'est pas forcément nécessaire de posséder un vélo. __38__, les services de location se sont développés un peu partout : c'est le cas du Vélib' à Paris et du Vélo'v à Lyon. Enfin, pour __39__ aux cyclistes de se déplacer en toute sécurité, un vrai réseau de pistes cyclables a été aménagé dans __40__ des grandes villes.\n\nQuestion\nA\nB\nC\nD",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 7,
+          "start": 2040,
+          "end": 2147,
+          "quote": "<td>36.</td>\n<td>A. réussie</td>\n<td>B. garantie</td>\n<td>C. atteinte</td>\n<td>D. réalisée</td>\n</tr>\n<tr>\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q037",
+      "questionVersionId": "tfs4-2023-q037:v1",
+      "year": 2023,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "37.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "autrement"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "rarement"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "en plus"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "de plus en plus"
+        }
+      ],
+      "material": "# Section B (10 points)\n\nComplétez le texte suivant avec les mots et expressions qui conviennent.\n\nSe déplacer en ville, ce n'est pas toujours facile. Les grandes villes proposent depuis longtemps des moyens de transport, mais __31__ ont aussi leurs inconvénients. Le métro est très fréquenté aux heures de pointe, et on ne s'y sent pas toujours __32__ après certaines heures à cause de la montée de la délinquance (违法，犯罪). Le bus est certes très pratique, mais très dépendant __33__ la qualité du trafic. Les taxis sont trop chers pour une utilisation __34__. Le tramway, quant à lui, ne __35__ qu'une zone très limitée de l'espace urbain. On peut bien sûr prendre sa voiture ou pratiquer le covoiturage (拼车), mais les embouteillages ou les difficultés pour se garer sont nombreux et l'heure d'arrivée à un rendez-vous n'est jamais __36__. Depuis les années 2000, on constate un changement de mentalité. Les médias, les entreprises, les municipalités, les écologistes invitent __37__ les citoyens à utiliser leurs vélos pour circuler dans les grandes villes. Il n'est pas forcément nécessaire de posséder un vélo. __38__, les services de location se sont développés un peu partout : c'est le cas du Vélib' à Paris et du Vélo'v à Lyon. Enfin, pour __39__ aux cyclistes de se déplacer en toute sécurité, un vrai réseau de pistes cyclables a été aménagé dans __40__ des grandes villes.\n\nQuestion\nA\nB\nC\nD",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 7,
+          "start": 2147,
+          "end": 2262,
+          "quote": "<td>37.</td>\n<td>A. autrement</td>\n<td>B. rarement</td>\n<td>C. en plus</td>\n<td>D. de plus en plus</td>\n</tr>\n<tr>\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q038",
+      "questionVersionId": "tfs4-2023-q038:v1",
+      "year": 2023,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "38.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Certes"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "En effet"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Cependant"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Sans doute"
+        }
+      ],
+      "material": "# Section B (10 points)\n\nComplétez le texte suivant avec les mots et expressions qui conviennent.\n\nSe déplacer en ville, ce n'est pas toujours facile. Les grandes villes proposent depuis longtemps des moyens de transport, mais __31__ ont aussi leurs inconvénients. Le métro est très fréquenté aux heures de pointe, et on ne s'y sent pas toujours __32__ après certaines heures à cause de la montée de la délinquance (违法，犯罪). Le bus est certes très pratique, mais très dépendant __33__ la qualité du trafic. Les taxis sont trop chers pour une utilisation __34__. Le tramway, quant à lui, ne __35__ qu'une zone très limitée de l'espace urbain. On peut bien sûr prendre sa voiture ou pratiquer le covoiturage (拼车), mais les embouteillages ou les difficultés pour se garer sont nombreux et l'heure d'arrivée à un rendez-vous n'est jamais __36__. Depuis les années 2000, on constate un changement de mentalité. Les médias, les entreprises, les municipalités, les écologistes invitent __37__ les citoyens à utiliser leurs vélos pour circuler dans les grandes villes. Il n'est pas forcément nécessaire de posséder un vélo. __38__, les services de location se sont développés un peu partout : c'est le cas du Vélib' à Paris et du Vélo'v à Lyon. Enfin, pour __39__ aux cyclistes de se déplacer en toute sécurité, un vrai réseau de pistes cyclables a été aménagé dans __40__ des grandes villes.\n\nQuestion\nA\nB\nC\nD",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 7,
+          "start": 2262,
+          "end": 2371,
+          "quote": "<td>38.</td>\n<td>A. Certes</td>\n<td>B. En effet</td>\n<td>C. Cependant</td>\n<td>D. Sans doute</td>\n</tr>\n<tr>\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q039",
+      "questionVersionId": "tfs4-2023-q039:v1",
+      "year": 2023,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "39.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "permettre"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "conseiller"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "interdire"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "promettre"
+        }
+      ],
+      "material": "# Section B (10 points)\n\nComplétez le texte suivant avec les mots et expressions qui conviennent.\n\nSe déplacer en ville, ce n'est pas toujours facile. Les grandes villes proposent depuis longtemps des moyens de transport, mais __31__ ont aussi leurs inconvénients. Le métro est très fréquenté aux heures de pointe, et on ne s'y sent pas toujours __32__ après certaines heures à cause de la montée de la délinquance (违法，犯罪). Le bus est certes très pratique, mais très dépendant __33__ la qualité du trafic. Les taxis sont trop chers pour une utilisation __34__. Le tramway, quant à lui, ne __35__ qu'une zone très limitée de l'espace urbain. On peut bien sûr prendre sa voiture ou pratiquer le covoiturage (拼车), mais les embouteillages ou les difficultés pour se garer sont nombreux et l'heure d'arrivée à un rendez-vous n'est jamais __36__. Depuis les années 2000, on constate un changement de mentalité. Les médias, les entreprises, les municipalités, les écologistes invitent __37__ les citoyens à utiliser leurs vélos pour circuler dans les grandes villes. Il n'est pas forcément nécessaire de posséder un vélo. __38__, les services de location se sont développés un peu partout : c'est le cas du Vélib' à Paris et du Vélo'v à Lyon. Enfin, pour __39__ aux cyclistes de se déplacer en toute sécurité, un vrai réseau de pistes cyclables a été aménagé dans __40__ des grandes villes.\n\nQuestion\nA\nB\nC\nD",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 7,
+          "start": 2371,
+          "end": 2484,
+          "quote": "<td>39.</td>\n<td>A. permettre</td>\n<td>B. conseiller</td>\n<td>C. interdire</td>\n<td>D. promettre</td>\n</tr>\n<tr>\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q040",
+      "questionVersionId": "tfs4-2023-q040:v1",
+      "year": 2023,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "text": "40.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "la majorité"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "nombre"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "beaucoup"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "quantité"
+        }
+      ],
+      "material": "# Section B (10 points)\n\nComplétez le texte suivant avec les mots et expressions qui conviennent.\n\nSe déplacer en ville, ce n'est pas toujours facile. Les grandes villes proposent depuis longtemps des moyens de transport, mais __31__ ont aussi leurs inconvénients. Le métro est très fréquenté aux heures de pointe, et on ne s'y sent pas toujours __32__ après certaines heures à cause de la montée de la délinquance (违法，犯罪). Le bus est certes très pratique, mais très dépendant __33__ la qualité du trafic. Les taxis sont trop chers pour une utilisation __34__. Le tramway, quant à lui, ne __35__ qu'une zone très limitée de l'espace urbain. On peut bien sûr prendre sa voiture ou pratiquer le covoiturage (拼车), mais les embouteillages ou les difficultés pour se garer sont nombreux et l'heure d'arrivée à un rendez-vous n'est jamais __36__. Depuis les années 2000, on constate un changement de mentalité. Les médias, les entreprises, les municipalités, les écologistes invitent __37__ les citoyens à utiliser leurs vélos pour circuler dans les grandes villes. Il n'est pas forcément nécessaire de posséder un vélo. __38__, les services de location se sont développés un peu partout : c'est le cas du Vélib' à Paris et du Vélo'v à Lyon. Enfin, pour __39__ aux cyclistes de se déplacer en toute sécurité, un vrai réseau de pistes cyclables a été aménagé dans __40__ des grandes villes.\n\nQuestion\nA\nB\nC\nD",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 7,
+          "start": 2484,
+          "end": 2605,
+          "quote": "<td>40.</td>\n<td>A. la majorité</td>\n<td>B. nombre</td>\n<td>C. beaucoup</td>\n<td>D. quantité</td>\n</tr>\n</tbody>\n</table>"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q041",
+      "questionVersionId": "tfs4-2023-q041:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Les fraises coûtent 3,99 euros _______ kilo.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "un"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "chaque"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "le"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "tout"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 8,
+          "start": 135,
+          "end": 215,
+          "quote": "\n41. Les fraises coûtent 3,99 euros _______ kilo.\nA. un\nB. chaque\nC. le\nD. tout\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q042",
+      "questionVersionId": "tfs4-2023-q042:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Bien qu'il ait fait _______ grands efforts, il a échoué au concours.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "de"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "des"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "les"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "/"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 8,
+          "start": 215,
+          "end": 314,
+          "quote": "\n42. Bien qu'il ait fait _______ grands efforts, il a échoué au concours.\nA. de\nB. des\nC. les\nD. /\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q044",
+      "questionVersionId": "tfs4-2023-q044:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Bien _______ gens ne sont pas satisfaits de leurs conditions d'habitation.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "de"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "des"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "aux"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "les"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 8,
+          "start": 393,
+          "end": 500,
+          "quote": "\n44. Bien _______ gens ne sont pas satisfaits de leurs conditions d'habitation.\nA. de\nB. des\nC. aux\nD. les\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q045",
+      "questionVersionId": "tfs4-2023-q045:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Au dîner, elle ne prend _______ viande _______ poisson.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "pas de, pas"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "pas de, ni"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "ni de, ni"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "ni, ni"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 8,
+          "start": 500,
+          "end": 613,
+          "quote": "\n45. Au dîner, elle ne prend _______ viande _______ poisson.\nA. pas de, pas\nB. pas de, ni\nC. ni de, ni\nD. ni, ni\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q046",
+      "questionVersionId": "tfs4-2023-q046:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Ayant étudié les mathématiques _______ 4 ans à l'université, je suis maintenant enseignant _______ 3 ans.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "en, pour"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "depuis, pour"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "pendant, depuis"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "depuis, pendant"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 8,
+          "start": 613,
+          "end": 790,
+          "quote": "\n46. Ayant étudié les mathématiques _______ 4 ans à l'université, je suis maintenant enseignant _______ 3 ans.\nA. en, pour\nB. depuis, pour\nC. pendant, depuis\nD. depuis, pendant\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q047",
+      "questionVersionId": "tfs4-2023-q047:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Mes poissons viennent d'Indonésie. Et d'où viennent _______ ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "les nôtres"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "les vôtres"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "les tiennes"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "le leur"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 8,
+          "start": 790,
+          "end": 911,
+          "quote": "\n47. Mes poissons viennent d'Indonésie. Et d'où viennent _______ ?\nA. les nôtres\nB. les vôtres\nC. les tiennes\nD. le leur\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q048",
+      "questionVersionId": "tfs4-2023-q048:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "L'argent ne fait pas le bonheur mais il _______ contribue.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "le"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "en"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "y"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "lui"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 8,
+          "start": 911,
+          "end": 1003,
+          "quote": "\n48. L'argent ne ~~fait~~ pas le bonheur mais il _______ contribue.\nA. le\nB. en\nC. y\nD. lui\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q049",
+      "questionVersionId": "tfs4-2023-q049:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Il est nommé _______ une durée indéterminée au Quai d'Orsay.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "dans"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "pour"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "en"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "pendant"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 8,
+          "start": 1003,
+          "end": 1102,
+          "quote": "\n49. Il est nommé _______ une durée indéterminée au Quai d'Orsay.\nA. dans\nB. pour\nC. en\nD. pendant\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q050",
+      "questionVersionId": "tfs4-2023-q050:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Le programme consiste _______ quatre sessions de formation couvrant huit thèmes différents.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "en"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "de"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "à"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "pour"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 8,
+          "start": 1102,
+          "end": 1226,
+          "quote": "\n50. Le programme consiste _______ quatre sessions de formation couvrant huit *thèmes différents*.\nA. en\nB. de\nC. à\nD. pour\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q051",
+      "questionVersionId": "tfs4-2023-q051:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Il parle souvent de son pays, loin _______ il s'ennuie.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "de qui"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "duquel"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "dont"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "d'où"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 8,
+          "start": 1226,
+          "end": 1322,
+          "quote": "\n51. Il parle souvent de son pays, loin _______ il s'ennuie.\nA. de qui\nB. duquel\nC. dont\nD. d'où"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q052",
+      "questionVersionId": "tfs4-2023-q052:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Il faut faire la chambre _______ elle ne soit là.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "après qu'"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "en attendant qu'"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "jusqu'à ce qu'"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "avant qu'"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 0,
+          "end": 118,
+          "quote": "52. Il faut faire la chambre _______ elle ne soit là.\nA. après qu'\nB. en attendant qu'\nC. jusqu'à ce qu'\nD. avant qu'\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q053",
+      "questionVersionId": "tfs4-2023-q053:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "L'été dernier, j'ai visité un musée _______ le nom m'échappe pour l'instant.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "que"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "où"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "dont"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "d'où"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 118,
+          "end": 229,
+          "quote": "\n53. L'été dernier, j'ai visité un musée _______ le nom m'échappe pour l'instant.\nA. que\nB. où\nC. dont\nD. d'où\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q054",
+      "questionVersionId": "tfs4-2023-q054:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Les bruits, _______ tout le monde, devenaient de plus en plus forts.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "fatigant"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "fatigants"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "fatiguant"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "fatiguent"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 229,
+          "end": 354,
+          "quote": "\n54. Les bruits, _______ tout le monde, devenaient de plus en plus forts.\nA. fatigant\nB. fatigants\nC. fatiguant\nD. fatiguent\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q055",
+      "questionVersionId": "tfs4-2023-q055:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "_______ un heureux hasard, son directeur de mémoire est un grand amateur de science-fiction.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Pour"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "À"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "D'"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Par"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 354,
+          "end": 478,
+          "quote": "\n55. _______ un heureux hasard, son directeur de mémoire est un grand amateur de science-fiction.\nA. Pour\nB. À\nC. D'\nD. Par\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q056",
+      "questionVersionId": "tfs4-2023-q056:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Ils se sont _______ de leur erreur dès le premier clic.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "aperçu"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "aperçus"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "réalisés"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "réalisé"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 478,
+          "end": 583,
+          "quote": "\n56. Ils se sont _______ de leur erreur dès le premier clic.\nA. aperçu\nB. aperçus\nC. réalisés\nD. réalisé\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q057",
+      "questionVersionId": "tfs4-2023-q057:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Les cinq kilomètres que Magie _______ l'ont épuisée.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "a couru"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "a courus"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "est couru"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "est courue"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 583,
+          "end": 691,
+          "quote": "\n57. Les cinq kilomètres que Magie _______ l'ont épuisée.\nA. a couru\nB. a courus\nC. est couru\nD. est courue\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q058",
+      "questionVersionId": "tfs4-2023-q058:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Je n'ai jamais trouvé _______ de plus sérieux qu'elle.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "aucune"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "personne"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "nul"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "rien"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 691,
+          "end": 788,
+          "quote": "\n58. Je n'ai jamais trouvé _______ de plus sérieux qu'elle.\nA. aucune\nB. personne\nC. nul\nD. rien\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q059",
+      "questionVersionId": "tfs4-2023-q059:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Personne ne sait _______ est devenu mon oncle.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "ce qu'"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "ce qui"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "celui qu'"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "celui qui"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 788,
+          "end": 886,
+          "quote": "\n59. Personne ne sait _______ est devenu mon oncle.\nA. ce qu'\nB. ce qui\nC. celui qu'\nD. celui qui\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q060",
+      "questionVersionId": "tfs4-2023-q060:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "J'aime les fruits rouges _______ que la fraise, la framboise et la cerise.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "tel"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "tels"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "telles"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "telle"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 886,
+          "end": 1000,
+          "quote": "\n60. J'aime les fruits rouges _______ que la fraise, la framboise et la cerise.\nA. tel\nB. tels\nC. telles\nD. telle\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q061",
+      "questionVersionId": "tfs4-2023-q061:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "La montée du chômage a déterminé le gouvernement _______ prendre des mesures de réforme.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "à"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "de"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "en"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "pour"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 1000,
+          "end": 1119,
+          "quote": "\n61. La montée du chômage a déterminé le gouvernement _______ prendre des mesures de réforme.\nA. à\nB. de\nC. en\nD. pour\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q062",
+      "questionVersionId": "tfs4-2023-q062:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Voici _______ un jeune talent devrait ressembler.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "ce qu'"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "qu'est-ce qu'"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "ce dont"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "ce à quoi"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 1119,
+          "end": 1225,
+          "quote": "\n62. Voici _______ un jeune talent devrait ressembler.\nA. ce qu'\nB. qu'est-ce qu'\nC. ce dont\nD. ce à quoi\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q063",
+      "questionVersionId": "tfs4-2023-q063:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "La jeune femme est _______ heureuse d'avoir obtenu son diplôme avec mention « très honorable ».",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "tout"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "tous"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "toute"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "toutes"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 1225,
+          "end": 1361,
+          "quote": "\n63. La jeune femme est _______ heureuse d'avoir obtenu son diplôme avec mention « très honorable ».\nA. tout\nB. tous\nC. toute\nD. toutes\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q064",
+      "questionVersionId": "tfs4-2023-q064:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Il est peu probable qu'elle _______.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "réussira"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "a réussi"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "réussisse"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "réussit"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 1361,
+          "end": 1450,
+          "quote": "\n64. Il est peu probable qu'elle _______.\nA. réussira\nB. a réussi\nC. réussisse\nD. réussit"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q065",
+      "questionVersionId": "tfs4-2023-q065:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Il s'est dépêché de monter dans le bus, comme s'il ________.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "ne me voie pas"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "ne m'a pas vu"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "ne me verrait pas"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "ne m'avait pas vu"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 0,
+          "end": 142,
+          "quote": "65. Il s'est dépêché de monter dans le bus, comme s'il ________.\nA. ne me voie pas\nB. ne m'a pas vu\nC. ne me verrait pas\nD. ne m'avait pas vu\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q066",
+      "questionVersionId": "tfs4-2023-q066:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "________ un vent très fort, il est sorti se promener.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "À cause d'"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Vu"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Malgré"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Faute d'"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 142,
+          "end": 243,
+          "quote": "\n66. ________ un vent très fort, il est sorti se promener.\nA. À cause d'\nB. Vu\nC. Malgré\nD. Faute d'\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q067",
+      "questionVersionId": "tfs4-2023-q067:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "________ il soit, il doit respecter les autres.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Quoi qu'"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Qui qu'"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Quelqu'"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Quel qu'"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 243,
+          "end": 342,
+          "quote": "\n67. ________ il soit, il doit respecter les autres.\nA. Quoi qu'\nB. Qui qu'\nC. Quelqu'\nD. Quel qu'\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q068",
+      "questionVersionId": "tfs4-2023-q068:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Tu n'as vraiment pas de ________.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "raison"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "faim"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "sommeil"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "chance"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 342,
+          "end": 420,
+          "quote": "\n68. Tu n'as vraiment pas de ________.\nA. raison\nB. faim\nC. sommeil\nD. chance\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q069",
+      "questionVersionId": "tfs4-2023-q069:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Tu auras ________ attendre, il ne voudra pas te voir.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "beau"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "belle"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "bien"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "bon"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 420,
+          "end": 511,
+          "quote": "\n69. Tu auras ________ attendre, il ne voudra pas te voir.\nA. beau\nB. belle\nC. bien\nD. bon\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q070",
+      "questionVersionId": "tfs4-2023-q070:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "J'ai dû perdre dans cette affaire ________ deux mille euros.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "quelque"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "quelques"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "plusieurs"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "plus"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 511,
+          "end": 621,
+          "quote": "\n70. J'ai dû perdre dans cette affaire ________ deux mille euros.\nA. quelque\nB. quelques\nC. plusieurs\nD. plus\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q071",
+      "questionVersionId": "tfs4-2023-q071:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "C'est à madame Dubois ________ vous devez vous adresser.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "laquelle"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "que"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "qui"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "à qui"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 621,
+          "end": 718,
+          "quote": "\n71. C'est à madame Dubois ________ vous devez vous adresser.\nA. laquelle\nB. que\nC. qui\nD. à qui\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q072",
+      "questionVersionId": "tfs4-2023-q072:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "C'était l'hiver : tout le territoire du Nord était couvert ________ neige.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "de"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "de la"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "par"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "en"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 718,
+          "end": 826,
+          "quote": "\n72. C'était l'hiver : tout le territoire du Nord était couvert ________ neige.\nA. de\nB. de la\nC. par\nD. en\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q073",
+      "questionVersionId": "tfs4-2023-q073:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Il faut être prudent, je ne confierai pas les clés de mon appartement à ________.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "personne"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "n'importe qui"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "nul autre"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "quelconque"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 826,
+          "end": 969,
+          "quote": "\n73. Il faut être prudent, je ne confierai pas les clés de mon appartement à ________.\nA. personne\nB. n'importe qui\nC. nul autre\nD. quelconque\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q074",
+      "questionVersionId": "tfs4-2023-q074:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Devant les inconnus, elle se sent toujours gênée, mais moi, je ne ________ suis pas.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "(n')en"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "la"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "le"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "(n')y"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 969,
+          "end": 1090,
+          "quote": "\n74. Devant les inconnus, elle se sent toujours gênée, mais moi, je ne ________ suis pas.\nA. (n')en\nB. la\nC. le\nD. (n')y\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q075",
+      "questionVersionId": "tfs4-2023-q075:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "- Est-ce que je pourrais dire cela à mes amis ?\n- ________.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Oui, parle-lui-en."
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Non, ne leur en parle pas."
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Oui, dis-la-leur."
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Non, ne le lui dis pas."
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 1090,
+          "end": 1255,
+          "quote": "\n75. - Est-ce que je pourrais dire cela à mes amis ?\n- ________.\nA. Oui, parle-lui-en.\nB. Non, ne leur en parle pas.\nB. Oui, dis-la-leur.\nD. Non, ne le lui dis pas.\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q077",
+      "questionVersionId": "tfs4-2023-q077:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Il gagnera le Tour de France ________ il n'y ait pas d'incident imprévu.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "à condition qu'"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "de crainte qu'"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "à moins qu'"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "sinon qu'"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 1380,
+          "end": 1522,
+          "quote": "\n77. Il gagnera le Tour de France ________ il n'y ait pas d'incident imprévu.\nA. à condition qu'\nB. de crainte qu'\nC. à moins qu'\nD. sinon qu'"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q078",
+      "questionVersionId": "tfs4-2023-q078:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Elle se doutait bien que je ________ le lendemain.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "n'irais pas"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "n'y vais pas"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "n'y aille pas"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "n'irai pas"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 0,
+          "end": 117,
+          "quote": "78. Elle se doutait bien que je ________ le lendemain.\nA. n'irais pas\nB. n'y vais pas\nC. n'y aille pas\nD. n'irai pas\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q079",
+      "questionVersionId": "tfs4-2023-q079:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Si tu étais venu chez moi hier soir, tu ________ Maria.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "rencontrerais"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "avais rencontré"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "auras rencontré"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "aurais rencontré"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 117,
+          "end": 253,
+          "quote": "\n79. Si tu étais venu chez moi hier soir, tu ________ Maria.\nA. rencontrerais\nB. avais rencontré\nC. auras rencontré\nD. aurais rencontré\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q080",
+      "questionVersionId": "tfs4-2023-q080:v1",
+      "year": 2023,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "text": "Il m'a dit qu'il serait de retour ________.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "dans huit jours"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "il y a une semaine"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "trois jours plus tard"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "hier"
+        }
+      ],
+      "material": null,
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 253,
+          "end": 375,
+          "quote": "\n80. Il m'a dit qu'il serait de retour ________.\nA. dans huit jours\nB. il y a une semaine\nC. trois jours plus tard\nD. hier"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q081",
+      "questionVersionId": "tfs4-2023-q081:v1",
+      "year": 2023,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Quel est le but de cette campagne de sensibilisation ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Combattre les préjugés liés aux nationalités."
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Mieux connaître les pays d'Europe."
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Échanger des idées et se faire des amis."
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Éliminer les stéréotypes sur la France."
+        }
+      ],
+      "material": "## 1. Les étudiants contre les stéréotypes (刻板印象)\n\nÀ l'Université de Bordeaux, les étudiants étrangers ont décidé de créer une association et de lancer une campagne de sensibilisation (宣传活动) contre les stéréotypes. Ces étudiants originaires de pays d'Europe, d'Asie et d'Afrique en ont assez d'être victimes de préjugés en fonction de leur nationalité. La campagne appelée « pour en finir avec les stéréotypes » a commencé en janvier et se poursuivra jusqu'en mars. Pendant ces trois mois, il y aura des expositions de photos, des débats et des conférences sur les stéréotypes.\n\nAkiko est une étudiante japonaise : « Ici les gens pensent que les Japonais voyagent toujours en groupe et qu'ils passent leur temps à prendre des photos. Mais ce n'est pas le cas de tous les Japonais. Par exemple, la première fois que je suis venue en Europe, j'ai voyagé seule. Et je n'avais pas d'appareil photo ! »\n\nPaola, l'Italienne, sourit. Dès que les gens apprennent qu'elle est Italienne, ils lui parlent de pizza et se mettent à parler avec les mains. « En Europe, il y a encore beaucoup de personnes qui pensent qu'avec la tradition familiale, les femmes ne travaillent pas en Italie. J'aimerais changer cette image, car c'est faux : il y a beaucoup de femmes qui ont fait de grandes carrières professionnelles. »\n\nKodjo, étudiant togolais (多哥的), rajoute : « Les gens pensent que l'Afrique est un seul et même pays, et que tous les Africains se ressemblent. C'est totalement faux. L'Afrique est un continent très diversifié. Et non, tous les Africains ne savent pas danser ! »\n\nDes étudiants français comme Ludovic font également partie de cette association. « Quand nous partons en stage à l'étranger, on nous dit que les Français ont souvent l'air arrogants, qu'ils ont la réputation de tout critiquer. Nous allons animer un atelier pour casser toutes ces images. »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 13,
+          "start": 0,
+          "end": 233,
+          "quote": "81. Quel est le but de cette campagne de sensibilisation ?\nA. Combattre les préjugés liés aux nationalités.\nB. Mieux connaître les pays d'Europe.\nC. Échanger des idées et se faire des amis.\nD. Éliminer les stéréotypes sur la France.\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q082",
+      "questionVersionId": "tfs4-2023-q082:v1",
+      "year": 2023,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Quel préjugé associe-t-on aux Italiens ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Les Italiens ont tendance à tout critiquer."
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Les Italiens parlent toujours à haute voix."
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Les Italiens adorent voyager seuls."
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Les femmes italiennes restent souvent au foyer."
+        }
+      ],
+      "material": "## 1. Les étudiants contre les stéréotypes (刻板印象)\n\nÀ l'Université de Bordeaux, les étudiants étrangers ont décidé de créer une association et de lancer une campagne de sensibilisation (宣传活动) contre les stéréotypes. Ces étudiants originaires de pays d'Europe, d'Asie et d'Afrique en ont assez d'être victimes de préjugés en fonction de leur nationalité. La campagne appelée « pour en finir avec les stéréotypes » a commencé en janvier et se poursuivra jusqu'en mars. Pendant ces trois mois, il y aura des expositions de photos, des débats et des conférences sur les stéréotypes.\n\nAkiko est une étudiante japonaise : « Ici les gens pensent que les Japonais voyagent toujours en groupe et qu'ils passent leur temps à prendre des photos. Mais ce n'est pas le cas de tous les Japonais. Par exemple, la première fois que je suis venue en Europe, j'ai voyagé seule. Et je n'avais pas d'appareil photo ! »\n\nPaola, l'Italienne, sourit. Dès que les gens apprennent qu'elle est Italienne, ils lui parlent de pizza et se mettent à parler avec les mains. « En Europe, il y a encore beaucoup de personnes qui pensent qu'avec la tradition familiale, les femmes ne travaillent pas en Italie. J'aimerais changer cette image, car c'est faux : il y a beaucoup de femmes qui ont fait de grandes carrières professionnelles. »\n\nKodjo, étudiant togolais (多哥的), rajoute : « Les gens pensent que l'Afrique est un seul et même pays, et que tous les Africains se ressemblent. C'est totalement faux. L'Afrique est un continent très diversifié. Et non, tous les Africains ne savent pas danser ! »\n\nDes étudiants français comme Ludovic font également partie de cette association. « Quand nous partons en stage à l'étranger, on nous dit que les Français ont souvent l'air arrogants, qu'ils ont la réputation de tout critiquer. Nous allons animer un atelier pour casser toutes ces images. »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 13,
+          "start": 233,
+          "end": 463,
+          "quote": "\n82. Quel préjugé associe-t-on aux Italiens ?\nA. Les Italiens ont tendance à tout critiquer.\nB. Les Italiens parlent toujours à haute voix.\nC. Les Italiens adorent voyager seuls.\nD. Les femmes italiennes restent souvent au foyer.\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q083",
+      "questionVersionId": "tfs4-2023-q083:v1",
+      "year": 2023,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Concernant les Français, qu'est-ce qui est vrai selon le texte ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Les étrangers ont peu de préjugés sur les Français."
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "On dit que les Français donnent souvent l'impression d'être arrogants."
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Les Français ont beaucoup de préjugés sur les gens de différentes nationalités."
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Les Français ont plus de préjugés sur les pays africains que sur les pays asiatiques."
+        }
+      ],
+      "material": "## 1. Les étudiants contre les stéréotypes (刻板印象)\n\nÀ l'Université de Bordeaux, les étudiants étrangers ont décidé de créer une association et de lancer une campagne de sensibilisation (宣传活动) contre les stéréotypes. Ces étudiants originaires de pays d'Europe, d'Asie et d'Afrique en ont assez d'être victimes de préjugés en fonction de leur nationalité. La campagne appelée « pour en finir avec les stéréotypes » a commencé en janvier et se poursuivra jusqu'en mars. Pendant ces trois mois, il y aura des expositions de photos, des débats et des conférences sur les stéréotypes.\n\nAkiko est une étudiante japonaise : « Ici les gens pensent que les Japonais voyagent toujours en groupe et qu'ils passent leur temps à prendre des photos. Mais ce n'est pas le cas de tous les Japonais. Par exemple, la première fois que je suis venue en Europe, j'ai voyagé seule. Et je n'avais pas d'appareil photo ! »\n\nPaola, l'Italienne, sourit. Dès que les gens apprennent qu'elle est Italienne, ils lui parlent de pizza et se mettent à parler avec les mains. « En Europe, il y a encore beaucoup de personnes qui pensent qu'avec la tradition familiale, les femmes ne travaillent pas en Italie. J'aimerais changer cette image, car c'est faux : il y a beaucoup de femmes qui ont fait de grandes carrières professionnelles. »\n\nKodjo, étudiant togolais (多哥的), rajoute : « Les gens pensent que l'Afrique est un seul et même pays, et que tous les Africains se ressemblent. C'est totalement faux. L'Afrique est un continent très diversifié. Et non, tous les Africains ne savent pas danser ! »\n\nDes étudiants français comme Ludovic font également partie de cette association. « Quand nous partons en stage à l'étranger, on nous dit que les Français ont souvent l'air arrogants, qu'ils ont la réputation de tout critiquer. Nous allons animer un atelier pour casser toutes ces images. »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 13,
+          "start": 463,
+          "end": 834,
+          "quote": "\n83. Concernant les Français, qu'est-ce qui est vrai selon le texte ?\nA. Les étrangers ont peu de préjugés sur les Français.\nB. On dit que les Français donnent souvent l'impression d'être arrogants.\nC. Les Français ont beaucoup de préjugés sur les gens de différentes nationalités.\nD. Les Français ont plus de préjugés sur les pays africains que sur les pays asiatiques.\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q084",
+      "questionVersionId": "tfs4-2023-q084:v1",
+      "year": 2023,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Dans le texte, quel type de stéréotypes n'est pas mentionné ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Le stéréotype sur les habitudes de voyages."
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Le stéréotype sur les habitudes alimentaires."
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Le stéréotype sur les préférences sportives."
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Le stéréotype sur les modèles familiaux."
+        }
+      ],
+      "material": "## 1. Les étudiants contre les stéréotypes (刻板印象)\n\nÀ l'Université de Bordeaux, les étudiants étrangers ont décidé de créer une association et de lancer une campagne de sensibilisation (宣传活动) contre les stéréotypes. Ces étudiants originaires de pays d'Europe, d'Asie et d'Afrique en ont assez d'être victimes de préjugés en fonction de leur nationalité. La campagne appelée « pour en finir avec les stéréotypes » a commencé en janvier et se poursuivra jusqu'en mars. Pendant ces trois mois, il y aura des expositions de photos, des débats et des conférences sur les stéréotypes.\n\nAkiko est une étudiante japonaise : « Ici les gens pensent que les Japonais voyagent toujours en groupe et qu'ils passent leur temps à prendre des photos. Mais ce n'est pas le cas de tous les Japonais. Par exemple, la première fois que je suis venue en Europe, j'ai voyagé seule. Et je n'avais pas d'appareil photo ! »\n\nPaola, l'Italienne, sourit. Dès que les gens apprennent qu'elle est Italienne, ils lui parlent de pizza et se mettent à parler avec les mains. « En Europe, il y a encore beaucoup de personnes qui pensent qu'avec la tradition familiale, les femmes ne travaillent pas en Italie. J'aimerais changer cette image, car c'est faux : il y a beaucoup de femmes qui ont fait de grandes carrières professionnelles. »\n\nKodjo, étudiant togolais (多哥的), rajoute : « Les gens pensent que l'Afrique est un seul et même pays, et que tous les Africains se ressemblent. C'est totalement faux. L'Afrique est un continent très diversifié. Et non, tous les Africains ne savent pas danser ! »\n\nDes étudiants français comme Ludovic font également partie de cette association. « Quand nous partons en stage à l'étranger, on nous dit que les Français ont souvent l'air arrogants, qu'ils ont la réputation de tout critiquer. Nous allons animer un atelier pour casser toutes ces images. »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 13,
+          "start": 834,
+          "end": 1089,
+          "quote": "\n84. Dans le texte, quel type de stéréotypes n'est pas mentionné ?\nA. Le stéréotype sur les habitudes de voyages.\nB. Le stéréotype sur les habitudes alimentaires.\nC. Le stéréotype sur les préférences sportives.\nD. Le stéréotype sur les modèles familiaux.\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q085",
+      "questionVersionId": "tfs4-2023-q085:v1",
+      "year": 2023,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Quelles activités sont prévues pour cette campagne de sensibilisation ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Débats et atelier."
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Conférences et spectacles."
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Publicités à la télé et débats."
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Expositions de photos et soirées d'accueil."
+        }
+      ],
+      "material": "## 1. Les étudiants contre les stéréotypes (刻板印象)\n\nÀ l'Université de Bordeaux, les étudiants étrangers ont décidé de créer une association et de lancer une campagne de sensibilisation (宣传活动) contre les stéréotypes. Ces étudiants originaires de pays d'Europe, d'Asie et d'Afrique en ont assez d'être victimes de préjugés en fonction de leur nationalité. La campagne appelée « pour en finir avec les stéréotypes » a commencé en janvier et se poursuivra jusqu'en mars. Pendant ces trois mois, il y aura des expositions de photos, des débats et des conférences sur les stéréotypes.\n\nAkiko est une étudiante japonaise : « Ici les gens pensent que les Japonais voyagent toujours en groupe et qu'ils passent leur temps à prendre des photos. Mais ce n'est pas le cas de tous les Japonais. Par exemple, la première fois que je suis venue en Europe, j'ai voyagé seule. Et je n'avais pas d'appareil photo ! »\n\nPaola, l'Italienne, sourit. Dès que les gens apprennent qu'elle est Italienne, ils lui parlent de pizza et se mettent à parler avec les mains. « En Europe, il y a encore beaucoup de personnes qui pensent qu'avec la tradition familiale, les femmes ne travaillent pas en Italie. J'aimerais changer cette image, car c'est faux : il y a beaucoup de femmes qui ont fait de grandes carrières professionnelles. »\n\nKodjo, étudiant togolais (多哥的), rajoute : « Les gens pensent que l'Afrique est un seul et même pays, et que tous les Africains se ressemblent. C'est totalement faux. L'Afrique est un continent très diversifié. Et non, tous les Africains ne savent pas danser ! »\n\nDes étudiants français comme Ludovic font également partie de cette association. « Quand nous partons en stage à l'étranger, on nous dit que les Français ont souvent l'air arrogants, qu'ils ont la réputation de tout critiquer. Nous allons animer un atelier pour casser toutes ces images. »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 13,
+          "start": 1089,
+          "end": 1299,
+          "quote": "\n85. Quelles activités sont prévues pour cette campagne de sensibilisation ?\nA. Débats et atelier.\nB. Conférences et spectacles.\nC. Publicités à la télé et débats.\nD. Expositions de photos et soirées d'accueil."
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q086",
+      "questionVersionId": "tfs4-2023-q086:v1",
+      "year": 2023,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "En 2008, _______________ sont nés dans une famille bilingue en France.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "5 bébés"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "50% des bébés"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "20% des bébés"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "25% des bébés"
+        }
+      ],
+      "material": "# 2. Parler deux langues est-il un atout ou un handicap pour les enfants ?\n\nEn France, un enfant sur cinq naissait en 2008 dans un foyer bilingue. Et le développement du langage chez l'enfant bilingue n'aura pas de grosses différences avec un enfant monolingue. « Le jeune enfant acquiert une ou deux langues dans la même zone du cerveau, mais celui-ci est plus actif en travaillant sur deux langues, souligne Barbara Abdelilah-Bauer, auteure du Défi des enfants bilingues, mais ce n'est pas une surcharge pour le cerveau. »\n\nSi chaque enfant va à son rythme, les étapes sont les mêmes pour ceux qui découvrent une ou deux langues. « Vers deux mois, ils font des vocalises (练声), vers six mois du babillage (咿呀学语), entre 11 et 13 mois ils disent leurs premiers mots pour apprendre un mot par semaine jusqu'à 24 mois, où ils atteignent un lexique d'une cinquantaine de mots, explique la linguiste. À la différence près que les 50 mots d'un bilingue sont répartis entre deux langues. » Ce qui peut donner l'illusion d'un retard dans une langue, mais « quand on étudie le vocabulaire des enfants bilingues et monolingues à trois ans, on trouve dans chaque langue le même nombre de mots en moyenne ».\n\nC'est la même règle pour toutes les langues : plus on commence tôt, mieux c'est. À condition, bien sûr, qu'il y ait un suivi. « Plus l'enfant est jeune, plus vite il va apprendre une deuxième langue... et plus vite il peut l'oublier s'il n'a plus de contact avec elle », prévient Barbara Abdelilah-Bauer. Rien ne sert donc de prendre une nounou (保姆) anglophone pendant un an... Car un enfant peut être totalement bilingue à quatre ans et ne plus se souvenir d'un seul mot quelques années plus tard.\n\nContrairement aux préjugés de certains, il n'y a aucun retard chez les bilingues. Encore aujourd'hui, certains pensent qu'un enfant élevé avec le français et l'arabe aurait plus de difficultés à l'école. D'ailleurs, la société ne classe pas les langues de la même façon. « Malheureusement, on voit souvent la capacité à parler anglais comme un atout, mais pas forcément d'autres langues, regrette la linguiste. Je reçois par exemple des couples franco-espagnols qui n'ont qu'une hâte : que leur enfant apprenne l'anglais. »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 15,
+          "start": 0,
+          "end": 137,
+          "quote": "86. En 2008, _______________ sont nés dans une famille bilingue en France.\nA. 5 bébés\nB. 50% des bébés\nC. 20% des bébés\nD. 25% des bébés\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q087",
+      "questionVersionId": "tfs4-2023-q087:v1",
+      "year": 2023,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Concernant les étapes de l'apprentissage de langues, laquelle des affirmations suivantes ne correspond pas au texte ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Tous les enfants n'ont pas le même rythme."
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Les enfants font du babillage vers deux mois."
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Les enfants disent leurs premiers mots entre 11 et 13 mois."
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Les étapes sont les mêmes pour les monolingues et les bilingues."
+        }
+      ],
+      "material": "# 2. Parler deux langues est-il un atout ou un handicap pour les enfants ?\n\nEn France, un enfant sur cinq naissait en 2008 dans un foyer bilingue. Et le développement du langage chez l'enfant bilingue n'aura pas de grosses différences avec un enfant monolingue. « Le jeune enfant acquiert une ou deux langues dans la même zone du cerveau, mais celui-ci est plus actif en travaillant sur deux langues, souligne Barbara Abdelilah-Bauer, auteure du Défi des enfants bilingues, mais ce n'est pas une surcharge pour le cerveau. »\n\nSi chaque enfant va à son rythme, les étapes sont les mêmes pour ceux qui découvrent une ou deux langues. « Vers deux mois, ils font des vocalises (练声), vers six mois du babillage (咿呀学语), entre 11 et 13 mois ils disent leurs premiers mots pour apprendre un mot par semaine jusqu'à 24 mois, où ils atteignent un lexique d'une cinquantaine de mots, explique la linguiste. À la différence près que les 50 mots d'un bilingue sont répartis entre deux langues. » Ce qui peut donner l'illusion d'un retard dans une langue, mais « quand on étudie le vocabulaire des enfants bilingues et monolingues à trois ans, on trouve dans chaque langue le même nombre de mots en moyenne ».\n\nC'est la même règle pour toutes les langues : plus on commence tôt, mieux c'est. À condition, bien sûr, qu'il y ait un suivi. « Plus l'enfant est jeune, plus vite il va apprendre une deuxième langue... et plus vite il peut l'oublier s'il n'a plus de contact avec elle », prévient Barbara Abdelilah-Bauer. Rien ne sert donc de prendre une nounou (保姆) anglophone pendant un an... Car un enfant peut être totalement bilingue à quatre ans et ne plus se souvenir d'un seul mot quelques années plus tard.\n\nContrairement aux préjugés de certains, il n'y a aucun retard chez les bilingues. Encore aujourd'hui, certains pensent qu'un enfant élevé avec le français et l'arabe aurait plus de difficultés à l'école. D'ailleurs, la société ne classe pas les langues de la même façon. « Malheureusement, on voit souvent la capacité à parler anglais comme un atout, mais pas forcément d'autres langues, regrette la linguiste. Je reçois par exemple des couples franco-espagnols qui n'ont qu'une hâte : que leur enfant apprenne l'anglais. »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 15,
+          "start": 137,
+          "end": 486,
+          "quote": "\n87. Concernant les étapes de l'apprentissage de langues, laquelle des affirmations suivantes ne correspond pas au texte ?\nA. Tous les enfants n'ont pas le même rythme.\nB. Les enfants font du babillage vers deux mois.\nC. Les enfants disent leurs premiers mots entre 11 et 13 mois.\nD. Les étapes sont les mêmes pour les monolingues et les bilingues.\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q088",
+      "questionVersionId": "tfs4-2023-q088:v1",
+      "year": 2023,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Un enfant bilingue de 24 mois _______________.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "subit une surcharge mentale"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "a du retard dans l'apprentissage de langues"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "acquiert une cinquantaine de mots répartis entre deux langues"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "acquiert une cinquantaine de mots dans chacune des deux langues"
+        }
+      ],
+      "material": "# 2. Parler deux langues est-il un atout ou un handicap pour les enfants ?\n\nEn France, un enfant sur cinq naissait en 2008 dans un foyer bilingue. Et le développement du langage chez l'enfant bilingue n'aura pas de grosses différences avec un enfant monolingue. « Le jeune enfant acquiert une ou deux langues dans la même zone du cerveau, mais celui-ci est plus actif en travaillant sur deux langues, souligne Barbara Abdelilah-Bauer, auteure du Défi des enfants bilingues, mais ce n'est pas une surcharge pour le cerveau. »\n\nSi chaque enfant va à son rythme, les étapes sont les mêmes pour ceux qui découvrent une ou deux langues. « Vers deux mois, ils font des vocalises (练声), vers six mois du babillage (咿呀学语), entre 11 et 13 mois ils disent leurs premiers mots pour apprendre un mot par semaine jusqu'à 24 mois, où ils atteignent un lexique d'une cinquantaine de mots, explique la linguiste. À la différence près que les 50 mots d'un bilingue sont répartis entre deux langues. » Ce qui peut donner l'illusion d'un retard dans une langue, mais « quand on étudie le vocabulaire des enfants bilingues et monolingues à trois ans, on trouve dans chaque langue le même nombre de mots en moyenne ».\n\nC'est la même règle pour toutes les langues : plus on commence tôt, mieux c'est. À condition, bien sûr, qu'il y ait un suivi. « Plus l'enfant est jeune, plus vite il va apprendre une deuxième langue... et plus vite il peut l'oublier s'il n'a plus de contact avec elle », prévient Barbara Abdelilah-Bauer. Rien ne sert donc de prendre une nounou (保姆) anglophone pendant un an... Car un enfant peut être totalement bilingue à quatre ans et ne plus se souvenir d'un seul mot quelques années plus tard.\n\nContrairement aux préjugés de certains, il n'y a aucun retard chez les bilingues. Encore aujourd'hui, certains pensent qu'un enfant élevé avec le français et l'arabe aurait plus de difficultés à l'école. D'ailleurs, la société ne classe pas les langues de la même façon. « Malheureusement, on voit souvent la capacité à parler anglais comme un atout, mais pas forcément d'autres langues, regrette la linguiste. Je reçois par exemple des couples franco-espagnols qui n'ont qu'une hâte : que leur enfant apprenne l'anglais. »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 15,
+          "start": 486,
+          "end": 748,
+          "quote": "\n88. Un enfant bilingue de 24 mois _______________.\nA. subit une surcharge mentale\nB. a du retard dans l'apprentissage de langues\nC. acquiert une cinquantaine de mots répartis entre deux langues\nD. acquiert une cinquantaine de mots dans chacune des deux langues\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q089",
+      "questionVersionId": "tfs4-2023-q089:v1",
+      "year": 2023,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Pourquoi la linguiste affirme-t-elle que rien ne sert de prendre une nounou anglophone pendant un an ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Parce qu'il est inutile de commencer tôt l'apprentissage d'une langue."
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Parce que le bébé oublie vite une langue apprise s'il perd le contact avec cette langue."
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Parce que l'anglais ne s'apprend pas de la même manière que les autres langues."
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Parce que l'apprentissage d'une deuxième langue provoquera une surcharge pour le cerveau."
+        }
+      ],
+      "material": "# 2. Parler deux langues est-il un atout ou un handicap pour les enfants ?\n\nEn France, un enfant sur cinq naissait en 2008 dans un foyer bilingue. Et le développement du langage chez l'enfant bilingue n'aura pas de grosses différences avec un enfant monolingue. « Le jeune enfant acquiert une ou deux langues dans la même zone du cerveau, mais celui-ci est plus actif en travaillant sur deux langues, souligne Barbara Abdelilah-Bauer, auteure du Défi des enfants bilingues, mais ce n'est pas une surcharge pour le cerveau. »\n\nSi chaque enfant va à son rythme, les étapes sont les mêmes pour ceux qui découvrent une ou deux langues. « Vers deux mois, ils font des vocalises (练声), vers six mois du babillage (咿呀学语), entre 11 et 13 mois ils disent leurs premiers mots pour apprendre un mot par semaine jusqu'à 24 mois, où ils atteignent un lexique d'une cinquantaine de mots, explique la linguiste. À la différence près que les 50 mots d'un bilingue sont répartis entre deux langues. » Ce qui peut donner l'illusion d'un retard dans une langue, mais « quand on étudie le vocabulaire des enfants bilingues et monolingues à trois ans, on trouve dans chaque langue le même nombre de mots en moyenne ».\n\nC'est la même règle pour toutes les langues : plus on commence tôt, mieux c'est. À condition, bien sûr, qu'il y ait un suivi. « Plus l'enfant est jeune, plus vite il va apprendre une deuxième langue... et plus vite il peut l'oublier s'il n'a plus de contact avec elle », prévient Barbara Abdelilah-Bauer. Rien ne sert donc de prendre une nounou (保姆) anglophone pendant un an... Car un enfant peut être totalement bilingue à quatre ans et ne plus se souvenir d'un seul mot quelques années plus tard.\n\nContrairement aux préjugés de certains, il n'y a aucun retard chez les bilingues. Encore aujourd'hui, certains pensent qu'un enfant élevé avec le français et l'arabe aurait plus de difficultés à l'école. D'ailleurs, la société ne classe pas les langues de la même façon. « Malheureusement, on voit souvent la capacité à parler anglais comme un atout, mais pas forcément d'autres langues, regrette la linguiste. Je reçois par exemple des couples franco-espagnols qui n'ont qu'une hâte : que leur enfant apprenne l'anglais. »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 15,
+          "start": 748,
+          "end": 1198,
+          "quote": "\n89. Pourquoi la linguiste affirme-t-elle que rien ne sert de prendre une nounou anglophone pendant un an ?\nA. Parce qu'il est inutile de commencer tôt l'apprentissage d'une langue.\nB. Parce que le bébé oublie vite une langue apprise s'il perd le contact avec cette langue.\nC. Parce que l'anglais ne s'apprend pas de la même manière que les autres langues.\nD. Parce que l'apprentissage d'une deuxième langue provoquera une surcharge pour le cerveau.\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q090",
+      "questionVersionId": "tfs4-2023-q090:v1",
+      "year": 2023,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Selon le texte, laquelle des affirmations suivantes est vraie ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Les gens ne classent pas les langues de la même manière."
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Parler anglais est un atout mais parler arabe est un handicap."
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Il suffit d'exposer un enfant à une langue pour qu'il la maîtrise."
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Les enfants acquièrent deux langues dans deux zones différentes du cerveau."
+        }
+      ],
+      "material": "# 2. Parler deux langues est-il un atout ou un handicap pour les enfants ?\n\nEn France, un enfant sur cinq naissait en 2008 dans un foyer bilingue. Et le développement du langage chez l'enfant bilingue n'aura pas de grosses différences avec un enfant monolingue. « Le jeune enfant acquiert une ou deux langues dans la même zone du cerveau, mais celui-ci est plus actif en travaillant sur deux langues, souligne Barbara Abdelilah-Bauer, auteure du Défi des enfants bilingues, mais ce n'est pas une surcharge pour le cerveau. »\n\nSi chaque enfant va à son rythme, les étapes sont les mêmes pour ceux qui découvrent une ou deux langues. « Vers deux mois, ils font des vocalises (练声), vers six mois du babillage (咿呀学语), entre 11 et 13 mois ils disent leurs premiers mots pour apprendre un mot par semaine jusqu'à 24 mois, où ils atteignent un lexique d'une cinquantaine de mots, explique la linguiste. À la différence près que les 50 mots d'un bilingue sont répartis entre deux langues. » Ce qui peut donner l'illusion d'un retard dans une langue, mais « quand on étudie le vocabulaire des enfants bilingues et monolingues à trois ans, on trouve dans chaque langue le même nombre de mots en moyenne ».\n\nC'est la même règle pour toutes les langues : plus on commence tôt, mieux c'est. À condition, bien sûr, qu'il y ait un suivi. « Plus l'enfant est jeune, plus vite il va apprendre une deuxième langue... et plus vite il peut l'oublier s'il n'a plus de contact avec elle », prévient Barbara Abdelilah-Bauer. Rien ne sert donc de prendre une nounou (保姆) anglophone pendant un an... Car un enfant peut être totalement bilingue à quatre ans et ne plus se souvenir d'un seul mot quelques années plus tard.\n\nContrairement aux préjugés de certains, il n'y a aucun retard chez les bilingues. Encore aujourd'hui, certains pensent qu'un enfant élevé avec le français et l'arabe aurait plus de difficultés à l'école. D'ailleurs, la société ne classe pas les langues de la même façon. « Malheureusement, on voit souvent la capacité à parler anglais comme un atout, mais pas forcément d'autres langues, regrette la linguiste. Je reçois par exemple des couples franco-espagnols qui n'ont qu'une hâte : que leur enfant apprenne l'anglais. »",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 15,
+          "start": 1198,
+          "end": 1541,
+          "quote": "\n90. Selon le texte, laquelle des affirmations suivantes est vraie ?\nA. Les gens ne classent pas les langues de la même manière.\nB. Parler anglais est un atout mais parler arabe est un handicap.\nC. Il suffit d'exposer un enfant à une langue pour qu'il la maîtrise.\nD. Les enfants acquièrent deux langues dans deux zones différentes du cerveau."
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q091",
+      "questionVersionId": "tfs4-2023-q091:v1",
+      "year": 2023,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Le texte vise à ____________.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "remettre en cause la pensée positive"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "faire un bilan annuel de la conquête spatiale"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "attirer l'attention du public sur les crises écologiques"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "rappeler aux lecteurs que les bonnes nouvelles ne manquent pas"
+        }
+      ],
+      "material": "# 3. Restons positifs !\n\nRestons positifs ! Bien sûr, l'ambiance actuelle est tendue et les crises se succèdent, mais la période a aussi apporté son lot de bonnes nouvelles !\n\nL'année 2021 a prouvé que les gens retrouvent leur passion de lecture. Par exemple, elle a enregistré un record de ventes de livres en France, avec 400 millions d'exemplaires vendus dans le pays. Les confinements（封控）y sont sûrement pour quelque chose.\n\nDes avancées sociétales sont également connues dans le monde. Selon la Banque mondiale, le taux mondial de pauvreté continue à reculer. L'un des objectifs de développement durable de l'ONU pour 2030 (l'Agenda 2030) est de réduire au maximum voire d'éliminer l'extrême pauvreté dans le monde dont le seuil est de 1,25 dollar par jour par personne. La lutte contre la pauvreté en Chine a grandement contribué à la réduction de la pauvreté mondiale pour atteindre l'objectif de l'Agenda 2030, avec 10 ans d'avance sur le programme.\n\n2020 a été une année riche pour la conquête spatiale. Les Chinois ont envoyé vers Mars la sonde（探测器）Tianwen-1, transportant un robot téléguidé à roues qui a pris en photo les traces dans le sol de la planète rouge et a recueilli des données importantes. Une autre sonde Parker Solar Probe a « touché » le soleil pour la première fois, après un voyage de près de deux ans et demi. Ce robot, très résistant à la chaleur, a permis de collecter des données précieuses. 2021, c'est aussi l'année des premiers touristes dans l'espace. Quatre touristes spatiaux ont passé trois jours à bord de SpaceX.\n\nLa nature a eu, elle aussi, son lot de bonnes nouvelles. Tout d'abord, les baleines bleues sont revenues en Antarctique alors que l'espèce était en voie de disparition. Plusieurs dizaines ont pu être observées. Du jamais vu depuis la fin de la chasse commerciale ! Les pandas, quant à eux, ont été retirés de la liste des animaux en voie de disparition. Pour finir, on a lancé en Islande la plus grande usine au monde à dépolluer l'air. Son nom ? Orca.\n\n---",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 17,
+          "start": 0,
+          "end": 249,
+          "quote": "91. Le texte vise à ____________.\nA. remettre en cause la pensée positive\nB. faire un bilan annuel de la conquête spatiale\nC. attirer l'attention du public sur les crises écologiques\nD. rappeler aux lecteurs que les bonnes nouvelles ne manquent pas\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q092",
+      "questionVersionId": "tfs4-2023-q092:v1",
+      "year": 2023,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Si les Français ont repris goût aux livres, c'est probablement parce que (qu')__________.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "les prix des livres ont beaucoup baissé"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "il a été plus facile d'acheter des livres en ligne"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "ils ont eu plus de temps libre pendant le confinement"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "ils ont voulu soulager leur anxiété face aux crises économiques"
+        }
+      ],
+      "material": "# 3. Restons positifs !\n\nRestons positifs ! Bien sûr, l'ambiance actuelle est tendue et les crises se succèdent, mais la période a aussi apporté son lot de bonnes nouvelles !\n\nL'année 2021 a prouvé que les gens retrouvent leur passion de lecture. Par exemple, elle a enregistré un record de ventes de livres en France, avec 400 millions d'exemplaires vendus dans le pays. Les confinements（封控）y sont sûrement pour quelque chose.\n\nDes avancées sociétales sont également connues dans le monde. Selon la Banque mondiale, le taux mondial de pauvreté continue à reculer. L'un des objectifs de développement durable de l'ONU pour 2030 (l'Agenda 2030) est de réduire au maximum voire d'éliminer l'extrême pauvreté dans le monde dont le seuil est de 1,25 dollar par jour par personne. La lutte contre la pauvreté en Chine a grandement contribué à la réduction de la pauvreté mondiale pour atteindre l'objectif de l'Agenda 2030, avec 10 ans d'avance sur le programme.\n\n2020 a été une année riche pour la conquête spatiale. Les Chinois ont envoyé vers Mars la sonde（探测器）Tianwen-1, transportant un robot téléguidé à roues qui a pris en photo les traces dans le sol de la planète rouge et a recueilli des données importantes. Une autre sonde Parker Solar Probe a « touché » le soleil pour la première fois, après un voyage de près de deux ans et demi. Ce robot, très résistant à la chaleur, a permis de collecter des données précieuses. 2021, c'est aussi l'année des premiers touristes dans l'espace. Quatre touristes spatiaux ont passé trois jours à bord de SpaceX.\n\nLa nature a eu, elle aussi, son lot de bonnes nouvelles. Tout d'abord, les baleines bleues sont revenues en Antarctique alors que l'espèce était en voie de disparition. Plusieurs dizaines ont pu être observées. Du jamais vu depuis la fin de la chasse commerciale ! Les pandas, quant à eux, ont été retirés de la liste des animaux en voie de disparition. Pour finir, on a lancé en Islande la plus grande usine au monde à dépolluer l'air. Son nom ? Orca.\n\n---",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 17,
+          "start": 249,
+          "end": 565,
+          "quote": "\n92. Si les Français ont repris goût aux livres, c'est probablement parce que (qu')__________.\nA. les prix des livres ont beaucoup baissé\nB. il a été plus facile d'acheter des livres en ligne\nC. ils ont eu plus de temps libre pendant le confinement\nD. ils ont voulu soulager leur anxiété face aux crises économiques\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q093",
+      "questionVersionId": "tfs4-2023-q093:v1",
+      "year": 2023,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "L'un des objectifs de développement durable de l'ONU pour 2030 consiste à ____________.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "éliminer la pauvreté en Chine"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "lutter contre l'extrême pauvreté dans le monde"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "augmenter les revenus de la population mondiale"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "éliminer l'extrême pauvreté dans le monde avec 10 ans d'avance"
+        }
+      ],
+      "material": "# 3. Restons positifs !\n\nRestons positifs ! Bien sûr, l'ambiance actuelle est tendue et les crises se succèdent, mais la période a aussi apporté son lot de bonnes nouvelles !\n\nL'année 2021 a prouvé que les gens retrouvent leur passion de lecture. Par exemple, elle a enregistré un record de ventes de livres en France, avec 400 millions d'exemplaires vendus dans le pays. Les confinements（封控）y sont sûrement pour quelque chose.\n\nDes avancées sociétales sont également connues dans le monde. Selon la Banque mondiale, le taux mondial de pauvreté continue à reculer. L'un des objectifs de développement durable de l'ONU pour 2030 (l'Agenda 2030) est de réduire au maximum voire d'éliminer l'extrême pauvreté dans le monde dont le seuil est de 1,25 dollar par jour par personne. La lutte contre la pauvreté en Chine a grandement contribué à la réduction de la pauvreté mondiale pour atteindre l'objectif de l'Agenda 2030, avec 10 ans d'avance sur le programme.\n\n2020 a été une année riche pour la conquête spatiale. Les Chinois ont envoyé vers Mars la sonde（探测器）Tianwen-1, transportant un robot téléguidé à roues qui a pris en photo les traces dans le sol de la planète rouge et a recueilli des données importantes. Une autre sonde Parker Solar Probe a « touché » le soleil pour la première fois, après un voyage de près de deux ans et demi. Ce robot, très résistant à la chaleur, a permis de collecter des données précieuses. 2021, c'est aussi l'année des premiers touristes dans l'espace. Quatre touristes spatiaux ont passé trois jours à bord de SpaceX.\n\nLa nature a eu, elle aussi, son lot de bonnes nouvelles. Tout d'abord, les baleines bleues sont revenues en Antarctique alors que l'espèce était en voie de disparition. Plusieurs dizaines ont pu être observées. Du jamais vu depuis la fin de la chasse commerciale ! Les pandas, quant à eux, ont été retirés de la liste des animaux en voie de disparition. Pour finir, on a lancé en Islande la plus grande usine au monde à dépolluer l'air. Son nom ? Orca.\n\n---",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 17,
+          "start": 565,
+          "end": 858,
+          "quote": "\n93. L'un des objectifs de développement durable de l'ONU pour 2030 consiste à ____________.\nA. éliminer la pauvreté en Chine\nB. lutter contre l'extrême pauvreté dans le monde\nC. augmenter les revenus de la population mondiale\nD. éliminer l'extrême pauvreté dans le monde avec 10 ans d'avance\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q094",
+      "questionVersionId": "tfs4-2023-q094:v1",
+      "year": 2023,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Quel progrès a été enregistré dans la conquête spatiale ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Quatre touristes ont fait leur premier voyage spatial."
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Paker Solar Probe est un robot très résistant aux rayons du soleil."
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Des traces dans le sol de la Lune ont été prises en photo par Tianwen-1."
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "Paker Solar Probe s'est posée sur Mars pour recueillir des données importantes."
+        }
+      ],
+      "material": "# 3. Restons positifs !\n\nRestons positifs ! Bien sûr, l'ambiance actuelle est tendue et les crises se succèdent, mais la période a aussi apporté son lot de bonnes nouvelles !\n\nL'année 2021 a prouvé que les gens retrouvent leur passion de lecture. Par exemple, elle a enregistré un record de ventes de livres en France, avec 400 millions d'exemplaires vendus dans le pays. Les confinements（封控）y sont sûrement pour quelque chose.\n\nDes avancées sociétales sont également connues dans le monde. Selon la Banque mondiale, le taux mondial de pauvreté continue à reculer. L'un des objectifs de développement durable de l'ONU pour 2030 (l'Agenda 2030) est de réduire au maximum voire d'éliminer l'extrême pauvreté dans le monde dont le seuil est de 1,25 dollar par jour par personne. La lutte contre la pauvreté en Chine a grandement contribué à la réduction de la pauvreté mondiale pour atteindre l'objectif de l'Agenda 2030, avec 10 ans d'avance sur le programme.\n\n2020 a été une année riche pour la conquête spatiale. Les Chinois ont envoyé vers Mars la sonde（探测器）Tianwen-1, transportant un robot téléguidé à roues qui a pris en photo les traces dans le sol de la planète rouge et a recueilli des données importantes. Une autre sonde Parker Solar Probe a « touché » le soleil pour la première fois, après un voyage de près de deux ans et demi. Ce robot, très résistant à la chaleur, a permis de collecter des données précieuses. 2021, c'est aussi l'année des premiers touristes dans l'espace. Quatre touristes spatiaux ont passé trois jours à bord de SpaceX.\n\nLa nature a eu, elle aussi, son lot de bonnes nouvelles. Tout d'abord, les baleines bleues sont revenues en Antarctique alors que l'espèce était en voie de disparition. Plusieurs dizaines ont pu être observées. Du jamais vu depuis la fin de la chasse commerciale ! Les pandas, quant à eux, ont été retirés de la liste des animaux en voie de disparition. Pour finir, on a lancé en Islande la plus grande usine au monde à dépolluer l'air. Son nom ? Orca.\n\n---",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 17,
+          "start": 858,
+          "end": 1215,
+          "quote": "\n94. Quel progrès a été enregistré dans la conquête spatiale ?\nA. Quatre touristes ont fait leur premier voyage spatial.\nB. *Paker Solar Probe* est un robot très résistant aux rayons du soleil.\nC. Des traces dans le sol de la Lune ont été prises en photo par *Tianwen-1*.\nD. *Paker Solar Probe* s'est posée sur Mars pour recueillir des données importantes.\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q095",
+      "questionVersionId": "tfs4-2023-q095:v1",
+      "year": 2023,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Laquelle des affirmations suivantes correspond au texte ?",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "Les pandas sont toujours une espèce en voie d'extinction."
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "Le nombre des baleines bleues observées n'a pas augmenté."
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "Orca est l'usine la plus polluante au monde."
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "La chasse commerciale des baleines bleues a été interdite."
+        }
+      ],
+      "material": "# 3. Restons positifs !\n\nRestons positifs ! Bien sûr, l'ambiance actuelle est tendue et les crises se succèdent, mais la période a aussi apporté son lot de bonnes nouvelles !\n\nL'année 2021 a prouvé que les gens retrouvent leur passion de lecture. Par exemple, elle a enregistré un record de ventes de livres en France, avec 400 millions d'exemplaires vendus dans le pays. Les confinements（封控）y sont sûrement pour quelque chose.\n\nDes avancées sociétales sont également connues dans le monde. Selon la Banque mondiale, le taux mondial de pauvreté continue à reculer. L'un des objectifs de développement durable de l'ONU pour 2030 (l'Agenda 2030) est de réduire au maximum voire d'éliminer l'extrême pauvreté dans le monde dont le seuil est de 1,25 dollar par jour par personne. La lutte contre la pauvreté en Chine a grandement contribué à la réduction de la pauvreté mondiale pour atteindre l'objectif de l'Agenda 2030, avec 10 ans d'avance sur le programme.\n\n2020 a été une année riche pour la conquête spatiale. Les Chinois ont envoyé vers Mars la sonde（探测器）Tianwen-1, transportant un robot téléguidé à roues qui a pris en photo les traces dans le sol de la planète rouge et a recueilli des données importantes. Une autre sonde Parker Solar Probe a « touché » le soleil pour la première fois, après un voyage de près de deux ans et demi. Ce robot, très résistant à la chaleur, a permis de collecter des données précieuses. 2021, c'est aussi l'année des premiers touristes dans l'espace. Quatre touristes spatiaux ont passé trois jours à bord de SpaceX.\n\nLa nature a eu, elle aussi, son lot de bonnes nouvelles. Tout d'abord, les baleines bleues sont revenues en Antarctique alors que l'espèce était en voie de disparition. Plusieurs dizaines ont pu être observées. Du jamais vu depuis la fin de la chasse commerciale ! Les pandas, quant à eux, ont été retirés de la liste des animaux en voie de disparition. Pour finir, on a lancé en Islande la plus grande usine au monde à dépolluer l'air. Son nom ? Orca.\n\n---",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 17,
+          "start": 1215,
+          "end": 1511,
+          "quote": "\n95. Laquelle des affirmations suivantes correspond au texte ?\nA. Les pandas sont toujours une espèce en voie d'extinction.\nB. Le nombre des baleines bleues observées n'a pas augmenté.\nC. *Orca* est l'usine la plus polluante au monde.\nD. La chasse commerciale des baleines bleues a été interdite."
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q096",
+      "questionVersionId": "tfs4-2023-q096:v1",
+      "year": 2023,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "« Une feuille de chou » désigne ___________.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "un journal dont la qualité des informations est mauvaise"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "un journal dont le prix n'est pas élevé"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "un journal qui a une bonne réputation"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "un journal mal imprimé"
+        }
+      ],
+      "material": "# 4. Une feuille de chou, un canard ou un ours ?\n\nSi votre ami français vous montre un journal en le traitant de « feuille de chou », vous pouvez en conclure qu'il est de mauvaise qualité ! Votre ami ne fait pas référence ici à la qualité du papier, mais à la qualité des informations qu'on y trouve. Pourquoi ce légume en particulier ? Quand l'expression est née au XIXe siècle, la population française était majoritairement rurale. Les paysans mangeaient le plus souvent des légumes, surtout ceux qui étaient peu chers, comme le chou. Les gens ont pris l'habitude de comparer le chou, légume commun et bon marché, à tout ce qui était insignifiant et sans valeur.\n\nOn peut aussi traiter un journal de « canard ». Au XVIIIe siècle, on appelait « canard » les fausses nouvelles propagées par la presse qu'on distribuait dans la rue et qui rapportait souvent des faits divers. Ces bulletins d'informations n'étaient pas considérés comme une presse sérieuse, mais ils étaient populaires. Cette appellation viendrait peut-être d'une vieille expression française du XVIe siècle, « bailler un canard à moitié », qui signifiait « tromper ». Le mot « canard » a fini par faire référence aux journaux peu crédibles. Aujourd'hui, le terme est devenu neutre, même s'il n'est pas flatteur pour une publication d'être qualifiée de « canard ». Une exception cependant : Le Canard enchaîné. Symbole d'une presse indépendante, ce journal hebdomadaire revendique une certaine liberté d'expression et emploie l'ironie jusque dans son nom ! Il en faut effectivement beaucoup pour lui faire fermer son bec (喙) !\n\nOuvrez un journal ou un magazine : vous pouvez être sûr d'y trouver un ours ! Dans le jargon (行话) de la presse, l'« ours » désigne l'encadré (方框) où sont mentionnés les noms de toutes les personnes qui ont participé à la publication. Pourquoi parle-t-on d'« ours » ? Ce terme viendrait de Grande-Bretagne. En anglais, « ours » (prononcez le mot à l'anglaise) signifie « les nôtres », désignant ainsi toute l'équipe d'un journal.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 19,
+          "start": 0,
+          "end": 219,
+          "quote": "96. « Une feuille de chou » désigne ___________.\nA. un journal dont la qualité des informations est mauvaise\nB. un journal dont le prix n'est pas élevé\nC. un journal qui a une bonne réputation\nD. un journal mal imprimé\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q097",
+      "questionVersionId": "tfs4-2023-q097:v1",
+      "year": 2023,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Au XIXe siècle, le chou était ___________.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "un légume saisonnier"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "un légume très rare"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "un légume commun et peu cher"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "un légume consommé uniquement par la population rurale"
+        }
+      ],
+      "material": "# 4. Une feuille de chou, un canard ou un ours ?\n\nSi votre ami français vous montre un journal en le traitant de « feuille de chou », vous pouvez en conclure qu'il est de mauvaise qualité ! Votre ami ne fait pas référence ici à la qualité du papier, mais à la qualité des informations qu'on y trouve. Pourquoi ce légume en particulier ? Quand l'expression est née au XIXe siècle, la population française était majoritairement rurale. Les paysans mangeaient le plus souvent des légumes, surtout ceux qui étaient peu chers, comme le chou. Les gens ont pris l'habitude de comparer le chou, légume commun et bon marché, à tout ce qui était insignifiant et sans valeur.\n\nOn peut aussi traiter un journal de « canard ». Au XVIIIe siècle, on appelait « canard » les fausses nouvelles propagées par la presse qu'on distribuait dans la rue et qui rapportait souvent des faits divers. Ces bulletins d'informations n'étaient pas considérés comme une presse sérieuse, mais ils étaient populaires. Cette appellation viendrait peut-être d'une vieille expression française du XVIe siècle, « bailler un canard à moitié », qui signifiait « tromper ». Le mot « canard » a fini par faire référence aux journaux peu crédibles. Aujourd'hui, le terme est devenu neutre, même s'il n'est pas flatteur pour une publication d'être qualifiée de « canard ». Une exception cependant : Le Canard enchaîné. Symbole d'une presse indépendante, ce journal hebdomadaire revendique une certaine liberté d'expression et emploie l'ironie jusque dans son nom ! Il en faut effectivement beaucoup pour lui faire fermer son bec (喙) !\n\nOuvrez un journal ou un magazine : vous pouvez être sûr d'y trouver un ours ! Dans le jargon (行话) de la presse, l'« ours » désigne l'encadré (方框) où sont mentionnés les noms de toutes les personnes qui ont participé à la publication. Pourquoi parle-t-on d'« ours » ? Ce terme viendrait de Grande-Bretagne. En anglais, « ours » (prononcez le mot à l'anglaise) signifie « les nôtres », désignant ainsi toute l'équipe d'un journal.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 19,
+          "start": 219,
+          "end": 415,
+          "quote": "\n97. Au XIX<sup>e</sup> siècle, le chou était ___________.\nA. un légume saisonnier\nB. un légume très rare\nC. un légume commun et peu cher\nD. un légume consommé uniquement par la population rurale\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q098",
+      "questionVersionId": "tfs4-2023-q098:v1",
+      "year": 2023,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Au XVIIIe siècle, « canard » désignait ___________.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "les fausses informations répandues par la presse"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "un journal de mauvaise qualité"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "un journal méconnu"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "un journal ironique"
+        }
+      ],
+      "material": "# 4. Une feuille de chou, un canard ou un ours ?\n\nSi votre ami français vous montre un journal en le traitant de « feuille de chou », vous pouvez en conclure qu'il est de mauvaise qualité ! Votre ami ne fait pas référence ici à la qualité du papier, mais à la qualité des informations qu'on y trouve. Pourquoi ce légume en particulier ? Quand l'expression est née au XIXe siècle, la population française était majoritairement rurale. Les paysans mangeaient le plus souvent des légumes, surtout ceux qui étaient peu chers, comme le chou. Les gens ont pris l'habitude de comparer le chou, légume commun et bon marché, à tout ce qui était insignifiant et sans valeur.\n\nOn peut aussi traiter un journal de « canard ». Au XVIIIe siècle, on appelait « canard » les fausses nouvelles propagées par la presse qu'on distribuait dans la rue et qui rapportait souvent des faits divers. Ces bulletins d'informations n'étaient pas considérés comme une presse sérieuse, mais ils étaient populaires. Cette appellation viendrait peut-être d'une vieille expression française du XVIe siècle, « bailler un canard à moitié », qui signifiait « tromper ». Le mot « canard » a fini par faire référence aux journaux peu crédibles. Aujourd'hui, le terme est devenu neutre, même s'il n'est pas flatteur pour une publication d'être qualifiée de « canard ». Une exception cependant : Le Canard enchaîné. Symbole d'une presse indépendante, ce journal hebdomadaire revendique une certaine liberté d'expression et emploie l'ironie jusque dans son nom ! Il en faut effectivement beaucoup pour lui faire fermer son bec (喙) !\n\nOuvrez un journal ou un magazine : vous pouvez être sûr d'y trouver un ours ! Dans le jargon (行话) de la presse, l'« ours » désigne l'encadré (方框) où sont mentionnés les noms de toutes les personnes qui ont participé à la publication. Pourquoi parle-t-on d'« ours » ? Ce terme viendrait de Grande-Bretagne. En anglais, « ours » (prononcez le mot à l'anglaise) signifie « les nôtres », désignant ainsi toute l'équipe d'un journal.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 19,
+          "start": 415,
+          "end": 614,
+          "quote": "\n98. Au XVIII<sup>e</sup> siècle, « canard » désignait ___________.\nA. les fausses informations répandues par la presse\nB. un journal de mauvaise qualité\nC. un journal méconnu\nD. un journal ironique\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q099",
+      "questionVersionId": "tfs4-2023-q099:v1",
+      "year": 2023,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Le Canard enchaîné ___________.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "se focalise sur les faits divers"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "est peu sérieux mais populaire"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "est connu pour les fausses nouvelles qu'il publie"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "est un journal indépendant qui revendique la liberté d'expression"
+        }
+      ],
+      "material": "# 4. Une feuille de chou, un canard ou un ours ?\n\nSi votre ami français vous montre un journal en le traitant de « feuille de chou », vous pouvez en conclure qu'il est de mauvaise qualité ! Votre ami ne fait pas référence ici à la qualité du papier, mais à la qualité des informations qu'on y trouve. Pourquoi ce légume en particulier ? Quand l'expression est née au XIXe siècle, la population française était majoritairement rurale. Les paysans mangeaient le plus souvent des légumes, surtout ceux qui étaient peu chers, comme le chou. Les gens ont pris l'habitude de comparer le chou, légume commun et bon marché, à tout ce qui était insignifiant et sans valeur.\n\nOn peut aussi traiter un journal de « canard ». Au XVIIIe siècle, on appelait « canard » les fausses nouvelles propagées par la presse qu'on distribuait dans la rue et qui rapportait souvent des faits divers. Ces bulletins d'informations n'étaient pas considérés comme une presse sérieuse, mais ils étaient populaires. Cette appellation viendrait peut-être d'une vieille expression française du XVIe siècle, « bailler un canard à moitié », qui signifiait « tromper ». Le mot « canard » a fini par faire référence aux journaux peu crédibles. Aujourd'hui, le terme est devenu neutre, même s'il n'est pas flatteur pour une publication d'être qualifiée de « canard ». Une exception cependant : Le Canard enchaîné. Symbole d'une presse indépendante, ce journal hebdomadaire revendique une certaine liberté d'expression et emploie l'ironie jusque dans son nom ! Il en faut effectivement beaucoup pour lui faire fermer son bec (喙) !\n\nOuvrez un journal ou un magazine : vous pouvez être sûr d'y trouver un ours ! Dans le jargon (行话) de la presse, l'« ours » désigne l'encadré (方框) où sont mentionnés les noms de toutes les personnes qui ont participé à la publication. Pourquoi parle-t-on d'« ours » ? Ce terme viendrait de Grande-Bretagne. En anglais, « ours » (prononcez le mot à l'anglaise) signifie « les nôtres », désignant ainsi toute l'équipe d'un journal.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 19,
+          "start": 614,
+          "end": 845,
+          "quote": "\n99. *Le Canard enchaîné* ___________.\nA. se focalise sur les faits divers\nB. est peu sérieux mais populaire\nC. est connu pour les fausses nouvelles qu'il publie\nD. est un journal indépendant qui revendique la liberté d'expression\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-q100",
+      "questionVersionId": "tfs4-2023-q100:v3",
+      "year": 2023,
+      "typeId": "reading",
+      "responseType": "choice",
+      "text": "Selon le texte, l'« ours » ___________.",
+      "options": [
+        {
+          "key": "A",
+          "label": "A",
+          "text": "est un jargon anglais"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "text": "est un logo de journal"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "text": "désigne toute l'équipe d'un journal"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "text": "désigne toutes les informations publiées dans un journal"
+        }
+      ],
+      "material": "# 4. Une feuille de chou, un canard ou un ours ?\n\nSi votre ami français vous montre un journal en le traitant de « feuille de chou », vous pouvez en conclure qu'il est de mauvaise qualité ! Votre ami ne fait pas référence ici à la qualité du papier, mais à la qualité des informations qu'on y trouve. Pourquoi ce légume en particulier ? Quand l'expression est née au XIXe siècle, la population française était majoritairement rurale. Les paysans mangeaient le plus souvent des légumes, surtout ceux qui étaient peu chers, comme le chou. Les gens ont pris l'habitude de comparer le chou, légume commun et bon marché, à tout ce qui était insignifiant et sans valeur.\n\nOn peut aussi traiter un journal de « canard ». Au XVIIIe siècle, on appelait « canard » les fausses nouvelles propagées par la presse qu'on distribuait dans la rue et qui rapportait souvent des faits divers. Ces bulletins d'informations n'étaient pas considérés comme une presse sérieuse, mais ils étaient populaires. Cette appellation viendrait peut-être d'une vieille expression française du XVIe siècle, « bailler un canard à moitié », qui signifiait « tromper ». Le mot « canard » a fini par faire référence aux journaux peu crédibles. Aujourd'hui, le terme est devenu neutre, même s'il n'est pas flatteur pour une publication d'être qualifiée de « canard ». Une exception cependant : Le Canard enchaîné. Symbole d'une presse indépendante, ce journal hebdomadaire revendique une certaine liberté d'expression et emploie l'ironie jusque dans son nom ! Il en faut effectivement beaucoup pour lui faire fermer son bec (喙) !\n\nOuvrez un journal ou un magazine : vous pouvez être sûr d'y trouver un ours ! Dans le jargon (行话) de la presse, l'« ours » désigne l'encadré (方框) où sont mentionnés les noms de toutes les personnes qui ont participé à la publication. Pourquoi parle-t-on d'« ours » ? Ce terme viendrait de Grande-Bretagne. En anglais, « ours » (prononcez le mot à l'anglaise) signifie « les nôtres », désignant ainsi toute l'équipe d'un journal.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 19,
+          "start": 845,
+          "end": 1040,
+          "quote": "\n100. Selon le texte, l'« ours » ___________.\nA. est un jargon anglais\nB. est un logo de journal\nC. désigne toute l'équipe d'un journal\nD. désigne toutes les informations publiées dans un journal"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-verb-1",
+      "questionVersionId": "tfs4-2023-verb-1:v2",
+      "year": 2023,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(éteindre)",
+      "options": [],
+      "material": "# Partie V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## La lampe de poche\n\nMaman est sortie. Je (J') (éteindre) ____(1)____ la lumière et je (se mettre) ____(2)____ au travail. C'est très chouette de faire les devoirs avec une lampe de poche, même si c'est de l'arithmétique (算术) ! Et puis Maman (revenir) ____(3)____ dans la chambre et (allumer) ____(4)____ la grosse lumière : elle (ne pas être) ____(5)____ contente du tout.\n\n- Je croyais (te dire) ____(6)____ de faire les devoirs avant de jouer ? m'a dit Maman.\n- Mais je (j') (être) ____(7)____ en train de les faire, mes devoirs, lui ai-je expliqué.\n- Dans l'obscurité ? Avec cette petite lampe ridicule ? Mais tu (aller) ____(8)____ te crever les yeux, Nicolas ! a crié Maman.\n\nJ'ai dit à Maman que ce (ne pas être) ____(9)____ une petite lampe ridicule, et qu'elle (donner) ____(10)____ une lumière terrible, mais Maman n'a rien voulu savoir et elle (prendre) ____(11)____ ma lampe, et elle a dit qu'elle me la (l') (rendre) ____(12)____ quand je (j') (finir) ____(13)____ mes devoirs. Je (J') (essayer) ____(14)____ de pleurer un coup, mais je sais qu'avec Maman ça (ne presque jamais servir) ____(15)____ à rien, alors je (j') (faire) ____(16)____ mon problème le plus vite possible.\n\nJe suis descendu (courir) ____(17)____ et je (j') (demander) ____(18)____ à Maman qu'elle me (m') (rendre) ____(19)____ ma lampe de poche.\n\n- Bon, mais (être) ____(20)____ sage, m'a dit Maman.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 560,
+          "end": 574,
+          "quote": "(**éteindre**)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-verb-3",
+      "questionVersionId": "tfs4-2023-verb-3:v2",
+      "year": 2023,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(revenir)",
+      "options": [],
+      "material": "# Partie V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## La lampe de poche\n\nMaman est sortie. Je (J') (éteindre) ____(1)____ la lumière et je (se mettre) ____(2)____ au travail. C'est très chouette de faire les devoirs avec une lampe de poche, même si c'est de l'arithmétique (算术) ! Et puis Maman (revenir) ____(3)____ dans la chambre et (allumer) ____(4)____ la grosse lumière : elle (ne pas être) ____(5)____ contente du tout.\n\n- Je croyais (te dire) ____(6)____ de faire les devoirs avant de jouer ? m'a dit Maman.\n- Mais je (j') (être) ____(7)____ en train de les faire, mes devoirs, lui ai-je expliqué.\n- Dans l'obscurité ? Avec cette petite lampe ridicule ? Mais tu (aller) ____(8)____ te crever les yeux, Nicolas ! a crié Maman.\n\nJ'ai dit à Maman que ce (ne pas être) ____(9)____ une petite lampe ridicule, et qu'elle (donner) ____(10)____ une lumière terrible, mais Maman n'a rien voulu savoir et elle (prendre) ____(11)____ ma lampe, et elle a dit qu'elle me la (l') (rendre) ____(12)____ quand je (j') (finir) ____(13)____ mes devoirs. Je (J') (essayer) ____(14)____ de pleurer un coup, mais je sais qu'avec Maman ça (ne presque jamais servir) ____(15)____ à rien, alors je (j') (faire) ____(16)____ mon problème le plus vite possible.\n\nJe suis descendu (courir) ____(17)____ et je (j') (demander) ____(18)____ à Maman qu'elle me (m') (rendre) ____(19)____ ma lampe de poche.\n\n- Bon, mais (être) ____(20)____ sage, m'a dit Maman.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 761,
+          "end": 772,
+          "quote": "(*revenir*)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-verb-4",
+      "questionVersionId": "tfs4-2023-verb-4:v2",
+      "year": 2023,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(allumer)",
+      "options": [],
+      "material": "# Partie V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## La lampe de poche\n\nMaman est sortie. Je (J') (éteindre) ____(1)____ la lumière et je (se mettre) ____(2)____ au travail. C'est très chouette de faire les devoirs avec une lampe de poche, même si c'est de l'arithmétique (算术) ! Et puis Maman (revenir) ____(3)____ dans la chambre et (allumer) ____(4)____ la grosse lumière : elle (ne pas être) ____(5)____ contente du tout.\n\n- Je croyais (te dire) ____(6)____ de faire les devoirs avant de jouer ? m'a dit Maman.\n- Mais je (j') (être) ____(7)____ en train de les faire, mes devoirs, lui ai-je expliqué.\n- Dans l'obscurité ? Avec cette petite lampe ridicule ? Mais tu (aller) ____(8)____ te crever les yeux, Nicolas ! a crié Maman.\n\nJ'ai dit à Maman que ce (ne pas être) ____(9)____ une petite lampe ridicule, et qu'elle (donner) ____(10)____ une lumière terrible, mais Maman n'a rien voulu savoir et elle (prendre) ____(11)____ ma lampe, et elle a dit qu'elle me la (l') (rendre) ____(12)____ quand je (j') (finir) ____(13)____ mes devoirs. Je (J') (essayer) ____(14)____ de pleurer un coup, mais je sais qu'avec Maman ça (ne presque jamais servir) ____(15)____ à rien, alors je (j') (faire) ____(16)____ mon problème le plus vite possible.\n\nJe suis descendu (courir) ____(17)____ et je (j') (demander) ____(18)____ à Maman qu'elle me (m') (rendre) ____(19)____ ma lampe de poche.\n\n- Bon, mais (être) ____(20)____ sage, m'a dit Maman.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 804,
+          "end": 815,
+          "quote": "(*allumer*)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-verb-5",
+      "questionVersionId": "tfs4-2023-verb-5:v2",
+      "year": 2023,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(ne pas être)",
+      "options": [],
+      "material": "# Partie V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## La lampe de poche\n\nMaman est sortie. Je (J') (éteindre) ____(1)____ la lumière et je (se mettre) ____(2)____ au travail. C'est très chouette de faire les devoirs avec une lampe de poche, même si c'est de l'arithmétique (算术) ! Et puis Maman (revenir) ____(3)____ dans la chambre et (allumer) ____(4)____ la grosse lumière : elle (ne pas être) ____(5)____ contente du tout.\n\n- Je croyais (te dire) ____(6)____ de faire les devoirs avant de jouer ? m'a dit Maman.\n- Mais je (j') (être) ____(7)____ en train de les faire, mes devoirs, lui ai-je expliqué.\n- Dans l'obscurité ? Avec cette petite lampe ridicule ? Mais tu (aller) ____(8)____ te crever les yeux, Nicolas ! a crié Maman.\n\nJ'ai dit à Maman que ce (ne pas être) ____(9)____ une petite lampe ridicule, et qu'elle (donner) ____(10)____ une lumière terrible, mais Maman n'a rien voulu savoir et elle (prendre) ____(11)____ ma lampe, et elle a dit qu'elle me la (l') (rendre) ____(12)____ quand je (j') (finir) ____(13)____ mes devoirs. Je (J') (essayer) ____(14)____ de pleurer un coup, mais je sais qu'avec Maman ça (ne presque jamais servir) ____(15)____ à rien, alors je (j') (faire) ____(16)____ mon problème le plus vite possible.\n\nJe suis descendu (courir) ____(17)____ et je (j') (demander) ____(18)____ à Maman qu'elle me (m') (rendre) ____(19)____ ma lampe de poche.\n\n- Bon, mais (être) ____(20)____ sage, m'a dit Maman.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 853,
+          "end": 868,
+          "quote": "(*ne pas être*)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-verb-6",
+      "questionVersionId": "tfs4-2023-verb-6:v2",
+      "year": 2023,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(te dire)",
+      "options": [],
+      "material": "# Partie V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## La lampe de poche\n\nMaman est sortie. Je (J') (éteindre) ____(1)____ la lumière et je (se mettre) ____(2)____ au travail. C'est très chouette de faire les devoirs avec une lampe de poche, même si c'est de l'arithmétique (算术) ! Et puis Maman (revenir) ____(3)____ dans la chambre et (allumer) ____(4)____ la grosse lumière : elle (ne pas être) ____(5)____ contente du tout.\n\n- Je croyais (te dire) ____(6)____ de faire les devoirs avant de jouer ? m'a dit Maman.\n- Mais je (j') (être) ____(7)____ en train de les faire, mes devoirs, lui ai-je expliqué.\n- Dans l'obscurité ? Avec cette petite lampe ridicule ? Mais tu (aller) ____(8)____ te crever les yeux, Nicolas ! a crié Maman.\n\nJ'ai dit à Maman que ce (ne pas être) ____(9)____ une petite lampe ridicule, et qu'elle (donner) ____(10)____ une lumière terrible, mais Maman n'a rien voulu savoir et elle (prendre) ____(11)____ ma lampe, et elle a dit qu'elle me la (l') (rendre) ____(12)____ quand je (j') (finir) ____(13)____ mes devoirs. Je (J') (essayer) ____(14)____ de pleurer un coup, mais je sais qu'avec Maman ça (ne presque jamais servir) ____(15)____ à rien, alors je (j') (faire) ____(16)____ mon problème le plus vite possible.\n\nJe suis descendu (courir) ____(17)____ et je (j') (demander) ____(18)____ à Maman qu'elle me (m') (rendre) ____(19)____ ma lampe de poche.\n\n- Bon, mais (être) ____(20)____ sage, m'a dit Maman.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 913,
+          "end": 924,
+          "quote": "(*te dire*)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-verb-7",
+      "questionVersionId": "tfs4-2023-verb-7:v2",
+      "year": 2023,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(être)",
+      "options": [],
+      "material": "# Partie V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## La lampe de poche\n\nMaman est sortie. Je (J') (éteindre) ____(1)____ la lumière et je (se mettre) ____(2)____ au travail. C'est très chouette de faire les devoirs avec une lampe de poche, même si c'est de l'arithmétique (算术) ! Et puis Maman (revenir) ____(3)____ dans la chambre et (allumer) ____(4)____ la grosse lumière : elle (ne pas être) ____(5)____ contente du tout.\n\n- Je croyais (te dire) ____(6)____ de faire les devoirs avant de jouer ? m'a dit Maman.\n- Mais je (j') (être) ____(7)____ en train de les faire, mes devoirs, lui ai-je expliqué.\n- Dans l'obscurité ? Avec cette petite lampe ridicule ? Mais tu (aller) ____(8)____ te crever les yeux, Nicolas ! a crié Maman.\n\nJ'ai dit à Maman que ce (ne pas être) ____(9)____ une petite lampe ridicule, et qu'elle (donner) ____(10)____ une lumière terrible, mais Maman n'a rien voulu savoir et elle (prendre) ____(11)____ ma lampe, et elle a dit qu'elle me la (l') (rendre) ____(12)____ quand je (j') (finir) ____(13)____ mes devoirs. Je (J') (essayer) ____(14)____ de pleurer un coup, mais je sais qu'avec Maman ça (ne presque jamais servir) ____(15)____ à rien, alors je (j') (faire) ____(16)____ mon problème le plus vite possible.\n\nJe suis descendu (courir) ____(17)____ et je (j') (demander) ____(18)____ à Maman qu'elle me (m') (rendre) ____(19)____ ma lampe de poche.\n\n- Bon, mais (être) ____(20)____ sage, m'a dit Maman.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1005,
+          "end": 1015,
+          "quote": "(**être**)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-verb-8",
+      "questionVersionId": "tfs4-2023-verb-8:v2",
+      "year": 2023,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(aller)",
+      "options": [],
+      "material": "# Partie V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## La lampe de poche\n\nMaman est sortie. Je (J') (éteindre) ____(1)____ la lumière et je (se mettre) ____(2)____ au travail. C'est très chouette de faire les devoirs avec une lampe de poche, même si c'est de l'arithmétique (算术) ! Et puis Maman (revenir) ____(3)____ dans la chambre et (allumer) ____(4)____ la grosse lumière : elle (ne pas être) ____(5)____ contente du tout.\n\n- Je croyais (te dire) ____(6)____ de faire les devoirs avant de jouer ? m'a dit Maman.\n- Mais je (j') (être) ____(7)____ en train de les faire, mes devoirs, lui ai-je expliqué.\n- Dans l'obscurité ? Avec cette petite lampe ridicule ? Mais tu (aller) ____(8)____ te crever les yeux, Nicolas ! a crié Maman.\n\nJ'ai dit à Maman que ce (ne pas être) ____(9)____ une petite lampe ridicule, et qu'elle (donner) ____(10)____ une lumière terrible, mais Maman n'a rien voulu savoir et elle (prendre) ____(11)____ ma lampe, et elle a dit qu'elle me la (l') (rendre) ____(12)____ quand je (j') (finir) ____(13)____ mes devoirs. Je (J') (essayer) ____(14)____ de pleurer un coup, mais je sais qu'avec Maman ça (ne presque jamais servir) ____(15)____ à rien, alors je (j') (faire) ____(16)____ mon problème le plus vite possible.\n\nJe suis descendu (courir) ____(17)____ et je (j') (demander) ____(18)____ à Maman qu'elle me (m') (rendre) ____(19)____ ma lampe de poche.\n\n- Bon, mais (être) ____(20)____ sage, m'a dit Maman.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1148,
+          "end": 1157,
+          "quote": "(*aller*)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-verb-11",
+      "questionVersionId": "tfs4-2023-verb-11:v2",
+      "year": 2023,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(prendre)",
+      "options": [],
+      "material": "# Partie V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## La lampe de poche\n\nMaman est sortie. Je (J') (éteindre) ____(1)____ la lumière et je (se mettre) ____(2)____ au travail. C'est très chouette de faire les devoirs avec une lampe de poche, même si c'est de l'arithmétique (算术) ! Et puis Maman (revenir) ____(3)____ dans la chambre et (allumer) ____(4)____ la grosse lumière : elle (ne pas être) ____(5)____ contente du tout.\n\n- Je croyais (te dire) ____(6)____ de faire les devoirs avant de jouer ? m'a dit Maman.\n- Mais je (j') (être) ____(7)____ en train de les faire, mes devoirs, lui ai-je expliqué.\n- Dans l'obscurité ? Avec cette petite lampe ridicule ? Mais tu (aller) ____(8)____ te crever les yeux, Nicolas ! a crié Maman.\n\nJ'ai dit à Maman que ce (ne pas être) ____(9)____ une petite lampe ridicule, et qu'elle (donner) ____(10)____ une lumière terrible, mais Maman n'a rien voulu savoir et elle (prendre) ____(11)____ ma lampe, et elle a dit qu'elle me la (l') (rendre) ____(12)____ quand je (j') (finir) ____(13)____ mes devoirs. Je (J') (essayer) ____(14)____ de pleurer un coup, mais je sais qu'avec Maman ça (ne presque jamais servir) ____(15)____ à rien, alors je (j') (faire) ____(16)____ mon problème le plus vite possible.\n\nJe suis descendu (courir) ____(17)____ et je (j') (demander) ____(18)____ à Maman qu'elle me (m') (rendre) ____(19)____ ma lampe de poche.\n\n- Bon, mais (être) ____(20)____ sage, m'a dit Maman.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1392,
+          "end": 1403,
+          "quote": "(*prendre*)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-verb-12",
+      "questionVersionId": "tfs4-2023-verb-12:v2",
+      "year": 2023,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(rendre)",
+      "options": [],
+      "material": "# Partie V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## La lampe de poche\n\nMaman est sortie. Je (J') (éteindre) ____(1)____ la lumière et je (se mettre) ____(2)____ au travail. C'est très chouette de faire les devoirs avec une lampe de poche, même si c'est de l'arithmétique (算术) ! Et puis Maman (revenir) ____(3)____ dans la chambre et (allumer) ____(4)____ la grosse lumière : elle (ne pas être) ____(5)____ contente du tout.\n\n- Je croyais (te dire) ____(6)____ de faire les devoirs avant de jouer ? m'a dit Maman.\n- Mais je (j') (être) ____(7)____ en train de les faire, mes devoirs, lui ai-je expliqué.\n- Dans l'obscurité ? Avec cette petite lampe ridicule ? Mais tu (aller) ____(8)____ te crever les yeux, Nicolas ! a crié Maman.\n\nJ'ai dit à Maman que ce (ne pas être) ____(9)____ une petite lampe ridicule, et qu'elle (donner) ____(10)____ une lumière terrible, mais Maman n'a rien voulu savoir et elle (prendre) ____(11)____ ma lampe, et elle a dit qu'elle me la (l') (rendre) ____(12)____ quand je (j') (finir) ____(13)____ mes devoirs. Je (J') (essayer) ____(14)____ de pleurer un coup, mais je sais qu'avec Maman ça (ne presque jamais servir) ____(15)____ à rien, alors je (j') (faire) ____(16)____ mon problème le plus vite possible.\n\nJe suis descendu (courir) ____(17)____ et je (j') (demander) ____(18)____ à Maman qu'elle me (m') (rendre) ____(19)____ ma lampe de poche.\n\n- Bon, mais (être) ____(20)____ sage, m'a dit Maman.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1460,
+          "end": 1470,
+          "quote": "(*rendre*)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-verb-13",
+      "questionVersionId": "tfs4-2023-verb-13:v2",
+      "year": 2023,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(finir)",
+      "options": [],
+      "material": "# Partie V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## La lampe de poche\n\nMaman est sortie. Je (J') (éteindre) ____(1)____ la lumière et je (se mettre) ____(2)____ au travail. C'est très chouette de faire les devoirs avec une lampe de poche, même si c'est de l'arithmétique (算术) ! Et puis Maman (revenir) ____(3)____ dans la chambre et (allumer) ____(4)____ la grosse lumière : elle (ne pas être) ____(5)____ contente du tout.\n\n- Je croyais (te dire) ____(6)____ de faire les devoirs avant de jouer ? m'a dit Maman.\n- Mais je (j') (être) ____(7)____ en train de les faire, mes devoirs, lui ai-je expliqué.\n- Dans l'obscurité ? Avec cette petite lampe ridicule ? Mais tu (aller) ____(8)____ te crever les yeux, Nicolas ! a crié Maman.\n\nJ'ai dit à Maman que ce (ne pas être) ____(9)____ une petite lampe ridicule, et qu'elle (donner) ____(10)____ une lumière terrible, mais Maman n'a rien voulu savoir et elle (prendre) ____(11)____ ma lampe, et elle a dit qu'elle me la (l') (rendre) ____(12)____ quand je (j') (finir) ____(13)____ mes devoirs. Je (J') (essayer) ____(14)____ de pleurer un coup, mais je sais qu'avec Maman ça (ne presque jamais servir) ____(15)____ à rien, alors je (j') (faire) ____(16)____ mon problème le plus vite possible.\n\nJe suis descendu (courir) ____(17)____ et je (j') (demander) ____(18)____ à Maman qu'elle me (m') (rendre) ____(19)____ ma lampe de poche.\n\n- Bon, mais (être) ____(20)____ sage, m'a dit Maman.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1498,
+          "end": 1507,
+          "quote": "(*finir*)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-verb-14",
+      "questionVersionId": "tfs4-2023-verb-14:v2",
+      "year": 2023,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(essayer)",
+      "options": [],
+      "material": "# Partie V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## La lampe de poche\n\nMaman est sortie. Je (J') (éteindre) ____(1)____ la lumière et je (se mettre) ____(2)____ au travail. C'est très chouette de faire les devoirs avec une lampe de poche, même si c'est de l'arithmétique (算术) ! Et puis Maman (revenir) ____(3)____ dans la chambre et (allumer) ____(4)____ la grosse lumière : elle (ne pas être) ____(5)____ contente du tout.\n\n- Je croyais (te dire) ____(6)____ de faire les devoirs avant de jouer ? m'a dit Maman.\n- Mais je (j') (être) ____(7)____ en train de les faire, mes devoirs, lui ai-je expliqué.\n- Dans l'obscurité ? Avec cette petite lampe ridicule ? Mais tu (aller) ____(8)____ te crever les yeux, Nicolas ! a crié Maman.\n\nJ'ai dit à Maman que ce (ne pas être) ____(9)____ une petite lampe ridicule, et qu'elle (donner) ____(10)____ une lumière terrible, mais Maman n'a rien voulu savoir et elle (prendre) ____(11)____ ma lampe, et elle a dit qu'elle me la (l') (rendre) ____(12)____ quand je (j') (finir) ____(13)____ mes devoirs. Je (J') (essayer) ____(14)____ de pleurer un coup, mais je sais qu'avec Maman ça (ne presque jamais servir) ____(15)____ à rien, alors je (j') (faire) ____(16)____ mon problème le plus vite possible.\n\nJe suis descendu (courir) ____(17)____ et je (j') (demander) ____(18)____ à Maman qu'elle me (m') (rendre) ____(19)____ ma lampe de poche.\n\n- Bon, mais (être) ____(20)____ sage, m'a dit Maman.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1542,
+          "end": 1553,
+          "quote": "(*essayer*)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-verb-15",
+      "questionVersionId": "tfs4-2023-verb-15:v2",
+      "year": 2023,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(ne presque jamais servir)",
+      "options": [],
+      "material": "# Partie V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## La lampe de poche\n\nMaman est sortie. Je (J') (éteindre) ____(1)____ la lumière et je (se mettre) ____(2)____ au travail. C'est très chouette de faire les devoirs avec une lampe de poche, même si c'est de l'arithmétique (算术) ! Et puis Maman (revenir) ____(3)____ dans la chambre et (allumer) ____(4)____ la grosse lumière : elle (ne pas être) ____(5)____ contente du tout.\n\n- Je croyais (te dire) ____(6)____ de faire les devoirs avant de jouer ? m'a dit Maman.\n- Mais je (j') (être) ____(7)____ en train de les faire, mes devoirs, lui ai-je expliqué.\n- Dans l'obscurité ? Avec cette petite lampe ridicule ? Mais tu (aller) ____(8)____ te crever les yeux, Nicolas ! a crié Maman.\n\nJ'ai dit à Maman que ce (ne pas être) ____(9)____ une petite lampe ridicule, et qu'elle (donner) ____(10)____ une lumière terrible, mais Maman n'a rien voulu savoir et elle (prendre) ____(11)____ ma lampe, et elle a dit qu'elle me la (l') (rendre) ____(12)____ quand je (j') (finir) ____(13)____ mes devoirs. Je (J') (essayer) ____(14)____ de pleurer un coup, mais je sais qu'avec Maman ça (ne presque jamais servir) ____(15)____ à rien, alors je (j') (faire) ____(16)____ mon problème le plus vite possible.\n\nJe suis descendu (courir) ____(17)____ et je (j') (demander) ____(18)____ à Maman qu'elle me (m') (rendre) ____(19)____ ma lampe de poche.\n\n- Bon, mais (être) ____(20)____ sage, m'a dit Maman.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1617,
+          "end": 1645,
+          "quote": "(*ne presque jamais servir*)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-verb-17",
+      "questionVersionId": "tfs4-2023-verb-17:v2",
+      "year": 2023,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(courir)",
+      "options": [],
+      "material": "# Partie V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## La lampe de poche\n\nMaman est sortie. Je (J') (éteindre) ____(1)____ la lumière et je (se mettre) ____(2)____ au travail. C'est très chouette de faire les devoirs avec une lampe de poche, même si c'est de l'arithmétique (算术) ! Et puis Maman (revenir) ____(3)____ dans la chambre et (allumer) ____(4)____ la grosse lumière : elle (ne pas être) ____(5)____ contente du tout.\n\n- Je croyais (te dire) ____(6)____ de faire les devoirs avant de jouer ? m'a dit Maman.\n- Mais je (j') (être) ____(7)____ en train de les faire, mes devoirs, lui ai-je expliqué.\n- Dans l'obscurité ? Avec cette petite lampe ridicule ? Mais tu (aller) ____(8)____ te crever les yeux, Nicolas ! a crié Maman.\n\nJ'ai dit à Maman que ce (ne pas être) ____(9)____ une petite lampe ridicule, et qu'elle (donner) ____(10)____ une lumière terrible, mais Maman n'a rien voulu savoir et elle (prendre) ____(11)____ ma lampe, et elle a dit qu'elle me la (l') (rendre) ____(12)____ quand je (j') (finir) ____(13)____ mes devoirs. Je (J') (essayer) ____(14)____ de pleurer un coup, mais je sais qu'avec Maman ça (ne presque jamais servir) ____(15)____ à rien, alors je (j') (faire) ____(16)____ mon problème le plus vite possible.\n\nJe suis descendu (courir) ____(17)____ et je (j') (demander) ____(18)____ à Maman qu'elle me (m') (rendre) ____(19)____ ma lampe de poche.\n\n- Bon, mais (être) ____(20)____ sage, m'a dit Maman.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1758,
+          "end": 1768,
+          "quote": "(*courir*)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-verb-18",
+      "questionVersionId": "tfs4-2023-verb-18:v2",
+      "year": 2023,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(demander)",
+      "options": [],
+      "material": "# Partie V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## La lampe de poche\n\nMaman est sortie. Je (J') (éteindre) ____(1)____ la lumière et je (se mettre) ____(2)____ au travail. C'est très chouette de faire les devoirs avec une lampe de poche, même si c'est de l'arithmétique (算术) ! Et puis Maman (revenir) ____(3)____ dans la chambre et (allumer) ____(4)____ la grosse lumière : elle (ne pas être) ____(5)____ contente du tout.\n\n- Je croyais (te dire) ____(6)____ de faire les devoirs avant de jouer ? m'a dit Maman.\n- Mais je (j') (être) ____(7)____ en train de les faire, mes devoirs, lui ai-je expliqué.\n- Dans l'obscurité ? Avec cette petite lampe ridicule ? Mais tu (aller) ____(8)____ te crever les yeux, Nicolas ! a crié Maman.\n\nJ'ai dit à Maman que ce (ne pas être) ____(9)____ une petite lampe ridicule, et qu'elle (donner) ____(10)____ une lumière terrible, mais Maman n'a rien voulu savoir et elle (prendre) ____(11)____ ma lampe, et elle a dit qu'elle me la (l') (rendre) ____(12)____ quand je (j') (finir) ____(13)____ mes devoirs. Je (J') (essayer) ____(14)____ de pleurer un coup, mais je sais qu'avec Maman ça (ne presque jamais servir) ____(15)____ à rien, alors je (j') (faire) ____(16)____ mon problème le plus vite possible.\n\nJe suis descendu (courir) ____(17)____ et je (j') (demander) ____(18)____ à Maman qu'elle me (m') (rendre) ____(19)____ ma lampe de poche.\n\n- Bon, mais (être) ____(20)____ sage, m'a dit Maman.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1793,
+          "end": 1805,
+          "quote": "(*demander*)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-verb-19",
+      "questionVersionId": "tfs4-2023-verb-19:v2",
+      "year": 2023,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(rendre)",
+      "options": [],
+      "material": "# Partie V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## La lampe de poche\n\nMaman est sortie. Je (J') (éteindre) ____(1)____ la lumière et je (se mettre) ____(2)____ au travail. C'est très chouette de faire les devoirs avec une lampe de poche, même si c'est de l'arithmétique (算术) ! Et puis Maman (revenir) ____(3)____ dans la chambre et (allumer) ____(4)____ la grosse lumière : elle (ne pas être) ____(5)____ contente du tout.\n\n- Je croyais (te dire) ____(6)____ de faire les devoirs avant de jouer ? m'a dit Maman.\n- Mais je (j') (être) ____(7)____ en train de les faire, mes devoirs, lui ai-je expliqué.\n- Dans l'obscurité ? Avec cette petite lampe ridicule ? Mais tu (aller) ____(8)____ te crever les yeux, Nicolas ! a crié Maman.\n\nJ'ai dit à Maman que ce (ne pas être) ____(9)____ une petite lampe ridicule, et qu'elle (donner) ____(10)____ une lumière terrible, mais Maman n'a rien voulu savoir et elle (prendre) ____(11)____ ma lampe, et elle a dit qu'elle me la (l') (rendre) ____(12)____ quand je (j') (finir) ____(13)____ mes devoirs. Je (J') (essayer) ____(14)____ de pleurer un coup, mais je sais qu'avec Maman ça (ne presque jamais servir) ____(15)____ à rien, alors je (j') (faire) ____(16)____ mon problème le plus vite possible.\n\nJe suis descendu (courir) ____(17)____ et je (j') (demander) ____(18)____ à Maman qu'elle me (m') (rendre) ____(19)____ ma lampe de poche.\n\n- Bon, mais (être) ____(20)____ sage, m'a dit Maman.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1843,
+          "end": 1853,
+          "quote": "(*rendre*)"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2023-verb-20",
+      "questionVersionId": "tfs4-2023-verb-20:v2",
+      "year": 2023,
+      "typeId": "verb-form",
+      "responseType": "verb_form",
+      "text": "(être)",
+      "options": [],
+      "material": "# Partie V : Compétence grammaticale (II) (10 points)\n\nMettez les verbes entre parenthèses au temps et au mode qui conviennent.\n\n## La lampe de poche\n\nMaman est sortie. Je (J') (éteindre) ____(1)____ la lumière et je (se mettre) ____(2)____ au travail. C'est très chouette de faire les devoirs avec une lampe de poche, même si c'est de l'arithmétique (算术) ! Et puis Maman (revenir) ____(3)____ dans la chambre et (allumer) ____(4)____ la grosse lumière : elle (ne pas être) ____(5)____ contente du tout.\n\n- Je croyais (te dire) ____(6)____ de faire les devoirs avant de jouer ? m'a dit Maman.\n- Mais je (j') (être) ____(7)____ en train de les faire, mes devoirs, lui ai-je expliqué.\n- Dans l'obscurité ? Avec cette petite lampe ridicule ? Mais tu (aller) ____(8)____ te crever les yeux, Nicolas ! a crié Maman.\n\nJ'ai dit à Maman que ce (ne pas être) ____(9)____ une petite lampe ridicule, et qu'elle (donner) ____(10)____ une lumière terrible, mais Maman n'a rien voulu savoir et elle (prendre) ____(11)____ ma lampe, et elle a dit qu'elle me la (l') (rendre) ____(12)____ quand je (j') (finir) ____(13)____ mes devoirs. Je (J') (essayer) ____(14)____ de pleurer un coup, mais je sais qu'avec Maman ça (ne presque jamais servir) ____(15)____ à rien, alors je (j') (faire) ____(16)____ mon problème le plus vite possible.\n\nJe suis descendu (courir) ____(17)____ et je (j') (demander) ____(18)____ à Maman qu'elle me (m') (rendre) ____(19)____ ma lampe de poche.\n\n- Bon, mais (être) ____(20)____ sage, m'a dit Maman.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1899,
+          "end": 1907,
+          "quote": "(*être*)"
+        }
+      ]
+    }
+  ]
+}

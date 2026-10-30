@@ -1,0 +1,1385 @@
+{
+  "version": "reading-audit-r02",
+  "auditType": "解盲高风险集合语义审计；非独立盲标",
+  "scope": "全部53道checked reading；只读content-v4及内嵌MD来源/参考；不读PDF或音频；不修改基线或r01裁决",
+  "records": [
+    {
+      "questionId": "tfs4-2012-q081",
+      "oldPrimaryId": "obj-r-detail",
+      "proposedPrimaryId": "obj-r-detail",
+      "status": "resolved",
+      "quote": "a mené une enquête par Internet",
+      "reason": "调查渠道直接陈述；不是人物任职地点推断。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2012-ref-80",
+          "kind": "answer",
+          "originalLabel": "81",
+          "text": "81: C",
+          "evidence": [
+            {
+              "documentId": "tfs4-2012-answers-24e43da16ed6",
+              "page": 3,
+              "start": 2441,
+              "end": 2446,
+              "quote": "81: C"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2012-q082",
+      "oldPrimaryId": "obj-r-number",
+      "proposedPrimaryId": "obj-r-number",
+      "status": "resolved",
+      "quote": "S'ils sont quasi 100% à craindre une perte de la biodiversité",
+      "reason": "quasi限定接近100%，不是整100%；数量叶优先事实叶。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2012-ref-84",
+          "kind": "answer",
+          "originalLabel": "82",
+          "text": "82: B",
+          "evidence": [
+            {
+              "documentId": "tfs4-2012-answers-24e43da16ed6",
+              "page": 3,
+              "start": 2530,
+              "end": 2535,
+              "quote": "82: B"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2012-q083",
+      "oldPrimaryId": "obj-r-number",
+      "proposedPrimaryId": null,
+      "status": "pending",
+      "quote": "ils sont près de 60% à accepter l'idée",
+      "reason": "参考C=40%；近60%接受的补集不必全是反对者，也不是精确40%。数量候选，证据不足保留pending。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2012-ref-88",
+          "kind": "answer",
+          "originalLabel": "83",
+          "text": "83: C",
+          "evidence": [
+            {
+              "documentId": "tfs4-2012-answers-24e43da16ed6",
+              "page": 3,
+              "start": 2619,
+              "end": 2624,
+              "quote": "83: C"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2012-q084",
+      "oldPrimaryId": "obj-r-inference",
+      "proposedPrimaryId": null,
+      "status": "pending",
+      "quote": "En revanche, l'abeille transporte le pollen de milliers de fleurs.",
+      "reason": "参考D还含ver de terre；全文只给蜜蜂功用，未陈述蚯蚓功用，不能用常识补完功利选择。推断候选待核。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2012-ref-92",
+          "kind": "answer",
+          "originalLabel": "84",
+          "text": "84: D",
+          "evidence": [
+            {
+              "documentId": "tfs4-2012-answers-24e43da16ed6",
+              "page": 3,
+              "start": 2708,
+              "end": 2713,
+              "quote": "84: D"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2012-q085",
+      "oldPrimaryId": "obj-r-inference",
+      "proposedPrimaryId": "obj-r-inference",
+      "status": "resolved",
+      "quote": "OK, le panda est charmant, mais il passe son temps à grignoter ses bambous.",
+      "reason": "结合结尾quand on n'est pas Chinois的反讽及charmant推选A；不是明确陈述中国人喜爱的因果句，保留推断边界。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2012-ref-96",
+          "kind": "answer",
+          "originalLabel": "85",
+          "text": "85: A",
+          "evidence": [
+            {
+              "documentId": "tfs4-2012-answers-24e43da16ed6",
+              "page": 3,
+              "start": 2797,
+              "end": 2802,
+              "quote": "85: A"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2012-q087",
+      "oldPrimaryId": "obj-r-time",
+      "proposedPrimaryId": "obj-r-time",
+      "status": "resolved",
+      "quote": "Cet étudiant chinois était rentré en Chine à la fin des années trente et ils ont perdu le contact peu après.",
+      "reason": "与此前相识句共同确定首次见面在返回中国前，参考A；核心是首次相识时间，优先一般推断。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2012-ref-85",
+          "kind": "answer",
+          "originalLabel": "87",
+          "text": "87: A",
+          "evidence": [
+            {
+              "documentId": "tfs4-2012-answers-24e43da16ed6",
+              "page": 3,
+              "start": 2549,
+              "end": 2554,
+              "quote": "87: A"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2012-q088",
+      "oldPrimaryId": "obj-r-detail",
+      "proposedPrimaryId": "obj-r-detail",
+      "status": "resolved",
+      "quote": "suite à un échange de lettres, Hergé envoya Le Lotus bleu en couleur et Tintin au Tibet.",
+      "reason": "参考B将书与此前通信合并；需同时保留交换信件与寄书事实，非推断新物品。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2012-ref-89",
+          "kind": "answer",
+          "originalLabel": "88",
+          "text": "88: B",
+          "evidence": [
+            {
+              "documentId": "tfs4-2012-answers-24e43da16ed6",
+              "page": 3,
+              "start": 2638,
+              "end": 2643,
+              "quote": "88: B"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2012-q089",
+      "oldPrimaryId": "obj-r-time",
+      "proposedPrimaryId": "obj-r-time",
+      "status": "resolved",
+      "quote": "eut finalement lieu en 1981.",
+      "reason": "finally区分原定日期与实际重逢1981；时间叶。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2012-ref-93",
+          "kind": "answer",
+          "originalLabel": "89",
+          "text": "89: C",
+          "evidence": [
+            {
+              "documentId": "tfs4-2012-answers-24e43da16ed6",
+              "page": 3,
+              "start": 2727,
+              "end": 2732,
+              "quote": "89: C"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2012-q090",
+      "oldPrimaryId": "obj-r-inference",
+      "proposedPrimaryId": "obj-r-time",
+      "status": "resolved",
+      "quote": "Cette rencontre précéda de deux ans la mort du créateur",
+      "reason": "1981重逢后两年即1983；沿用r01裁决，时间关系优先一般推断。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2012-ref-97",
+          "kind": "answer",
+          "originalLabel": "90",
+          "text": "90: C",
+          "evidence": [
+            {
+              "documentId": "tfs4-2012-answers-24e43da16ed6",
+              "page": 3,
+              "start": 2816,
+              "end": 2821,
+              "quote": "90: C"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": true
+    },
+    {
+      "questionId": "tfs4-2012-q091",
+      "oldPrimaryId": "obj-r-detail",
+      "proposedPrimaryId": "obj-r-context",
+      "status": "resolved",
+      "quote": "Le vieillissement est un phénomène planétaire.",
+      "reason": "planétaire释为全球，决定D；建议从一般事实转语境词义，因为题目要求改写此形容词。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2012-ref-82",
+          "kind": "answer",
+          "originalLabel": "91",
+          "text": "91: D",
+          "evidence": [
+            {
+              "documentId": "tfs4-2012-answers-24e43da16ed6",
+              "page": 3,
+              "start": 2479,
+              "end": 2484,
+              "quote": "91: D"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2012-q092",
+      "oldPrimaryId": "obj-r-number",
+      "proposedPrimaryId": "obj-r-number",
+      "status": "resolved",
+      "quote": "en 2007, plus de la moitié de la population mondiale habite en ville",
+      "reason": "plus de la moitié=超过50%，不能混入2030的60%；数量范围。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2012-ref-86",
+          "kind": "answer",
+          "originalLabel": "92",
+          "text": "92: B",
+          "evidence": [
+            {
+              "documentId": "tfs4-2012-answers-24e43da16ed6",
+              "page": 3,
+              "start": 2568,
+              "end": 2573,
+              "quote": "92: B"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2012-q093",
+      "oldPrimaryId": "obj-r-detail",
+      "proposedPrimaryId": "obj-r-number",
+      "status": "resolved",
+      "quote": "dépassait déjà 80 ans au Japon ou en France",
+      "reason": "80岁阈值限定日本法国，后句国家为70岁；沿用r01数量范围裁决。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2012-ref-90",
+          "kind": "answer",
+          "originalLabel": "93",
+          "text": "93: C",
+          "evidence": [
+            {
+              "documentId": "tfs4-2012-answers-24e43da16ed6",
+              "page": 3,
+              "start": 2657,
+              "end": 2662,
+              "quote": "93: C"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": true
+    },
+    {
+      "questionId": "tfs4-2012-q094",
+      "oldPrimaryId": "obj-r-detail",
+      "proposedPrimaryId": "obj-r-detail",
+      "status": "resolved",
+      "quote": "le Japon détient, avec 82,2 ans, le record mondial d'espérance de vie",
+      "reason": "直接以Japon为record主语，不需比较多个数字，事实叶。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2012-ref-94",
+          "kind": "answer",
+          "originalLabel": "94",
+          "text": "94: B",
+          "evidence": [
+            {
+              "documentId": "tfs4-2012-answers-24e43da16ed6",
+              "page": 3,
+              "start": 2746,
+              "end": 2751,
+              "quote": "94: B"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2012-q095",
+      "oldPrimaryId": "obj-r-detail",
+      "proposedPrimaryId": "obj-r-number",
+      "status": "resolved",
+      "quote": "Les dépenses de santé augmentent avec l'âge mais sont concentrées pendant les deux dernières années de la vie, quel que soit l'âge de la personne.",
+      "reason": "A的最后两年支出集中与D把50%风险下降改成零风险都涉及数量范围；建议数量叶优先一般事实。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2012-ref-98",
+          "kind": "answer",
+          "originalLabel": "95",
+          "text": "95: A",
+          "evidence": [
+            {
+              "documentId": "tfs4-2012-answers-24e43da16ed6",
+              "page": 3,
+              "start": 2835,
+              "end": 2840,
+              "quote": "95: A"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2012-q096",
+      "oldPrimaryId": "obj-r-context",
+      "proposedPrimaryId": "obj-r-context",
+      "status": "resolved",
+      "quote": "qu'on appelle maintenant livre numérique ou électronique",
+      "reason": "同义称谓及virtuel/papier对比决定答案，否定问法不压过词义；沿用r01。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2012-ref-83",
+          "kind": "answer",
+          "originalLabel": "96",
+          "text": "96: D",
+          "evidence": [
+            {
+              "documentId": "tfs4-2012-answers-24e43da16ed6",
+              "page": 3,
+              "start": 2498,
+              "end": 2503,
+              "quote": "96: D"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": true
+    },
+    {
+      "questionId": "tfs4-2012-q097",
+      "oldPrimaryId": "obj-r-detail",
+      "proposedPrimaryId": "obj-r-detail",
+      "status": "resolved",
+      "quote": "Dès l'entrée fulgurante d'Internet, on a annoncé la mort des trois !",
+      "reason": "trois回指radio、journaux、télé，问消失媒体而非日期或数量运算，事实定位。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2012-ref-87",
+          "kind": "answer",
+          "originalLabel": "97",
+          "text": "97: D",
+          "evidence": [
+            {
+              "documentId": "tfs4-2012-answers-24e43da16ed6",
+              "page": 3,
+              "start": 2587,
+              "end": 2592,
+              "quote": "97: D"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2012-q098",
+      "oldPrimaryId": "obj-r-exclusion",
+      "proposedPrimaryId": "obj-r-exclusion",
+      "status": "resolved",
+      "quote": "Le plaisir de toucher un bouquin, l'odeur du papier, de l'encre, et son aspect pratique",
+      "reason": "核对感官及形态差别，内容未列为差别；操作是排除，非术语释义。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2012-ref-91",
+          "kind": "answer",
+          "originalLabel": "98",
+          "text": "98: C",
+          "evidence": [
+            {
+              "documentId": "tfs4-2012-answers-24e43da16ed6",
+              "page": 3,
+              "start": 2676,
+              "end": 2681,
+              "quote": "98: C"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2012-q099",
+      "oldPrimaryId": "obj-r-exclusion",
+      "proposedPrimaryId": "obj-r-exclusion",
+      "status": "resolved",
+      "quote": "sa mémoire permet de constituer de véritables bibliothèques portatives",
+      "reason": "另有notes/recherche/dictionnaire，未说mémoire renouvelable；不能把有记忆容量补成可更新，排除。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2012-ref-95",
+          "kind": "answer",
+          "originalLabel": "99",
+          "text": "99: A",
+          "evidence": [
+            {
+              "documentId": "tfs4-2012-answers-24e43da16ed6",
+              "page": 3,
+              "start": 2765,
+              "end": 2770,
+              "quote": "99: A"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2012-q100",
+      "oldPrimaryId": "obj-r-exclusion",
+      "proposedPrimaryId": "obj-r-exclusion",
+      "status": "resolved",
+      "quote": "les éditeurs en ligne n'ont pas de stocks de livres imprimés",
+      "reason": "全文后续列纸墨、运输和人员节省，但未说全部免费；信息排除。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2012-ref-99",
+          "kind": "answer",
+          "originalLabel": "100",
+          "text": "100: C",
+          "evidence": [
+            {
+              "documentId": "tfs4-2012-answers-24e43da16ed6",
+              "page": 3,
+              "start": 2854,
+              "end": 2860,
+              "quote": "100: C"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2013-q086",
+      "oldPrimaryId": "obj-r-main",
+      "proposedPrimaryId": "obj-r-main",
+      "status": "resolved",
+      "quote": "7 animaux de chaque espèce présente sur le concours général agricole",
+      "reason": "全篇展览、农场、农产品共同定农业主题；不是问某个动物细节。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2013-ref-85",
+          "kind": "answer",
+          "originalLabel": "86",
+          "text": "<td>86</td>\n    <td>A</td>",
+          "evidence": [
+            {
+              "documentId": "tfs4-2013-answers-dd3370403f9e",
+              "page": 3,
+              "start": 4732,
+              "end": 4758,
+              "quote": "<td>86</td>\n    <td>A</td>"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2013-q087",
+      "oldPrimaryId": "obj-r-time",
+      "proposedPrimaryId": "obj-r-time",
+      "status": "resolved",
+      "quote": "Nous sommes de retour le 23 février 2013",
+      "reason": "与durant 9 jours包含起日得3月3日，参考D；时间关系优先推断。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2013-ref-86",
+          "kind": "answer",
+          "originalLabel": "87",
+          "text": "<td>87</td>\n    <td>D</td>",
+          "evidence": [
+            {
+              "documentId": "tfs4-2013-answers-dd3370403f9e",
+              "page": 3,
+              "start": 4776,
+              "end": 4802,
+              "quote": "<td>87</td>\n    <td>D</td>"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2013-q088",
+      "oldPrimaryId": "obj-r-number",
+      "proposedPrimaryId": "obj-r-number",
+      "status": "resolved",
+      "quote": "ce n'est plus une seule vache qui est mise à l'honneur sur les affiches mais 7 animaux. 7 animaux de chaque espèce présente sur le concours général agricole",
+      "reason": "原文与参考C一致写de chaque espèce，不能擅改成7种各一；数量范围叶，保留措辞张力风险但不据常识推翻原文。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2013-ref-87",
+          "kind": "answer",
+          "originalLabel": "88",
+          "text": "<td>88</td>\n    <td>C</td>",
+          "evidence": [
+            {
+              "documentId": "tfs4-2013-answers-dd3370403f9e",
+              "page": 3,
+              "start": 4820,
+              "end": 4846,
+              "quote": "<td>88</td>\n    <td>C</td>"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2013-q089",
+      "oldPrimaryId": "obj-r-cause",
+      "proposedPrimaryId": "obj-r-cause",
+      "status": "resolved",
+      "quote": "pour vous donner une vision réaliste de la vie d'une ferme",
+      "reason": "明确pour目的句支持B；非作者写作目的。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2013-ref-88",
+          "kind": "answer",
+          "originalLabel": "89",
+          "text": "<td>89</td>\n    <td>B</td>",
+          "evidence": [
+            {
+              "documentId": "tfs4-2013-answers-dd3370403f9e",
+              "page": 3,
+              "start": 4864,
+              "end": 4890,
+              "quote": "<td>89</td>\n    <td>B</td>"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2013-q091",
+      "oldPrimaryId": "obj-r-detail",
+      "proposedPrimaryId": "obj-r-number",
+      "status": "resolved",
+      "quote": "36 500 décès chez l'homme",
+      "reason": "与12500女性比较人数支持A，不能用年龄段百分比替代人数；沿用r01。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2013-ref-90",
+          "kind": "answer",
+          "originalLabel": "91",
+          "text": "<td>91</td>\n    <td>A</td>",
+          "evidence": [
+            {
+              "documentId": "tfs4-2013-answers-dd3370403f9e",
+              "page": 3,
+              "start": 5033,
+              "end": 5059,
+              "quote": "<td>91</td>\n    <td>A</td>"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": true
+    },
+    {
+      "questionId": "tfs4-2013-q092",
+      "oldPrimaryId": "obj-r-detail",
+      "proposedPrimaryId": "obj-r-number",
+      "status": "resolved",
+      "quote": "des cancers (15 000 décès) et des maladies cardio-vasculaires (12 000 décès)",
+      "reason": "15000大于12000和8000，最高致死疾病依数字比较；沿用r01。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2013-ref-91",
+          "kind": "answer",
+          "originalLabel": "92",
+          "text": "<td>92</td>\n    <td>A</td>",
+          "evidence": [
+            {
+              "documentId": "tfs4-2013-answers-dd3370403f9e",
+              "page": 3,
+              "start": 5077,
+              "end": 5103,
+              "quote": "<td>92</td>\n    <td>A</td>"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": true
+    },
+    {
+      "questionId": "tfs4-2013-q093",
+      "oldPrimaryId": "obj-r-number",
+      "proposedPrimaryId": "obj-r-number",
+      "status": "resolved",
+      "quote": "Elle était de 33 g d'alcool par jour et par adulte en 1994",
+      "reason": "与27,3 en 2011相减=5.7g，不取2010的26.6；数量。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2013-ref-92",
+          "kind": "answer",
+          "originalLabel": "93",
+          "text": "<td>93</td>\n    <td>B</td>",
+          "evidence": [
+            {
+              "documentId": "tfs4-2013-answers-dd3370403f9e",
+              "page": 3,
+              "start": 5121,
+              "end": 5147,
+              "quote": "<td>93</td>\n    <td>B</td>"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2013-q094",
+      "oldPrimaryId": "obj-r-inference",
+      "proposedPrimaryId": null,
+      "status": "pending",
+      "quote": "la Suisse (5%), l'Italie (3%) et le Danemark (1%)",
+      "reason": "后句女性丹麦也是1%，但性别总死亡人数分母不同，不能推出人数相等；沿用r01 pending。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2013-ref-93",
+          "kind": "answer",
+          "originalLabel": "94",
+          "text": "<td>94</td>\n    <td>D</td>",
+          "evidence": [
+            {
+              "documentId": "tfs4-2013-answers-dd3370403f9e",
+              "page": 3,
+              "start": 5165,
+              "end": 5191,
+              "quote": "<td>94</td>\n    <td>D</td>"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": true
+    },
+    {
+      "questionId": "tfs4-2013-q095",
+      "oldPrimaryId": "obj-r-detail",
+      "proposedPrimaryId": "obj-r-number",
+      "status": "resolved",
+      "quote": "La proportion des décès attribuables à l'alcool parmi les hommes en France (13%) est ainsi bien supérieure",
+      "reason": "C比较国别死亡比例，不能把比例表述扩成绝对人数；数量叶更具体，保留C措辞简化风险。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2013-ref-94",
+          "kind": "answer",
+          "originalLabel": "95",
+          "text": "<td>95</td>\n    <td>C</td>",
+          "evidence": [
+            {
+              "documentId": "tfs4-2013-answers-dd3370403f9e",
+              "page": 3,
+              "start": 5209,
+              "end": 5235,
+              "quote": "<td>95</td>\n    <td>C</td>"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2013-q096",
+      "oldPrimaryId": "obj-r-detail",
+      "proposedPrimaryId": "obj-r-detail",
+      "status": "resolved",
+      "quote": "le ministère de la Santé indique que cette hypothèse ne peut définitivement pas être exclue",
+      "reason": "D保留可能性，不是已证实伤害；直接事实与情态范围。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2013-ref-95",
+          "kind": "answer",
+          "originalLabel": "96",
+          "text": "<td>96</td>\n    <td>D</td>",
+          "evidence": [
+            {
+              "documentId": "tfs4-2013-answers-dd3370403f9e",
+              "page": 3,
+              "start": 5334,
+              "end": 5360,
+              "quote": "<td>96</td>\n    <td>D</td>"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2013-q097",
+      "oldPrimaryId": "obj-r-detail",
+      "proposedPrimaryId": "obj-r-detail",
+      "status": "resolved",
+      "quote": "Ces radiofréquences sont soupçonnées de favoriser des tumeurs cérébrales",
+      "reason": "结合头颈专家段支持B，soupçonnées保留可能性，未宣称已证实；事实。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2013-ref-96",
+          "kind": "answer",
+          "originalLabel": "97",
+          "text": "<td>97</td>\n    <td>B</td>",
+          "evidence": [
+            {
+              "documentId": "tfs4-2013-answers-dd3370403f9e",
+              "page": 3,
+              "start": 5378,
+              "end": 5404,
+              "quote": "<td>97</td>\n    <td>B</td>"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2013-q098",
+      "oldPrimaryId": "obj-r-detail",
+      "proposedPrimaryId": "obj-r-detail",
+      "status": "resolved",
+      "quote": "le principe de précaution recommande un usage prudent des téléphones mobiles, soit un temps d'usage limité",
+      "reason": "限时使用直接支持C，题干等待结果不是问时间定位。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2013-ref-97",
+          "kind": "answer",
+          "originalLabel": "98",
+          "text": "<td>98</td>\n    <td>C</td>",
+          "evidence": [
+            {
+              "documentId": "tfs4-2013-answers-dd3370403f9e",
+              "page": 3,
+              "start": 5422,
+              "end": 5448,
+              "quote": "<td>98</td>\n    <td>C</td>"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2013-q099",
+      "oldPrimaryId": "obj-r-context",
+      "proposedPrimaryId": "obj-r-context",
+      "status": "resolved",
+      "quote": "utiliser un équipement piéton afin d'éloigner la source d'émission des endroits du corps qui pourraient être plus sensibles",
+      "reason": "结合mains libres解释免手持、远离耳部的设备，词义/功能解释优先普通事实。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2013-ref-98",
+          "kind": "answer",
+          "originalLabel": "99",
+          "text": "<td>99</td>\n    <td>D</td>",
+          "evidence": [
+            {
+              "documentId": "tfs4-2013-answers-dd3370403f9e",
+              "page": 3,
+              "start": 5466,
+              "end": 5492,
+              "quote": "<td>99</td>\n    <td>D</td>"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2013-q100",
+      "oldPrimaryId": "obj-r-exclusion",
+      "proposedPrimaryId": "obj-r-exclusion",
+      "status": "resolved",
+      "quote": "les populations qui pourraient être plus sensibles, comme les jeunes et les enfants.",
+      "reason": "A将青年更敏感改成已习惯；B可能风险、C预防措施、D通篇提醒均有据，否定信息排除。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2013-ref-99",
+          "kind": "answer",
+          "originalLabel": "100",
+          "text": "<td>100</td>\n    <td>A</td>",
+          "evidence": [
+            {
+              "documentId": "tfs4-2013-answers-dd3370403f9e",
+              "page": 3,
+              "start": 5510,
+              "end": 5537,
+              "quote": "<td>100</td>\n    <td>A</td>"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2023-q081",
+      "oldPrimaryId": "obj-r-main",
+      "proposedPrimaryId": "obj-r-cause",
+      "status": "resolved",
+      "quote": "de lancer une campagne de sensibilisation (宣传活动) contre les stéréotypes",
+      "reason": "问活动目的，反国籍偏见直接明确，非作者写作目的；沿用r01。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2023-ref-80",
+          "kind": "answer",
+          "originalLabel": "81",
+          "text": "81-85:ADBCA",
+          "evidence": [
+            {
+              "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+              "page": 1,
+              "start": 1021,
+              "end": 1032,
+              "quote": "81-85:ADBCA"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": true
+    },
+    {
+      "questionId": "tfs4-2023-q082",
+      "oldPrimaryId": "obj-r-detail",
+      "proposedPrimaryId": "obj-r-detail",
+      "status": "resolved",
+      "quote": "les femmes ne travaillent pas en Italie",
+      "reason": "题问被归给意大利人的刻板印象而非认可其真实性；D对应，事实。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2023-ref-81",
+          "kind": "answer",
+          "originalLabel": "82",
+          "text": "81-85:ADBCA",
+          "evidence": [
+            {
+              "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+              "page": 1,
+              "start": 1021,
+              "end": 1032,
+              "quote": "81-85:ADBCA"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2023-q083",
+      "oldPrimaryId": "obj-r-detail",
+      "proposedPrimaryId": "obj-r-detail",
+      "status": "resolved",
+      "quote": "on nous dit que les Français ont souvent l'air arrogants",
+      "reason": "B为报告他人偏见，不是作者判定法国人傲慢；事实定位。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2023-ref-82",
+          "kind": "answer",
+          "originalLabel": "83",
+          "text": "81-85:ADBCA",
+          "evidence": [
+            {
+              "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+              "page": 1,
+              "start": 1021,
+              "end": 1032,
+              "quote": "81-85:ADBCA"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2023-q084",
+      "oldPrimaryId": "obj-r-exclusion",
+      "proposedPrimaryId": "obj-r-exclusion",
+      "status": "resolved",
+      "quote": "les Japonais voyagent toujours en groupe",
+      "reason": "与pizza、女性不工作覆盖旅行饮食家庭，全文未列体育偏好；信息排除。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2023-ref-83",
+          "kind": "answer",
+          "originalLabel": "84",
+          "text": "81-85:ADBCA",
+          "evidence": [
+            {
+              "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+              "page": 1,
+              "start": 1021,
+              "end": 1032,
+              "quote": "81-85:ADBCA"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2023-q085",
+      "oldPrimaryId": "obj-r-detail",
+      "proposedPrimaryId": "obj-r-detail",
+      "status": "resolved",
+      "quote": "Nous allons animer un atelier pour casser toutes ces images.",
+      "reason": "与首段des débats合并支持A；问活动项目，不是目的。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2023-ref-84",
+          "kind": "answer",
+          "originalLabel": "85",
+          "text": "81-85:ADBCA",
+          "evidence": [
+            {
+              "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+              "page": 1,
+              "start": 1021,
+              "end": 1032,
+              "quote": "81-85:ADBCA"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2023-q086",
+      "oldPrimaryId": "obj-r-number",
+      "proposedPrimaryId": "obj-r-number",
+      "status": "resolved",
+      "quote": "un enfant sur cinq naissait en 2008 dans un foyer bilingue",
+      "reason": "1/5=20%，不选5个孩子或50%；数量比例。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2023-ref-85",
+          "kind": "answer",
+          "originalLabel": "86",
+          "text": "86-90:CBCBA",
+          "evidence": [
+            {
+              "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+              "page": 1,
+              "start": 1033,
+              "end": 1044,
+              "quote": "86-90:CBCBA"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2023-q087",
+      "oldPrimaryId": "obj-r-exclusion",
+      "proposedPrimaryId": "obj-r-time",
+      "status": "resolved",
+      "quote": "Vers deux mois, ils font des vocalises (练声), vers six mois du babillage (咿呀学语)",
+      "reason": "B把六个月babillage提前两个月，关键时间阶段，专门时间叶优先否定问法。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2023-ref-86",
+          "kind": "answer",
+          "originalLabel": "87",
+          "text": "86-90:CBCBA",
+          "evidence": [
+            {
+              "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+              "page": 1,
+              "start": 1033,
+              "end": 1044,
+              "quote": "86-90:CBCBA"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2023-q088",
+      "oldPrimaryId": "obj-r-number",
+      "proposedPrimaryId": "obj-r-number",
+      "status": "resolved",
+      "quote": "les 50 mots d'un bilingue sont répartis entre deux langues.",
+      "reason": "总共50分在两语言，非各50；数量修饰范围。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2023-ref-87",
+          "kind": "answer",
+          "originalLabel": "88",
+          "text": "86-90:CBCBA",
+          "evidence": [
+            {
+              "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+              "page": 1,
+              "start": 1033,
+              "end": 1044,
+              "quote": "86-90:CBCBA"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2023-q089",
+      "oldPrimaryId": "obj-r-cause",
+      "proposedPrimaryId": "obj-r-cause",
+      "status": "resolved",
+      "quote": "et plus vite il peut l'oublier s'il n'a plus de contact avec elle",
+      "reason": "明确断开接触易遗忘说明保姆一年无用，原因定位。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2023-ref-88",
+          "kind": "answer",
+          "originalLabel": "89",
+          "text": "86-90:CBCBA",
+          "evidence": [
+            {
+              "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+              "page": 1,
+              "start": 1033,
+              "end": 1044,
+              "quote": "86-90:CBCBA"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2023-q090",
+      "oldPrimaryId": "obj-r-detail",
+      "proposedPrimaryId": "obj-r-detail",
+      "status": "resolved",
+      "quote": "la société ne classe pas les langues de la même façon.",
+      "reason": "A直接改写；B是社会偏见不是文章认可，事实主体要对应。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2023-ref-89",
+          "kind": "answer",
+          "originalLabel": "90",
+          "text": "86-90:CBCBA",
+          "evidence": [
+            {
+              "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+              "page": 1,
+              "start": 1033,
+              "end": 1044,
+              "quote": "86-90:CBCBA"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2023-q091",
+      "oldPrimaryId": "obj-r-main",
+      "proposedPrimaryId": "obj-r-main",
+      "status": "resolved",
+      "quote": "mais la période a aussi apporté son lot de bonnes nouvelles !",
+      "reason": "全文阅读、减贫、航天、自然例证共同支持积极好消息主旨D。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2023-ref-90",
+          "kind": "answer",
+          "originalLabel": "91",
+          "text": "91-95:DCBAD",
+          "evidence": [
+            {
+              "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+              "page": 1,
+              "start": 1045,
+              "end": 1056,
+              "quote": "91-95:DCBAD"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2023-q092",
+      "oldPrimaryId": "obj-r-inference",
+      "proposedPrimaryId": "obj-r-inference",
+      "status": "resolved",
+      "quote": "Les confinements（封控）y sont sûrement pour quelque chose.",
+      "reason": "文本只说封控起作用，C闲暇增多是受限推断，不能当原文明说原因；其余降价网购焦虑无据。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2023-ref-91",
+          "kind": "answer",
+          "originalLabel": "92",
+          "text": "91-95:DCBAD",
+          "evidence": [
+            {
+              "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+              "page": 1,
+              "start": 1045,
+              "end": 1056,
+              "quote": "91-95:DCBAD"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2023-q093",
+      "oldPrimaryId": "obj-r-detail",
+      "proposedPrimaryId": "obj-r-cause",
+      "status": "resolved",
+      "quote": "est de réduire au maximum voire d'éliminer l'extrême pauvreté dans le monde",
+      "reason": "问ONU目标而非作者目的，明确目标句支持B；具体目的叶优先一般事实。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2023-ref-92",
+          "kind": "answer",
+          "originalLabel": "93",
+          "text": "91-95:DCBAD",
+          "evidence": [
+            {
+              "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+              "page": 1,
+              "start": 1045,
+              "end": 1056,
+              "quote": "91-95:DCBAD"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2023-q094",
+      "oldPrimaryId": "obj-r-detail",
+      "proposedPrimaryId": "obj-r-detail",
+      "status": "resolved",
+      "quote": "Quatre touristes spatiaux ont passé trois jours à bord de SpaceX.",
+      "reason": "支持A太空旅游事实；其他项错配太阳、火星、月球对象，不是数量比较。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2023-ref-93",
+          "kind": "answer",
+          "originalLabel": "94",
+          "text": "91-95:DCBAD",
+          "evidence": [
+            {
+              "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+              "page": 1,
+              "start": 1045,
+              "end": 1056,
+              "quote": "91-95:DCBAD"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2023-q095",
+      "oldPrimaryId": "obj-r-detail",
+      "proposedPrimaryId": null,
+      "status": "pending",
+      "quote": "Du jamais vu depuis la fin de la chasse commerciale !",
+      "reason": "fin未说明法律禁止；参考D的interdite不是必然蕴含，不能靠排除其余项补出，沿用r01 pending。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2023-ref-94",
+          "kind": "answer",
+          "originalLabel": "95",
+          "text": "91-95:DCBAD",
+          "evidence": [
+            {
+              "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+              "page": 1,
+              "start": 1045,
+              "end": 1056,
+              "quote": "91-95:DCBAD"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": true
+    },
+    {
+      "questionId": "tfs4-2023-q096",
+      "oldPrimaryId": "obj-r-context",
+      "proposedPrimaryId": "obj-r-context",
+      "status": "resolved",
+      "quote": "Votre ami ne fait pas référence ici à la qualité du papier, mais à la qualité des informations qu'on y trouve.",
+      "reason": "feuille de chou的资讯质量贬义定义支持A，非纸张质量；语境词义。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2023-ref-95",
+          "kind": "answer",
+          "originalLabel": "96",
+          "text": "96-100:ACADC",
+          "evidence": [
+            {
+              "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+              "page": 1,
+              "start": 1057,
+              "end": 1069,
+              "quote": "96-100:ACADC"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2023-q097",
+      "oldPrimaryId": "obj-r-detail",
+      "proposedPrimaryId": "obj-r-detail",
+      "status": "resolved",
+      "quote": "le chou, légume commun et bon marché",
+      "reason": "C直接事实，XIX世纪是背景而非待求时间；不因chou一词归词义。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2023-ref-96",
+          "kind": "answer",
+          "originalLabel": "97",
+          "text": "96-100:ACADC",
+          "evidence": [
+            {
+              "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+              "page": 1,
+              "start": 1057,
+              "end": 1069,
+              "quote": "96-100:ACADC"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2023-q098",
+      "oldPrimaryId": "obj-r-detail",
+      "proposedPrimaryId": "obj-r-context",
+      "status": "resolved",
+      "quote": "Au XVIIIe siècle, on appelait « canard » les fausses nouvelles propagées par la presse",
+      "reason": "题问历史词义而非日期；沿用r01语境术语裁决。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2023-ref-97",
+          "kind": "answer",
+          "originalLabel": "98",
+          "text": "96-100:ACADC",
+          "evidence": [
+            {
+              "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+              "page": 1,
+              "start": 1057,
+              "end": 1069,
+              "quote": "96-100:ACADC"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": true
+    },
+    {
+      "questionId": "tfs4-2023-q099",
+      "oldPrimaryId": "obj-r-detail",
+      "proposedPrimaryId": "obj-r-detail",
+      "status": "resolved",
+      "quote": "Symbole d'une presse indépendante, ce journal hebdomadaire revendique une certaine liberté d'expression",
+      "reason": "D对特定报纸性质的事实，不能把通名canard旧义套到专名。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2023-ref-98",
+          "kind": "answer",
+          "originalLabel": "99",
+          "text": "96-100:ACADC",
+          "evidence": [
+            {
+              "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+              "page": 1,
+              "start": 1057,
+              "end": 1069,
+              "quote": "96-100:ACADC"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    },
+    {
+      "questionId": "tfs4-2023-q100",
+      "oldPrimaryId": "obj-r-context",
+      "proposedPrimaryId": null,
+      "status": "pending",
+      "quote": "l'« ours » désigne l'encadré (方框) où sont mentionnés les noms de toutes les personnes qui ont participé à la publication.",
+      "reason": "参考C整团队仅在英语词源ours=les nôtres的解释出现，法语行话实际指署名栏；不能将词源对象直接等同术语定义，语境词义候选pending。",
+      "referenceEvidence": [
+        {
+          "id": "tfs4-2023-ref-99",
+          "kind": "answer",
+          "originalLabel": "100",
+          "text": "96-100:ACADC",
+          "evidence": [
+            {
+              "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+              "page": 1,
+              "start": 1057,
+              "end": 1069,
+              "quote": "96-100:ACADC"
+            }
+          ]
+        }
+      ],
+      "priorAdjudication": false
+    }
+  ]
+}

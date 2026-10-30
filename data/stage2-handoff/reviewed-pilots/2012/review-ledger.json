@@ -1,0 +1,4433 @@
+{
+  "year": 2012,
+  "method": "authored_MD_internal_review",
+  "reviewer": "Codex",
+  "pdfVisualReview": false,
+  "sourceCandidateSha256": "b7dae4935a9228b62392848e0261e2409cf69d5c9c9b6fe4d93e94f79a3fb4b9",
+  "outputSha256": "912908a43300f93016c1f29296528e49f4632bef19f162667a96235ca78de759",
+  "paperVersion": 3,
+  "sourceDocuments": [
+    {
+      "id": "tfs4-2012-answers-24e43da16ed6",
+      "sha256": "24e43da16ed6487cdfac68f67ea5a9657c95002dffa08937a60b390c10a7b44e",
+      "pages": 3
+    },
+    {
+      "id": "tfs4-2012-paper-3b0d3411e6fb",
+      "sha256": "3b0d3411e6fbc67be71bfee6642e1a0f817eb64f867566c50eead237b9a680e5",
+      "pages": 17
+    }
+  ],
+  "allItemsReviewed": true,
+  "allItemsUsable": false,
+  "decisions": [
+    {
+      "questionId": "tfs4-2012-q001",
+      "version": 2,
+      "originalLabel": "1",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 2,
+          "start": 1076,
+          "end": 1163,
+          "quote": "\n1. Où sont-ils ?\n\n   A. Dans un magasin.\n   B. Dans un restaurant.\n   C. Dans la rue.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q002",
+      "version": 2,
+      "originalLabel": "2",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 2,
+          "start": 1163,
+          "end": 1372,
+          "quote": "\n2. Qu'est-ce que « vous » devez faire ?\n\n   A. Raccrocher le téléphone et attendre.\n   B. Raccrocher le téléphone, vérifier et composer le bon numéro.\n   C. Raccrocher le téléphone et refaire le même numéro.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q003",
+      "version": 2,
+      "originalLabel": "3",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 2,
+          "start": 1372,
+          "end": 1553,
+          "quote": "\n3. Pourquoi Sophie ne viendra-t-elle pas à la soirée ?\n\n   A. Parce qu'elle est à Paris.\n   B. Parce qu'elle doit préparer son voyage.\n   C. Parce qu'elle n'aime pas faire la fête."
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q004",
+      "version": 2,
+      "originalLabel": "4",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 3,
+          "start": 0,
+          "end": 133,
+          "quote": "4. Que veut dire l'homme ?\nA. Il cuisine pour sa famille.\nB. Il travaille avec ses parents.\nC. Il vient d'une famille de pâtissiers.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q005",
+      "version": 2,
+      "originalLabel": "5",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 3,
+          "start": 133,
+          "end": 292,
+          "quote": "\n5. Comment va répondre la vendeuse ?\nA. Je vous apporte la taille au-dessus.\nB. Les caisses sont au fond du magasin.\nC. Je vous apporte la taille au-dessous.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q006",
+      "version": 2,
+      "originalLabel": "6",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 3,
+          "start": 292,
+          "end": 458,
+          "quote": "\n6. Pourquoi les voyageurs sont-ils obligés de quitter le **train** ?\nA. C'est la <u>fin</u> du parcours.\nB. Il y a une panne générale.\nC. Un accident s'est produit.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q007",
+      "version": 2,
+      "originalLabel": "7",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 3,
+          "start": 458,
+          "end": 566,
+          "quote": "\n7. Que propose la femme à son mari ?\nA. Aller au cinéma.\nB. Aller au théâtre.\nC. Aller écouter un concert.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q008",
+      "version": 2,
+      "originalLabel": "8",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 3,
+          "start": 566,
+          "end": 727,
+          "quote": "\n8. Pourquoi Jacques a-t-il **téléphoné à Hélène** ?\nA. Pour lui conseiller un **spectacle**.\nB. Pour lui présenter un ami.\nC. Pour lui conseiller un **livre**.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q009",
+      "version": 2,
+      "originalLabel": "9",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 3,
+          "start": 727,
+          "end": 866,
+          "quote": "\n9. Que se passe-t-il ?\nA. Il y a une **erreur** dans l'addition.\nB. Les clients attendent deux menus.\nC. Le serveur a oublié la commande.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q010",
+      "version": 2,
+      "originalLabel": "10",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 3,
+          "start": 866,
+          "end": 1055,
+          "quote": "\n10. Quel problème est-ce que Luc a rencontré pour s'inscrire au Club ?\nA. Il lui manque sa carte d'étudiant.\nB. Le club de sport est fermé le lundi.\nC. Son dossier d'inscription est perdu."
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q011",
+      "version": 2,
+      "originalLabel": "11",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 4,
+          "start": 440,
+          "end": 616,
+          "quote": "\n11. Le phénomène des couples non mariés se trouve _______.\n    A. seulement chez les jeunes\n    B. seulement dans de grandes villes\n    C. dans toutes les catégories sociales\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q012",
+      "version": 2,
+      "originalLabel": "12",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 4,
+          "start": 616,
+          "end": 774,
+          "quote": "\n12. En France, actuellement _______.\n    A. un couple sur huit est marié\n    B. sept couples sur huit sont mariés\n    C. un couple sur trente-cinq est marié\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q013",
+      "version": 2,
+      "originalLabel": "13",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 4,
+          "start": 774,
+          "end": 900,
+          "quote": "\n13. Au lendemain de la Seconde Guerre mondiale, le taux de divorce en France est de _______.\n    A. 90%\n    B. 10%\n    C. 3%\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q014",
+      "version": 2,
+      "originalLabel": "14",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 4,
+          "start": 900,
+          "end": 1069,
+          "quote": "\n14. Qu'est-ce qui ne fait pas partie de la conséquence du divorce ?\n    A. Des familles monoparentales.\n    B. Des familles recomposées.\n    C. Des couples non mariés.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q015",
+      "version": 2,
+      "originalLabel": "15",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 4,
+          "start": 1069,
+          "end": 1242,
+          "quote": "\n15. Aujourd'hui, les couples non mariés sont _______.\n    A. acceptés par tout le monde\n    B. plus nombreux que les couples mariés\n    C. mal vus par 30% de la population\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q016",
+      "version": 2,
+      "originalLabel": "16",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 4,
+          "start": 1242,
+          "end": 1376,
+          "quote": "\n16. Parmi les jeunes, ce sont _______ qui apprécient le plus la cohabitation.\n    A. les hommes\n    B. les femmes\n    C. les salariés"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q017",
+      "version": 2,
+      "originalLabel": "17",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 5,
+          "start": 0,
+          "end": 261,
+          "quote": "17. Pourquoi les jeunes femmes préfèrent-elles vivre avec un homme sans se marier ?\nA. Parce qu'elles ne veulent pas avoir d'enfants.\nB. Parce qu'elles sont mieux acceptées que les femmes mariées.\nC. Parce que cela signifie l'égalité des deux sexes pour elles.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q018",
+      "version": 2,
+      "originalLabel": "18",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 5,
+          "start": 261,
+          "end": 473,
+          "quote": "\n18. Quel modèle de couple correspond à la majorité des Français ?\nA. Le couple où l'homme et la femme travaillent tous les deux.\nB. Le couple où seul l'homme travaille.\nC. Le couple où seule la femme travaille.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q019",
+      "version": 2,
+      "originalLabel": "19",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 5,
+          "start": 473,
+          "end": 640,
+          "quote": "\n19. Selon la tradition, qu'est-ce qui est considéré comme une tâche indispensable de la femme ?\nA. Faire le ménage.\nB. Exercer une profession.\nC. Gagner de l'argent.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q020",
+      "version": 2,
+      "originalLabel": "20",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 5,
+          "start": 640,
+          "end": 864,
+          "quote": "\n20. D'après le dialogue, les hommes d'aujourd'hui ________.\nA. travaillent plus que les femmes au foyer\nB. préfèrent s'occuper des enfants plutôt que de faire les courses\nC. partagent de plus en plus les travaux domestiques"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q021",
+      "version": 2,
+      "originalLabel": "21",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 5,
+          "start": 1113,
+          "end": 1238,
+          "quote": "\n21. Elle viendra <u>forcément</u> ce soir, elle me l'a promis.\nA. sûrement B. inévitablement C. fatalement D. naturellement\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q022",
+      "version": 2,
+      "originalLabel": "22",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 5,
+          "start": 1238,
+          "end": 1342,
+          "quote": "\n22. Après avoir reçu la lettre, elle a le <u>cœur gros</u>.\nA. énorme B. soucieux C. triste D. inquiet\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q023",
+      "version": 2,
+      "originalLabel": "23",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 5,
+          "start": 1342,
+          "end": 1508,
+          "quote": "\n23. Les villes, aidées par l'État, cherchent à <u>favoriser</u> l'usage de modes de déplacement plus écologiques.\nA. rassurer B. encourager C. maintenir D. envisager"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q024",
+      "version": 2,
+      "originalLabel": "24",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 6,
+          "start": 0,
+          "end": 92,
+          "quote": "24. Il a su <u>dominer</u> sa colère.\n    A. surpasser B. dépasser C. étouffer D. maîtriser\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q025",
+      "version": 2,
+      "originalLabel": "25",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 6,
+          "start": 92,
+          "end": 217,
+          "quote": "\n25. La vie est très chère à Paris, je dois <u>épargner</u> le moindre sou.\n    A. économiser B. gagner C. garder D. dépenser"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q026",
+      "version": 2,
+      "originalLabel": "26",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 6,
+          "start": 339,
+          "end": 458,
+          "quote": "\n26. Si tu veux garder ta belle ligne, il vaut mieux ne pas manger <u>gras</u>.\n    A. léger B. maigre C. mince D. fin\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q027",
+      "version": 2,
+      "originalLabel": "27",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 6,
+          "start": 458,
+          "end": 569,
+          "quote": "\n27. Nous avons <u>allumé</u> la lampe en appuyant sur ce bouton.\n    A. atteint B. éteint C. déteint D. teint\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q028",
+      "version": 2,
+      "originalLabel": "28",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 6,
+          "start": 569,
+          "end": 676,
+          "quote": "\n28. Ce pain est trop <u>dur</u>, quand est-ce que tu l'as acheté ?\n    A. tendre B. mou C. doux D. souple\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q029",
+      "version": 2,
+      "originalLabel": "29",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 6,
+          "start": 676,
+          "end": 782,
+          "quote": "\n29. C'est un lac <u>artificiel</u>, mais je l'aime bien.\n    A. réel B. naturel C. véritable D. original\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q030",
+      "version": 2,
+      "originalLabel": "30",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 6,
+          "start": 782,
+          "end": 932,
+          "quote": "\n30. La petite fille était <u>ravie</u> d'avoir eu l'occasion de visiter l'Exposition universelle.\n    A. ennuyeuse B. ennuyée C. étonnée D. étonnante"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q031",
+      "version": 2,
+      "originalLabel": "31",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 0,
+          "end": 36,
+          "quote": "31. A. santé B. âge C. rêve D. pire\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q032",
+      "version": 2,
+      "originalLabel": "32",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 36,
+          "end": 79,
+          "quote": "32. A. moyen B. occasion C. accès D. envie\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q033",
+      "version": 2,
+      "originalLabel": "33",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 79,
+          "end": 123,
+          "quote": "33. A. filles B. garçons C. aînés D. cadets\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q034",
+      "version": 2,
+      "originalLabel": "34",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 123,
+          "end": 171,
+          "quote": "34. A. impact B. influence C. effet D. réaction\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q035",
+      "version": 2,
+      "originalLabel": "35",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 171,
+          "end": 239,
+          "quote": "35. A. immigrations B. pollutions C. séparations D. discriminations\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q036",
+      "version": 2,
+      "originalLabel": "36",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 239,
+          "end": 286,
+          "quote": "36. A. Au-delà de B. À côté de C. Avec D. Sauf\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q037",
+      "version": 2,
+      "originalLabel": "37",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 286,
+          "end": 329,
+          "quote": "37. A. devoir B. droite C. droit D. destin\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q038",
+      "version": 2,
+      "originalLabel": "38",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 329,
+          "end": 381,
+          "quote": "38. A. interdire B. interdit C. défendre D. défendu\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q039",
+      "version": 2,
+      "originalLabel": "39",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 381,
+          "end": 427,
+          "quote": "39. A. gagne B. compte C. contient D. possède\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q040",
+      "version": 2,
+      "originalLabel": "40",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 427,
+          "end": 479,
+          "quote": "40. A. gouvernée B. attachée C. maîtrisée D. dominée"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q041",
+      "version": 2,
+      "originalLabel": "41",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 614,
+          "end": 706,
+          "quote": "\n41. \\_\\_\\_\\_\\_\\_\\_ de ces deux robes me va mieux ?\nA. Quelle B. Quel C. Laquelle D. Lequel\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q042",
+      "version": 2,
+      "originalLabel": "42",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 706,
+          "end": 826,
+          "quote": "\n42. Elle \\_\\_\\_\\_\\_\\_\\_ les mains avant de passer à table.\nA. s'est lavé B. s'est lavée C. s'est lavés D. s'est lavées\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q043",
+      "version": 2,
+      "originalLabel": "43",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 826,
+          "end": 958,
+          "quote": "\n43. Comme il ne parle pas français, je lui sers \\_\\_\\_\\_\\_\\_\\_.\nA. interprète B. d'interprète C. en interprète D. comme interprète\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q044",
+      "version": 2,
+      "originalLabel": "44",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 958,
+          "end": 1084,
+          "quote": "\n44. \\_\\_\\_\\_\\_\\_\\_ on disc dans les journaux, je trouve ce film très poétique.\nA. Quel qu' B. Quoi qu' C. Quoiqu' D. Qui qu'\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [
+        {
+          "id": "md-review-122",
+          "questionId": "tfs4-2012-q044",
+          "code": "SOURCE_CHARACTER_UNCERTAIN",
+          "severity": "blocking",
+          "status": "open",
+          "message": "MD为disc，疑似dise；无第二来源，不改字"
+        }
+      ],
+      "status": "reviewed_source_blocked"
+    },
+    {
+      "questionId": "tfs4-2012-q045",
+      "version": 2,
+      "originalLabel": "45",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 1084,
+          "end": 1212,
+          "quote": "\n45. Tu t'occupes de tes affaires, laisse-moi m'occuper \\_\\_\\_\\_\\_\\_\\_.\nA. les miens B. les miennes C. des miens D. des miennes\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q046",
+      "version": 2,
+      "originalLabel": "46",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 1212,
+          "end": 1291,
+          "quote": "\n46. Je préfère le jus de pomme \\_\\_\\_\\_\\_\\_\\_ coca.\nA. à B. au C. que D. à la\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q047",
+      "version": 2,
+      "originalLabel": "47",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 1291,
+          "end": 1396,
+          "quote": "\n47. Dès qu'il \\_\\_\\_\\_\\_\\_\\_ de manger, il alla à l'école.\nA. finit B. a fini C. eut fini D. avait fini\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q048",
+      "version": 2,
+      "originalLabel": "48",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 1396,
+          "end": 1482,
+          "quote": "\n48. C'est un \\_\\_\\_\\_\\_\\_\\_ ami de mon père.\nA. vieux B. vieille C. vieille D. vieil\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [
+        {
+          "id": "md-review-123",
+          "questionId": "tfs4-2012-q048",
+          "code": "SOURCE_DUPLICATE_OPTION_TEXT",
+          "severity": "blocking",
+          "status": "open",
+          "message": "MD中B/C均为vieille，保留原文；不能猜补变体"
+        }
+      ],
+      "status": "reviewed_source_blocked"
+    },
+    {
+      "questionId": "tfs4-2012-q049",
+      "version": 2,
+      "originalLabel": "49",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 1482,
+          "end": 1559,
+          "quote": "\n49. \\_\\_\\_\\_\\_\\_\\_ est bien qui finit bien.\nA. Tout B. Rien C. Ce qui D. Nul"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q050",
+      "version": 2,
+      "originalLabel": "50",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 0,
+          "end": 103,
+          "quote": "50. Attendez-moi s'il vous plaît, je n'en ai que ______ deux minutes.\nA. pendant\nB. dans\nC. en\nD. pour\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q051",
+      "version": 2,
+      "originalLabel": "51",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "删除第二行重复的vous désirez；将其下划线移至同一句中已有短语，原始行证据保留"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 103,
+          "end": 254,
+          "quote": "\n51. _______ vous désirez vous entretenir avec moi, nous serons mieux dans mon bureau.\n<u>vous désirez</u>\nA. Puisque\nB. Pourtant\nC. Parce que\nD. Donc\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q052",
+      "version": 2,
+      "originalLabel": "52",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 254,
+          "end": 370,
+          "quote": "\n52. Je viendrai te voir à la campagne dès que _______ terminé mon travail.\nA. j'ai\nB. j'aurai\nC. j'aurais\nD. j'eus\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q053",
+      "version": 2,
+      "originalLabel": "53",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 370,
+          "end": 465,
+          "quote": "\n53. Je tiens _______ vous raccompagner chez vous, la nuit tombe déjà.\nA. de\nB. à\nC. pour\nD. /\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q054",
+      "version": 2,
+      "originalLabel": "54",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 465,
+          "end": 539,
+          "quote": "\n54. Enfin _______ voilà, nos invités étrangers.\nA. le\nB. la\nC. les\nD. en\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q055",
+      "version": 2,
+      "originalLabel": "55",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 539,
+          "end": 671,
+          "quote": "\n55. Cette question, tu peux _______ poser tout à l'heure ? Il n'a pas encore fini son repas.\nA. la lui\nB. le lui\nC. lui y\nD. me la\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q056",
+      "version": 2,
+      "originalLabel": "56",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 671,
+          "end": 812,
+          "quote": "\n56. Le T.G.V., mis _______ service dès le début des années 80, est un moyen de transport rapide et confortable.\nA. à\nB. au\nC. en\nD. dans le\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q057",
+      "version": 2,
+      "originalLabel": "57",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 812,
+          "end": 913,
+          "quote": "\n57. Après dix ans d'effort, il a fini _______ réaliser son rêve d'enfant.\nA. à\nB. pour\nC. par\nD. de\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q058",
+      "version": 2,
+      "originalLabel": "58",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 913,
+          "end": 1030,
+          "quote": "\n58. Quand ma sœur était à Paris l'été dernier, maman _______ téléphonait tous les jours.\nA. le\nB. la\nC. lui\nD. elle\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q059",
+      "version": 2,
+      "originalLabel": "59",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 1030,
+          "end": 1132,
+          "quote": "\n59. On n'est jamais si bien servi que par _______.\nA. lui même\nB. lui-même\nC. soi-même\nD. nous-mêmes\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q060",
+      "version": 2,
+      "originalLabel": "60",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 1132,
+          "end": 1227,
+          "quote": "\n60. Il faut savoir distinguer le vrai _______ faux.\nA. avec le\nB. du\nC. entre le\nD. contre le\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q061",
+      "version": 2,
+      "originalLabel": "61",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 1227,
+          "end": 1314,
+          "quote": "\n61. Elle me soigne comme si elle _______ ma maman.\nA. est\nB. était\nC. serait\nD. a été\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q062",
+      "version": 2,
+      "originalLabel": "62",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 8,
+          "start": 1314,
+          "end": 1395,
+          "quote": "\n62. J'ai acheté des cerises à 7 euros _______ kilo.\nA. un\nB. chaque\nC. le\nD. par"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q063",
+      "version": 2,
+      "originalLabel": "63",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 0,
+          "end": 85,
+          "quote": "63. Ces voitures importées coûtent très _______.\nA. cher\nB. chers\nC. chère\nD. chères\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q064",
+      "version": 2,
+      "originalLabel": "64",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 85,
+          "end": 218,
+          "quote": "\n64. Il a donné la plupart de ses _______ au musée de la région.\nA. chef-d'œuvre\nB. chefs-d'œuvre\nC. chefs-d'œuvres\nD. chef-d'œuvres\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q065",
+      "version": 2,
+      "originalLabel": "65",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 218,
+          "end": 316,
+          "quote": "\n65. J'aime bien ces assiettes _______.\nA. bleue ciel\nB. bleues ciel\nC. bleu ciel\nD. bleues ciels\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q066",
+      "version": 2,
+      "originalLabel": "66",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 316,
+          "end": 420,
+          "quote": "\n66. Après 3 heures de marche à pied, elle est _______.\nA. fatigante\nB. fatigant\nC. fatiguée\nD. fatigué\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q067",
+      "version": 2,
+      "originalLabel": "67",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 420,
+          "end": 560,
+          "quote": "\n67. Il n'a pas pu acheter un appartement en ville, malgré les économies qu'il _______.\nA. a fait\nB. a faites\nC. avait fait\nD. avait faites\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q068",
+      "version": 2,
+      "originalLabel": "68",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 560,
+          "end": 690,
+          "quote": "\n68. Elle parle lentement <u>les</u> étudiants puissent la comprendre.\nA. pour que\nB. de peur que\nC. au cas où\nD. à condition que\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [
+        {
+          "id": "md-review-124",
+          "questionId": "tfs4-2012-q068",
+          "code": "SOURCE_BLANK_MISSING",
+          "severity": "blocking",
+          "status": "open",
+          "message": "MD题干为Elle parle lentement les étudiants...；未给出明确填空位，不从答案反造"
+        }
+      ],
+      "status": "reviewed_source_blocked"
+    },
+    {
+      "questionId": "tfs4-2012-q069",
+      "version": 2,
+      "originalLabel": "69",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 690,
+          "end": 801,
+          "quote": "\n69. Il s'excuse de ne pas vous _______ de son absence.\nA. prévenir\nB. avoir prévenu\nC. prévoir\nD. avoir prévu\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q070",
+      "version": 2,
+      "originalLabel": "70",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 801,
+          "end": 907,
+          "quote": "\n70. Je suis très heureuse que tu _______ voir mon exposition.\nA. viens\nB. viendras\nC. es venu\nD. viennes\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q071",
+      "version": 2,
+      "originalLabel": "71",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 907,
+          "end": 1003,
+          "quote": "\n71. Ni ton frère ni moi ne _______ ton avis.\nA. partage\nB. partagent\nC. partageons\nD. partagez\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q072",
+      "version": 2,
+      "originalLabel": "72",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 1003,
+          "end": 1082,
+          "quote": "\n72. Je rentre avant qu'il ne _______ nuit.\nA. fait\nB. fera\nC. fasse\nD. ferait\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q073",
+      "version": 2,
+      "originalLabel": "73",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 1082,
+          "end": 1191,
+          "quote": "\n73. Quand elle était petite, elle _______ chaque été chez sa tante.\nA. est allée\nB. allait\nC. irait\nD. alla\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q074",
+      "version": 2,
+      "originalLabel": "74",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 1191,
+          "end": 1285,
+          "quote": "\n74. J'espère que tu _______ ton examen.\nA. réussis\nB. réussisses\nC. réussiras\nD. aies réussi\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q075",
+      "version": 2,
+      "originalLabel": "75",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 9,
+          "start": 1285,
+          "end": 1368,
+          "quote": "\n75. C'est _______ qu'on apprend à nager.\nA. nagé\nB. nageant\nC. en nageant\nD. nager"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q076",
+      "version": 2,
+      "originalLabel": "76",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 0,
+          "end": 118,
+          "quote": "76. Il est trop petit ______ on le laisse voyager tout seul.\nA. de sorte qu' B. pour qu' C. si bien qu' D. de sorte à\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q077",
+      "version": 2,
+      "originalLabel": "77",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 118,
+          "end": 221,
+          "quote": "\n77. Pourriez-vous me donner les informations ______ j'ai besoin ?\nA. que B. qui C. dont D. auxquelles\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q078",
+      "version": 2,
+      "originalLabel": "78",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 221,
+          "end": 313,
+          "quote": "\n78. ______ de café, nous buvons du thé vert.\nA. À moins B. À défaut C. À manque D. À faute\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q079",
+      "version": 2,
+      "originalLabel": "79",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 313,
+          "end": 408,
+          "quote": "\n79. Cet accident est ______ son imprudence.\nA. dû à B. à cause de C. grâce à D. à la suite de\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q080",
+      "version": 2,
+      "originalLabel": "80",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 408,
+          "end": 537,
+          "quote": "\n80. Il arrivera demain matin ______ il n'ait un incident imprévu.\nA. sauf si B. de crainte qu' C. à moins qu' D. à condition qu'"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q081",
+      "version": 2,
+      "originalLabel": "81",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 11,
+          "start": 1170,
+          "end": 1312,
+          "quote": "\n**81.** D'après le texte, Murray Rudd a fait une enquête __________.\n\nA. au Canada\nB. à l'Université de New York\nC. sur Internet\nD. en Chine\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q082",
+      "version": 2,
+      "originalLabel": "82",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 11,
+          "start": 1312,
+          "end": 1454,
+          "quote": "\n**82.** Parmi les 583 spécialistes, ________ d'entre eux s'inquiètent d'une perte de la biodiversité.\n\nA. 100%\nB. presque 100%\nC. 60%\nD. 40%\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q083",
+      "version": 2,
+      "originalLabel": "83",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 11,
+          "start": 1454,
+          "end": 1601,
+          "quote": "\n**83.** ________ d'entre eux s'opposent à l'idée d'établir des critères pour la sauvegarde de la biodiversité.\n\nA. Tous\nB. Beaucoup\nC. 40%\nD. 60%\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q084",
+      "version": 2,
+      "originalLabel": "84",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 11,
+          "start": 1601,
+          "end": 1791,
+          "quote": "\n**84.** Si l'on fait un choix utilitaire, on va protéger __________.\n\nA. le panda et l'abeille\nB. l'ours blanc et le ver de terre\nC. le panda et l'ours blanc\nD. l'abeille et le ver de terre"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q085",
+      "version": 2,
+      "originalLabel": "85",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 12,
+          "start": 0,
+          "end": 195,
+          "quote": "85. Pourquoi les Chinois adorent-ils le panda ?\n\nA. Parce qu'il est charmant.\nB. Parce qu'il mange des bambous.\nC. Parce qu'il ne fait rien.\nD. Parce qu'il rend service à l'homme comme l'abeille."
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q086",
+      "version": 2,
+      "originalLabel": "86",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 12,
+          "start": 1657,
+          "end": 1875,
+          "quote": "\n86. Qui est Hergé ?\n\nA. Hergé est un dessinateur de bandes dessinées français.\nB. Hergé est un dessinateur de bandes dessinées belge.\nC. Hergé est un metteur en scène français.\nD. Hergé est un metteur en scène belge.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q087",
+      "version": 2,
+      "originalLabel": "87",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 12,
+          "start": 1875,
+          "end": 2040,
+          "quote": "\n87. Quand Hergé a-t-il rencontré Tchang pour la première fois ?\n\nA. Dans les années 1930.\nB. Dans les années 1940.\nC. Dans les années 1970.\nD. Dans les années 1980."
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q088",
+      "version": 2,
+      "originalLabel": "88",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 13,
+          "start": 0,
+          "end": 249,
+          "quote": "88. Une fois le contact repris, Hergé a envoyé ______ à son ami chinois.\n\nA. des lettres\nB. des lettres, *Le Lotus bleu* et *Tintin au Tibet*\nC. *Le Lotus bleu* et *Tintin au Tibet*\nD. des lettres, *Le Lotus bleu*, *Tintin au Tibet* et *Moi Tintin*\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q089",
+      "version": 2,
+      "originalLabel": "89",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 13,
+          "start": 249,
+          "end": 368,
+          "quote": "\n89. En quelle année Hergé a-t-il enfin revu son ami chinois Tchang ?\n\nA. En 1976.\nB. En 1979.\nC. En 1981.\nD. En 1983.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q090",
+      "version": 2,
+      "originalLabel": "90",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 13,
+          "start": 368,
+          "end": 503,
+          "quote": "\n90. Quand est-ce que Hergé nous a quittés pour toujours ?\n\nA. En 1979.\nB. En 1981.\nC. En 1983.\nD. On ne l'a pas précisé dans ce texte."
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q091",
+      "version": 2,
+      "originalLabel": "91",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 14,
+          "start": 0,
+          "end": 224,
+          "quote": "91. Le vieillissement est un phénomène _______.\n\nA. qui existe surtout dans des pays développés\nB. qui existe surtout dans des pays en voie de développement\nC. qui existe surtout en ville\nD. qui existe partout dans le monde\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q092",
+      "version": 2,
+      "originalLabel": "92",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 14,
+          "start": 224,
+          "end": 340,
+          "quote": "\n92. En 2007, _______ de la population mondiale habite en ville.\n\nA. 80%\nB. plus de 50%\nC. plus de 60%\nD. la moitié\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q093",
+      "version": 2,
+      "originalLabel": "93",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 14,
+          "start": 340,
+          "end": 539,
+          "quote": "\n93. En 2005, l'espérance de vie dépasse 80 ans _______.\n\nA. seulement au Japon\nB. seulement en France\nC. au Japon et en France\nD. au Japon, en France, au Chili, en Jamaïque, au Liban et à Sri Lanka\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q094",
+      "version": 2,
+      "originalLabel": "94",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 14,
+          "start": 539,
+          "end": 649,
+          "quote": "\n94. _______ détient le record mondial d'espérance de vie.\n\nA. La France\nB. Le Japon\nC. Le Chili\nD. Sri Lanka\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q095",
+      "version": 2,
+      "originalLabel": "95",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 14,
+          "start": 649,
+          "end": 1008,
+          "quote": "\n95. Selon le texte, quelle affirmation est vraie ?\n\nA. En général, les deux dernières années de la vie sont les **plus coûteuses d'un point de vue santé**.\nB. Plus on vieillit, moins on vit heureux.\nC. Si l'on arrête de fumer entre 60 ans et 75 ans, c'est **déjà trop tard**.\nD. Si l'on arrête de fumer entre 60 ans et 75 ans, on ne mourra **pas prématuré**."
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q096",
+      "version": 2,
+      "originalLabel": "96",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 15,
+          "start": 1593,
+          "end": 1763,
+          "quote": "\n96. Laquelle des appellations ci-dessous n'est pas l'équivalent de l'e-book ?\n\nA. Le livre électronique.\nB. Le livre numérique.\nC. Le livre virtuel.\nD. Le livre papier.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q097",
+      "version": 2,
+      "originalLabel": "97",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 15,
+          "start": 1763,
+          "end": 2006,
+          "quote": "\n97. Dès l'apparition de l'Internet, on prédit qu'il va causer <u>________</u>,\n\nA. seulement la mort des journaux\nB. seulement la mort de la radio\nC. seulement la mort de la télévision\nD. la mort des journaux, de la radio et de la télévision\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q098",
+      "version": 2,
+      "originalLabel": "98",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 15,
+          "start": 2006,
+          "end": 2177,
+          "quote": "\n98. Lequel des éléments ci-dessous n'indique pas la différence entre le livre électronique et le livre papier ?\n\nA. Le toucher.\nB. Le parfum.\nC. Le contenu.\nD. La forme.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q099",
+      "version": 2,
+      "originalLabel": "99",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 15,
+          "start": 2177,
+          "end": 2321,
+          "quote": "\n99. Lequel des avantages du livre électronique n'a pas été cité dans ce texte ?\n\nA. Il possède une mémoire renouvelable.\n\nCS 扫描全能王\n3亿人都在用的扫描App"
+        },
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 16,
+          "start": 0,
+          "end": 179,
+          "quote": "B. Il facilite la prise et l'organisation des notes.\nC. Il facilite la recherche d'occurrences de mots et d'expressions.\nD. Il facilite la consultation d'un dictionnaire interne.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-q100",
+      "version": 2,
+      "originalLabel": "100",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 16,
+          "start": 179,
+          "end": 397,
+          "quote": "\n**100.** *Quelle réponse ne fait pas partie des avantages des éditions en ligne ?*\n\nA. Pas de stocks.\n**B. Économiser sur le coût de transport.**\nC. Elles sont toutes gratuites.\nD. Économiser sur le papier et l'encre."
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-task-I",
+      "version": 2,
+      "originalLabel": "Part I",
+      "responseType": "dictation",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "核对试卷说明、词汇与数字书写要求，并将答案页听写参考独立映射"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 2,
+          "start": 0,
+          "end": 583,
+          "quote": "# **PARTIE I : Dictée (10 points)**\n\n*Dans cette partie, vous entendrez un texte. Il sera lu quatre fois (le commencement sera signalé par un bip sonore) : pour la première fois, vous n'avez qu'à l'écouter ; pour la deuxième et la troisième fois, vous écrivez le texte en l'écoutant et pour la quatrième fois, vous écoutez le texte pour vérifier votre transcription.*\n\n*Après la dictée, vous avez trois minutes pour relire votre texte.*\n\n**Maintenant, écoutez.**\n\n## **Vocabulaire :**\n\nhomogénéité *n.f.* 一致 uniforme *adj.* 同样的 architecte *n.* 建筑师\n\n注：数字表达请用字母拼写，如： deuxième, trente\n\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-task-VII",
+      "version": 2,
+      "originalLabel": "Part VII",
+      "responseType": "writing",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "主文与脚注两个任务版本并存；原脚注十词要求完整保留；范文只关联picture-version，不默认为唯一原题"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 16,
+          "start": 399,
+          "end": 1718,
+          "quote": "**PARTIE VII : Expression écrite (15 points)**\n\n*D'après les dessins ci-dessous, rédigez un texte de 150 à 200 mots avec un titre qui lui convient. Indiquez à la fin le nombre des mots que vous **avez employés**.<sup>1</sup>*\n\n<table>\n  <tr>\n    <th>Label</th>\n    <th>Description</th>\n  </tr>\n<tr>\n    <td>A</td>\n    <td>A man using a payment terminal</td>\n  </tr>\n<tr>\n    <td>B</td>\n    <td>A truck with a broken windshield</td>\n  </tr>\n<tr>\n    <td>C</td>\n    <td>Two men talking, one holding a bag</td>\n  </tr>\n<tr>\n    <td>D</td>\n    <td>A person using a facial recognition terminal</td>\n  </tr>\n<tr>\n    <td>E</td>\n    <td>A person using a parking payment machine</td>\n  </tr>\n</table>\n\n<image>\n\n<sup>1</sup> 2012年作文原题为：Nous vous proposons une liste de 10 mots ou expressions. Vous devez **en employer au moins** 8, sans considérer leur ordre, pour rédiger un texte de 150 à 200 mots avec un titre qui lui convient (titre proposé : « Quelle est la personne la plus importante de votre vie ? »). Soulignez chacun de ces 10 mots ou **expressions** dans le texte et marquez, dans la case prévue à la **fin** de la fiche de réponses, le nombre des mots que vous **employez** dans la totalité du texte : *familiale, aveu, demeurer, étant donné, se garder, hors service, tache, foudre, avec sagesse, adaptation.*\n\n-38-"
+        },
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 17,
+          "start": 0,
+          "end": 49,
+          "quote": "[Ta\n\n\n\n\n\n\n\n\n\n\nT\n\n\n\n\n\n\n\n\n\n\n  CS 扫描全能王\n3亿人都在用的扫描App"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [
+        {
+          "id": "md-review-125",
+          "questionId": "tfs4-2012-task-VII",
+          "code": "MISSING_SOURCE_IMAGES",
+          "severity": "blocking",
+          "status": "open",
+          "message": "写作主任务依赖图片，MD只有描述或Image占位；保留任务，内容不可发布"
+        },
+        {
+          "id": "md-review-126",
+          "questionId": "tfs4-2012-task-VII",
+          "code": "WRITING_VERSION_CONFLICT",
+          "severity": "blocking",
+          "status": "open",
+          "message": "试卷主文为看图作文，脚注另列当年原题的十词命题；范文对应图片版本，不冒充脚注词表版本范文"
+        }
+      ],
+      "status": "reviewed_source_blocked"
+    },
+    {
+      "questionId": "tfs4-2012-verb-1",
+      "version": 2,
+      "originalLabel": "Part V · 1",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 709,
+          "end": 719,
+          "quote": "(raconter)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-verb-2",
+      "version": 2,
+      "originalLabel": "Part V · 2",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 821,
+          "end": 834,
+          "quote": "(se souvenir)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-verb-3",
+      "version": 2,
+      "originalLabel": "Part V · 3",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 855,
+          "end": 862,
+          "quote": "(avoir)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-verb-4",
+      "version": 2,
+      "originalLabel": "Part V · 4",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 884,
+          "end": 891,
+          "quote": "(avoir)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-verb-5",
+      "version": 2,
+      "originalLabel": "Part V · 5",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 907,
+          "end": 916,
+          "quote": "(réussir)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-verb-6",
+      "version": 2,
+      "originalLabel": "Part V · 6",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 976,
+          "end": 985,
+          "quote": "(habiter)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-verb-7",
+      "version": 2,
+      "originalLabel": "Part V · 7",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1044,
+          "end": 1057,
+          "quote": "(s'aventurer)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-verb-8",
+      "version": 2,
+      "originalLabel": "Part V · 8",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1089,
+          "end": 1099,
+          "quote": "(pleuvoir)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-verb-9",
+      "version": 2,
+      "originalLabel": "Part V · 9",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1124,
+          "end": 1130,
+          "quote": "(être)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-verb-10",
+      "version": 2,
+      "originalLabel": "Part V · 10",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1150,
+          "end": 1159,
+          "quote": "(pouvoir)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-verb-11",
+      "version": 2,
+      "originalLabel": "Part V · 11",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1188,
+          "end": 1198,
+          "quote": "(murmurer)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-verb-12",
+      "version": 2,
+      "originalLabel": "Part V · 12",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1240,
+          "end": 1252,
+          "quote": "(apparaître)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-verb-13",
+      "version": 2,
+      "originalLabel": "Part V · 13",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1349,
+          "end": 1359,
+          "quote": "(répondre)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-verb-14",
+      "version": 2,
+      "originalLabel": "Part V · 14",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1387,
+          "end": 1395,
+          "quote": "(sortir)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-verb-15",
+      "version": 2,
+      "originalLabel": "Part V · 15",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1414,
+          "end": 1424,
+          "quote": "(parvenir)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-verb-16",
+      "version": 2,
+      "originalLabel": "Part V · 16",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1504,
+          "end": 1512,
+          "quote": "(porter)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-verb-17",
+      "version": 2,
+      "originalLabel": "Part V · 17",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1541,
+          "end": 1547,
+          "quote": "(lire)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-verb-18",
+      "version": 2,
+      "originalLabel": "Part V · 18",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1625,
+          "end": 1634,
+          "quote": "(tamiser)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-verb-19",
+      "version": 2,
+      "originalLabel": "Part V · 19",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1659,
+          "end": 1669,
+          "quote": "(caresser)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2012-verb-20",
+      "version": 2,
+      "originalLabel": "Part V · 20",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1704,
+          "end": 1719,
+          "quote": "(ne pas devoir)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    }
+  ],
+  "sectionReviews": [
+    {
+      "id": "I",
+      "label": "PARTIE I : Dictée (10 points)",
+      "instruction": "Dans cette partie, vous entendrez un texte. Il sera lu quatre fois (le commencement sera signalé par un bip sonore) : pour la première fois, vous n'avez qu'à l'écouter ; pour la deuxième et la troisième fois, vous écrivez le texte en l'écoutant et pour la quatrième fois, vous écoutez le texte pour vérifier votre transcription.\n\nAprès la dictée, vous avez trois minutes pour relire votre texte.\n\nMaintenant, écoutez.\n\n## Vocabulaire :\n\nhomogénéité n.f. 一致 uniforme adj. 同样的 architecte n. 建筑师\n\n注：数字表达请用字母拼写，如： deuxième, trente",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 2,
+          "start": 0,
+          "end": 583,
+          "quote": "# **PARTIE I : Dictée (10 points)**\n\n*Dans cette partie, vous entendrez un texte. Il sera lu quatre fois (le commencement sera signalé par un bip sonore) : pour la première fois, vous n'avez qu'à l'écouter ; pour la deuxième et la troisième fois, vous écrivez le texte en l'écoutant et pour la quatrième fois, vous écoutez le texte pour vérifier votre transcription.*\n\n*Après la dictée, vous avez trois minutes pour relire votre texte.*\n\n**Maintenant, écoutez.**\n\n## **Vocabulaire :**\n\nhomogénéité *n.f.* 一致 uniforme *adj.* 同样的 architecte *n.* 建筑师\n\n注：数字表达请用字母拼写，如： deuxième, trente\n\n"
+        }
+      ]
+    },
+    {
+      "id": "II",
+      "label": "PARTIE II : Compréhension orale (10 points)",
+      "instruction": "Cette partie est composée de deux sections.\n\n## Section A (5 points)\n\nDans cette section, vous entendrez dix petits dialogues ou messages. Chaque dialogue ou message vous sera passé deux fois (le commencement sera signalé par un bip sonore) : vous l'écoutez et vous choisissez la bonne réponse à la question qui se pose sur le dialogue.\n\nMaintenant, vous avez trois minutes pour lire les questions et toutes les réponses suggérées.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 2,
+          "start": 583,
+          "end": 1076,
+          "quote": "# **PARTIE II : Compréhension orale (10 points)**\n\n*Cette partie est composée de deux sections.*\n\n## **Section A (5 points)**\n\n*Dans cette section, vous entendrez dix petits dialogues ou messages. Chaque dialogue ou message vous sera passé deux fois (le commencement sera signalé par un bip sonore) : vous l'écoutez et vous choisissez la bonne réponse à la question qui se pose sur le dialogue.*\n\n*Maintenant, vous avez trois minutes pour lire les questions et toutes les réponses suggérées.*\n"
+        }
+      ]
+    },
+    {
+      "id": "III",
+      "label": "PARTIE III : Compétence lexicale (15 points)",
+      "instruction": "Cette partie est composée de deux sections.\n\nSection A (5 points)\n\n(A) Lisez les phrases suivantes et choisissez le mot dont le sens est le plus proche de celui de la partie soulignée.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 5,
+          "start": 866,
+          "end": 1113,
+          "quote": "**PARTIE III : Compétence lexicale (15 points)**\n\n*Cette partie est composée de deux sections.*\n\n**Section A (5 points)**\n\n**(A)** Lisez les phrases suivantes et choisissez le mot dont le sens est le plus proche de celui de la *partie soulignée*.\n"
+        }
+      ]
+    },
+    {
+      "id": "IV",
+      "label": "PARTIE IV : Compétence grammaticale (I) (20 points)",
+      "instruction": "Complétez les phrases suivantes avec le mot ou l'expression convenable.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 7,
+          "start": 481,
+          "end": 614,
+          "quote": "# **PARTIE IV : Compétence grammaticale (I) (20 points)**\n\n*Complétez les phrases suivantes avec le mot ou l'expression convenable.*\n"
+        }
+      ]
+    },
+    {
+      "id": "V",
+      "label": "PARTIE V : Compétence grammaticale (II) (10 points)",
+      "instruction": "Mettez les verbes entre parenthèses au temps et au mode qui conviennent.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 539,
+          "end": 672,
+          "quote": "**PARTIE V : Compétence grammaticale (II) (10 points)**\n\n*Mettez les verbes entre parenthèses au temps et au mode qui conviennent.*\n\n"
+        }
+      ]
+    },
+    {
+      "id": "VI",
+      "label": "PARTIE VI : Compréhension écrite (20 points)",
+      "instruction": "Lisez les textes suivants et choisissez la bonne réponse à chacune des questions qui se posent sur leur compréhension.\n\n---",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 1858,
+          "end": 2030,
+          "quote": "**PARTIE VI : Compréhension écrite (20 points)**\n\n*Lisez les textes suivants et choisissez la bonne réponse à chacune des *questions qui se posent sur leur compréhension*.*"
+        }
+      ]
+    },
+    {
+      "id": "VII",
+      "label": "PARTIE VII : Expression écrite (15 points)",
+      "instruction": "D'après les dessins ci-dessous, rédigez un texte de 150 à 200 mots avec un titre qui lui convient. Indiquez à la fin le nombre des mots que vous avez employés.1",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 16,
+          "start": 399,
+          "end": 626,
+          "quote": "**PARTIE VII : Expression écrite (15 points)**\n\n*D'après les dessins ci-dessous, rédigez un texte de 150 à 200 mots avec un titre qui lui convient. Indiquez à la fin le nombre des mots que vous **avez employés**.<sup>1</sup>*\n\n"
+        }
+      ]
+    }
+  ],
+  "materialReviews": [
+    {
+      "materialId": "tfs4-2012-cloze",
+      "decision": "MD_checked",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 6,
+          "start": 934,
+          "end": 1880,
+          "quote": "## **Section B (10 points)**\n\n*Complétez le texte suivant avec les mots et expressions convenables.*\n\n# **L'éducation change le monde**\n\nEn 2011, 67 millions d'enfants en __31__ d'aller à l'école primaire n'ont toujours pas __32__ à l'éducation. Les __33__, les enfants en situation de handicap, issus des **minorités** ou des milieux les plus pauvres en sont les principaux exclus.\n\nL'éducation est un élément essentiel du développement. Elle exerce une __34__ directe sur la santé des communautés. Elle permet d'améliorer la participation démocratique, de lutter contre les __35__ et d'améliorer la croissance. __36__ ces effets, l'éducation est un __37__ humain fondamental, il doit être __38__ et étendu.\n\nL'organisation Aide et Action International a été créée en 2007. Elle __39__ déjà cinq membres : France, Suisse, Afrique, Asie du Sud et Asie du Sud-Est. Elle est __40__ par un Congrès regroupant des représentants de toutes les régions."
+        }
+      ]
+    },
+    {
+      "materialId": "tfs4-2012-reading-1",
+      "decision": "MD_checked",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 11,
+          "start": 0,
+          "end": 1170,
+          "quote": "# 1. **Faut-il laisser disparaître le panda ?**\n\nVaut-il mieux protéger le panda ou l'abeille ? L'ours blanc ou le ver de terre ? Plus crûment : faut-il laisser certaines espèces disparaître pour mieux préserver les autres ? Question tragique qu'il est de plus en plus difficile d'éviter avec les risques d'effondrement de la biodiversité.\n\nLe Canadien Murray Rudd, spécialiste de l'économie environnementale à l'Université de New York, a mené une enquête par Internet auprès de 583 spécialistes de la protection animale et végétale. S'ils sont quasi 100% à craindre une perte de la biodiversité, ils sont près de 60% à accepter l'idée de la nécessité d'établir des critères pour tirer le bon grain de l'ivraie.\n\nÀ savoir quelles espèces sont condamnées et celles qui seront « sauvées ». Quels critères ? « Beaucoup de scientifiques ne se rallient pas encore pleinement au concept utilitaire de services rendus par les écosystèmes », note Rudd dans *Conservation Biology*. OK, le panda est charmant, mais il passe son temps à grignoter ses bambous. En revanche, l'abeille transporte le pollen de milliers de fleurs. Le choix est vite fait, quand on n'est pas Chinois...\n"
+        }
+      ]
+    },
+    {
+      "materialId": "tfs4-2012-reading-2",
+      "decision": "MD_checked",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 12,
+          "start": 197,
+          "end": 1657,
+          "quote": "## **2. Hergé et Tchang**\n\nLa relation avec Tchang ne s'arrête pas à l'ouvrage de *Tintin au Tibet*. En effet, Hergé cherchait dans la vie réelle Tchang Tchong-Jen avec presque autant d'obstination que Tintin. Tchang Tchong-Jen et Hergé se sont rencontrés alors que ce dernier écrivait *Le Lotus Bleu*. Cet étudiant chinois était rentré en Chine à la fin des années trente et ils ont perdu le contact peu après.\n\nUn jour de 1976, dans un restaurant, Hergé comme à son habitude, ne manqua pas dès qu'il était en relation avec des Chinois, de leur demander s'ils connaissaient un certain Tchang Tchong-Jen. La réponse fut cette fois positive, Tchang vivait à Shanghai en tant que directeur d'une académie de sculpture.\n\nLes deux amis reprirent contact et suite à un échange de lettres, Hergé envoya *Le Lotus bleu* en couleur et *Tintin au Tibet*. C'est alors que Gérard Valet, journaliste français, co-auteur du film *Moï Tintin*, eut l'idée et entreprit l'organisation du retour de Tchang en Belgique. Une rencontre qui à l'origine devait se produire au cinquantième anniversaire de Tintin, eut finalement lieu en 1981. Les retrouvailles furent chargées d'émotions, Tchang fut accueilli à la manière d'un chef d'État à l'aéroport de Zaventem. En effet, Hergé n'était plus ce jeune dessinateur que Tchang avait connu mais une célébrité mondiale. Cette rencontre précéda de deux ans la mort du créateur et constitua à n'en pas douter une de ses dernières joies.\n"
+        }
+      ]
+    },
+    {
+      "materialId": "tfs4-2012-reading-3",
+      "decision": "MD_checked",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 13,
+          "start": 505,
+          "end": 2281,
+          "quote": "## **3. Vieillissement et qualité de la vie**\n\nLe vieillissement est un phénomène planétaire. D'ici 2050, environ 80% des personnes âgées vivront dans les pays en développement. Le vieillissement de la population coïncide avec une urbanisation grandissante : en 2007, plus de la moitié de la population mondiale habite en ville et cette proportion devrait dépasser 60% d'ici 2030. Il reflète une amélioration de la santé dans le monde mais s'accompagne aussi de difficultés particulières auxquelles tous les pays devront faire face au XXI<sup>e</sup> siècle. L'espérance de vie, qui, en 2005, dépassait déjà 80 ans au Japon ou en France, augmente également dans les pays en développement. Par exemple, un enfant qui naît aujourd'hui au Chili, en Jamaïque, au Liban, à Sri Lanka peut espérer vivre plus de 70 ans.\n\nDe fortes inégalités dans le domaine de la santé persistent dans le monde, comme le montre clairement l'existence de grands écarts d'espérance de vie à la naissance. Ainsi, alors que le Japon détient, avec 82,2 ans, le record mondial d'espérance de vie, dans plusieurs pays d'Afrique l'espérance de vie dépasse à peine 40 ans.\n\nLes dépenses de santé augmentent avec l'âge mais sont concentrées pendant les deux dernières années de la vie, quel que soit l'âge de la personne. À mesure que les gens vieillissent, il est important de faire en sorte que ces années supplémentaires soient vécues en bonne santé de sorte que le coût des soins de santé reste facile à gérer. Les personnes âgées en bonne santé représentent aussi une ressource pour leur famille, leur entourage et l'économie. Il est rarement trop tard pour abandonner de mauvaises habitudes : par exemple, si l'on arrête de fumer entre 60 ans et 75 ans, le risque de décès prématuré baisse de 50%.\n\n-35-"
+        }
+      ]
+    },
+    {
+      "materialId": "tfs4-2012-reading-4",
+      "decision": "MD_checked",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 14,
+          "start": 1010,
+          "end": 1524,
+          "quote": "## **4. Le livre papier à l'ère du numérique**\n\nIl y a un peu moins de 10 ans, arrivait en grande pompe le « e-book » – qu'on appelle maintenant livre numérique ou électronique. Si vous vous souvenez, les éditeurs s'étaient alors demandé si le livre virtuel n'allait pas peu à peu précipiter la baisse du livre papier. « Les livres seront-ils piratés ? Les prix vont-ils chuter ? Des métiers vont-ils disparaître ? »\n\nReculons un peu dans le temps … Quand la radio s'est fait connaître dans les années vingt,\n\n-36-"
+        },
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 15,
+          "start": 0,
+          "end": 1593,
+          "quote": "on a prédit la mort des journaux. Quand la télé a fait son entrée dans les foyers dans les années soixante, on a cru à la mort de la radio et des journaux. Dès l'entrée fulgurante d'Internet, on a annoncé la mort des trois ! Pourtant, on constate aujourd'hui que ces médias d'information font bon ménage et se partagent les faveurs du public. Et l'avenir du livre papier dans tout ça ?\n\nLe plaisir de toucher un bouquin, l'odeur du papier, de l'encre, et son aspect pratique, constituent autant de raisons pour lesquelles le livre électronique n'a pas réussi à remplacer le livre papier dans le cœur des amoureux du livre. Par contre, ce n'est pas parce que la version papier conserve tout son charme que le livre électronique n'a pas d'avenir. Les qualités technologiques du livre électronique ont de quoi séduire l'amateur de lecture : sa mémoire permet de constituer de véritables bibliothèques portatives ; il facilite la prise et l'organisation des notes, la recherche d'occurrences de mots ou d'expressions, la consultation d'un dictionnaire interne, l'impression d'extraits et de pages choisis. Le texte peut ainsi être traité avec beaucoup de facilité à la maison ou au bureau mais aussi en déplacement ou dans les transports.\n\nAutres avantages : les éditeurs en ligne n'ont pas de stocks de livres imprimés, de gestion des retours et d'éventuelles opérations de distribution à gérer. En plus d'éviter que plus d'arbres soient coupés pour la fabrication du papier, on économise sur l'encre, sur le coût de l'essence des camions transportant les caisses de livres, et sur le personnel.\n"
+        }
+      ]
+    },
+    {
+      "materialId": "tfs4-2012-verbs",
+      "decision": "MD_checked",
+      "evidence": [
+        {
+          "documentId": "tfs4-2012-paper-3b0d3411e6fb",
+          "page": 10,
+          "start": 539,
+          "end": 1858,
+          "quote": "**PARTIE V : Compétence grammaticale (II) (10 points)**\n\n*Mettez les verbes entre parenthèses au temps et au mode qui conviennent.*\n\n## Une aventure inoubliable\n\n« Papa, (raconter) <u>-moi</u> ton aventure inoubliable, s'il te plaît ».\n\n« Bon. Je vais réfléchir. L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) ______ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, <u>(parvenir)</u> <u>au premier étage</u>, j'ai poussé la porte d'une salle. Une jeune fille (porter) <u>une robe blanche</u>, <u>(lire)</u> <u>un roman attentivement</u> sur une chaise longue. La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres sans frapper à la porte, Papa »\n\n« Chéri, c'est ainsi que ta maman et moi, nous nous sommes rencontrés ! »\n\n"
+        }
+      ]
+    }
+  ],
+  "verbMappings": [
+    {
+      "questionId": "tfs4-2012-verb-1",
+      "blankIndex": 1,
+      "lemma": "raconter",
+      "materialId": "tfs4-2012-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 164,
+        "end": 174,
+        "quote": "(raconter)"
+      },
+      "printedBlank": null,
+      "locationBasis": "explicit_parenthesized_verb_under_Part_V_instruction",
+      "context": "t au mode qui conviennent.\n\n## Une aventure inoubliable\n\n« Papa, (raconter) -moi ton aventure inoubliable, s'il te plaît ».\n\n« Bon. Je vais réfléchir. L'av",
+      "referenceId": "tfs4-2012-mdreview-verb-ref-1",
+      "rawAnswer": "raconte",
+      "referenceEvidence": {
+        "documentId": "tfs4-2012-answers-24e43da16ed6",
+        "page": 1,
+        "start": 1437,
+        "end": 1462,
+        "quote": "*raconter* <u>raconte</u>"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2012-verb-2",
+      "blankIndex": 2,
+      "lemma": "se souvenir",
+      "materialId": "tfs4-2012-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 269,
+        "end": 282,
+        "quote": "(se souvenir)"
+      },
+      "printedBlank": "______",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": ", s'il te plaît ».\n\n« Bon. Je vais réfléchir. L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussi",
+      "referenceId": "tfs4-2012-mdreview-verb-ref-2",
+      "rawAnswer": "me souviendrai",
+      "referenceEvidence": {
+        "documentId": "tfs4-2012-answers-24e43da16ed6",
+        "page": 1,
+        "start": 1517,
+        "end": 1552,
+        "quote": "*se souvenir* <u>me souviendrai</u>"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2012-verb-3",
+      "blankIndex": 3,
+      "lemma": "avoir",
+      "materialId": "tfs4-2012-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 303,
+        "end": 310,
+        "quote": "(avoir)"
+      },
+      "printedBlank": "______",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": " réfléchir. L'aventure dont je (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rend",
+      "referenceId": "tfs4-2012-mdreview-verb-ref-3",
+      "rawAnswer": "a eu",
+      "referenceEvidence": {
+        "documentId": "tfs4-2012-answers-24e43da16ed6",
+        "page": 1,
+        "start": 1597,
+        "end": 1616,
+        "quote": "*avoir* <u>a eu</u>"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2012-verb-4",
+      "blankIndex": 4,
+      "lemma": "avoir",
+      "materialId": "tfs4-2012-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 332,
+        "end": 339,
+        "quote": "(avoir)"
+      },
+      "printedBlank": "______",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "e (se souvenir) ______ toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents",
+      "referenceId": "tfs4-2012-mdreview-verb-ref-4",
+      "rawAnswer": "(j')avais",
+      "referenceEvidence": {
+        "documentId": "tfs4-2012-answers-24e43da16ed6",
+        "page": 1,
+        "start": 1663,
+        "end": 1687,
+        "quote": "*avoir* <u>(j')avais</u>"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2012-verb-5",
+      "blankIndex": 5,
+      "lemma": "réussir",
+      "materialId": "tfs4-2012-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 355,
+        "end": 364,
+        "quote": "(réussir)"
+      },
+      "printedBlank": "______",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "toute ma vie (avoir) ______ lieu quand je (avoir) ______ 18 ans. (réussir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à c",
+      "referenceId": "tfs4-2012-mdreview-verb-ref-5",
+      "rawAnswer": "Ayant réussi",
+      "referenceEvidence": {
+        "documentId": "tfs4-2012-answers-24e43da16ed6",
+        "page": 1,
+        "start": 1740,
+        "end": 1769,
+        "quote": "*réussir* <u>Ayant réussi</u>"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2012-verb-6",
+      "blankIndex": 6,
+      "lemma": "habiter",
+      "materialId": "tfs4-2012-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 424,
+        "end": 433,
+        "quote": "(habiter)"
+      },
+      "printedBlank": "______",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "ssir) ______ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) ______ ",
+      "referenceId": "tfs4-2012-mdreview-verb-ref-6",
+      "rawAnswer": "habitaient",
+      "referenceEvidence": {
+        "documentId": "tfs4-2012-answers-24e43da16ed6",
+        "page": 1,
+        "start": 1830,
+        "end": 1857,
+        "quote": "*habiter* <u>habitaient</u>"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2012-verb-7",
+      "blankIndex": 7,
+      "lemma": "s'aventurer",
+      "materialId": "tfs4-2012-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 492,
+        "end": 505,
+        "quote": "(s'aventurer)"
+      },
+      "printedBlank": "______",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "biter) ______ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) ______ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______",
+      "referenceId": "tfs4-2012-mdreview-verb-ref-7",
+      "rawAnswer": "me suis aventuré",
+      "referenceEvidence": {
+        "documentId": "tfs4-2012-answers-24e43da16ed6",
+        "page": 1,
+        "start": 1935,
+        "end": 1972,
+        "quote": "*s'aventurer* <u>me suis aventuré</u>"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2012-verb-8",
+      "blankIndex": 8,
+      "lemma": "pleuvoir",
+      "materialId": "tfs4-2012-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 537,
+        "end": 547,
+        "quote": "(pleuvoir)"
+      },
+      "printedBlank": "______",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": " forêt. Un jour, je (s'aventurer) ______ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ",
+      "referenceId": "tfs4-2012-mdreview-verb-ref-8",
+      "rawAnswer": "avait plu",
+      "referenceEvidence": {
+        "documentId": "tfs4-2012-answers-24e43da16ed6",
+        "page": 1,
+        "start": 1463,
+        "end": 1490,
+        "quote": "*pleuvoir* <u>avait plu</u>"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2012-verb-9",
+      "blankIndex": 9,
+      "lemma": "être",
+      "materialId": "tfs4-2012-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 572,
+        "end": 578,
+        "quote": "(être)"
+      },
+      "printedBlank": "______",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "_____ dans la forêt. Comme il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tou",
+      "referenceId": "tfs4-2012-mdreview-verb-ref-9",
+      "rawAnswer": "était",
+      "referenceEvidence": {
+        "documentId": "tfs4-2012-answers-24e43da16ed6",
+        "page": 1,
+        "start": 1553,
+        "end": 1572,
+        "quote": "*être* <u>était</u>"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2012-verb-10",
+      "blankIndex": 10,
+      "lemma": "pouvoir",
+      "materialId": "tfs4-2012-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 598,
+        "end": 607,
+        "quote": "(pouvoir)"
+      },
+      "printedBlank": "______",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": " il (pleuvoir) ______ la veille, l'air (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette",
+      "referenceId": "tfs4-2012-mdreview-verb-ref-10",
+      "rawAnswer": "pouvait",
+      "referenceEvidence": {
+        "documentId": "tfs4-2012-answers-24e43da16ed6",
+        "page": 1,
+        "start": 1617,
+        "end": 1641,
+        "quote": "*pouvoir* <u>pouvait</u>"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2012-verb-11",
+      "blankIndex": 11,
+      "lemma": "murmurer",
+      "materialId": "tfs4-2012-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 636,
+        "end": 646,
+        "quote": "(murmurer)"
+      },
+      "printedBlank": "______",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": " (être) ______ frais et on (pouvoir) ______ entendre le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. L",
+      "referenceId": "tfs4-2012-mdreview-verb-ref-11",
+      "rawAnswer": "murmurer",
+      "referenceEvidence": {
+        "documentId": "tfs4-2012-answers-24e43da16ed6",
+        "page": 1,
+        "start": 1688,
+        "end": 1714,
+        "quote": "*murmurer* <u>murmurer</u>"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2012-verb-12",
+      "blankIndex": 12,
+      "lemma": "apparaître",
+      "materialId": "tfs4-2012-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 688,
+        "end": 700,
+        "quote": "(apparaître)"
+      },
+      "printedBlank": "______",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": " le ruisseau (murmurer) ______. Tout à coup, une maison coquette (apparaître) ______ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mai",
+      "referenceId": "tfs4-2012-mdreview-verb-ref-12",
+      "rawAnswer": "est apparue",
+      "referenceEvidence": {
+        "documentId": "tfs4-2012-answers-24e43da16ed6",
+        "page": 1,
+        "start": 1770,
+        "end": 1801,
+        "quote": "*apparaître* <u>est apparue</u>"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2012-verb-13",
+      "blankIndex": 13,
+      "lemma": "répondre",
+      "materialId": "tfs4-2012-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 797,
+        "end": 807,
+        "quote": "(répondre)"
+      },
+      "printedBlank": "______",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "e était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, (parvenir) au premier étage,",
+      "referenceId": "tfs4-2012-mdreview-verb-ref-13",
+      "rawAnswer": "(m') a répondu",
+      "referenceEvidence": {
+        "documentId": "tfs4-2012-answers-24e43da16ed6",
+        "page": 1,
+        "start": 1858,
+        "end": 1890,
+        "quote": "*répondre* <u>(m') a répondu</u>"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2012-verb-14",
+      "blankIndex": 14,
+      "lemma": "sortir",
+      "materialId": "tfs4-2012-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 835,
+        "end": 843,
+        "quote": "(sortir)"
+      },
+      "printedBlank": "______",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "ppelé, mais personne ne me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, (parvenir) au premier étage, j'ai poussé la porte d'une salle. U",
+      "referenceId": "tfs4-2012-mdreview-verb-ref-14",
+      "rawAnswer": "était sorti",
+      "referenceEvidence": {
+        "documentId": "tfs4-2012-answers-24e43da16ed6",
+        "page": 1,
+        "start": 1973,
+        "end": 2000,
+        "quote": "*sortir* <u>était sorti</u>"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2012-verb-15",
+      "blankIndex": 15,
+      "lemma": "parvenir",
+      "materialId": "tfs4-2012-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 859,
+        "end": 869,
+        "quote": "(parvenir)"
+      },
+      "printedBlank": null,
+      "locationBasis": "explicit_parenthesized_verb_under_Part_V_instruction",
+      "context": "me (répondre) ______. Sans doute, l'hôte (sortir) ______. Enfin, (parvenir) au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) un",
+      "referenceId": "tfs4-2012-mdreview-verb-ref-15",
+      "rawAnswer": "parvenu",
+      "referenceEvidence": {
+        "documentId": "tfs4-2012-answers-24e43da16ed6",
+        "page": 1,
+        "start": 1491,
+        "end": 1516,
+        "quote": "*parvenir* <u>parvenu</u>"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2012-verb-16",
+      "blankIndex": 16,
+      "lemma": "porter",
+      "materialId": "tfs4-2012-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 938,
+        "end": 946,
+        "quote": "(porter)"
+      },
+      "printedBlank": null,
+      "locationBasis": "explicit_parenthesized_verb_under_Part_V_instruction",
+      "context": "premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) une robe blanche, (lire) un roman attentivement sur une chaise longue. La lumiè",
+      "referenceId": "tfs4-2012-mdreview-verb-ref-16",
+      "rawAnswer": "portant",
+      "referenceEvidence": {
+        "documentId": "tfs4-2012-answers-24e43da16ed6",
+        "page": 1,
+        "start": 1573,
+        "end": 1596,
+        "quote": "*porter* <u>portant</u>"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2012-verb-17",
+      "blankIndex": 17,
+      "lemma": "lire",
+      "materialId": "tfs4-2012-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 965,
+        "end": 971,
+        "quote": "(lire)"
+      },
+      "printedBlank": null,
+      "locationBasis": "explicit_parenthesized_verb_under_Part_V_instruction",
+      "context": "la porte d'une salle. Une jeune fille (porter) une robe blanche, (lire) un roman attentivement sur une chaise longue. La lumière du jour, (tamiser) ___",
+      "referenceId": "tfs4-2012-mdreview-verb-ref-17",
+      "rawAnswer": "lisait",
+      "referenceEvidence": {
+        "documentId": "tfs4-2012-answers-24e43da16ed6",
+        "page": 1,
+        "start": 1642,
+        "end": 1662,
+        "quote": "*lire* <u>lisait</u>"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2012-verb-18",
+      "blankIndex": 18,
+      "lemma": "tamiser",
+      "materialId": "tfs4-2012-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 1038,
+        "end": 1047,
+        "quote": "(tamiser)"
+      },
+      "printedBlank": "______",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "n roman attentivement sur une chaise longue. La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas de",
+      "referenceId": "tfs4-2012-mdreview-verb-ref-18",
+      "rawAnswer": "tamisée",
+      "referenceEvidence": {
+        "documentId": "tfs4-2012-answers-24e43da16ed6",
+        "page": 1,
+        "start": 1715,
+        "end": 1739,
+        "quote": "*tamiser* <u>tamisée</u>"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2012-verb-19",
+      "blankIndex": 19,
+      "lemma": "caresser",
+      "materialId": "tfs4-2012-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 1072,
+        "end": 1082,
+        "quote": "(caresser)"
+      },
+      "printedBlank": "______",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "se longue. La lumière du jour, (tamiser) ______ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres",
+      "referenceId": "tfs4-2012-mdreview-verb-ref-19",
+      "rawAnswer": "caressait",
+      "referenceEvidence": {
+        "documentId": "tfs4-2012-answers-24e43da16ed6",
+        "page": 1,
+        "start": 1802,
+        "end": 1829,
+        "quote": "*caresser* <u>caressait</u>"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2012-verb-20",
+      "blankIndex": 20,
+      "lemma": "ne pas devoir",
+      "materialId": "tfs4-2012-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 1117,
+        "end": 1132,
+        "quote": "(ne pas devoir)"
+      },
+      "printedBlank": "______",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "__ par les vitraux, (caresser) ______ ses cheveux noirs...\n\n« Tu (ne pas devoir) ______ entrer chez les autres sans frapper à la porte, Papa »\n\n« Chéri, c'est a",
+      "referenceId": "tfs4-2012-mdreview-verb-ref-20",
+      "rawAnswer": "n'aurais pas dû",
+      "referenceEvidence": {
+        "documentId": "tfs4-2012-answers-24e43da16ed6",
+        "page": 1,
+        "start": 1891,
+        "end": 1934,
+        "quote": "<u>ne pas devoir</u> <u>n'aurais pas dû</u>"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    }
+  ],
+  "tasks": {
+    "dictation": {
+      "questionId": "tfs4-2012-task-I",
+      "referenceId": "tfs4-2012-mdreview-dictation-ref",
+      "automaticGrading": false
+    },
+    "writing": {
+      "questionId": "tfs4-2012-task-VII",
+      "pictureVersion": "blocked_missing_images",
+      "historicalWordListVersion": "preserved_in_task_text",
+      "modelEssayReferenceId": "tfs4-2012-mdreview-model-essay",
+      "modelEssayAppliesTo": "picture-version",
+      "automaticGrading": false
+    }
+  },
+  "openIssues": [
+    {
+      "id": "md-review-122",
+      "questionId": "tfs4-2012-q044",
+      "code": "SOURCE_CHARACTER_UNCERTAIN",
+      "severity": "blocking",
+      "status": "open",
+      "message": "MD为disc，疑似dise；无第二来源，不改字"
+    },
+    {
+      "id": "md-review-123",
+      "questionId": "tfs4-2012-q048",
+      "code": "SOURCE_DUPLICATE_OPTION_TEXT",
+      "severity": "blocking",
+      "status": "open",
+      "message": "MD中B/C均为vieille，保留原文；不能猜补变体"
+    },
+    {
+      "id": "md-review-124",
+      "questionId": "tfs4-2012-q068",
+      "code": "SOURCE_BLANK_MISSING",
+      "severity": "blocking",
+      "status": "open",
+      "message": "MD题干为Elle parle lentement les étudiants...；未给出明确填空位，不从答案反造"
+    },
+    {
+      "id": "md-review-125",
+      "questionId": "tfs4-2012-task-VII",
+      "code": "MISSING_SOURCE_IMAGES",
+      "severity": "blocking",
+      "status": "open",
+      "message": "写作主任务依赖图片，MD只有描述或Image占位；保留任务，内容不可发布"
+    },
+    {
+      "id": "md-review-126",
+      "questionId": "tfs4-2012-task-VII",
+      "code": "WRITING_VERSION_CONFLICT",
+      "severity": "blocking",
+      "status": "open",
+      "message": "试卷主文为看图作文，脚注另列当年原题的十词命题；范文对应图片版本，不冒充脚注词表版本范文"
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "note": "Portable allowlist projection; MD bytes unchanged; result.json retains only original markdown page numbers/text. No API configuration or job credentials.",
+  "items": [
+    {
+      "id": "2005-paper",
+      "sitting": "2005",
+      "role": "paper",
+      "expectedPages": 20
+    },
+    {
+      "id": "2008-answers",
+      "sitting": "2008",
+      "role": "answers",
+      "expectedPages": 2
+    },
+    {
+      "id": "2009-answers",
+      "sitting": "2009",
+      "role": "answers",
+      "expectedPages": 1
+    },
+    {
+      "id": "2010-answers",
+      "sitting": "2010",
+      "role": "answers",
+      "expectedPages": 1
+    },
+    {
+      "id": "2011-answers",
+      "sitting": "2011",
+      "role": "answers",
+      "expectedPages": 3
+    },
+    {
+      "id": "2012-answers",
+      "sitting": "2012",
+      "role": "answers",
+      "expectedPages": 3
+    },
+    {
+      "id": "2013-answers",
+      "sitting": "2013",
+      "role": "answers",
+      "expectedPages": 3
+    },
+    {
+      "id": "2014-answers",
+      "sitting": "2014",
+      "role": "answers",
+      "expectedPages": 3
+    },
+    {
+      "id": "2015-answers",
+      "sitting": "2015",
+      "role": "answers",
+      "expectedPages": 3
+    },
+    {
+      "id": "2016-answers",
+      "sitting": "2016",
+      "role": "answers",
+      "expectedPages": 3
+    },
+    {
+      "id": "2017-answers",
+      "sitting": "2017",
+      "role": "answers",
+      "expectedPages": 3
+    },
+    {
+      "id": "2018-answers",
+      "sitting": "2018",
+      "role": "answers",
+      "expectedPages": 3
+    },
+    {
+      "id": "2019-answers",
+      "sitting": "2019",
+      "role": "answers",
+      "expectedPages": 3
+    },
+    {
+      "id": "2021-06-answers",
+      "sitting": "2021-06",
+      "role": "answers",
+      "expectedPages": 3
+    },
+    {
+      "id": "2021-05-answers",
+      "sitting": "2021-05",
+      "role": "answers",
+      "expectedPages": 3
+    },
+    {
+      "id": "2022-answers",
+      "sitting": "2022",
+      "role": "answers",
+      "expectedPages": 1
+    },
+    {
+      "id": "2023-answers",
+      "sitting": "2023",
+      "role": "answers",
+      "expectedPages": 1
+    },
+    {
+      "id": "2024-answers",
+      "sitting": "2024",
+      "role": "answers",
+      "expectedPages": 3
+    },
+    {
+      "id": "2007-answers",
+      "sitting": "2007",
+      "role": "answers",
+      "expectedPages": 2
+    },
+    {
+      "id": "2006-answers",
+      "sitting": "2006",
+      "role": "answers",
+      "expectedPages": 2
+    },
+    {
+      "id": "2005-answers",
+      "sitting": "2005",
+      "role": "answers",
+      "expectedPages": 3
+    },
+    {
+      "id": "2024-paper",
+      "sitting": "2024",
+      "role": "paper",
+      "expectedPages": 25
+    },
+    {
+      "id": "2006-paper",
+      "sitting": "2006",
+      "role": "paper",
+      "expectedPages": 22
+    },
+    {
+      "id": "2007-paper",
+      "sitting": "2007",
+      "role": "paper",
+      "expectedPages": 22
+    },
+    {
+      "id": "2008-paper",
+      "sitting": "2008",
+      "role": "paper",
+      "expectedPages": 22
+    },
+    {
+      "id": "2009-paper",
+      "sitting": "2009",
+      "role": "paper",
+      "expectedPages": 21
+    },
+    {
+      "id": "2010-paper",
+      "sitting": "2010",
+      "role": "paper",
+      "expectedPages": 16
+    },
+    {
+      "id": "2011-paper",
+      "sitting": "2011",
+      "role": "paper",
+      "expectedPages": 16
+    },
+    {
+      "id": "2012-paper",
+      "sitting": "2012",
+      "role": "paper",
+      "expectedPages": 17
+    },
+    {
+      "id": "2013-paper",
+      "sitting": "2013",
+      "role": "paper",
+      "expectedPages": 18
+    },
+    {
+      "id": "2025-paper",
+      "sitting": "2025",
+      "role": "paper",
+      "expectedPages": 18
+    },
+    {
+      "id": "2014-paper",
+      "sitting": "2014",
+      "role": "paper",
+      "expectedPages": 17
+    },
+    {
+      "id": "2016-paper",
+      "sitting": "2016",
+      "role": "paper",
+      "expectedPages": 19
+    },
+    {
+      "id": "2017-paper",
+      "sitting": "2017",
+      "role": "paper",
+      "expectedPages": 19
+    },
+    {
+      "id": "2018-paper",
+      "sitting": "2018",
+      "role": "paper",
+      "expectedPages": 17
+    },
+    {
+      "id": "2019-paper",
+      "sitting": "2019",
+      "role": "paper",
+      "expectedPages": 17
+    },
+    {
+      "id": "2021-06-paper",
+      "sitting": "2021-06",
+      "role": "paper",
+      "expectedPages": 16
+    },
+    {
+      "id": "2021-05-paper",
+      "sitting": "2021-05",
+      "role": "paper",
+      "expectedPages": 20
+    },
+    {
+      "id": "2022-paper",
+      "sitting": "2022",
+      "role": "paper",
+      "expectedPages": 21
+    },
+    {
+      "id": "2023-paper",
+      "sitting": "2023",
+      "role": "paper",
+      "expectedPages": 20
+    },
+    {
+      "id": "2015-paper",
+      "sitting": "2015",
+      "role": "paper",
+      "expectedPages": 18
+    },
+    {
+      "id": "2025-answers",
+      "sitting": "2025",
+      "role": "answers",
+      "expectedPages": 2
+    }
+  ]
+}

@@ -1,0 +1,4405 @@
+{
+  "year": 2023,
+  "method": "authored_MD_internal_review",
+  "reviewer": "Codex",
+  "pdfVisualReview": false,
+  "sourceCandidateSha256": "e784c1df635eca4385954564f91ea8864bf79ff1c2d3f4b3701ffa1ca866f2d2",
+  "outputSha256": "c4ca0f846c142d86f65cdc3077e33a5dc1899154a37174507cefb14215d39a0d",
+  "paperVersion": 3,
+  "sourceDocuments": [
+    {
+      "id": "tfs4-2023-answers-8e3dfd0fceae",
+      "sha256": "8e3dfd0fceae57d1329ef0eeb328f5dc57c680ad8e81d44f59a5839e6b8a4cd7",
+      "pages": 1
+    },
+    {
+      "id": "tfs4-2023-paper-cb80be213370",
+      "sha256": "cb80be213370c00e144a1e62a10d171b32fc100207588a860bd8556a97af6c19",
+      "pages": 20
+    }
+  ],
+  "allItemsReviewed": true,
+  "allItemsUsable": false,
+  "decisions": [
+    {
+      "questionId": "tfs4-2023-q001",
+      "version": 1,
+      "originalLabel": "1",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 2,
+          "start": 1084,
+          "end": 1193,
+          "quote": "\n1. Où peuvent-ils prendre le repas ?\n   A. En terrasse.\n   B. À l'intérieur.\n   C. Dans un autre restaurant."
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q002",
+      "version": 1,
+      "originalLabel": "2",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 3,
+          "start": 0,
+          "end": 136,
+          "quote": "2. Qu'est-ce que la femme propose à l'homme ?\nA. De ne pas manger de frites.\nB. D'emporter les frites chez lui.\nC. De finir les frites.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q003",
+      "version": 1,
+      "originalLabel": "3",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 3,
+          "start": 136,
+          "end": 280,
+          "quote": "\n3. Que veut dire l'homme ?\nA. Il n'est pas satisfait de ses vacances.\nB. Il s'est amusé malgré la pluie.\nC. Les vacances lui ont beaucoup plu.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q004",
+      "version": 1,
+      "originalLabel": "4",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 3,
+          "start": 280,
+          "end": 385,
+          "quote": "\n4. Que s'est-il passé ?\nA. Léa n'était pas là.\nB. L'homme s'est trompé de numéro.\nC. Léa était occupée.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q005",
+      "version": 1,
+      "originalLabel": "5",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 3,
+          "start": 385,
+          "end": 555,
+          "quote": "\n5. Pourquoi l'homme n'est-il pas content ?\nA. Parce que Paul ne l'a pas appelé.\nB. Parce que Paul a manqué son rendez-vous.\nC. Parce que Paul ne lui fait pas confiance.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q006",
+      "version": 1,
+      "originalLabel": "6",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 3,
+          "start": 555,
+          "end": 816,
+          "quote": "\n6. Que s'est-il passé ?\nA. Le vol de M<sup>lle</sup> Dupont a eu presque deux heures de retard.\nB. L'homme est arrivé en retard pour chercher M<sup>lle</sup> Dupont.\nC. L'homme est allé chercher M<sup>lle</sup> Dupont à l'aéroport mais son vol a eu du retard.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q007",
+      "version": 1,
+      "originalLabel": "7",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 3,
+          "start": 816,
+          "end": 975,
+          "quote": "\n7. Quel type de chambre l'homme va-t-il prendre ?\nA. Une chambre simple avec baignoire.\nB. Une chambre simple avec douche.\nC. Une chambre double avec douche.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q008",
+      "version": 1,
+      "originalLabel": "8",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 3,
+          "start": 975,
+          "end": 1128,
+          "quote": "\n8. Entre qui se déroule le dialogue ?\nA. Entre un vendeur et une cliente.\nB. Entre un policier et une passante.\nC. Entre un contrôleur et une passagère."
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q009",
+      "version": 1,
+      "originalLabel": "9",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 4,
+          "start": 0,
+          "end": 152,
+          "quote": "9. Que fera la femme probablement ?\nA. Elle rentrera plus tard que l'homme.\nB. Elle fera les courses avec l'homme.\nC. Elle attendra l'homme pour dîner.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q010",
+      "version": 1,
+      "originalLabel": "10",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 4,
+          "start": 152,
+          "end": 401,
+          "quote": "\n10. Qu'est-ce que l'homme conseille à la femme de faire ?\nA. De passer moins de temps sur les réseaux sociaux.\nB. D'utiliser davantage les réseaux sociaux pour devenir journaliste.\nC. De ne plus accepter les demandes d'amis sur les réseaux sociaux."
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q011",
+      "version": 1,
+      "originalLabel": "11",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 4,
+          "start": 828,
+          "end": 942,
+          "quote": "\n11. Entre qui se déroule le dialogue ?\nA. Entre deux gendarmes.\nB. Entre patron et employée.\nC. Entre deux amis.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q012",
+      "version": 1,
+      "originalLabel": "12",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 4,
+          "start": 942,
+          "end": 1024,
+          "quote": "\n12. Quand Gérard est-il parti en voyage ?\nA. Mercredi.\nB. Vendredi.\nC. Dimanche.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q013",
+      "version": 1,
+      "originalLabel": "13",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 4,
+          "start": 1024,
+          "end": 1217,
+          "quote": "\n13. Pourquoi a-t-il fini par quitter l'autoroute ?\nA. Parce qu'il a préféré prendre le train.\nB. Parce qu'il y avait des embouteillages.\nC. Parce qu'on contrôlait les papiers sur l'autoroute.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q014",
+      "version": 1,
+      "originalLabel": "14",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "去除跨选项的~~展示标记，保留A/B/C三项全部文字，不把删除线当作删除选项指令"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 4,
+          "start": 1217,
+          "end": 1378,
+          "quote": "\n14. Que s'est-il passé à Villefranche ?\nA. On a arrêté toutes les voitures.\n~~B.~~ Il y avait 15 km d'embouteillages.\n~~C.~~ Les gendarmes se sont mis en grève."
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q015",
+      "version": 1,
+      "originalLabel": "15",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 5,
+          "start": 0,
+          "end": 143,
+          "quote": "15. Pendant combien de temps Gérard est-il resté à Villefranche ?\nA. Plus d'une heure.\nB. Plus d'une demi-heure.\nC. Plus d'une heure et demie.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q016",
+      "version": 1,
+      "originalLabel": "16",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 5,
+          "start": 143,
+          "end": 318,
+          "quote": "\n16. Qu'est-ce que les gendarmes ont demandé à Gérard de faire ?\nA. De les suivre dans leur véhicule.\nB. De téléphoner à ses collègues.\nC. De remplir un <u>questionnaire</u>.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q017",
+      "version": 1,
+      "originalLabel": "17",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 5,
+          "start": 318,
+          "end": 515,
+          "quote": "\n17. Pourquoi Lucie dit-elle que Gérard est un grand criminel ?\nA. Parce qu'il a commis un crime pendant son voyage.\nB. Parce qu'un gendarme le lui a dit.\nC. Parce que Lucie veut se moquer de lui.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q018",
+      "version": 1,
+      "originalLabel": "18",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 5,
+          "start": 515,
+          "end": 666,
+          "quote": "\n18. Qui est-ce que l'on a arrêté finalement ?\nA. Le frère jumeau de Gérard.\nB. Un homme déguisé en gendarme.\nC. Un criminel qui ressemblait à Gérard.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q019",
+      "version": 1,
+      "originalLabel": "19",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 5,
+          "start": 666,
+          "end": 860,
+          "quote": "\n19. Pourquoi un gendarme s'est-il mis à rire ?\nA. Parce que Gérard lui a fait une plaisanterie.\nB. Parce que Gérard avait l'air stupéfait.\nC. Parce qu'on a pris Gérard pour une autre personne.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q020",
+      "version": 1,
+      "originalLabel": "20",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 5,
+          "start": 860,
+          "end": 1076,
+          "quote": "\n20. Pourquoi Gérard qualifie-t-il son voyage d'« incroyable » ?\nA. Parce qu'il a joué le rôle d'un criminel dans un film.\nB. Parce qu'il croyait retrouver son frère jumeau.\nC. Parce qu'il a eu une aventure fâcheuse."
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q021",
+      "version": 1,
+      "originalLabel": "21",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 6,
+          "start": 122,
+          "end": 257,
+          "quote": "\n21. L'Académie a donné son <u>feu vert</u> à la féminisation de certains noms de métier.\nA. permis\nB. avis\nC. soutien\nD. autorisation\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q022",
+      "version": 1,
+      "originalLabel": "22",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 6,
+          "start": 257,
+          "end": 408,
+          "quote": "\n22. Grâce à ce programme de sports, ils pourront <u>se livrer à</u> leur sport favori.\nA. s'intéresser à\nB. se tenir à\nC. se donner à\nD. s'attacher à\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q023",
+      "version": 1,
+      "originalLabel": "23",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 6,
+          "start": 408,
+          "end": 551,
+          "quote": "\n23. L'institutrice <u>a fait preuve d'</u> une grande patience avec cet enfant difficile.\nA. a montré\nB. a délivré\nC. a détaillé\nD. a éprouvé\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q024",
+      "version": 1,
+      "originalLabel": "24",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 6,
+          "start": 551,
+          "end": 676,
+          "quote": "\n24. Le président <u>s'est engagé à</u> réduire le chômage.\nA. a accepté de\nB. a souhaité\nC. a promis de\nD. s'est efforcé de\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q025",
+      "version": 1,
+      "originalLabel": "25",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 6,
+          "start": 676,
+          "end": 802,
+          "quote": "\n25. Vos résultats <u>sont au-delà de</u> mes espérances.\nA. dépassent\nB. sont à la hauteur de\nC. correspondent à\nD. déçoivent"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q026",
+      "version": 1,
+      "originalLabel": "26",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 6,
+          "start": 918,
+          "end": 1027,
+          "quote": "\n26. J'ai tout examiné, vos calculs sont <u>justes</u>.\nA. justifiés\nB. inappropriés\nC. inexacts\nD. exagérés\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q027",
+      "version": 1,
+      "originalLabel": "27",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 6,
+          "start": 1027,
+          "end": 1150,
+          "quote": "\n27. On lui a préparé un cadeau <u>hors du commun</u> pour son mariage.\nA. bon marché\nB. de qualité\nC. sur mesure\nD. banal\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q028",
+      "version": 1,
+      "originalLabel": "28",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 6,
+          "start": 1150,
+          "end": 1266,
+          "quote": "\n28. Je viens juste de <u>renouveler</u> mon abonnement à ce magazine.\nA. gérer\nB. (d')annuler\nC. modifier\nD. payer\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q029",
+      "version": 1,
+      "originalLabel": "29",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 6,
+          "start": 1266,
+          "end": 1417,
+          "quote": "\n29. Il <u>jette l'argent par les fenêtres</u> de sorte qu'il est réduit à la misère.\nA. est généreux\nB. est dépensier\nC. est indiscret\nD. est économe\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q030",
+      "version": 1,
+      "originalLabel": "30",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 6,
+          "start": 1417,
+          "end": 1562,
+          "quote": "\n30. Après avoir remporté la médaille d'or, elle <u>se réjouit de</u> sa victoire.\nA. se plaint de\nB. se rappelle\nC. profite de\nD. se félicite de"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q031",
+      "version": 1,
+      "originalLabel": "31",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 7,
+          "start": 1502,
+          "end": 1617,
+          "quote": "<td>31.</td>\n<td>A. ces derniers</td>\n<td>B. toutes</td>\n<td>C. les seconds</td>\n<td>D. lesquelles</td>\n</tr>\n<tr>\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q032",
+      "version": 1,
+      "originalLabel": "32",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 7,
+          "start": 1617,
+          "end": 1732,
+          "quote": "<td>32.</td>\n<td>A. à l'aise</td>\n<td>B. en sécurité</td>\n<td>C. en forme</td>\n<td>D. en confiance</td>\n</tr>\n<tr>\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q033",
+      "version": 1,
+      "originalLabel": "33",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 7,
+          "start": 1732,
+          "end": 1817,
+          "quote": "<td>33.</td>\n<td>A. à</td>\n<td>B. en</td>\n<td>C. de</td>\n<td>D. dans</td>\n</tr>\n<tr>\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q034",
+      "version": 1,
+      "originalLabel": "34",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 7,
+          "start": 1817,
+          "end": 1940,
+          "quote": "<td>34.</td>\n<td>A. commerciale</td>\n<td>B. occasionnelle</td>\n<td>C. quotidienne</td>\n<td>D. particulière</td>\n</tr>\n<tr>\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q035",
+      "version": 1,
+      "originalLabel": "35",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 7,
+          "start": 1940,
+          "end": 2040,
+          "quote": "<td>35.</td>\n<td>A. couvre</td>\n<td>B. définit</td>\n<td>C. remplit</td>\n<td>D. sert</td>\n</tr>\n<tr>\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q036",
+      "version": 1,
+      "originalLabel": "36",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 7,
+          "start": 2040,
+          "end": 2147,
+          "quote": "<td>36.</td>\n<td>A. réussie</td>\n<td>B. garantie</td>\n<td>C. atteinte</td>\n<td>D. réalisée</td>\n</tr>\n<tr>\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q037",
+      "version": 1,
+      "originalLabel": "37",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 7,
+          "start": 2147,
+          "end": 2262,
+          "quote": "<td>37.</td>\n<td>A. autrement</td>\n<td>B. rarement</td>\n<td>C. en plus</td>\n<td>D. de plus en plus</td>\n</tr>\n<tr>\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q038",
+      "version": 1,
+      "originalLabel": "38",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 7,
+          "start": 2262,
+          "end": 2371,
+          "quote": "<td>38.</td>\n<td>A. Certes</td>\n<td>B. En effet</td>\n<td>C. Cependant</td>\n<td>D. Sans doute</td>\n</tr>\n<tr>\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q039",
+      "version": 1,
+      "originalLabel": "39",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 7,
+          "start": 2371,
+          "end": 2484,
+          "quote": "<td>39.</td>\n<td>A. permettre</td>\n<td>B. conseiller</td>\n<td>C. interdire</td>\n<td>D. promettre</td>\n</tr>\n<tr>\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q040",
+      "version": 1,
+      "originalLabel": "40",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 7,
+          "start": 2484,
+          "end": 2605,
+          "quote": "<td>40.</td>\n<td>A. la majorité</td>\n<td>B. nombre</td>\n<td>C. beaucoup</td>\n<td>D. quantité</td>\n</tr>\n</tbody>\n</table>"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q041",
+      "version": 1,
+      "originalLabel": "41",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 8,
+          "start": 135,
+          "end": 215,
+          "quote": "\n41. Les fraises coûtent 3,99 euros _______ kilo.\nA. un\nB. chaque\nC. le\nD. tout\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q042",
+      "version": 1,
+      "originalLabel": "42",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 8,
+          "start": 215,
+          "end": 314,
+          "quote": "\n42. Bien qu'il ait fait _______ grands efforts, il a échoué au concours.\nA. de\nB. des\nC. les\nD. /\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q043",
+      "version": 1,
+      "originalLabel": "43",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 8,
+          "start": 314,
+          "end": 393,
+          "quote": "\n43. Elle préfère les robes _______.\nA. rose\nB. bleu ciel\nC. blancs\nD. oranges\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [
+        {
+          "id": "md-review-122",
+          "questionId": "tfs4-2023-q043",
+          "code": "POSSIBLE_MULTIPLE_VALID_OPTIONS",
+          "severity": "warning",
+          "status": "open",
+          "message": "rose与bleu ciel均可作复数名词的不变颜色修饰语；保留原题及参考映射，需独立答案审查"
+        }
+      ],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q044",
+      "version": 1,
+      "originalLabel": "44",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 8,
+          "start": 393,
+          "end": 500,
+          "quote": "\n44. Bien _______ gens ne sont pas satisfaits de leurs conditions d'habitation.\nA. de\nB. des\nC. aux\nD. les\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q045",
+      "version": 1,
+      "originalLabel": "45",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 8,
+          "start": 500,
+          "end": 613,
+          "quote": "\n45. Au dîner, elle ne prend _______ viande _______ poisson.\nA. pas de, pas\nB. pas de, ni\nC. ni de, ni\nD. ni, ni\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q046",
+      "version": 1,
+      "originalLabel": "46",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 8,
+          "start": 613,
+          "end": 790,
+          "quote": "\n46. Ayant étudié les mathématiques _______ 4 ans à l'université, je suis maintenant enseignant _______ 3 ans.\nA. en, pour\nB. depuis, pour\nC. pendant, depuis\nD. depuis, pendant\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q047",
+      "version": 1,
+      "originalLabel": "47",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 8,
+          "start": 790,
+          "end": 911,
+          "quote": "\n47. Mes poissons viennent d'Indonésie. Et d'où viennent _______ ?\nA. les nôtres\nB. les vôtres\nC. les tiennes\nD. le leur\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q048",
+      "version": 1,
+      "originalLabel": "48",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "仅移除fait周围删除线标记，保留完整句子和空位"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 8,
+          "start": 911,
+          "end": 1003,
+          "quote": "\n48. L'argent ne ~~fait~~ pas le bonheur mais il _______ contribue.\nA. le\nB. en\nC. y\nD. lui\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q049",
+      "version": 1,
+      "originalLabel": "49",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 8,
+          "start": 1003,
+          "end": 1102,
+          "quote": "\n49. Il est nommé _______ une durée indéterminée au Quai d'Orsay.\nA. dans\nB. pour\nC. en\nD. pendant\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q050",
+      "version": 1,
+      "originalLabel": "50",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 8,
+          "start": 1102,
+          "end": 1226,
+          "quote": "\n50. Le programme consiste _______ quatre sessions de formation couvrant huit *thèmes différents*.\nA. en\nB. de\nC. à\nD. pour\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q051",
+      "version": 1,
+      "originalLabel": "51",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 8,
+          "start": 1226,
+          "end": 1322,
+          "quote": "\n51. Il parle souvent de son pays, loin _______ il s'ennuie.\nA. de qui\nB. duquel\nC. dont\nD. d'où"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q052",
+      "version": 1,
+      "originalLabel": "52",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 0,
+          "end": 118,
+          "quote": "52. Il faut faire la chambre _______ elle ne soit là.\nA. après qu'\nB. en attendant qu'\nC. jusqu'à ce qu'\nD. avant qu'\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q053",
+      "version": 1,
+      "originalLabel": "53",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 118,
+          "end": 229,
+          "quote": "\n53. L'été dernier, j'ai visité un musée _______ le nom m'échappe pour l'instant.\nA. que\nB. où\nC. dont\nD. d'où\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q054",
+      "version": 1,
+      "originalLabel": "54",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 229,
+          "end": 354,
+          "quote": "\n54. Les bruits, _______ tout le monde, devenaient de plus en plus forts.\nA. fatigant\nB. fatigants\nC. fatiguant\nD. fatiguent\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q055",
+      "version": 1,
+      "originalLabel": "55",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 354,
+          "end": 478,
+          "quote": "\n55. _______ un heureux hasard, son directeur de mémoire est un grand amateur de science-fiction.\nA. Pour\nB. À\nC. D'\nD. Par\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q056",
+      "version": 1,
+      "originalLabel": "56",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 478,
+          "end": 583,
+          "quote": "\n56. Ils se sont _______ de leur erreur dès le premier clic.\nA. aperçu\nB. aperçus\nC. réalisés\nD. réalisé\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q057",
+      "version": 1,
+      "originalLabel": "57",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 583,
+          "end": 691,
+          "quote": "\n57. Les cinq kilomètres que Magie _______ l'ont épuisée.\nA. a couru\nB. a courus\nC. est couru\nD. est courue\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q058",
+      "version": 1,
+      "originalLabel": "58",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 691,
+          "end": 788,
+          "quote": "\n58. Je n'ai jamais trouvé _______ de plus sérieux qu'elle.\nA. aucune\nB. personne\nC. nul\nD. rien\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q059",
+      "version": 1,
+      "originalLabel": "59",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 788,
+          "end": 886,
+          "quote": "\n59. Personne ne sait _______ est devenu mon oncle.\nA. ce qu'\nB. ce qui\nC. celui qu'\nD. celui qui\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q060",
+      "version": 1,
+      "originalLabel": "60",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 886,
+          "end": 1000,
+          "quote": "\n60. J'aime les fruits rouges _______ que la fraise, la framboise et la cerise.\nA. tel\nB. tels\nC. telles\nD. telle\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q061",
+      "version": 1,
+      "originalLabel": "61",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 1000,
+          "end": 1119,
+          "quote": "\n61. La montée du chômage a déterminé le gouvernement _______ prendre des mesures de réforme.\nA. à\nB. de\nC. en\nD. pour\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q062",
+      "version": 1,
+      "originalLabel": "62",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 1119,
+          "end": 1225,
+          "quote": "\n62. Voici _______ un jeune talent devrait ressembler.\nA. ce qu'\nB. qu'est-ce qu'\nC. ce dont\nD. ce à quoi\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q063",
+      "version": 1,
+      "originalLabel": "63",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 1225,
+          "end": 1361,
+          "quote": "\n63. La jeune femme est _______ heureuse d'avoir obtenu son diplôme avec mention « très honorable ».\nA. tout\nB. tous\nC. toute\nD. toutes\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q064",
+      "version": 1,
+      "originalLabel": "64",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 9,
+          "start": 1361,
+          "end": 1450,
+          "quote": "\n64. Il est peu probable qu'elle _______.\nA. réussira\nB. a réussi\nC. réussisse\nD. réussit"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q065",
+      "version": 1,
+      "originalLabel": "65",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 0,
+          "end": 142,
+          "quote": "65. Il s'est dépêché de monter dans le bus, comme s'il ________.\nA. ne me voie pas\nB. ne m'a pas vu\nC. ne me verrait pas\nD. ne m'avait pas vu\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q066",
+      "version": 1,
+      "originalLabel": "66",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 142,
+          "end": 243,
+          "quote": "\n66. ________ un vent très fort, il est sorti se promener.\nA. À cause d'\nB. Vu\nC. Malgré\nD. Faute d'\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q067",
+      "version": 1,
+      "originalLabel": "67",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 243,
+          "end": 342,
+          "quote": "\n67. ________ il soit, il doit respecter les autres.\nA. Quoi qu'\nB. Qui qu'\nC. Quelqu'\nD. Quel qu'\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q068",
+      "version": 1,
+      "originalLabel": "68",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 342,
+          "end": 420,
+          "quote": "\n68. Tu n'as vraiment pas de ________.\nA. raison\nB. faim\nC. sommeil\nD. chance\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q069",
+      "version": 1,
+      "originalLabel": "69",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 420,
+          "end": 511,
+          "quote": "\n69. Tu auras ________ attendre, il ne voudra pas te voir.\nA. beau\nB. belle\nC. bien\nD. bon\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q070",
+      "version": 1,
+      "originalLabel": "70",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 511,
+          "end": 621,
+          "quote": "\n70. J'ai dû perdre dans cette affaire ________ deux mille euros.\nA. quelque\nB. quelques\nC. plusieurs\nD. plus\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q071",
+      "version": 1,
+      "originalLabel": "71",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 621,
+          "end": 718,
+          "quote": "\n71. C'est à madame Dubois ________ vous devez vous adresser.\nA. laquelle\nB. que\nC. qui\nD. à qui\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q072",
+      "version": 1,
+      "originalLabel": "72",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 718,
+          "end": 826,
+          "quote": "\n72. C'était l'hiver : tout le territoire du Nord était couvert ________ neige.\nA. de\nB. de la\nC. par\nD. en\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q073",
+      "version": 1,
+      "originalLabel": "73",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 826,
+          "end": 969,
+          "quote": "\n73. Il faut être prudent, je ne confierai pas les clés de mon appartement à ________.\nA. personne\nB. n'importe qui\nC. nul autre\nD. quelconque\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q074",
+      "version": 1,
+      "originalLabel": "74",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 969,
+          "end": 1090,
+          "quote": "\n74. Devant les inconnus, elle se sent toujours gênée, mais moi, je ne ________ suis pas.\nA. (n')en\nB. la\nC. le\nD. (n')y\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q075",
+      "version": 1,
+      "originalLabel": "75",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "原标签A/B/B/D按四个实际位置规范为A/B/C/D，第三项文字保持Oui, dis-la-leur.；保留原文证据"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 1090,
+          "end": 1255,
+          "quote": "\n75. - Est-ce que je pourrais dire cela à mes amis ?\n- ________.\nA. Oui, parle-lui-en.\nB. Non, ne leur en parle pas.\nB. Oui, dis-la-leur.\nD. Non, ne le lui dis pas.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q076",
+      "version": 1,
+      "originalLabel": "76",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 1255,
+          "end": 1380,
+          "quote": "\n76. Ce soir, elle est ________ fatiguée qu'elle est rentrée du bureau à pied.\nA. tellement\nB. très\nC. trop\nD. d'autant plus\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q077",
+      "version": 1,
+      "originalLabel": "77",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 10,
+          "start": 1380,
+          "end": 1522,
+          "quote": "\n77. Il gagnera le Tour de France ________ il n'y ait pas d'incident imprévu.\nA. à condition qu'\nB. de crainte qu'\nC. à moins qu'\nD. sinon qu'"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q078",
+      "version": 1,
+      "originalLabel": "78",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 0,
+          "end": 117,
+          "quote": "78. Elle se doutait bien que je ________ le lendemain.\nA. n'irais pas\nB. n'y vais pas\nC. n'y aille pas\nD. n'irai pas\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q079",
+      "version": 1,
+      "originalLabel": "79",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 117,
+          "end": 253,
+          "quote": "\n79. Si tu étais venu chez moi hier soir, tu ________ Maria.\nA. rencontrerais\nB. avais rencontré\nC. auras rencontré\nD. aurais rencontré\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q080",
+      "version": 1,
+      "originalLabel": "80",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 253,
+          "end": 375,
+          "quote": "\n80. Il m'a dit qu'il serait de retour ________.\nA. dans huit jours\nB. il y a une semaine\nC. trois jours plus tard\nD. hier"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q081",
+      "version": 1,
+      "originalLabel": "81",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 13,
+          "start": 0,
+          "end": 233,
+          "quote": "81. Quel est le but de cette campagne de sensibilisation ?\nA. Combattre les préjugés liés aux nationalités.\nB. Mieux connaître les pays d'Europe.\nC. Échanger des idées et se faire des amis.\nD. Éliminer les stéréotypes sur la France.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q082",
+      "version": 1,
+      "originalLabel": "82",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 13,
+          "start": 233,
+          "end": 463,
+          "quote": "\n82. Quel préjugé associe-t-on aux Italiens ?\nA. Les Italiens ont tendance à tout critiquer.\nB. Les Italiens parlent toujours à haute voix.\nC. Les Italiens adorent voyager seuls.\nD. Les femmes italiennes restent souvent au foyer.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q083",
+      "version": 1,
+      "originalLabel": "83",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 13,
+          "start": 463,
+          "end": 834,
+          "quote": "\n83. Concernant les Français, qu'est-ce qui est vrai selon le texte ?\nA. Les étrangers ont peu de préjugés sur les Français.\nB. On dit que les Français donnent souvent l'impression d'être arrogants.\nC. Les Français ont beaucoup de préjugés sur les gens de différentes nationalités.\nD. Les Français ont plus de préjugés sur les pays africains que sur les pays asiatiques.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q084",
+      "version": 1,
+      "originalLabel": "84",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 13,
+          "start": 834,
+          "end": 1089,
+          "quote": "\n84. Dans le texte, quel type de stéréotypes n'est pas mentionné ?\nA. Le stéréotype sur les habitudes de voyages.\nB. Le stéréotype sur les habitudes alimentaires.\nC. Le stéréotype sur les préférences sportives.\nD. Le stéréotype sur les modèles familiaux.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q085",
+      "version": 1,
+      "originalLabel": "85",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 13,
+          "start": 1089,
+          "end": 1299,
+          "quote": "\n85. Quelles activités sont prévues pour cette campagne de sensibilisation ?\nA. Débats et atelier.\nB. Conférences et spectacles.\nC. Publicités à la télé et débats.\nD. Expositions de photos et soirées d'accueil."
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q086",
+      "version": 1,
+      "originalLabel": "86",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 15,
+          "start": 0,
+          "end": 137,
+          "quote": "86. En 2008, _______________ sont nés dans une famille bilingue en France.\nA. 5 bébés\nB. 50% des bébés\nC. 20% des bébés\nD. 25% des bébés\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q087",
+      "version": 1,
+      "originalLabel": "87",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 15,
+          "start": 137,
+          "end": 486,
+          "quote": "\n87. Concernant les étapes de l'apprentissage de langues, laquelle des affirmations suivantes ne correspond pas au texte ?\nA. Tous les enfants n'ont pas le même rythme.\nB. Les enfants font du babillage vers deux mois.\nC. Les enfants disent leurs premiers mots entre 11 et 13 mois.\nD. Les étapes sont les mêmes pour les monolingues et les bilingues.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q088",
+      "version": 1,
+      "originalLabel": "88",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 15,
+          "start": 486,
+          "end": 748,
+          "quote": "\n88. Un enfant bilingue de 24 mois _______________.\nA. subit une surcharge mentale\nB. a du retard dans l'apprentissage de langues\nC. acquiert une cinquantaine de mots répartis entre deux langues\nD. acquiert une cinquantaine de mots dans chacune des deux langues\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q089",
+      "version": 1,
+      "originalLabel": "89",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 15,
+          "start": 748,
+          "end": 1198,
+          "quote": "\n89. Pourquoi la linguiste affirme-t-elle que rien ne sert de prendre une nounou anglophone pendant un an ?\nA. Parce qu'il est inutile de commencer tôt l'apprentissage d'une langue.\nB. Parce que le bébé oublie vite une langue apprise s'il perd le contact avec cette langue.\nC. Parce que l'anglais ne s'apprend pas de la même manière que les autres langues.\nD. Parce que l'apprentissage d'une deuxième langue provoquera une surcharge pour le cerveau.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q090",
+      "version": 1,
+      "originalLabel": "90",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 15,
+          "start": 1198,
+          "end": 1541,
+          "quote": "\n90. Selon le texte, laquelle des affirmations suivantes est vraie ?\nA. Les gens ne classent pas les langues de la même manière.\nB. Parler anglais est un atout mais parler arabe est un handicap.\nC. Il suffit d'exposer un enfant à une langue pour qu'il la maîtrise.\nD. Les enfants acquièrent deux langues dans deux zones différentes du cerveau."
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q091",
+      "version": 1,
+      "originalLabel": "91",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 17,
+          "start": 0,
+          "end": 249,
+          "quote": "91. Le texte vise à ____________.\nA. remettre en cause la pensée positive\nB. faire un bilan annuel de la conquête spatiale\nC. attirer l'attention du public sur les crises écologiques\nD. rappeler aux lecteurs que les bonnes nouvelles ne manquent pas\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q092",
+      "version": 1,
+      "originalLabel": "92",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 17,
+          "start": 249,
+          "end": 565,
+          "quote": "\n92. Si les Français ont repris goût aux livres, c'est probablement parce que (qu')__________.\nA. les prix des livres ont beaucoup baissé\nB. il a été plus facile d'acheter des livres en ligne\nC. ils ont eu plus de temps libre pendant le confinement\nD. ils ont voulu soulager leur anxiété face aux crises économiques\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q093",
+      "version": 1,
+      "originalLabel": "93",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 17,
+          "start": 565,
+          "end": 858,
+          "quote": "\n93. L'un des objectifs de développement durable de l'ONU pour 2030 consiste à ____________.\nA. éliminer la pauvreté en Chine\nB. lutter contre l'extrême pauvreté dans le monde\nC. augmenter les revenus de la population mondiale\nD. éliminer l'extrême pauvreté dans le monde avec 10 ans d'avance\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q094",
+      "version": 1,
+      "originalLabel": "94",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 17,
+          "start": 858,
+          "end": 1215,
+          "quote": "\n94. Quel progrès a été enregistré dans la conquête spatiale ?\nA. Quatre touristes ont fait leur premier voyage spatial.\nB. *Paker Solar Probe* est un robot très résistant aux rayons du soleil.\nC. Des traces dans le sol de la Lune ont été prises en photo par *Tianwen-1*.\nD. *Paker Solar Probe* s'est posée sur Mars pour recueillir des données importantes.\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q095",
+      "version": 1,
+      "originalLabel": "95",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 17,
+          "start": 1215,
+          "end": 1511,
+          "quote": "\n95. Laquelle des affirmations suivantes correspond au texte ?\nA. Les pandas sont toujours une espèce en voie d'extinction.\nB. Le nombre des baleines bleues observées n'a pas augmenté.\nC. *Orca* est l'usine la plus polluante au monde.\nD. La chasse commerciale des baleines bleues a été interdite."
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q096",
+      "version": 1,
+      "originalLabel": "96",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 19,
+          "start": 0,
+          "end": 219,
+          "quote": "96. « Une feuille de chou » désigne ___________.\nA. un journal dont la qualité des informations est mauvaise\nB. un journal dont le prix n'est pas élevé\nC. un journal qui a une bonne réputation\nD. un journal mal imprimé\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q097",
+      "version": 1,
+      "originalLabel": "97",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 19,
+          "start": 219,
+          "end": 415,
+          "quote": "\n97. Au XIX<sup>e</sup> siècle, le chou était ___________.\nA. un légume saisonnier\nB. un légume très rare\nC. un légume commun et peu cher\nD. un légume consommé uniquement par la population rurale\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q098",
+      "version": 1,
+      "originalLabel": "98",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 19,
+          "start": 415,
+          "end": 614,
+          "quote": "\n98. Au XVIII<sup>e</sup> siècle, « canard » désignait ___________.\nA. les fausses informations répandues par la presse\nB. un journal de mauvaise qualité\nC. un journal méconnu\nD. un journal ironique\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q099",
+      "version": 1,
+      "originalLabel": "99",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 19,
+          "start": 614,
+          "end": 845,
+          "quote": "\n99. *Le Canard enchaîné* ___________.\nA. se focalise sur les faits divers\nB. est peu sérieux mais populaire\nC. est connu pour les fausses nouvelles qu'il publie\nD. est un journal indépendant qui revendique la liberté d'expression\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-q100",
+      "version": 3,
+      "originalLabel": "100",
+      "responseType": "choice",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 19,
+          "start": 845,
+          "end": 1040,
+          "quote": "\n100. Selon le texte, l'« ours » ___________.\nA. est un jargon anglais\nB. est un logo de journal\nC. désigne toute l'équipe d'un journal\nD. désigne toutes les informations publiées dans un journal"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-task-I",
+      "version": 2,
+      "originalLabel": "Part I",
+      "responseType": "dictation",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "核对试卷说明、词汇与数字书写要求，并将答案页听写参考独立映射"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 2,
+          "start": 0,
+          "end": 621,
+          "quote": "# **Partie I : Dictée (10 points)**\n\n*Dans cette partie, vous entendrez un texte. Il sera lu quatre fois (le <mark>commencement</mark> sera signalé par un bip sonore) : pour la première fois, vous n'avez <mark>du</mark> à l'écouter ; pour la deuxième et la troisième fois, vous écrivez le texte en l'écoutant et pour la quatrième fois, vous écoutez le texte pour vérifier votre transcription.*\n\n*Après la dictée, vous aurez trois minutes pour relire votre texte.*\n\n*Maintenant, écoutez.*\n\n## **Vocabulaire :**\n\nle smartphone 智能手机\n\nle mérite 优点，好处\n\naccro (*(pl. ~s)*) (*(adj.)*) 沉迷的，上瘾的\n\n注意：年份或日期可以用阿拉伯数字书写，其它数字须用法语字母拼写。\n\n"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [
+        {
+          "id": "md-review-124",
+          "questionId": "tfs4-2023-task-I",
+          "code": "SOURCE_INSTRUCTION_CHARACTER",
+          "severity": "warning",
+          "status": "open",
+          "message": "听写说明原文vous n’avez du à l’écouter疑似qu’à；不从其他年份复制修订"
+        }
+      ],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-task-VII",
+      "version": 2,
+      "originalLabel": "Part VII",
+      "responseType": "writing",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 20,
+          "start": 0,
+          "end": 860,
+          "quote": "# **Partie VII : Expression écrite (15 points)**\n\n*D'après les dessins ci-dessous, rédigez un texte de 150 à 200 mots avec un titre qui lui convient. Indiquez à la fin le nombre des mots que vous aurez employés.*\n\n<table>\n  <tr>\n    <th>Numéro</th>\n    <th>Description</th>\n  </tr>\n<tr>\n    <td>①</td>\n    <td>Une femme touche le front d'un enfant qui semble malade.</td>\n  </tr>\n<tr>\n    <td>②</td>\n    <td>La femme donne de la température à l'enfant dans le lit.</td>\n  </tr>\n<tr>\n    <td>③</td>\n    <td>Un homme parle à l'enfant dans le lit.</td>\n  </tr>\n<tr>\n    <td>④</td>\n    <td>La femme donne un verre à l'enfant dans le lit.</td>\n  </tr>\n<tr>\n    <td>⑤</td>\n    <td>Plusieurs enfants sont dans le lit avec l'enfant.</td>\n  </tr>\n<tr>\n    <td>⑥</td>\n    <td>Le texte \"第二天\" (Second day), la femme et l'enfant se préparent à partir.</td>\n  </tr>\n</table>"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [
+        {
+          "id": "md-review-125",
+          "questionId": "tfs4-2023-task-VII",
+          "code": "MISSING_SOURCE_IMAGES",
+          "severity": "blocking",
+          "status": "open",
+          "message": "写作主任务依赖图片，MD只有描述或Image占位；保留任务，内容不可发布"
+        }
+      ],
+      "status": "reviewed_source_blocked"
+    },
+    {
+      "questionId": "tfs4-2023-verb-1",
+      "version": 2,
+      "originalLabel": "Part V · 1",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 560,
+          "end": 574,
+          "quote": "(**éteindre**)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-verb-2",
+      "version": 2,
+      "originalLabel": "Part V · 2",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 604,
+          "end": 617,
+          "quote": "(se *mettre*)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [
+        {
+          "id": "md-review-123",
+          "questionId": "tfs4-2023-verb-2",
+          "code": "REFERENCE_INSERTION_BOUNDARY",
+          "severity": "warning",
+          "status": "open",
+          "message": "来源答案me suis mis à，而题面后接au travail，直接替换会成为à au；保留参考，待确认填写边界"
+        }
+      ],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-verb-3",
+      "version": 2,
+      "originalLabel": "Part V · 3",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 761,
+          "end": 772,
+          "quote": "(*revenir*)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-verb-4",
+      "version": 2,
+      "originalLabel": "Part V · 4",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 804,
+          "end": 815,
+          "quote": "(*allumer*)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-verb-5",
+      "version": 2,
+      "originalLabel": "Part V · 5",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 853,
+          "end": 868,
+          "quote": "(*ne pas être*)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-verb-6",
+      "version": 2,
+      "originalLabel": "Part V · 6",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 913,
+          "end": 924,
+          "quote": "(*te dire*)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-verb-7",
+      "version": 2,
+      "originalLabel": "Part V · 7",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1005,
+          "end": 1015,
+          "quote": "(**être**)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-verb-8",
+      "version": 2,
+      "originalLabel": "Part V · 8",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1148,
+          "end": 1157,
+          "quote": "(*aller*)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-verb-9",
+      "version": 2,
+      "originalLabel": "Part V · 9",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1239,
+          "end": 1254,
+          "quote": "(*ne pas être*)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-verb-10",
+      "version": 2,
+      "originalLabel": "Part V · 10",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1305,
+          "end": 1315,
+          "quote": "(*donner*)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-verb-11",
+      "version": 2,
+      "originalLabel": "Part V · 11",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1392,
+          "end": 1403,
+          "quote": "(*prendre*)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-verb-12",
+      "version": 2,
+      "originalLabel": "Part V · 12",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1460,
+          "end": 1470,
+          "quote": "(*rendre*)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-verb-13",
+      "version": 2,
+      "originalLabel": "Part V · 13",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1498,
+          "end": 1507,
+          "quote": "(*finir*)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-verb-14",
+      "version": 2,
+      "originalLabel": "Part V · 14",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1542,
+          "end": 1553,
+          "quote": "(*essayer*)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-verb-15",
+      "version": 2,
+      "originalLabel": "Part V · 15",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1617,
+          "end": 1645,
+          "quote": "(*ne presque jamais servir*)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-verb-16",
+      "version": 2,
+      "originalLabel": "Part V · 16",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1681,
+          "end": 1690,
+          "quote": "(*faire*)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-verb-17",
+      "version": 2,
+      "originalLabel": "Part V · 17",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1758,
+          "end": 1768,
+          "quote": "(*courir*)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-verb-18",
+      "version": 2,
+      "originalLabel": "Part V · 18",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1793,
+          "end": 1805,
+          "quote": "(*demander*)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-verb-19",
+      "version": 2,
+      "originalLabel": "Part V · 19",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1843,
+          "end": 1853,
+          "quote": "(*rendre*)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    },
+    {
+      "questionId": "tfs4-2023-verb-20",
+      "version": 2,
+      "originalLabel": "Part V · 20",
+      "responseType": "verb_form",
+      "checks": [
+        "stem",
+        "all_options",
+        "underline_offsets",
+        "original_label",
+        "section",
+        "order",
+        "material_membership",
+        "source_spans"
+      ],
+      "notes": [
+        "已逐空核对括号动词、完整篇章定位及来源答案；不人为添加原文没有的下划线"
+      ],
+      "sourceEvidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 1899,
+          "end": 1907,
+          "quote": "(*être*)"
+        }
+      ],
+      "originalVersion": 1,
+      "openIssues": [],
+      "status": "MD_reviewed"
+    }
+  ],
+  "sectionReviews": [
+    {
+      "id": "I",
+      "label": "Partie I : Dictée (10 points)",
+      "instruction": "Dans cette partie, vous entendrez un texte. Il sera lu quatre fois (le commencement sera signalé par un bip sonore) : pour la première fois, vous n'avez du à l'écouter ; pour la deuxième et la troisième fois, vous écrivez le texte en l'écoutant et pour la quatrième fois, vous écoutez le texte pour vérifier votre transcription.\n\nAprès la dictée, vous aurez trois minutes pour relire votre texte.\n\nMaintenant, écoutez.\n\n## Vocabulaire :\n\nle smartphone 智能手机\n\nle mérite 优点，好处\n\naccro ((pl. ~s)) ((adj.)) 沉迷的，上瘾的\n\n注意：年份或日期可以用阿拉伯数字书写，其它数字须用法语字母拼写。",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 2,
+          "start": 0,
+          "end": 621,
+          "quote": "# **Partie I : Dictée (10 points)**\n\n*Dans cette partie, vous entendrez un texte. Il sera lu quatre fois (le <mark>commencement</mark> sera signalé par un bip sonore) : pour la première fois, vous n'avez <mark>du</mark> à l'écouter ; pour la deuxième et la troisième fois, vous écrivez le texte en l'écoutant et pour la quatrième fois, vous écoutez le texte pour vérifier votre transcription.*\n\n*Après la dictée, vous aurez trois minutes pour relire votre texte.*\n\n*Maintenant, écoutez.*\n\n## **Vocabulaire :**\n\nle smartphone 智能手机\n\nle mérite 优点，好处\n\naccro (*(pl. ~s)*) (*(adj.)*) 沉迷的，上瘾的\n\n注意：年份或日期可以用阿拉伯数字书写，其它数字须用法语字母拼写。\n\n"
+        }
+      ]
+    },
+    {
+      "id": "II",
+      "label": "Partie II : Compréhension orale (10 points)",
+      "instruction": "Cette partie est composée de deux sections.\n\n## Section A (5 points)\n\nDans cette section, vous entendrez dix petits dialogues. Chaque dialogue vous sera passé deux fois (le commencement sera signalé par un bip sonore). Vous l'écoutez et vous choisissez la bonne réponse à la question posée sur le dialogue.\n\nMaintenant, vous avez trois minutes pour lire les questions et toutes les réponses suggérées.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 2,
+          "start": 621,
+          "end": 1084,
+          "quote": "# **Partie II : Compréhension orale (10 points)**\n\n*Cette partie est composée de deux sections.*\n\n## **Section A (5 points)**\n\n*Dans cette section, vous entendrez dix petits dialogues. Chaque dialogue vous sera passé deux fois (le commencement sera signalé par un bip sonore). Vous l'écoutez et vous choisissez la bonne réponse à la question posée sur le dialogue.*\n\n*Maintenant, vous avez trois minutes pour lire les questions et toutes les réponses suggérées.*\n"
+        }
+      ]
+    },
+    {
+      "id": "III",
+      "label": "Partie III : Compétence lexicale (15 points)",
+      "instruction": "Cette partie est composée de deux sections.\n\nSection A (5 points)\n\n---\n\n(A) Lisez les phrases suivantes et choisissez le mot dont le sens est le plus proche de celui de la partie soulignée.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 5,
+          "start": 1078,
+          "end": 1199,
+          "quote": "**Partie III : Compétence lexicale (15 points)**\n\n*Cette partie est composée de deux sections.*\n\n**Section A (5 points)**"
+        },
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 6,
+          "start": 0,
+          "end": 122,
+          "quote": "(A) Lisez les *phrases suivantes* et choisissez le mot dont le sens est le plus proche de *celui de la partie soulignée*.\n"
+        }
+      ]
+    },
+    {
+      "id": "IV",
+      "label": "Partie IV : Compétence grammaticale (I) (20 points)",
+      "instruction": "Complétez les phrases suivantes avec le mot ou l'expression qui convient.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 8,
+          "start": 0,
+          "end": 135,
+          "quote": "# **Partie IV : Compétence grammaticale (I) (20 points)**\n\n*Complétez les phrases suivantes avec le mot ou l'expression qui convient.*\n"
+        }
+      ]
+    },
+    {
+      "id": "V",
+      "label": "Partie V : Compétence grammaticale (II) (10 points)",
+      "instruction": "Mettez les verbes entre parenthèses au temps et au mode qui conviennent.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 377,
+          "end": 512,
+          "quote": "# **Partie V : Compétence grammaticale (II) (10 points)**\n\n*Mettez les verbes entre parenthèses au temps et au mode qui conviennent.*\n\n"
+        }
+      ]
+    },
+    {
+      "id": "VI",
+      "label": "Partie VI : Compréhension écrite (20 points)",
+      "instruction": "Lisez les textes suivants et choisissez la bonne réponse à chacune des questions posées sur leur compréhension.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 12,
+          "start": 0,
+          "end": 167,
+          "quote": "# **Partie VI : Compréhension écrite (20 points)**\n\n*Lisez les textes suivants et choisissez la bonne réponse à chacune des questions posées sur leur compréhension.*\n\n"
+        }
+      ]
+    },
+    {
+      "id": "VII",
+      "label": "Partie VII : Expression écrite (15 points)",
+      "instruction": "D'après les dessins ci-dessous, rédigez un texte de 150 à 200 mots avec un titre qui lui convient. Indiquez à la fin le nombre des mots que vous aurez employés.",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 20,
+          "start": 0,
+          "end": 214,
+          "quote": "# **Partie VII : Expression écrite (15 points)**\n\n*D'après les dessins ci-dessous, rédigez un texte de 150 à 200 mots avec un titre qui lui convient. Indiquez à la fin le nombre des mots que vous aurez employés.*\n\n"
+        }
+      ]
+    }
+  ],
+  "materialReviews": [
+    {
+      "materialId": "tfs4-2023-cloze",
+      "decision": "MD_checked",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 7,
+          "start": 0,
+          "end": 1502,
+          "quote": "# **Section B (10 points)**\n\n*Complétez le texte suivant avec les mots et expressions qui conviennent.*\n\nSe déplacer en ville, ce n'est pas toujours facile. Les grandes villes proposent depuis longtemps des moyens de transport, mais __31__ ont aussi leurs inconvénients. Le métro est très fréquenté aux heures de pointe, et on ne s'y sent pas toujours __32__ après certaines heures à cause de la montée de la délinquance (违法，犯罪). Le bus est certes très pratique, mais très dépendant __33__ la qualité du trafic. Les taxis sont trop chers pour une utilisation __34__. Le tramway, quant à lui, ne __35__ qu'une zone très limitée de l'espace urbain. On peut bien sûr prendre sa voiture ou pratiquer le covoiturage (拼车), mais les embouteillages ou les difficultés pour se garer sont nombreux et l'heure d'arrivée à un rendez-vous n'est jamais __36__. Depuis les années 2000, on constate un changement de mentalité. Les médias, les entreprises, les municipalités, les écologistes invitent __37__ les citoyens à utiliser leurs vélos pour circuler dans les grandes villes. Il n'est pas forcément nécessaire de posséder un vélo. __38__, les services de location se sont développés un peu partout : c'est le cas du Vélib' à Paris et du Vélo'v à Lyon. Enfin, pour __39__ aux cyclistes de se déplacer en toute sécurité, un vrai réseau de pistes cyclables a été aménagé dans __40__ des grandes villes.\n\n<table>\n<thead>\n<tr>\n<th>Question</th>\n<th>A</th>\n<th>B</th>\n<th>C</th>\n<th>D</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n"
+        }
+      ]
+    },
+    {
+      "materialId": "tfs4-2023-reading-1",
+      "decision": "MD_checked",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 12,
+          "start": 167,
+          "end": 2033,
+          "quote": "## **1. Les étudiants contre les stéréotypes (刻板印象)**\n\nÀ l'Université de Bordeaux, les étudiants étrangers ont décidé de créer une association et de lancer une campagne de sensibilisation (宣传活动) contre les stéréotypes. Ces étudiants originaires de pays d'Europe, d'Asie et d'Afrique en ont assez d'être victimes de préjugés en fonction de leur nationalité. La campagne appelée « pour en finir avec les stéréotypes » a commencé en janvier et se poursuivra jusqu'en mars. Pendant ces trois mois, il y aura des expositions de photos, des débats et des conférences sur les stéréotypes.\n\nAkiko est une étudiante japonaise : « Ici les gens pensent que les Japonais voyagent toujours en groupe et qu'ils passent leur temps à prendre des photos. Mais ce n'est pas le cas de tous les Japonais. Par exemple, la première fois que je suis venue en Europe, j'ai voyagé seule. Et je n'avais pas d'appareil photo ! »\n\nPaola, l'Italienne, sourit. Dès que les gens apprennent qu'elle est Italienne, ils lui parlent de pizza et se mettent à parler avec les mains. « En Europe, il y a encore beaucoup de personnes qui pensent qu'avec la tradition familiale, les femmes ne travaillent pas en Italie. J'aimerais changer cette image, car c'est faux : il y a beaucoup de femmes qui ont fait de grandes carrières professionnelles. »\n\nKodjo, étudiant togolais (多哥的), rajoute : « Les gens pensent que l'Afrique est un seul et même pays, et que tous les Africains se ressemblent. C'est totalement faux. L'Afrique est un continent très diversifié. Et non, tous les Africains ne savent pas danser ! »\n\nDes étudiants français comme Ludovic font également partie de cette association. « **Quand nous partons en stage à l'étranger, on nous dit que les Français ont souvent l'air arrogants, qu'ils ont la réputation de tout critiquer. Nous allons animer un atelier pour casser toutes ces images. »**"
+        }
+      ]
+    },
+    {
+      "materialId": "tfs4-2023-reading-2",
+      "decision": "MD_checked",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 14,
+          "start": 0,
+          "end": 2233,
+          "quote": "# **2. Parler deux langues est-il un atout ou un handicap pour les enfants ?**\n\nEn France, un enfant sur cinq naissait en 2008 dans un foyer bilingue. Et le développement du langage chez l'enfant bilingue n'aura pas de grosses différences avec un enfant monolingue. « Le jeune enfant acquiert une ou deux langues dans la même zone du cerveau, mais celui-ci est plus actif en travaillant sur deux langues, souligne Barbara Abdelilah-Bauer, auteure du *Défi des enfants bilingues*, mais ce n'est pas une surcharge pour le cerveau. »\n\nSi chaque enfant va à son rythme, les étapes sont les mêmes pour ceux qui découvrent une ou deux langues. « Vers deux mois, ils font des vocalises (练声), vers six mois du babillage (咿呀学语), entre 11 et 13 mois ils disent leurs premiers mots pour apprendre un mot par semaine jusqu'à 24 mois, où ils atteignent un lexique d'une cinquantaine de mots, explique la linguiste. À la différence près que les 50 mots d'un bilingue sont répartis entre deux langues. » Ce qui <u>peut</u> donner l'illusion d'un retard dans une langue, mais « quand on étudie le vocabulaire des enfants bilingues et monolingues à trois ans, on trouve dans chaque langue le même nombre de mots en moyenne ».\n\nC'est la même règle pour toutes les langues : plus on commence tôt, mieux c'est. À condition, bien sûr, qu'il y ait un suivi. « Plus l'enfant est jeune, plus vite il va apprendre une deuxième langue... et plus vite il peut l'oublier s'il n'a plus de contact avec elle », prévient Barbara Abdelilah-Bauer. Rien ne sert donc de prendre une nounou (保姆) anglophone pendant un an... Car un enfant peut être totalement bilingue à quatre ans et ne plus se souvenir d'un seul mot quelques années plus tard.\n\nContrairement aux préjugés de certains, il n'y a aucun retard chez les bilingues. Encore aujourd'hui, certains pensent qu'un enfant élevé avec le français et l'arabe aurait plus de difficultés à l'école. D'ailleurs, la société ne classe pas les langues de la même façon. « Malheureusement, on voit souvent la capacité à parler anglais comme un atout, mais pas forcément d'autres langues, regrette la linguiste. Je reçois par exemple des couples franco-espagnols qui n'ont qu'une hâte : que leur enfant apprenne l'anglais. »"
+        }
+      ]
+    },
+    {
+      "materialId": "tfs4-2023-reading-3",
+      "decision": "MD_checked",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 16,
+          "start": 0,
+          "end": 2020,
+          "quote": "# 3. Restons positifs !\n\nRestons positifs ! Bien sûr, l'ambiance actuelle est tendue et les crises se succèdent, mais la période a aussi apporté son lot de bonnes nouvelles !\n\nL'année 2021 a prouvé que les gens retrouvent leur passion de lecture. Par exemple, elle a enregistré un record de ventes de livres en France, avec 400 millions d'exemplaires vendus dans le pays. Les confinements（封控）y sont sûrement pour quelque chose.\n\nDes avancées sociétales sont également connues dans le monde. Selon la Banque mondiale, le taux mondial de pauvreté continue à reculer. L'un des objectifs de développement durable de l'ONU pour 2030 (l'Agenda 2030) est de réduire au maximum voire d'éliminer l'extrême pauvreté dans le monde dont le seuil est de 1,25 dollar par jour par personne. La lutte contre la pauvreté en Chine a grandement contribué à la réduction de la pauvreté mondiale pour atteindre l'objectif de l'Agenda 2030, avec 10 ans d'avance sur le programme.\n\n2020 a été une année riche pour la conquête spatiale. Les Chinois ont envoyé vers Mars la sonde（探测器）*Tianwen-1*, transportant un robot téléguidé à roues qui a pris en photo les traces dans le sol de la planète rouge et a recueilli des données importantes. Une autre sonde *Parker Solar Probe* a « touché » le soleil pour la première fois, après un voyage de près de deux ans et demi. Ce robot, très résistant à la chaleur, a permis de collecter des données précieuses. 2021, c'est aussi l'année des premiers touristes dans l'espace. Quatre touristes spatiaux ont passé trois jours à bord de *SpaceX*.\n\nLa nature a eu, elle aussi, son lot de bonnes nouvelles. Tout d'abord, les baleines bleues sont revenues en Antarctique alors que l'espèce était en voie de disparition. Plusieurs dizaines ont pu être observées. Du jamais vu depuis la fin de la chasse commerciale ! Les pandas, quant à eux, ont été retirés de la liste des animaux en voie de disparition. Pour finir, on a lancé en Islande la plus grande usine au monde à dépolluer l'air. Son nom ? *Orca*.\n\n---"
+        }
+      ]
+    },
+    {
+      "materialId": "tfs4-2023-reading-4",
+      "decision": "MD_checked",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 18,
+          "start": 0,
+          "end": 2076,
+          "quote": "# **4. Une feuille de chou, un canard ou un ours ?**\n\nSi votre ami français vous montre un journal en le traitant de « feuille de chou », vous pouvez en conclure qu'il est de mauvaise qualité ! Votre ami ne fait pas référence ici à la qualité du papier, mais à la qualité des informations qu'on y trouve. Pourquoi ce légume en particulier ? Quand l'expression est née au **XIX<sup>e</sup> siècle**, la population française était majoritairement rurale. Les paysans mangeaient le plus souvent des légumes, surtout ceux qui étaient peu chers, comme le chou. Les gens ont pris l'habitude de comparer le chou, légume commun et bon marché, à tout ce qui était insignifiant et sans valeur.\n\nOn peut aussi traiter un journal de « canard ». Au **XVIII<sup>e</sup> siècle**, on appelait « canard » les fausses nouvelles propagées par la presse qu'on distribuait dans la rue et qui rapportait souvent des faits divers. Ces bulletins d'informations n'étaient pas considérés comme une presse sérieuse, mais ils étaient populaires. Cette appellation viendrait peut-être d'une vieille expression française du **XVI<sup>e</sup> siècle**, « bailler un canard à moitié », qui signifiait « tromper ». Le mot « canard » a fini par faire référence aux journaux peu crédibles. Aujourd'hui, le terme est devenu neutre, même s'il n'est pas flatteur pour ~~une~~ publication d'être qualifiée de « canard ». Une exception cependant : *Le Canard enchaîné*. Symbole d'une presse indépendante, ce journal hebdomadaire revendique une certaine liberté d'expression et emploie l'ironie jusque dans son nom ! Il en faut effectivement beaucoup pour lui faire fermer son bec (喙) !\n\nOuvrez un journal ou un magazine : vous pouvez être sûr d'y trouver un ours ! Dans le jargon (行话) de la presse, l'« ours » désigne l'encadré (方框) où sont mentionnés les noms de toutes les personnes qui ont participé à la publication. Pourquoi parle-t-on d'« ours » ? Ce terme viendrait de Grande-Bretagne. En anglais, « ours » (prononcez le mot à l'anglaise) signifie « les nôtres », désignant ainsi toute l'équipe d'un journal."
+        }
+      ]
+    },
+    {
+      "materialId": "tfs4-2023-verbs",
+      "decision": "MD_checked",
+      "evidence": [
+        {
+          "documentId": "tfs4-2023-paper-cb80be213370",
+          "page": 11,
+          "start": 377,
+          "end": 1941,
+          "quote": "# **Partie V : Compétence grammaticale (II) (10 points)**\n\n*Mettez les verbes entre parenthèses au temps et au mode qui conviennent.*\n\n## La lampe de poche\n\nMaman est sortie. Je (J') (**éteindre**) ____(1)____ la lumière et je (se *mettre*) ____(2)____ au travail. C'est très chouette de faire les devoirs avec une lampe de poche, même si c'est de l'arithmétique (算术) ! Et puis Maman (*revenir*) ____(3)____ dans la chambre et (*allumer*) ____(4)____ la grosse lumière : elle (*ne pas être*) ____(5)____ contente du tout.\n\n- Je croyais (*te dire*) ____(6)____ de faire les devoirs avant de jouer ? m'a dit Maman.\n- Mais je (j') (**être**) ____(7)____ en train de les faire, mes devoirs, lui ai-je expliqué.\n- Dans l'obscurité ? Avec cette petite lampe ridicule ? Mais tu (*aller*) ____(8)____ te crever les yeux, Nicolas ! a crié Maman.\n\nJ'ai dit à Maman que ce (*ne pas être*) ____(9)____ une petite lampe ridicule, et qu'elle (*donner*) ____(10)____ une lumière terrible, mais Maman n'a rien voulu savoir et elle (*prendre*) ____(11)____ ma lampe, et elle a dit qu'elle me la (l') (*rendre*) ____(12)____ quand je (j') (*finir*) ____(13)____ mes devoirs. Je (J') (*essayer*) ____(14)____ de pleurer un coup, mais je sais qu'avec Maman ça (*ne presque jamais servir*) ____(15)____ à rien, alors je (j') (*faire*) ____(16)____ mon problème le plus vite possible.\n\nJe suis descendu (*courir*) ____(17)____ et je (j') (*demander*) ____(18)____ à Maman qu'elle me (m') (*rendre*) ____(19)____ ma lampe de poche.\n\n- Bon, mais (*être*) ____(20)____ sage, m'a dit Maman."
+        }
+      ]
+    }
+  ],
+  "verbMappings": [
+    {
+      "questionId": "tfs4-2023-verb-1",
+      "blankIndex": 1,
+      "lemma": "éteindre",
+      "materialId": "tfs4-2023-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 177,
+        "end": 187,
+        "quote": "(éteindre)"
+      },
+      "printedBlank": "____(1)____",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "ui conviennent.\n\n## La lampe de poche\n\nMaman est sortie. Je (J') (éteindre) ____(1)____ la lumière et je (se mettre) ____(2)____ au travail. C'est très cho",
+      "referenceId": "tfs4-2023-mdreview-verb-ref-1",
+      "rawAnswer": "J'ai éteint",
+      "referenceEvidence": {
+        "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+        "page": 1,
+        "start": 1081,
+        "end": 1095,
+        "quote": "1. J'ai éteint"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2023-verb-2",
+      "blankIndex": 2,
+      "lemma": "se mettre",
+      "materialId": "tfs4-2023-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 217,
+        "end": 228,
+        "quote": "(se mettre)"
+      },
+      "printedBlank": "____(2)____",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "aman est sortie. Je (J') (éteindre) ____(1)____ la lumière et je (se mettre) ____(2)____ au travail. C'est très chouette de faire les devoirs avec une lampe",
+      "referenceId": "tfs4-2023-mdreview-verb-ref-2",
+      "rawAnswer": "me suis mis à",
+      "referenceEvidence": {
+        "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+        "page": 1,
+        "start": 1096,
+        "end": 1112,
+        "quote": "2. me suis mis à"
+      },
+      "status": "unusable",
+      "answerReason": "来源答案me suis mis à，而题面后接au travail，直接替换会成为à au；保留参考，待确认填写边界"
+    },
+    {
+      "questionId": "tfs4-2023-verb-3",
+      "blankIndex": 3,
+      "lemma": "revenir",
+      "materialId": "tfs4-2023-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 372,
+        "end": 381,
+        "quote": "(revenir)"
+      },
+      "printedBlank": "____(3)____",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "e de poche, même si c'est de l'arithmétique (算术) ! Et puis Maman (revenir) ____(3)____ dans la chambre et (allumer) ____(4)____ la grosse lumière : elle (",
+      "referenceId": "tfs4-2023-mdreview-verb-ref-3",
+      "rawAnswer": "est revenue",
+      "referenceEvidence": {
+        "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+        "page": 1,
+        "start": 1113,
+        "end": 1127,
+        "quote": "3. est revenue"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2023-verb-4",
+      "blankIndex": 4,
+      "lemma": "allumer",
+      "materialId": "tfs4-2023-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 413,
+        "end": 422,
+        "quote": "(allumer)"
+      },
+      "printedBlank": "____(4)____",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "ue (算术) ! Et puis Maman (revenir) ____(3)____ dans la chambre et (allumer) ____(4)____ la grosse lumière : elle (ne pas être) ____(5)____ contente du tout",
+      "referenceId": "tfs4-2023-mdreview-verb-ref-4",
+      "rawAnswer": "a allumé",
+      "referenceEvidence": {
+        "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+        "page": 1,
+        "start": 1128,
+        "end": 1139,
+        "quote": "4. a allumé"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2023-verb-5",
+      "blankIndex": 5,
+      "lemma": "ne pas être",
+      "materialId": "tfs4-2023-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 460,
+        "end": 473,
+        "quote": "(ne pas être)"
+      },
+      "printedBlank": "____(5)____",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "ans la chambre et (allumer) ____(4)____ la grosse lumière : elle (ne pas être) ____(5)____ contente du tout.\n\n- Je croyais (te dire) ____(6)____ de faire les ",
+      "referenceId": "tfs4-2023-mdreview-verb-ref-5",
+      "rawAnswer": "n'était pas",
+      "referenceEvidence": {
+        "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+        "page": 1,
+        "start": 1140,
+        "end": 1154,
+        "quote": "5. n'était pas"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2023-verb-6",
+      "blankIndex": 6,
+      "lemma": "te dire",
+      "materialId": "tfs4-2023-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 518,
+        "end": 527,
+        "quote": "(te dire)"
+      },
+      "printedBlank": "____(6)____",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": ": elle (ne pas être) ____(5)____ contente du tout.\n\n- Je croyais (te dire) ____(6)____ de faire les devoirs avant de jouer ? m'a dit Maman.\n- Mais je (j')",
+      "referenceId": "tfs4-2023-mdreview-verb-ref-6",
+      "rawAnswer": "t'avoir dit",
+      "referenceEvidence": {
+        "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+        "page": 1,
+        "start": 1155,
+        "end": 1169,
+        "quote": "6. t'avoir dit"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2023-verb-7",
+      "blankIndex": 7,
+      "lemma": "être",
+      "materialId": "tfs4-2023-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 608,
+        "end": 614,
+        "quote": "(être)"
+      },
+      "printedBlank": "____(7)____",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "faire les devoirs avant de jouer ? m'a dit Maman.\n- Mais je (j') (être) ____(7)____ en train de les faire, mes devoirs, lui ai-je expliqué.\n- Dans l'ob",
+      "referenceId": "tfs4-2023-mdreview-verb-ref-7",
+      "rawAnswer": "suis",
+      "referenceEvidence": {
+        "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+        "page": 1,
+        "start": 1170,
+        "end": 1177,
+        "quote": "7. suis"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2023-verb-8",
+      "blankIndex": 8,
+      "lemma": "aller",
+      "materialId": "tfs4-2023-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 747,
+        "end": 754,
+        "quote": "(aller)"
+      },
+      "printedBlank": "____(8)____",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "\n- Dans l'obscurité ? Avec cette petite lampe ridicule ? Mais tu (aller) ____(8)____ te crever les yeux, Nicolas ! a crié Maman.\n\nJ'ai dit à Maman que c",
+      "referenceId": "tfs4-2023-mdreview-verb-ref-8",
+      "rawAnswer": "vas",
+      "referenceEvidence": {
+        "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+        "page": 1,
+        "start": 1178,
+        "end": 1184,
+        "quote": "8. vas"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2023-verb-9",
+      "blankIndex": 9,
+      "lemma": "ne pas être",
+      "materialId": "tfs4-2023-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 836,
+        "end": 849,
+        "quote": "(ne pas être)"
+      },
+      "printedBlank": "____(9)____",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "rever les yeux, Nicolas ! a crié Maman.\n\nJ'ai dit à Maman que ce (ne pas être) ____(9)____ une petite lampe ridicule, et qu'elle (donner) ____(10)____ une lum",
+      "referenceId": "tfs4-2023-mdreview-verb-ref-9",
+      "rawAnswer": "n'est pas",
+      "referenceEvidence": {
+        "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+        "page": 1,
+        "start": 1185,
+        "end": 1197,
+        "quote": "9. n'est pas"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2023-verb-10",
+      "blankIndex": 10,
+      "lemma": "donner",
+      "materialId": "tfs4-2023-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 900,
+        "end": 908,
+        "quote": "(donner)"
+      },
+      "printedBlank": "____(10)____",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": " (ne pas être) ____(9)____ une petite lampe ridicule, et qu'elle (donner) ____(10)____ une lumière terrible, mais Maman n'a rien voulu savoir et elle (pr",
+      "referenceId": "tfs4-2023-mdreview-verb-ref-10",
+      "rawAnswer": "donne",
+      "referenceEvidence": {
+        "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+        "page": 1,
+        "start": 1198,
+        "end": 1207,
+        "quote": "10. donne"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2023-verb-11",
+      "blankIndex": 11,
+      "lemma": "prendre",
+      "materialId": "tfs4-2023-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 985,
+        "end": 994,
+        "quote": "(prendre)"
+      },
+      "printedBlank": "____(11)____",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "_ une lumière terrible, mais Maman n'a rien voulu savoir et elle (prendre) ____(11)____ ma lampe, et elle a dit qu'elle me la (l') (rendre) ____(12)____ q",
+      "referenceId": "tfs4-2023-mdreview-verb-ref-11",
+      "rawAnswer": "a pris",
+      "referenceEvidence": {
+        "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+        "page": 1,
+        "start": 1208,
+        "end": 1218,
+        "quote": "11. a pris"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2023-verb-12",
+      "blankIndex": 12,
+      "lemma": "rendre",
+      "materialId": "tfs4-2023-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 1051,
+        "end": 1059,
+        "quote": "(rendre)"
+      },
+      "printedBlank": "____(12)____",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "prendre) ____(11)____ ma lampe, et elle a dit qu'elle me la (l') (rendre) ____(12)____ quand je (j') (finir) ____(13)____ mes devoirs. Je (J') (essayer) ",
+      "referenceId": "tfs4-2023-mdreview-verb-ref-12",
+      "rawAnswer": "rendrait",
+      "referenceEvidence": {
+        "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+        "page": 1,
+        "start": 1219,
+        "end": 1231,
+        "quote": "12. rendrait"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2023-verb-13",
+      "blankIndex": 13,
+      "lemma": "finir",
+      "materialId": "tfs4-2023-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 1087,
+        "end": 1094,
+        "quote": "(finir)"
+      },
+      "printedBlank": "____(13)____",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "lle a dit qu'elle me la (l') (rendre) ____(12)____ quand je (j') (finir) ____(13)____ mes devoirs. Je (J') (essayer) ____(14)____ de pleurer un coup, ma",
+      "referenceId": "tfs4-2023-mdreview-verb-ref-13",
+      "rawAnswer": "aurais fini",
+      "referenceEvidence": {
+        "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+        "page": 1,
+        "start": 1232,
+        "end": 1247,
+        "quote": "13. aurais fini"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2023-verb-14",
+      "blankIndex": 14,
+      "lemma": "essayer",
+      "materialId": "tfs4-2023-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 1129,
+        "end": 1138,
+        "quote": "(essayer)"
+      },
+      "printedBlank": "____(14)____",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "(12)____ quand je (j') (finir) ____(13)____ mes devoirs. Je (J') (essayer) ____(14)____ de pleurer un coup, mais je sais qu'avec Maman ça (ne presque jama",
+      "referenceId": "tfs4-2023-mdreview-verb-ref-14",
+      "rawAnswer": "J'ai essayé",
+      "referenceEvidence": {
+        "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+        "page": 1,
+        "start": 1248,
+        "end": 1263,
+        "quote": "14. J'ai essayé"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2023-verb-15",
+      "blankIndex": 15,
+      "lemma": "ne presque jamais servir",
+      "materialId": "tfs4-2023-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 1202,
+        "end": 1228,
+        "quote": "(ne presque jamais servir)"
+      },
+      "printedBlank": "____(15)____",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": ") ____(14)____ de pleurer un coup, mais je sais qu'avec Maman ça (ne presque jamais servir) ____(15)____ à rien, alors je (j') (faire) ____(16)____ mon problème le plus vi",
+      "referenceId": "tfs4-2023-mdreview-verb-ref-15",
+      "rawAnswer": "ne sert presque jamais",
+      "referenceEvidence": {
+        "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+        "page": 1,
+        "start": 1264,
+        "end": 1290,
+        "quote": "15. ne sert presque jamais"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2023-verb-16",
+      "blankIndex": 16,
+      "lemma": "faire",
+      "materialId": "tfs4-2023-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 1264,
+        "end": 1271,
+        "quote": "(faire)"
+      },
+      "printedBlank": "____(16)____",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "ça (ne presque jamais servir) ____(15)____ à rien, alors je (j') (faire) ____(16)____ mon problème le plus vite possible.\n\nJe suis descendu (courir) ___",
+      "referenceId": "tfs4-2023-mdreview-verb-ref-16",
+      "rawAnswer": "fais",
+      "referenceEvidence": {
+        "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+        "page": 1,
+        "start": 1291,
+        "end": 1299,
+        "quote": "16. fais"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2023-verb-17",
+      "blankIndex": 17,
+      "lemma": "courir",
+      "materialId": "tfs4-2023-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 1339,
+        "end": 1347,
+        "quote": "(courir)"
+      },
+      "printedBlank": "____(17)____",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "__(16)____ mon problème le plus vite possible.\n\nJe suis descendu (courir) ____(17)____ et je (j') (demander) ____(18)____ à Maman qu'elle me (m') (rendre",
+      "referenceId": "tfs4-2023-mdreview-verb-ref-17",
+      "rawAnswer": "en courant",
+      "referenceEvidence": {
+        "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+        "page": 1,
+        "start": 1300,
+        "end": 1314,
+        "quote": "17. en courant"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2023-verb-18",
+      "blankIndex": 18,
+      "lemma": "demander",
+      "materialId": "tfs4-2023-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 1372,
+        "end": 1382,
+        "quote": "(demander)"
+      },
+      "printedBlank": "____(18)____",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "ite possible.\n\nJe suis descendu (courir) ____(17)____ et je (j') (demander) ____(18)____ à Maman qu'elle me (m') (rendre) ____(19)____ ma lampe de poche.\n\n",
+      "referenceId": "tfs4-2023-mdreview-verb-ref-18",
+      "rawAnswer": "j'ai demandé",
+      "referenceEvidence": {
+        "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+        "page": 1,
+        "start": 1315,
+        "end": 1331,
+        "quote": "18. j'ai demandé"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2023-verb-19",
+      "blankIndex": 19,
+      "lemma": "rendre",
+      "materialId": "tfs4-2023-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 1420,
+        "end": 1428,
+        "quote": "(rendre)"
+      },
+      "printedBlank": "____(19)____",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": ")____ et je (j') (demander) ____(18)____ à Maman qu'elle me (m') (rendre) ____(19)____ ma lampe de poche.\n\n- Bon, mais (être) ____(20)____ sage, m'a dit ",
+      "referenceId": "tfs4-2023-mdreview-verb-ref-19",
+      "rawAnswer": "rende",
+      "referenceEvidence": {
+        "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+        "page": 1,
+        "start": 1332,
+        "end": 1341,
+        "quote": "19. rende"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    },
+    {
+      "questionId": "tfs4-2023-verb-20",
+      "blankIndex": 20,
+      "lemma": "être",
+      "materialId": "tfs4-2023-verbs",
+      "materialVersion": 2,
+      "target": {
+        "start": 1474,
+        "end": 1480,
+        "quote": "(être)"
+      },
+      "printedBlank": "____(20)____",
+      "locationBasis": "parenthesized_verb_and_printed_blank",
+      "context": "le me (m') (rendre) ____(19)____ ma lampe de poche.\n\n- Bon, mais (être) ____(20)____ sage, m'a dit Maman.",
+      "referenceId": "tfs4-2023-mdreview-verb-ref-20",
+      "rawAnswer": "sois",
+      "referenceEvidence": {
+        "documentId": "tfs4-2023-answers-8e3dfd0fceae",
+        "page": 1,
+        "start": 1342,
+        "end": 1350,
+        "quote": "20. sois"
+      },
+      "status": "mapped",
+      "answerReason": "逐空对照MD篇章和答案；原始参考保留，未采纳为正式判分答案"
+    }
+  ],
+  "tasks": {
+    "dictation": {
+      "questionId": "tfs4-2023-task-I",
+      "referenceId": "tfs4-2023-mdreview-dictation-ref",
+      "automaticGrading": false
+    },
+    "writing": {
+      "questionId": "tfs4-2023-task-VII",
+      "pictureVersion": "blocked_missing_images",
+      "historicalWordListVersion": null,
+      "modelEssayReferenceId": null,
+      "modelEssayAppliesTo": null,
+      "automaticGrading": false
+    }
+  },
+  "openIssues": [
+    {
+      "id": "md-review-122",
+      "questionId": "tfs4-2023-q043",
+      "code": "POSSIBLE_MULTIPLE_VALID_OPTIONS",
+      "severity": "warning",
+      "status": "open",
+      "message": "rose与bleu ciel均可作复数名词的不变颜色修饰语；保留原题及参考映射，需独立答案审查"
+    },
+    {
+      "id": "md-review-123",
+      "questionId": "tfs4-2023-verb-2",
+      "code": "REFERENCE_INSERTION_BOUNDARY",
+      "severity": "warning",
+      "status": "open",
+      "message": "来源答案me suis mis à，而题面后接au travail，直接替换会成为à au；保留参考，待确认填写边界"
+    },
+    {
+      "id": "md-review-124",
+      "questionId": "tfs4-2023-task-I",
+      "code": "SOURCE_INSTRUCTION_CHARACTER",
+      "severity": "warning",
+      "status": "open",
+      "message": "听写说明原文vous n’avez du à l’écouter疑似qu’à；不从其他年份复制修订"
+    },
+    {
+      "id": "md-review-125",
+      "questionId": "tfs4-2023-task-VII",
+      "code": "MISSING_SOURCE_IMAGES",
+      "severity": "blocking",
+      "status": "open",
+      "message": "写作主任务依赖图片，MD只有描述或Image占位；保留任务，内容不可发布"
+    }
+  ]
+}

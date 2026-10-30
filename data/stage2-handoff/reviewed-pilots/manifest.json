@@ -1,0 +1,151 @@
+{
+  "createdAt": "2026-10-28T09:35:50.054Z",
+  "scope": "S2-R01/R02 review pass with explicit source exceptions",
+  "pdfVisualReview": false,
+  "autoGradingAdopted": false,
+  "summary": [
+    {
+      "year": 2012,
+      "paperVersion": 3,
+      "itemsReviewed": 122,
+      "materialsReviewed": 6,
+      "verbMappings": 20,
+      "blockedItems": 4,
+      "openIssues": [
+        {
+          "questionId": "tfs4-2012-q044",
+          "code": "SOURCE_CHARACTER_UNCERTAIN",
+          "severity": "blocking"
+        },
+        {
+          "questionId": "tfs4-2012-q048",
+          "code": "SOURCE_DUPLICATE_OPTION_TEXT",
+          "severity": "blocking"
+        },
+        {
+          "questionId": "tfs4-2012-q068",
+          "code": "SOURCE_BLANK_MISSING",
+          "severity": "blocking"
+        },
+        {
+          "questionId": "tfs4-2012-task-VII",
+          "code": "MISSING_SOURCE_IMAGES",
+          "severity": "blocking"
+        },
+        {
+          "questionId": "tfs4-2012-task-VII",
+          "code": "WRITING_VERSION_CONFLICT",
+          "severity": "blocking"
+        }
+      ],
+      "outputSha256": "912908a43300f93016c1f29296528e49f4632bef19f162667a96235ca78de759"
+    },
+    {
+      "year": 2013,
+      "paperVersion": 3,
+      "itemsReviewed": 122,
+      "materialsReviewed": 6,
+      "verbMappings": 20,
+      "blockedItems": 10,
+      "openIssues": [
+        {
+          "questionId": "tfs4-2013-q046",
+          "code": "SOURCE_BLANK_MISSING",
+          "severity": "blocking"
+        },
+        {
+          "questionId": "tfs4-2013-q055",
+          "code": "SOURCE_BLANK_MISSING",
+          "severity": "blocking"
+        },
+        {
+          "questionId": "tfs4-2013-q075",
+          "code": "SOURCE_BLANK_MISSING",
+          "severity": "blocking"
+        },
+        {
+          "questionId": "tfs4-2013-q058",
+          "code": "SOURCE_CHARACTER_UNCERTAIN",
+          "severity": "blocking"
+        },
+        {
+          "questionId": "tfs4-2013-q031",
+          "code": "SOURCE_SPELLING_UNCERTAIN",
+          "severity": "warning"
+        },
+        {
+          "questionId": "tfs4-2013-q081",
+          "code": "SOURCE_MATERIAL_ELLIPSIS",
+          "severity": "blocking"
+        },
+        {
+          "questionId": "tfs4-2013-q082",
+          "code": "SOURCE_MATERIAL_ELLIPSIS",
+          "severity": "blocking"
+        },
+        {
+          "questionId": "tfs4-2013-q083",
+          "code": "SOURCE_MATERIAL_ELLIPSIS",
+          "severity": "blocking"
+        },
+        {
+          "questionId": "tfs4-2013-q084",
+          "code": "SOURCE_MATERIAL_ELLIPSIS",
+          "severity": "blocking"
+        },
+        {
+          "questionId": "tfs4-2013-q085",
+          "code": "SOURCE_MATERIAL_ELLIPSIS",
+          "severity": "blocking"
+        },
+        {
+          "questionId": "tfs4-2013-verb-1",
+          "code": "REFERENCE_INSERTION_BOUNDARY",
+          "severity": "warning"
+        },
+        {
+          "questionId": "tfs4-2013-task-VII",
+          "code": "MISSING_SOURCE_IMAGES",
+          "severity": "blocking"
+        },
+        {
+          "questionId": "tfs4-2013-task-VII",
+          "code": "WRITING_VERSION_CONFLICT",
+          "severity": "blocking"
+        }
+      ],
+      "outputSha256": "3f10c4378bcbba2ef5dd6de7bdc26043ed4ac734b86a02d6249d8f63ad61c70d"
+    },
+    {
+      "year": 2023,
+      "paperVersion": 3,
+      "itemsReviewed": 122,
+      "materialsReviewed": 6,
+      "verbMappings": 20,
+      "blockedItems": 1,
+      "openIssues": [
+        {
+          "questionId": "tfs4-2023-q043",
+          "code": "POSSIBLE_MULTIPLE_VALID_OPTIONS",
+          "severity": "warning"
+        },
+        {
+          "questionId": "tfs4-2023-verb-2",
+          "code": "REFERENCE_INSERTION_BOUNDARY",
+          "severity": "warning"
+        },
+        {
+          "questionId": "tfs4-2023-task-I",
+          "code": "SOURCE_INSTRUCTION_CHARACTER",
+          "severity": "warning"
+        },
+        {
+          "questionId": "tfs4-2023-task-VII",
+          "code": "MISSING_SOURCE_IMAGES",
+          "severity": "blocking"
+        }
+      ],
+      "outputSha256": "c4ca0f846c142d86f65cdc3077e33a5dc1899154a37174507cefb14215d39a0d"
+    }
+  ]
+}

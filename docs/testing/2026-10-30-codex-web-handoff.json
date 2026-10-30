@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-30",
+  "environment": "Windows Node local isolated fresh-directory smoke; Linux runtime not executed",
+  "manifestPayloadFiles": 139,
+  "documents": 42,
+  "pages": 452,
+  "allPayloadHashesVerified": true,
+  "allSittingsExtracted": 21,
+  "extractionIsProofreading": false,
+  "freshDatabaseBootstrapPassed": true,
+  "questions": 360,
+  "available": 277,
+  "pending": 83,
+  "nodes": 218,
+  "leaves": 190,
+  "independentRestoreVerified": true,
+  "unitTests": {
+    "passed": 69,
+    "failed": 0
+  },
+  "noProductionDatabaseOrCredentialsIncluded": true,
+  "linuxExecutionVerified": false
+}

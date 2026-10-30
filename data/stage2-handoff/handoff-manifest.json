@@ -1,0 +1,731 @@
+{
+  "createdDate": "2026-10-30",
+  "format": 1,
+  "documents": 42,
+  "pages": 452,
+  "sittings": [
+    "2005",
+    "2008",
+    "2009",
+    "2010",
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2021-06",
+    "2021-05",
+    "2022",
+    "2023",
+    "2024",
+    "2007",
+    "2006",
+    "2025"
+  ],
+  "objectiveRecords": 360,
+  "available": 277,
+  "pending": 83,
+  "containsDatabase": false,
+  "containsCredentials": false,
+  "files": [
+    {
+      "path": "md-batch/output/2005-paper/2005年法语专四真题及答案 校对 + 仿考试卷排版.md",
+      "bytes": 28237,
+      "sha256": "f20c50c46885894e2197ef4b5af5228848b550305b6deb5055ae97540fdec4af"
+    },
+    {
+      "path": "md-batch/output/2005-paper/result.json",
+      "bytes": 30220,
+      "sha256": "a86ecbb0cb705ba7027eb396a953136ad410d81e7531c0001ab06f2d1a252413"
+    },
+    {
+      "path": "md-batch/output/2005-paper/state.json",
+      "bytes": 295,
+      "sha256": "095b229876c1aa1173d7dd33dd467cc958e53d21549e913ad625ab489f61c1d2"
+    },
+    {
+      "path": "md-batch/output/2008-answers/08年专四真题答案.md",
+      "bytes": 3669,
+      "sha256": "f070975fc94ee8800f8a30c7fdf86d7e80ea2b9e14c87d622db3e208685fe61a"
+    },
+    {
+      "path": "md-batch/output/2008-answers/result.json",
+      "bytes": 4048,
+      "sha256": "726a721cc85b5e9c888685bf4b36500889ccbfd50fa9170f96a571bde2212b07"
+    },
+    {
+      "path": "md-batch/output/2008-answers/state.json",
+      "bytes": 255,
+      "sha256": "eb066208aa92b2b43e8510b2ca2ac2bdb405609da8d6f14eba55961c74897a6e"
+    },
+    {
+      "path": "md-batch/output/2009-answers/2009年法语专四真题答案.md",
+      "bytes": 1528,
+      "sha256": "e249b0b934afa929e7e89dff58dec90621f05111445c8db35eb3930308d0c9b6"
+    },
+    {
+      "path": "md-batch/output/2009-answers/result.json",
+      "bytes": 1678,
+      "sha256": "6963acdfc88e17e13ed9fdf0cc16815d7dc2b92e3a2621420dfd1dead727effc"
+    },
+    {
+      "path": "md-batch/output/2009-answers/state.json",
+      "bytes": 263,
+      "sha256": "ca5eeaf0265df3e91c75088bbba62b8674fd215cdf3458dfb39846af0b296c1f"
+    },
+    {
+      "path": "md-batch/output/2010-answers/2010年法语专四答案.md",
+      "bytes": 1537,
+      "sha256": "f233b045d682b6cca11f2f1ab9b838f3cc39298d86567dd9b77fa5bcf5816ccd"
+    },
+    {
+      "path": "md-batch/output/2010-answers/result.json",
+      "bytes": 1687,
+      "sha256": "16da24e5ddf638c698ef990d35352e99a451f2586140e0f09fc722427264be40"
+    },
+    {
+      "path": "md-batch/output/2010-answers/state.json",
+      "bytes": 257,
+      "sha256": "97c377291ae2d083aad13182535a8ccee617731ad2a4cf584a9f0f6362f351e3"
+    },
+    {
+      "path": "md-batch/output/2011-answers/2011年法语专四答案.md",
+      "bytes": 8423,
+      "sha256": "cb675e335be77cc699feb48fd5844eaf0b7a5864bc8aa33f6945624d9afdfb70"
+    },
+    {
+      "path": "md-batch/output/2011-answers/result.json",
+      "bytes": 9231,
+      "sha256": "a2f6c59812fb6ae100d4ad017bb8a310af0b5c9b639917c694ef017b59911a89"
+    },
+    {
+      "path": "md-batch/output/2011-answers/state.json",
+      "bytes": 257,
+      "sha256": "22dc605b8f60118a3b263ab40e1e5ef8b780c65d053eb649b189ce19bbc0583b"
+    },
+    {
+      "path": "md-batch/output/2012-answers/2012年法语专四真题答案.md",
+      "bytes": 6325,
+      "sha256": "24e43da16ed6487cdfac68f67ea5a9657c95002dffa08937a60b390c10a7b44e"
+    },
+    {
+      "path": "md-batch/output/2012-answers/result.json",
+      "bytes": 6847,
+      "sha256": "706b26e70630908f701eb5aa03ccd2d0a0318cbab85f447f4e9e5340d1bcecf0"
+    },
+    {
+      "path": "md-batch/output/2012-answers/state.json",
+      "bytes": 263,
+      "sha256": "8c945d30557688844d13c2d3061a9ee6e7c549b2e0d3c3bc4b7b9ee401e6e98d"
+    },
+    {
+      "path": "md-batch/output/2013-answers/2013年法语专四答案.md",
+      "bytes": 8912,
+      "sha256": "dd3370403f9ef85c5e1ee6d0b024ebd8a0f71c2805755532251fe1b7e157c631"
+    },
+    {
+      "path": "md-batch/output/2013-answers/result.json",
+      "bytes": 9734,
+      "sha256": "fc381998a8c42bb2afcf2b6fcc84bf22946fcab99aefc950083e854824a167df"
+    },
+    {
+      "path": "md-batch/output/2013-answers/state.json",
+      "bytes": 257,
+      "sha256": "16bf84127476330f72de1e8d1c1d3870b1a7ce8f44c728de093fe88604f41ce0"
+    },
+    {
+      "path": "md-batch/output/2014-answers/2014年法语专四真题答案.md",
+      "bytes": 9312,
+      "sha256": "715f8f10b6b51d36aaae424e0691ee688ac728e655f6931b6ed1b3549d053710"
+    },
+    {
+      "path": "md-batch/output/2014-answers/result.json",
+      "bytes": 10145,
+      "sha256": "82d5471d24947e503569646d987b82bad095ecca5850d01daf346d53e68491bd"
+    },
+    {
+      "path": "md-batch/output/2014-answers/state.json",
+      "bytes": 263,
+      "sha256": "9efb57f96a9bc2792679601529276d9cdedb40540b22fd089afe143d4766aaa2"
+    },
+    {
+      "path": "md-batch/output/2015-answers/2015年法语专四答案.md",
+      "bytes": 8697,
+      "sha256": "43a761b767a276448383872051860da3534675be86976eff0935cc79250716d3"
+    },
+    {
+      "path": "md-batch/output/2015-answers/result.json",
+      "bytes": 9530,
+      "sha256": "4621da08b38a300e3aad26907f6fe734c0f222152bef3f93712e2e9151fbd87f"
+    },
+    {
+      "path": "md-batch/output/2015-answers/state.json",
+      "bytes": 257,
+      "sha256": "3e800fe68473e371be89215016adbfec78036231332df529843ce28d41f7dc23"
+    },
+    {
+      "path": "md-batch/output/2016-answers/2016年法语专四真题答案.md",
+      "bytes": 10797,
+      "sha256": "2afc662d0ebe60a39bb17bc4cfb82cbe88db841a92e6afd20ebfb115530cb302"
+    },
+    {
+      "path": "md-batch/output/2016-answers/result.json",
+      "bytes": 11700,
+      "sha256": "393d4699d411a1b8aff110d77fa7b8fbaacd8c743875a88c7acd547d08da9e4b"
+    },
+    {
+      "path": "md-batch/output/2016-answers/state.json",
+      "bytes": 263,
+      "sha256": "b07400f8441ffa3ff10bdcd31f8631e9ca0264c23d82764b619f71572b14cbb3"
+    },
+    {
+      "path": "md-batch/output/2017-answers/2017年法语专四真题答案.md",
+      "bytes": 7400,
+      "sha256": "47ce69abdb9fbb5155945294c6787112d21a4cf2646a4106d7486dca1e8fe8fe"
+    },
+    {
+      "path": "md-batch/output/2017-answers/result.json",
+      "bytes": 8106,
+      "sha256": "64e97f7de5384c6fabd1dd04c61c04cf039eacf57d8265c6730117276b853420"
+    },
+    {
+      "path": "md-batch/output/2017-answers/state.json",
+      "bytes": 263,
+      "sha256": "c2324856e2be4db16a7f4e69f0f20b344d66c978001c8ff9fcbb184630d0bd3c"
+    },
+    {
+      "path": "md-batch/output/2018-answers/2018年法语专四真题答案.md",
+      "bytes": 9036,
+      "sha256": "e55bceef76b7e1c68127adacc41f8ea4a1fc8c390cb1286aeb06d502212c7367"
+    },
+    {
+      "path": "md-batch/output/2018-answers/result.json",
+      "bytes": 9861,
+      "sha256": "7065da81ddf0e52cfadaf47cb4c07ed1116e786657df99ad451e6edbdc6e11b9"
+    },
+    {
+      "path": "md-batch/output/2018-answers/state.json",
+      "bytes": 263,
+      "sha256": "a38c6953eab8906abf0e31d5df7a80401ffac8409f462062612fe2b29a305b78"
+    },
+    {
+      "path": "md-batch/output/2019-answers/2019年法语专四真题答案.md",
+      "bytes": 9392,
+      "sha256": "9a374610f6b460f26c2a187640bb3f201d949dfada78fafb22d084f67e29d0d5"
+    },
+    {
+      "path": "md-batch/output/2019-answers/result.json",
+      "bytes": 10191,
+      "sha256": "d9d4eb3f1375163bcd4ff7f8a36ad609e77825d12256cc852ba4a3dde679610e"
+    },
+    {
+      "path": "md-batch/output/2019-answers/state.json",
+      "bytes": 263,
+      "sha256": "a34e91077f27c0f49ebccb735f2af18d708e05ef66cbb7f63ef88308f1ec3cbd"
+    },
+    {
+      "path": "md-batch/output/2021-06-answers/2021年6月法语专四答案.md",
+      "bytes": 9251,
+      "sha256": "4811a4cb46e8a45e06ac5f0bb5392249aba3fc98e5c514ed5fe848d8ad80a196"
+    },
+    {
+      "path": "md-batch/output/2021-06-answers/result.json",
+      "bytes": 10107,
+      "sha256": "d9ca0ba3e9f6d5533684c8fda89843c678fcd1a0176688a72cbd683b9348fcd9"
+    },
+    {
+      "path": "md-batch/output/2021-06-answers/state.json",
+      "bytes": 261,
+      "sha256": "8fb4d46afe9e85b7fa33f6754621da23fd6b317895258025858f9234d0216696"
+    },
+    {
+      "path": "md-batch/output/2021-05-answers/2021年5月法语专四真题答案.md",
+      "bytes": 9817,
+      "sha256": "809bbcba6b99272b52f59304b4182605818753125761eba35054d498e2dff1c7"
+    },
+    {
+      "path": "md-batch/output/2021-05-answers/result.json",
+      "bytes": 10648,
+      "sha256": "de6221d710f0e5b8df41ead8aede95155ab89f17e619989160e2d55da141032f"
+    },
+    {
+      "path": "md-batch/output/2021-05-answers/state.json",
+      "bytes": 267,
+      "sha256": "25a93dcb1a7c45283108c1c3933108da169b7edc0191fd1e8be9f78b930b867d"
+    },
+    {
+      "path": "md-batch/output/2022-answers/2022年法语专四真题答案.md",
+      "bytes": 1430,
+      "sha256": "359a459a73af7f3dcd9c332748b61f93cb0ed4d823025626bb5ebf31d1d081f1"
+    },
+    {
+      "path": "md-batch/output/2022-answers/result.json",
+      "bytes": 1577,
+      "sha256": "84cc91a0524b6875dc38470b741cd08a1052b6119d10c7c8621dda76c72a010a"
+    },
+    {
+      "path": "md-batch/output/2022-answers/state.json",
+      "bytes": 263,
+      "sha256": "f5cba05f05277a492542f14ab0ab719ab9372c7b95b47969f0993c074287fb63"
+    },
+    {
+      "path": "md-batch/output/2023-answers/2023年法语专四真题答案.md",
+      "bytes": 1437,
+      "sha256": "8e3dfd0fceae57d1329ef0eeb328f5dc57c680ad8e81d44f59a5839e6b8a4cd7"
+    },
+    {
+      "path": "md-batch/output/2023-answers/result.json",
+      "bytes": 1585,
+      "sha256": "583e685386f6a0b9d2cf6a8bd6747067a4120c0c8b82dfa429b24cf75347dbc9"
+    },
+    {
+      "path": "md-batch/output/2023-answers/state.json",
+      "bytes": 263,
+      "sha256": "0988a978a124449dfd50023bbd4b1944728b53e51427b2f228bbcaed1a1a7017"
+    },
+    {
+      "path": "md-batch/output/2024-answers/2024年法语专四真题答案.md",
+      "bytes": 2628,
+      "sha256": "5ff5ef86ef23582256d50f8fabc522aebf406ec369522738bb3cd2eefd00d99f"
+    },
+    {
+      "path": "md-batch/output/2024-answers/result.json",
+      "bytes": 2931,
+      "sha256": "946c8e2aabedc172e52b498e082d22d08e4b57afee6066fbd3093c37f68c6938"
+    },
+    {
+      "path": "md-batch/output/2024-answers/state.json",
+      "bytes": 263,
+      "sha256": "46020265d43926f6b1d68e1d9e216fec620e10e8b5f3435ced2887f946c6535a"
+    },
+    {
+      "path": "md-batch/output/2007-answers/07年专四真题答案.md",
+      "bytes": 2350,
+      "sha256": "e8772348339e9dfd2adfc619bc9c974f87ca6d0e4dd18f66fa86efc7656283d1"
+    },
+    {
+      "path": "md-batch/output/2007-answers/result.json",
+      "bytes": 2641,
+      "sha256": "0feb4540dc9a11922ce026426371bbe121dfbbbbc508de9fdbcb0d6c213c98bf"
+    },
+    {
+      "path": "md-batch/output/2007-answers/state.json",
+      "bytes": 255,
+      "sha256": "e2db71ed05517717cd8328f6fbdd3a20071a318b066acd2f0234bd5102542ab9"
+    },
+    {
+      "path": "md-batch/output/2006-answers/06年专四真题答案.md",
+      "bytes": 2597,
+      "sha256": "177da44d4af6407251291b98a4c897ae8e8eb9889cb09c47cb2cc49b272b3d97"
+    },
+    {
+      "path": "md-batch/output/2006-answers/result.json",
+      "bytes": 2878,
+      "sha256": "57efc4f6fc68f833de917f52599c2204e1b6cfc08a5cc6e189bf1d5607ede7ff"
+    },
+    {
+      "path": "md-batch/output/2006-answers/state.json",
+      "bytes": 255,
+      "sha256": "0c21d16ca009bb8f3ee4d62205cc0e79931ec471b8baa987314b38297aee3865"
+    },
+    {
+      "path": "md-batch/output/2005-answers/05年专四真题答案.md",
+      "bytes": 3959,
+      "sha256": "30c77feb02e33265e5de7c6d5ec4dee7c0e4a0478c2f2ccc967e416784da60c5"
+    },
+    {
+      "path": "md-batch/output/2005-answers/result.json",
+      "bytes": 4533,
+      "sha256": "53ee589bc9d17d0ec79909d904b7a050385aa726a9d514e2c94cb5ff1cbb341b"
+    },
+    {
+      "path": "md-batch/output/2005-answers/state.json",
+      "bytes": 255,
+      "sha256": "5be4056f8b03ffe948408cf141def9f511063d9882e1b83da226c6d7936d0545"
+    },
+    {
+      "path": "md-batch/output/2024-paper/2024年法语专业四级真题.md",
+      "bytes": 28969,
+      "sha256": "4dbdb4603214da22ba1022a007b637a323778492512030176752a26c8225ffd4"
+    },
+    {
+      "path": "md-batch/output/2024-paper/result.json",
+      "bytes": 31375,
+      "sha256": "88e9dc45e214cc01d2292d71985701a48fc93b350e03058a5a8b99c14d8ef823"
+    },
+    {
+      "path": "md-batch/output/2024-paper/state.json",
+      "bytes": 264,
+      "sha256": "ed4cbec28e87dd6e4ef9850714e356a6fab68b8dca9907f4f22d6e7202103f0b"
+    },
+    {
+      "path": "md-batch/output/2006-paper/2006年法语专四真题及答案 校对 + 仿考试卷排版.md",
+      "bytes": 30927,
+      "sha256": "aa117f65dd8b8e0a9047a77379f2385d3304eee7f316b56fc4d218fe738c4d30"
+    },
+    {
+      "path": "md-batch/output/2006-paper/result.json",
+      "bytes": 33013,
+      "sha256": "6f77e73bb37648b768f6dfca516319e2fcea84f9b78cf38e2121c239102cb4b9"
+    },
+    {
+      "path": "md-batch/output/2006-paper/state.json",
+      "bytes": 295,
+      "sha256": "fa9b792dd33c0d4d084de12e15fe51d32d6d875e2e043ee73fefe32bfa49e54d"
+    },
+    {
+      "path": "md-batch/output/2007-paper/2007年法语专四真题及答案 校对 + 仿考试卷排版.md",
+      "bytes": 29658,
+      "sha256": "4fd2c0c3f9f7eddb4148ebe30e9eb9d9ba77828fd1a0eb799f414dbd76f7b37b"
+    },
+    {
+      "path": "md-batch/output/2007-paper/result.json",
+      "bytes": 32118,
+      "sha256": "fc6e061c7b81e5025fbe9a627b25543a2cc55669b4202cf051e0dc8ccf0dd1f7"
+    },
+    {
+      "path": "md-batch/output/2007-paper/state.json",
+      "bytes": 295,
+      "sha256": "8628eaac9a2494ec5ba0724275a196cf6e07f64db344996c6f571de566962d62"
+    },
+    {
+      "path": "md-batch/output/2008-paper/2008年法语专四真题及答案 校对 + 仿考试卷排版.md",
+      "bytes": 30756,
+      "sha256": "77e5ed848c79e2d7adb0e94962ee895b2f7bc29499b2366d80c0e65013f8d2a3"
+    },
+    {
+      "path": "md-batch/output/2008-paper/result.json",
+      "bytes": 32942,
+      "sha256": "f5fcfe0511689080d2c3627d956d16fe1f1c37c58c4eaa464315fc7426808cbc"
+    },
+    {
+      "path": "md-batch/output/2008-paper/state.json",
+      "bytes": 295,
+      "sha256": "d5652066134203bf8975438a17d9ca069474fc19ec00196c71fd37128da0f671"
+    },
+    {
+      "path": "md-batch/output/2009-paper/2009年法语专四真题及答案 校对 + 仿考试卷排版.md",
+      "bytes": 28457,
+      "sha256": "8b69df3edd3f7b9fd9408811989c78b6e699b1d42e60199005984f6a740ae6df"
+    },
+    {
+      "path": "md-batch/output/2009-paper/result.json",
+      "bytes": 30638,
+      "sha256": "827fccb8f46f69675fdf78f1bbf34d29fefee9c1ab423ccb3bf54e935e100f1d"
+    },
+    {
+      "path": "md-batch/output/2009-paper/state.json",
+      "bytes": 295,
+      "sha256": "87ede49d59a2efb8e30a6ca92d4aa67c76881cc346e98b8853f85a2f3759a0a4"
+    },
+    {
+      "path": "md-batch/output/2010-paper/2010年法语专四真题（无水印版）.md",
+      "bytes": 26796,
+      "sha256": "c89dea8f864c7239788bba5a9f278706e3f92f6897152259bfdab888211319c5"
+    },
+    {
+      "path": "md-batch/output/2010-paper/result.json",
+      "bytes": 28552,
+      "sha256": "6a78589ee50dfeefa450eec5c38e46e5e4a682f1997cad78261d671160360259"
+    },
+    {
+      "path": "md-batch/output/2010-paper/state.json",
+      "bytes": 276,
+      "sha256": "7255bffa65d21a8c3d69fc27ef4ea23ad6f42492f10ac06de7df6b520ed9010b"
+    },
+    {
+      "path": "md-batch/output/2011-paper/2011年法语专四真题（无水印版）.md",
+      "bytes": 28642,
+      "sha256": "afc43e08e94b5b9f852144b11000071052f1a83da949dac392f203f482aa60c9"
+    },
+    {
+      "path": "md-batch/output/2011-paper/result.json",
+      "bytes": 30416,
+      "sha256": "7cec8737966b7e251bc4737acdf46a343d0a458b67b20b5669770a3ebf3481ec"
+    },
+    {
+      "path": "md-batch/output/2011-paper/state.json",
+      "bytes": 276,
+      "sha256": "69857b0d0cfe7e666f0397f235cd89fef5bd77d8ecdbdf41aad3375429330c2b"
+    },
+    {
+      "path": "md-batch/output/2012-paper/2012年法语专四真题（无水印版）.md",
+      "bytes": 28859,
+      "sha256": "3b0d3411e6fbc67be71bfee6642e1a0f817eb64f867566c50eead237b9a680e5"
+    },
+    {
+      "path": "md-batch/output/2012-paper/result.json",
+      "bytes": 30657,
+      "sha256": "c7d2620025a7c219c7befd89f8709992ba76296af11ef906f15beaa3b88c280b"
+    },
+    {
+      "path": "md-batch/output/2012-paper/state.json",
+      "bytes": 276,
+      "sha256": "86be0bd321ef86f7f39a4df8fd91e9114d4a6f189019cd30d2b4180ca827e5f4"
+    },
+    {
+      "path": "md-batch/output/2013-paper/2013年法语专四真题（无水印版）.md",
+      "bytes": 30379,
+      "sha256": "9f40705cac10152b8edc3f1172c01827009aa4486d83d7146a31456bb151665e"
+    },
+    {
+      "path": "md-batch/output/2013-paper/result.json",
+      "bytes": 32479,
+      "sha256": "ad3d8248f5e068dcc0b142b8ab09481c7a242d6e5558088a52e3f2a70caf219a"
+    },
+    {
+      "path": "md-batch/output/2013-paper/state.json",
+      "bytes": 276,
+      "sha256": "6a258ff7d70a3fcd1b23aa582cc44329d59c5320d79a4cc89843a230e009c7c1"
+    },
+    {
+      "path": "md-batch/output/2025-paper/2025年法语专四真题.md",
+      "bytes": 31204,
+      "sha256": "98912440dd684703954c2e63578bc513530ed5d39794da53e43416dbaec67bc9"
+    },
+    {
+      "path": "md-batch/output/2025-paper/result.json",
+      "bytes": 33054,
+      "sha256": "62bf3b1513fefb1cac89f56baa8a62c780fcbeb696a8d8136076bc267432cfec"
+    },
+    {
+      "path": "md-batch/output/2025-paper/state.json",
+      "bytes": 258,
+      "sha256": "aff06cc52df11197a384d929db37ec9701b392d78949c8a15a790361a393faf3"
+    },
+    {
+      "path": "md-batch/output/2014-paper/2014年法语专四真题（无水印版）.md",
+      "bytes": 29185,
+      "sha256": "b3db5104666537d2456d53bf5f9d9812785d65c2aa416d6466e729a652cbe598"
+    },
+    {
+      "path": "md-batch/output/2014-paper/result.json",
+      "bytes": 31186,
+      "sha256": "8682adc3ed069a3801de5da0d670facb3f2f1b8f81bc179b559c57923c0c0c16"
+    },
+    {
+      "path": "md-batch/output/2014-paper/state.json",
+      "bytes": 276,
+      "sha256": "6de890757fe4702427f2f696d9863b002005e2dca62c2b31ea6facc3bef186ca"
+    },
+    {
+      "path": "md-batch/output/2016-paper/2016年法语专四真题（无水印版）.md",
+      "bytes": 35148,
+      "sha256": "5e88679b3a31942e34b22b15213a8f42ad358024dbf20cddf49075393bb3d4ab"
+    },
+    {
+      "path": "md-batch/output/2016-paper/result.json",
+      "bytes": 37332,
+      "sha256": "84cbbb2494a6d1f7fdb07fe87cc858a2b242beb32b86673469da7a6ddc4dbad0"
+    },
+    {
+      "path": "md-batch/output/2016-paper/state.json",
+      "bytes": 276,
+      "sha256": "e3888012dd76ec9441cce192e47824394c856e5fe7b5963d518ec23c11bb204c"
+    },
+    {
+      "path": "md-batch/output/2017-paper/2017年法语专四真题（无水印版）.md",
+      "bytes": 34677,
+      "sha256": "90c40229fbdce14e55771337b280a0708a0b32d3ca81d55b81ff002bbddf53cc"
+    },
+    {
+      "path": "md-batch/output/2017-paper/result.json",
+      "bytes": 36771,
+      "sha256": "b7ff427f484ee6d55a63b9e604ce8c12e350750e2190a9f36d74fee398e9dd9c"
+    },
+    {
+      "path": "md-batch/output/2017-paper/state.json",
+      "bytes": 276,
+      "sha256": "45f1d60f73af0af34f98155de4be342894a57eafda115b9952ae76435894a316"
+    },
+    {
+      "path": "md-batch/output/2018-paper/2018年法语专四真题（无水印版）.md",
+      "bytes": 31044,
+      "sha256": "4ce6686ebdd855353be8563010cc689d61e1b679472716edda41e8770fe05a16"
+    },
+    {
+      "path": "md-batch/output/2018-paper/result.json",
+      "bytes": 32885,
+      "sha256": "2b422dace2dad30162b9b0972095db2128bf2b556bdb350b346882e78623edf7"
+    },
+    {
+      "path": "md-batch/output/2018-paper/state.json",
+      "bytes": 276,
+      "sha256": "630c2cd311a56251a14cbfa670ded3986629abf7e93f861550b83f1ed7b942a2"
+    },
+    {
+      "path": "md-batch/output/2019-paper/2019年法语专四真题（无水印版）.md",
+      "bytes": 30532,
+      "sha256": "b02fadc2206a6bde02dc3ee0eea351f9c0d44d882ca9cd292aa4c7ee99f99a8b"
+    },
+    {
+      "path": "md-batch/output/2019-paper/result.json",
+      "bytes": 32340,
+      "sha256": "7ca6898eb31ca853591e463d3f73321ef45aa2ba01fd0bfd36d1f4ac2237495d"
+    },
+    {
+      "path": "md-batch/output/2019-paper/state.json",
+      "bytes": 276,
+      "sha256": "101f9ce8fba84096148f54b1be50f56006bdce837a422f8262420f5ea17ca339"
+    },
+    {
+      "path": "md-batch/output/2021-06-paper/2021年6月法语专四真题（无水印版）.md",
+      "bytes": 29636,
+      "sha256": "960714681535029e549c5ef29bfe36a3305ac3f216907ef8496f8ffa3c60e90a"
+    },
+    {
+      "path": "md-batch/output/2021-06-paper/result.json",
+      "bytes": 31319,
+      "sha256": "f4ac7ef6d3ba5992ac7dca253e3657d23994b64083ab09378887639237bcc722"
+    },
+    {
+      "path": "md-batch/output/2021-06-paper/state.json",
+      "bytes": 280,
+      "sha256": "8bf8766600bde2d2fa6b11de948459fa02b081b8b81dc7296c4c0ad1bc0faabe"
+    },
+    {
+      "path": "md-batch/output/2021-05-paper/2021年5月法语专四真题（无水印版）.md",
+      "bytes": 34042,
+      "sha256": "170c5bd3ccde692e72a35b193a3a010dc15da0caff99b340319f04749d00cafa"
+    },
+    {
+      "path": "md-batch/output/2021-05-paper/result.json",
+      "bytes": 36184,
+      "sha256": "b53d1593f3847f17eabb5c497fe1608a910fbb49096aefc227cc110c9c532f95"
+    },
+    {
+      "path": "md-batch/output/2021-05-paper/state.json",
+      "bytes": 280,
+      "sha256": "5372a5cfeab39d318b205a6e049afbbefe80b8eddf8645294458e4ce6f9fce40"
+    },
+    {
+      "path": "md-batch/output/2022-paper/2022年法语专四真题（无水印）.md",
+      "bytes": 32901,
+      "sha256": "c9b0e48306d4ce23ce9d882e31920191b49ffa2c65ee5d300408827ae88e7e5b"
+    },
+    {
+      "path": "md-batch/output/2022-paper/result.json",
+      "bytes": 34835,
+      "sha256": "ed466d7d174dc0fbbce01b6433325f9352216d33446df097f1218f5a158265a1"
+    },
+    {
+      "path": "md-batch/output/2022-paper/state.json",
+      "bytes": 273,
+      "sha256": "bc933fe14941ab9fb7d06476f45542a8155ef8f91f6ab096bbc81be520adfd95"
+    },
+    {
+      "path": "md-batch/output/2023-paper/2023年法语专四真题.md",
+      "bytes": 33394,
+      "sha256": "cb80be213370c00e144a1e62a10d171b32fc100207588a860bd8556a97af6c19"
+    },
+    {
+      "path": "md-batch/output/2023-paper/result.json",
+      "bytes": 35405,
+      "sha256": "5a78009a29b298b54a1a8c60905e6368b9232436e7f252a95902915918e3007e"
+    },
+    {
+      "path": "md-batch/output/2023-paper/state.json",
+      "bytes": 258,
+      "sha256": "0d3240244c118ad6f7436f4ed55250aa7fa1187491a5491e1c60e51761f769ae"
+    },
+    {
+      "path": "md-batch/output/2015-paper/2015年法语专四真题（无水印版）.md",
+      "bytes": 31909,
+      "sha256": "0c90d4e5f76c1d3df3390df3ae000c2f43ea9e80ea627d101dc42bcef7f98d50"
+    },
+    {
+      "path": "md-batch/output/2015-paper/result.json",
+      "bytes": 33908,
+      "sha256": "260fe44defbbc91b6588abe479b2feef1d2f6b16eef3e13563828941351a5216"
+    },
+    {
+      "path": "md-batch/output/2015-paper/state.json",
+      "bytes": 276,
+      "sha256": "51313c5e973e8a7efab0768186560e9d4a87466b0fe2d730543501b8ee43de85"
+    },
+    {
+      "path": "md-batch/output/2025-answers/2025专四真题答案.md",
+      "bytes": 3580,
+      "sha256": "fa0ce0667231125b45567062fc90dd2ec7087a2e55e8318da4b1e08cdb1e8674"
+    },
+    {
+      "path": "md-batch/output/2025-answers/result.json",
+      "bytes": 3795,
+      "sha256": "b18c39f627e697af905bbe76e9cd40e9d60a8d86d7cb0bdf605add7427987611"
+    },
+    {
+      "path": "md-batch/output/2025-answers/state.json",
+      "bytes": 254,
+      "sha256": "676ecbba2abdf0d78b45a8d7f046651dcbc7c8171817be3360b3b40920b8797e"
+    },
+    {
+      "path": "md-batch/sources.json",
+      "bytes": 5020,
+      "sha256": "6a11c71e039f78df6c379044d07153ee7e85865b66487aaf0a240d3088573abd"
+    },
+    {
+      "path": "reviewed-pilots/manifest.json",
+      "bytes": 4199,
+      "sha256": "86f78e0839f6e27ffac53b7f1fe7a0d744b7aa785c94f4a058f6b6cc8841e4f9"
+    },
+    {
+      "path": "reviewed-pilots/2012/content-v4.json",
+      "bytes": 351070,
+      "sha256": "912908a43300f93016c1f29296528e49f4632bef19f162667a96235ca78de759"
+    },
+    {
+      "path": "reviewed-pilots/2012/review-ledger.json",
+      "bytes": 139302,
+      "sha256": "bf944790c285fc76b1bd45278e6193cf6d3681846d53424ccc8072c986b64513"
+    },
+    {
+      "path": "reviewed-pilots/2012/validation.json",
+      "bytes": 53,
+      "sha256": "bdc777d5986ed5edda9f6c2cd864ee08c1324256c330a594e91cbead090ad813"
+    },
+    {
+      "path": "reviewed-pilots/2013/content-v4.json",
+      "bytes": 359274,
+      "sha256": "3f10c4378bcbba2ef5dd6de7bdc26043ed4ac734b86a02d6249d8f63ad61c70d"
+    },
+    {
+      "path": "reviewed-pilots/2013/review-ledger.json",
+      "bytes": 145658,
+      "sha256": "59c405159af88af803ec104fb96f43734be89b66470fec78dffd6f23d0a58fb1"
+    },
+    {
+      "path": "reviewed-pilots/2013/validation.json",
+      "bytes": 53,
+      "sha256": "bdc777d5986ed5edda9f6c2cd864ee08c1324256c330a594e91cbead090ad813"
+    },
+    {
+      "path": "reviewed-pilots/2023/content-v4.json",
+      "bytes": 363478,
+      "sha256": "c4ca0f846c142d86f65cdc3077e33a5dc1899154a37174507cefb14215d39a0d"
+    },
+    {
+      "path": "reviewed-pilots/2023/review-ledger.json",
+      "bytes": 143146,
+      "sha256": "cc4404145f491f4d9ab773e8ce3afcdc1cf8d5bbdd986d31d189005d5e766752"
+    },
+    {
+      "path": "reviewed-pilots/2023/validation.json",
+      "bytes": 53,
+      "sha256": "bdc777d5986ed5edda9f6c2cd864ee08c1324256c330a594e91cbead090ad813"
+    },
+    {
+      "path": "annotations/annotation-plan-v1.json",
+      "bytes": 410804,
+      "sha256": "6088526486d67f4d9c35279e71cd9adf30852a7b21f8f91429613cd1c184d84c"
+    },
+    {
+      "path": "annotations/annotation-plan.json",
+      "bytes": 411424,
+      "sha256": "1425f8d1a8932c80d4f76609e64ac9ed0c8b453b7ba33585356e21e60cdab9e4"
+    }
+  ]
+}

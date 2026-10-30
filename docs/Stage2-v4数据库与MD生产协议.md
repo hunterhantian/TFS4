@@ -26,7 +26,7 @@ LlamaParse负责PDF/图片到MD；Codex只读取MD及其已保存API返回，完
 |发布|qb_review_events、qb_releases、qb_release_items、qb_effective_items；审核追加，当前有效组合单独记录|
 |兼容|qb_legacy_mappings、qb_duplicate_pairs；旧ID及冻结内容匹配，重复候选不自动视为相同题|
 
-分类基于明确来源解析或独立AI分析。AI分析与来源解析分区显示；允许缺来源解析的题进入核验后的考点检索。答案mapped不等于adopted，不能因此进入自动判分。
+分类基于三源MD校对后的明确解析依据或独立AI分析。AI分析与来源解析分区显示；有完整真题/答案/解析MD时，缺解析或三源冲突的题不得进入正式考点标注，仅可保留候选。答案mapped不等于adopted，不能因此进入自动判分。
 
 目录任何修订目前采用保守失效策略：旧分类须基于新目录修订重新复核后恢复可检索。其内容仍保留。后续可优化为受影响子树失效，但不能默默复用已改变定义。
 

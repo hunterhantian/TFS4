@@ -6,8 +6,10 @@
 
 - 试卷：`2025-paper`，18 页，SHA-256 `98912440dd684703954c2e63578bc513530ed5d39794da53e43416dbaec67bc9`。
 - 答案：`2025-answers`，2 页，SHA-256 `fa0ce0667231125b45567062fc90dd2ec7087a2e55e8318da4b1e08cdb1e8674`。
-- 未提供解析 MD；这不是可由答案字母补齐的缺口。
+- 解析 MD 已在 `data/explanations/2025/v1/` 纳入证据层；其原始状态为未经校对，不直接视为真值。
 - 原始结构及逐页节点见 `2025/raw-structure.json`；结构化候选见 `2025-content-candidate/2025/content-v4.json`。
+
+三源交叉校对结果见 `2025-explanation-evidence-r01/review-report.md`。在有解析的题目上，只有三源一致者才进入后续标注；第52、61题保留冲突，第66–70保留候选答案恢复，不解除阻断。
 
 后续已接入独立的解析证据层 v1；其为未经校对的 LlamaParse 原文，不追溯修改上述输入冻结。校对结果见 `2025-explanation-evidence-r01/review-report.md`：80道非听力选择题有解析候选依据，52、61题存在答案冲突，66–70仅恢复为候选答案串 `ABACA`。
 

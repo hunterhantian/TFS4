@@ -1,0 +1,414 @@
+{
+  "year": "2009",
+  "sourcePolicy": "question + explanation only",
+  "annotations": [
+    {
+      "questionId": "tfs4-2009-q001",
+      "number": 1,
+      "answerBasis": "answers",
+      "leafId": "obj-vocabulary-candidate",
+      "status": "candidate",
+      "basis": [
+        {
+          "source": "question",
+          "ref": "2009-paper:q1"
+        },
+        {
+          "source": "explanation",
+          "ref": "data/explanations/2009/fast/2009年法语专四真题解析.md:q1"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2009-q002",
+      "number": 2,
+      "answerBasis": "answers",
+      "leafId": "obj-vocabulary-candidate",
+      "status": "candidate",
+      "basis": [
+        {
+          "source": "question",
+          "ref": "2009-paper:q2"
+        },
+        {
+          "source": "explanation",
+          "ref": "data/explanations/2009/fast/2009年法语专四真题解析.md:q2"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2009-q003",
+      "number": 3,
+      "answerBasis": "answers",
+      "leafId": "obj-vocabulary-candidate",
+      "status": "candidate",
+      "basis": [
+        {
+          "source": "question",
+          "ref": "2009-paper:q3"
+        },
+        {
+          "source": "explanation",
+          "ref": "data/explanations/2009/fast/2009年法语专四真题解析.md:q3"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2009-q004",
+      "number": 4,
+      "answerBasis": "answers",
+      "leafId": "obj-vocabulary-candidate",
+      "status": "candidate",
+      "basis": [
+        {
+          "source": "question",
+          "ref": "2009-paper:q4"
+        },
+        {
+          "source": "explanation",
+          "ref": "data/explanations/2009/fast/2009年法语专四真题解析.md:q4"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2009-q005",
+      "number": 5,
+      "answerBasis": "answers",
+      "leafId": "obj-vocabulary-candidate",
+      "status": "candidate",
+      "basis": [
+        {
+          "source": "question",
+          "ref": "2009-paper:q5"
+        },
+        {
+          "source": "explanation",
+          "ref": "data/explanations/2009/fast/2009年法语专四真题解析.md:q5"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2009-q006",
+      "number": 6,
+      "answerBasis": "answers",
+      "leafId": "obj-vocabulary-candidate",
+      "status": "candidate",
+      "basis": [
+        {
+          "source": "question",
+          "ref": "2009-paper:q6"
+        },
+        {
+          "source": "explanation",
+          "ref": "data/explanations/2009/fast/2009年法语专四真题解析.md:q6"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2009-q007",
+      "number": 7,
+      "answerBasis": "answers",
+      "leafId": "obj-vocabulary-candidate",
+      "status": "candidate",
+      "basis": [
+        {
+          "source": "question",
+          "ref": "2009-paper:q7"
+        },
+        {
+          "source": "explanation",
+          "ref": "data/explanations/2009/fast/2009年法语专四真题解析.md:q7"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2009-q008",
+      "number": 8,
+      "answerBasis": "answers",
+      "leafId": "obj-vocabulary-candidate",
+      "status": "candidate",
+      "basis": [
+        {
+          "source": "question",
+          "ref": "2009-paper:q8"
+        },
+        {
+          "source": "explanation",
+          "ref": "data/explanations/2009/fast/2009年法语专四真题解析.md:q8"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2009-q009",
+      "number": 9,
+      "answerBasis": "answers",
+      "leafId": "obj-vocabulary-candidate",
+      "status": "candidate",
+      "basis": [
+        {
+          "source": "question",
+          "ref": "2009-paper:q9"
+        },
+        {
+          "source": "explanation",
+          "ref": "data/explanations/2009/fast/2009年法语专四真题解析.md:q9"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2009-q010",
+      "number": 10,
+      "answerBasis": "answers",
+      "leafId": "obj-vocabulary-candidate",
+      "status": "candidate",
+      "basis": [
+        {
+          "source": "question",
+          "ref": "2009-paper:q10"
+        },
+        {
+          "source": "explanation",
+          "ref": "data/explanations/2009/fast/2009年法语专四真题解析.md:q10"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2009-q011",
+      "number": 11,
+      "answerBasis": "answers",
+      "leafId": "obj-vocabulary-candidate",
+      "status": "candidate",
+      "basis": [
+        {
+          "source": "question",
+          "ref": "2009-paper:q11"
+        },
+        {
+          "source": "explanation",
+          "ref": "data/explanations/2009/fast/2009年法语专四真题解析.md:q11"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2009-q012",
+      "number": 12,
+      "answerBasis": "answers",
+      "leafId": "obj-vocabulary-candidate",
+      "status": "candidate",
+      "basis": [
+        {
+          "source": "question",
+          "ref": "2009-paper:q12"
+        },
+        {
+          "source": "explanation",
+          "ref": "data/explanations/2009/fast/2009年法语专四真题解析.md:q12"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2009-q013",
+      "number": 13,
+      "answerBasis": "answers",
+      "leafId": "obj-vocabulary-candidate",
+      "status": "candidate",
+      "basis": [
+        {
+          "source": "question",
+          "ref": "2009-paper:q13"
+        },
+        {
+          "source": "explanation",
+          "ref": "data/explanations/2009/fast/2009年法语专四真题解析.md:q13"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2009-q014",
+      "number": 14,
+      "answerBasis": "answers",
+      "leafId": "obj-vocabulary-candidate",
+      "status": "candidate",
+      "basis": [
+        {
+          "source": "question",
+          "ref": "2009-paper:q14"
+        },
+        {
+          "source": "explanation",
+          "ref": "data/explanations/2009/fast/2009年法语专四真题解析.md:q14"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2009-q015",
+      "number": 15,
+      "answerBasis": "answers",
+      "leafId": "obj-vocabulary-candidate",
+      "status": "candidate",
+      "basis": [
+        {
+          "source": "question",
+          "ref": "2009-paper:q15"
+        },
+        {
+          "source": "explanation",
+          "ref": "data/explanations/2009/fast/2009年法语专四真题解析.md:q15"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2009-q016",
+      "number": 16,
+      "answerBasis": "answers",
+      "leafId": "obj-vocabulary-candidate",
+      "status": "candidate",
+      "basis": [
+        {
+          "source": "question",
+          "ref": "2009-paper:q16"
+        },
+        {
+          "source": "explanation",
+          "ref": "data/explanations/2009/fast/2009年法语专四真题解析.md:q16"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2009-q017",
+      "number": 17,
+      "answerBasis": "answers",
+      "leafId": "obj-vocabulary-candidate",
+      "status": "candidate",
+      "basis": [
+        {
+          "source": "question",
+          "ref": "2009-paper:q17"
+        },
+        {
+          "source": "explanation",
+          "ref": "data/explanations/2009/fast/2009年法语专四真题解析.md:q17"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2009-q018",
+      "number": 18,
+      "answerBasis": "answers",
+      "leafId": "obj-vocabulary-candidate",
+      "status": "candidate",
+      "basis": [
+        {
+          "source": "question",
+          "ref": "2009-paper:q18"
+        },
+        {
+          "source": "explanation",
+          "ref": "data/explanations/2009/fast/2009年法语专四真题解析.md:q18"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2009-q019",
+      "number": 19,
+      "answerBasis": "answers",
+      "leafId": "obj-vocabulary-candidate",
+      "status": "candidate",
+      "basis": [
+        {
+          "source": "question",
+          "ref": "2009-paper:q19"
+        },
+        {
+          "source": "explanation",
+          "ref": "data/explanations/2009/fast/2009年法语专四真题解析.md:q19"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2009-q020",
+      "number": 20,
+      "answerBasis": "answers",
+      "leafId": "obj-vocabulary-candidate",
+      "status": "candidate",
+      "basis": [
+        {
+          "source": "question",
+          "ref": "2009-paper:q20"
+        },
+        {
+          "source": "explanation",
+          "ref": "data/explanations/2009/fast/2009年法语专四真题解析.md:q20"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2009-q021",
+      "number": 21,
+      "answerBasis": "answers",
+      "leafId": "obj-vocabulary-candidate",
+      "status": "candidate",
+      "basis": [
+        {
+          "source": "question",
+          "ref": "2009-paper:q21"
+        },
+        {
+          "source": "explanation",
+          "ref": "data/explanations/2009/fast/2009年法语专四真题解析.md:q21"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2009-q025",
+      "number": 25,
+      "answerBasis": "answers",
+      "leafId": "obj-vocabulary-candidate",
+      "status": "candidate",
+      "basis": [
+        {
+          "source": "question",
+          "ref": "2009-paper:q25"
+        },
+        {
+          "source": "explanation",
+          "ref": "data/explanations/2009/fast/2009年法语专四真题解析.md:q25"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2009-q030",
+      "number": 30,
+      "answerBasis": "answers",
+      "leafId": "obj-vocabulary-candidate",
+      "status": "candidate",
+      "basis": [
+        {
+          "source": "question",
+          "ref": "2009-paper:q30"
+        },
+        {
+          "source": "explanation",
+          "ref": "data/explanations/2009/fast/2009年法语专四真题解析.md:q30"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2009-q040",
+      "number": 40,
+      "answerBasis": "answers",
+      "leafId": "obj-vocabulary-candidate",
+      "status": "candidate",
+      "basis": [
+        {
+          "source": "question",
+          "ref": "2009-paper:q40"
+        },
+        {
+          "source": "explanation",
+          "ref": "data/explanations/2009/fast/2009年法语专四真题解析.md:q40"
+        }
+      ]
+    }
+  ]
+}

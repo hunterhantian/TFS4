@@ -1,0 +1,16 @@
+{
+  "valid": true,
+  "errors": [],
+  "warnings": [
+    {
+      "path": "tfs4-2009-q042",
+      "code": "UNUSABLE_OPTIONS",
+      "message": "候选选项结构不适合作答"
+    },
+    {
+      "path": "tfs4-2009-q074",
+      "code": "UNUSABLE_OPTIONS",
+      "message": "候选选项结构不适合作答"
+    }
+  ]
+}

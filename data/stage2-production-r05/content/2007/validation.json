@@ -1,0 +1,11 @@
+{
+  "valid": true,
+  "errors": [],
+  "warnings": [
+    {
+      "path": "tfs4-2007-q068",
+      "code": "UNUSABLE_OPTIONS",
+      "message": "候选选项结构不适合作答"
+    }
+  ]
+}

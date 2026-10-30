@@ -1,0 +1,17 @@
+{
+  "valid": false,
+  "errors": [
+    {
+      "path": "paper",
+      "code": "INVALID_PAPER",
+      "message": "INVALID_PAPER"
+    }
+  ],
+  "warnings": [
+    {
+      "path": "tfs4-2021-05-q085",
+      "code": "UNUSABLE_OPTIONS",
+      "message": "候选选项结构不适合作答"
+    }
+  ]
+}

@@ -1,0 +1,825 @@
+{
+  "report": {
+    "year": "2005",
+    "workflow": {
+      "proofreading": [
+        "paper",
+        "answers",
+        "explanations"
+      ],
+      "annotation": [
+        "question",
+        "matched explanation"
+      ],
+      "answersExcludedFromAnnotationBasis": true
+    },
+    "sources": [
+      {
+        "role": "paper",
+        "file": "2005年法语专四真题及答案 校对 + 仿考试卷排版.md",
+        "sha256": "f20c50c46885894e2197ef4b5af5228848b550305b6deb5055ae97540fdec4af"
+      },
+      {
+        "role": "answers",
+        "file": "05年专四真题答案.md",
+        "sha256": "30c77feb02e33265e5de7c6d5ec4dee7c0e4a0478c2f2ccc967e416784da60c5"
+      },
+      {
+        "role": "explanation",
+        "file": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+        "sha256": "a18c6150504a5de71f8b0e189700138b391003be584b82374d433d1cc644b6a4"
+      }
+    ],
+    "coverage": {
+      "choiceQuestions": 90,
+      "answerMatched": 30,
+      "explanationMatched": 90,
+      "triSourceMatched": 30,
+      "pending": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ]
+    },
+    "note": "候选初标；答案仅用于核对答案值，知识点依据仅为题面与对应解析。"
+  },
+  "rows": [
+    {
+      "questionId": "tfs4-2005-q001",
+      "number": 1,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q002",
+      "number": 2,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q003",
+      "number": 3,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q004",
+      "number": 4,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q005",
+      "number": 5,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q006",
+      "number": 6,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q007",
+      "number": 7,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q008",
+      "number": 8,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q009",
+      "number": 9,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q010",
+      "number": 10,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q011",
+      "number": 11,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q012",
+      "number": 12,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q013",
+      "number": 13,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q014",
+      "number": 14,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q015",
+      "number": 15,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q016",
+      "number": 16,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q017",
+      "number": 17,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q018",
+      "number": 18,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q019",
+      "number": 19,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q020",
+      "number": 20,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q031",
+      "number": 31,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q032",
+      "number": 32,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q033",
+      "number": 33,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q034",
+      "number": 34,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q035",
+      "number": 35,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q036",
+      "number": 36,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q037",
+      "number": 37,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q038",
+      "number": 38,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q039",
+      "number": 39,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q040",
+      "number": 40,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2005-q041",
+      "number": 41,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q042",
+      "number": 42,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q043",
+      "number": 43,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q044",
+      "number": 44,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q045",
+      "number": 45,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q046",
+      "number": 46,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q047",
+      "number": 47,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q048",
+      "number": 48,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q049",
+      "number": 49,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q050",
+      "number": 50,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q051",
+      "number": 51,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q052",
+      "number": 52,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q053",
+      "number": 53,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q054",
+      "number": 54,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q055",
+      "number": 55,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q056",
+      "number": 56,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q057",
+      "number": 57,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q058",
+      "number": 58,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q059",
+      "number": 59,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q060",
+      "number": 60,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q061",
+      "number": 61,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q062",
+      "number": 62,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q063",
+      "number": 63,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q064",
+      "number": 64,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q065",
+      "number": 65,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q066",
+      "number": 66,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q067",
+      "number": 67,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q068",
+      "number": 68,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q069",
+      "number": 69,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q070",
+      "number": 70,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q071",
+      "number": 71,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q072",
+      "number": 72,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q073",
+      "number": 73,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q074",
+      "number": 74,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q075",
+      "number": 75,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q076",
+      "number": 76,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q077",
+      "number": 77,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q078",
+      "number": 78,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q079",
+      "number": 79,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q080",
+      "number": 80,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q081",
+      "number": 81,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q082",
+      "number": 82,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q083",
+      "number": 83,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q084",
+      "number": 84,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q085",
+      "number": 85,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q086",
+      "number": 86,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q087",
+      "number": 87,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q088",
+      "number": 88,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q089",
+      "number": 89,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q090",
+      "number": 90,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q091",
+      "number": 91,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q092",
+      "number": 92,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q093",
+      "number": 93,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q094",
+      "number": 94,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q095",
+      "number": 95,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q096",
+      "number": 96,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q097",
+      "number": 97,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q098",
+      "number": 98,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q099",
+      "number": 99,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2005-q100",
+      "number": 100,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "status": "pending"
+    }
+  ]
+}

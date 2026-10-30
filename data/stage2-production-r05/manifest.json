@@ -1,0 +1,42 @@
+{
+  "createdAt": "2026-10-30T08:36:33.263Z",
+  "method": "md_internal_extraction",
+  "proofread": false,
+  "outputs": [
+    {
+      "sitting": "2005",
+      "documents": 2,
+      "pages": 23,
+      "nodes": 853,
+      "issues": 0
+    },
+    {
+      "sitting": "2006",
+      "documents": 2,
+      "pages": 24,
+      "nodes": 602,
+      "issues": 1
+    },
+    {
+      "sitting": "2007",
+      "documents": 2,
+      "pages": 24,
+      "nodes": 666,
+      "issues": 4
+    },
+    {
+      "sitting": "2008",
+      "documents": 2,
+      "pages": 24,
+      "nodes": 780,
+      "issues": 0
+    },
+    {
+      "sitting": "2009",
+      "documents": 2,
+      "pages": 22,
+      "nodes": 679,
+      "issues": 0
+    }
+  ]
+}

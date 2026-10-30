@@ -1,0 +1,894 @@
+{
+  "report": {
+    "year": "2009",
+    "workflow": {
+      "proofreading": [
+        "paper",
+        "answers",
+        "explanations"
+      ],
+      "annotation": [
+        "question",
+        "matched explanation"
+      ],
+      "answersExcludedFromAnnotationBasis": true
+    },
+    "sources": [
+      {
+        "role": "paper",
+        "file": "2009年法语专四真题及答案 校对 + 仿考试卷排版.md",
+        "sha256": "8b69df3edd3f7b9fd9408811989c78b6e699b1d42e60199005984f6a740ae6df"
+      },
+      {
+        "role": "answers",
+        "file": "2009年法语专四真题答案.md",
+        "sha256": "e249b0b934afa929e7e89dff58dec90621f05111445c8db35eb3930308d0c9b6"
+      },
+      {
+        "role": "explanation",
+        "file": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+        "sha256": "fc4d5ca5d836af6aea859dd147c6e169ca3470b10e3b32a81368d577cb09902d"
+      }
+    ],
+    "coverage": {
+      "choiceQuestions": 97,
+      "answerMatched": 32,
+      "explanationMatched": 37,
+      "triSourceMatched": 24,
+      "pending": [
+        22,
+        23,
+        24,
+        26,
+        27,
+        28,
+        29,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ]
+    },
+    "note": "候选初标；答案仅用于核对答案值，知识点依据仅为题面与对应解析。"
+  },
+  "rows": [
+    {
+      "questionId": "tfs4-2009-q001",
+      "number": 1,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2009-q002",
+      "number": 2,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2009-q003",
+      "number": 3,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2009-q004",
+      "number": 4,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2009-q005",
+      "number": 5,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2009-q006",
+      "number": 6,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2009-q007",
+      "number": 7,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2009-q008",
+      "number": 8,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2009-q009",
+      "number": 9,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2009-q010",
+      "number": 10,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2009-q011",
+      "number": 11,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2009-q012",
+      "number": 12,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2009-q013",
+      "number": 13,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2009-q014",
+      "number": 14,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2009-q015",
+      "number": 15,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2009-q016",
+      "number": 16,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2009-q017",
+      "number": 17,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2009-q018",
+      "number": 18,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2009-q019",
+      "number": 19,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2009-q020",
+      "number": 20,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2009-q021",
+      "number": 21,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2009-q022",
+      "number": 22,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q023",
+      "number": 23,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q024",
+      "number": 24,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q025",
+      "number": 25,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2009-q026",
+      "number": 26,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q027",
+      "number": 27,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q028",
+      "number": 28,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q029",
+      "number": 29,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q030",
+      "number": 30,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2009-q034",
+      "number": 34,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q035",
+      "number": 35,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q036",
+      "number": 36,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q037",
+      "number": 37,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q038",
+      "number": 38,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q039",
+      "number": 39,
+      "answerMatched": false,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q040",
+      "number": 40,
+      "answerMatched": true,
+      "explanationMatched": true,
+      "explanationSource": "data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "status": "matched"
+    },
+    {
+      "questionId": "tfs4-2009-q041",
+      "number": 41,
+      "answerMatched": true,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q042",
+      "number": 42,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q043",
+      "number": 43,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q044",
+      "number": 44,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q045",
+      "number": 45,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q046",
+      "number": 46,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q047",
+      "number": 47,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q048",
+      "number": 48,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q049",
+      "number": 49,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q050",
+      "number": 50,
+      "answerMatched": true,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q051",
+      "number": 51,
+      "answerMatched": true,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q052",
+      "number": 52,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q053",
+      "number": 53,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q054",
+      "number": 54,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q055",
+      "number": 55,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q056",
+      "number": 56,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q057",
+      "number": 57,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q058",
+      "number": 58,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q059",
+      "number": 59,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q060",
+      "number": 60,
+      "answerMatched": true,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q061",
+      "number": 61,
+      "answerMatched": true,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q062",
+      "number": 62,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q063",
+      "number": 63,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q064",
+      "number": 64,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q065",
+      "number": 65,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q066",
+      "number": 66,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q067",
+      "number": 67,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q068",
+      "number": 68,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q069",
+      "number": 69,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q070",
+      "number": 70,
+      "answerMatched": true,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q071",
+      "number": 71,
+      "answerMatched": true,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q072",
+      "number": 72,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q073",
+      "number": 73,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q074",
+      "number": 74,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q075",
+      "number": 75,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q076",
+      "number": 76,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q077",
+      "number": 77,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q078",
+      "number": 78,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q079",
+      "number": 79,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q080",
+      "number": 80,
+      "answerMatched": true,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q081",
+      "number": 81,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q082",
+      "number": 82,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q083",
+      "number": 83,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q084",
+      "number": 84,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q085",
+      "number": 85,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q086",
+      "number": 86,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q087",
+      "number": 87,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q088",
+      "number": 88,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q089",
+      "number": 89,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q090",
+      "number": 90,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q091",
+      "number": 91,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q092",
+      "number": 92,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q093",
+      "number": 93,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q094",
+      "number": 94,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q095",
+      "number": 95,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q096",
+      "number": 96,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q097",
+      "number": 97,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q098",
+      "number": 98,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q099",
+      "number": 99,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    },
+    {
+      "questionId": "tfs4-2009-q100",
+      "number": 100,
+      "answerMatched": false,
+      "explanationMatched": false,
+      "explanationSource": null,
+      "status": "pending"
+    }
+  ]
+}

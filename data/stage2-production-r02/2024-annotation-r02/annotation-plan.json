@@ -1,0 +1,1827 @@
+{
+  "version": "2024-first-pass-r01",
+  "createdAt": "2026-10-30T07:30:31.088Z",
+  "startedAt": "2026-10-30T07:21:08Z",
+  "finishedAt": "2026-10-30T07:30:31.088Z",
+  "elapsedSeconds": 563.088,
+  "scope": "2024 three-source first-pass annotation; candidates only",
+  "catalog": [
+    {
+      "id": "obj-2024-lex-21",
+      "name": "2024词汇题21解析新叶",
+      "parentId": "obj-units",
+      "leaf": true,
+      "definition": "依据2024题21解析建立的独立词汇考点候选；待边界复核。"
+    },
+    {
+      "id": "obj-2024-lex-22",
+      "name": "2024词汇题22解析新叶",
+      "parentId": "obj-units",
+      "leaf": true,
+      "definition": "依据2024题22解析建立的独立词汇考点候选；待边界复核。"
+    },
+    {
+      "id": "obj-2024-lex-23",
+      "name": "2024词汇题23解析新叶",
+      "parentId": "obj-units",
+      "leaf": true,
+      "definition": "依据2024题23解析建立的独立词汇考点候选；待边界复核。"
+    },
+    {
+      "id": "obj-2024-lex-24",
+      "name": "2024词汇题24解析新叶",
+      "parentId": "obj-units",
+      "leaf": true,
+      "definition": "依据2024题24解析建立的独立词汇考点候选；待边界复核。"
+    },
+    {
+      "id": "obj-2024-lex-25",
+      "name": "2024词汇题25解析新叶",
+      "parentId": "obj-units",
+      "leaf": true,
+      "definition": "依据2024题25解析建立的独立词汇考点候选；待边界复核。"
+    },
+    {
+      "id": "obj-2024-lex-26",
+      "name": "2024词汇题26解析新叶",
+      "parentId": "obj-units",
+      "leaf": true,
+      "definition": "依据2024题26解析建立的独立词汇考点候选；待边界复核。"
+    },
+    {
+      "id": "obj-2024-lex-27",
+      "name": "2024词汇题27解析新叶",
+      "parentId": "obj-units",
+      "leaf": true,
+      "definition": "依据2024题27解析建立的独立词汇考点候选；待边界复核。"
+    },
+    {
+      "id": "obj-2024-lex-28",
+      "name": "2024词汇题28解析新叶",
+      "parentId": "obj-units",
+      "leaf": true,
+      "definition": "依据2024题28解析建立的独立词汇考点候选；待边界复核。"
+    },
+    {
+      "id": "obj-2024-lex-29",
+      "name": "2024词汇题29解析新叶",
+      "parentId": "obj-units",
+      "leaf": true,
+      "definition": "依据2024题29解析建立的独立词汇考点候选；待边界复核。"
+    },
+    {
+      "id": "obj-2024-lex-30",
+      "name": "2024词汇题30解析新叶",
+      "parentId": "obj-units",
+      "leaf": true,
+      "definition": "依据2024题30解析建立的独立词汇考点候选；待边界复核。"
+    },
+    {
+      "id": "obj-2024-grammar-candidate",
+      "name": "2024语法解析候选新叶",
+      "parentId": "obj-grammar",
+      "leaf": true,
+      "definition": "2024解析提供的语法考点候选集合，后续按独立规则拆分为具体新叶。"
+    }
+  ],
+  "records": [
+    {
+      "questionId": "tfs4-2024-q021",
+      "questionVersionId": "tfs4-2024-q021:v1",
+      "year": 2024,
+      "label": 21,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "primaryId": "obj-2024-lex-21",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Ce garçon est prêt à [monter] un projet personnel."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n21. Ce garcon est prêt à [monter] un projet personnel. A.continuer B.presenter C.retenir D.lancer 正确答案是 D 解析 这个男孩已经准备好[建立]一个项目。 monter 做及物动词的时候可表达\"筹备，组织，策划\"，比如\"monter une piece de theâtre 筹备 组织戏剧\"，而题干\"monter un projet\"是筹备一个项目计划，近义词为 lancer，\"lancer un projet\"可表达\"发起，开动项目计划\" 。\n22. Depuis 2019, cette organisation a [effectué] 50 sondages sur 1etourisme vert. A.envisagé B.cité C.réalisé D.reporté 正确答案是 C 解 析 自 2019 年以来，该组织已经[进行]了 50 项关于绿色旅游的调查。 \"effectuer un sondage 完成，执行一项调查\"，近义词为\"réaliser 实现，完成，执行\" 。 Envisager 意思为\"思考，看作\".citer 意思为\"指出，引用\"，reporter 表示\"拿回，延期\" 。 23.Quand elle parle avec sa voix si douce, elle devient [attachante]. A.souciante B.tolerante C.charmante\n\n---\n\nD.accueillante 正确答案是 C\n\n解"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q022",
+      "questionVersionId": "tfs4-2024-q022:v1",
+      "year": 2024,
+      "label": 22,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "primaryId": "obj-2024-lex-22",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Depuis 2019, cette organisation a [effectué] 50 sondages sur 1e tourisme vert."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n22. Depuis 2019, cette organisation a [effectué] 50 sondages sur 1etourisme vert. A.envisagé B.cité C.réalisé D.reporté 正确答案是 C 解 析 自 2019 年以来，该组织已经[进行]了 50 项关于绿色旅游的调查。 \"effectuer un sondage 完成，执行一项调查\"，近义词为\"réaliser 实现，完成，执行\" 。 Envisager 意思为\"思考，看作\".citer 意思为\"指出，引用\"，reporter 表示\"拿回，延期\" 。 23.Quand elle parle avec sa voix si douce, elle devient [attachante]. A.souciante B.tolerante C.charmante\n\n---\n\nD.accueillante 正确答案是 C\n\n解析 当她用柔和的声音说话时，她变得 [可爱]。 attachant 是\"引人注目的，吸引人的\"，近义词为 charmant\"有魅力的\" 。 Souciant 是\"关心的，担忧的\"，比如 Elle est toujours tres souciante de la sante de ses enfants.她 总是非常关心她孩子们的健康。Tolerant 是\"宽容的\"， accueillant 是\"殷勤好客的\" 。\n\n24. Mon copain est venu [en toute hâte] pour m'informer de cette "
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q023",
+      "questionVersionId": "tfs4-2024-q023:v1",
+      "year": 2024,
+      "label": 23,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "primaryId": "obj-2024-lex-23",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Quand elle parle avec sa voix si douce, elle devient [attachante]."
+        },
+        {
+          "source": "explanation",
+          "quote": "解析题号未自动定位，待人工复核"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q024",
+      "questionVersionId": "tfs4-2024-q024:v1",
+      "year": 2024,
+      "label": 24,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "primaryId": "obj-2024-lex-24",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Mon copain est venu [en toute hâte] pour m'informer de cette bonne nouvelle."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n24. Mon copain est venu [en toute hâte] pour m'informer de cette bonne nouvelle. A.serieusement B.précipitamment C.paisiblement D.impoliment 正确答案是 B 解 析 我的朋友来[匆忙的]告诉我这个好消息。 En toute hâte 表示\"急切匆忙的\"，近义词是 precipitamment。其余选项分别表达 A\"严肃地\"，C\"平静地\"，D\"不礼貌地\" 。\n25. Ce soignant se montre critique [à l'égard du] systeme medical francais. A.à cause du B.en l'abscence du C.en face du D.envers le 正确答案是 D 解 析 这位护理人员对法国医疗系统持批评态度。 à l'égard de 短语意思为\"关于\" 。搭配针对对象，主题。 En face de 是物理性的\"面对\"，envers qch 可以是物理或抽象性\"朝向，面对，针对，关于\" 。 A 是因为，B 是在缺席的情况下\n26. Mon ami a une [habileté] qui surpasse celle de tous les spécialistes.\n\n---\n\nA.stupidité B.Maladresse C.negligence D.incapacité 正确答案是 B 解析 我的朋友拥有超越所有专家的[技能]。 habileté表示\"灵巧，"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q025",
+      "questionVersionId": "tfs4-2024-q025:v1",
+      "year": 2024,
+      "label": 25,
+      "typeId": "synonym",
+      "responseType": "choice",
+      "primaryId": "obj-2024-lex-25",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Ce soignant se montre critique [à l'égard du] système medical français."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n25. Ce soignant se montre critique [à l'égard du] systeme medical francais. A.à cause du B.en l'abscence du C.en face du D.envers le 正确答案是 D 解 析 这位护理人员对法国医疗系统持批评态度。 à l'égard de 短语意思为\"关于\" 。搭配针对对象，主题。 En face de 是物理性的\"面对\"，envers qch 可以是物理或抽象性\"朝向，面对，针对，关于\" 。 A 是因为，B 是在缺席的情况下\n26. Mon ami a une [habileté] qui surpasse celle de tous les spécialistes.\n\n---\n\nA.stupidité B.Maladresse C.negligence D.incapacité 正确答案是 B 解析 我的朋友拥有超越所有专家的[技能]。 habileté表示\"灵巧，能干的特性特质\"。反义词为 maladresse\"笨拙，不灵巧\" 。其 余选项表意分别为 A\"愚蠢\"，C\"忽视\"，D\"无能\" 。\n\n27. Le médecin m'a conseillé de prendre ce médicament pouvant [soulager] la douleur. A.aggraver B.supporter C.oublier D.partager 正确答案是 A 解析 医生建议我服用这种药，它可以[缓解]疼痛。 soulager la douleur 是\""
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q026",
+      "questionVersionId": "tfs4-2024-q026:v1",
+      "year": 2024,
+      "label": 26,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "primaryId": "obj-2024-lex-26",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Mon ami a une [habileté] qui surpasse celle de tous les spécialistes."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n26. Mon ami a une [habileté] qui surpasse celle de tous les spécialistes.\n\n---\n\nA.stupidité B.Maladresse C.negligence D.incapacité 正确答案是 B 解析 我的朋友拥有超越所有专家的[技能]。 habileté表示\"灵巧，能干的特性特质\"。反义词为 maladresse\"笨拙，不灵巧\" 。其 余选项表意分别为 A\"愚蠢\"，C\"忽视\"，D\"无能\" 。\n\n27. Le médecin m'a conseillé de prendre ce médicament pouvant [soulager] la douleur. A.aggraver B.supporter C.oublier D.partager 正确答案是 A 解析 医生建议我服用这种药，它可以[缓解]疼痛。 soulager la douleur 是\"减轻痛苦\"，反义词为 aggraver，加重。其余选项表意为 B\"支 持\"，C\"忘记\"，D\"分享\" 。\n\n28.Les reseaux mobiles de la Chine poursuivent leur développement [vigoureux] avec 829 millions d'utilisateurs en ligne fin 2022. A.accelere B.continu C.faible D.incontrôlé 正确答案是 C 解 析 截至 2022 年底，中国移动网络继续蓬勃发展，在线用户达到 8.29 "
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q027",
+      "questionVersionId": "tfs4-2024-q027:v1",
+      "year": 2024,
+      "label": 27,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "primaryId": "obj-2024-lex-27",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Le médecin m'a conseillé de prendre ce médicament pouvant [soulager] la douleur."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n27. Le médecin m'a conseillé de prendre ce médicament pouvant [soulager] la douleur. A.aggraver B.supporter C.oublier D.partager 正确答案是 A 解析 医生建议我服用这种药，它可以[缓解]疼痛。 soulager la douleur 是\"减轻痛苦\"，反义词为 aggraver，加重。其余选项表意为 B\"支 持\"，C\"忘记\"，D\"分享\" 。\n\n28.Les reseaux mobiles de la Chine poursuivent leur développement [vigoureux] avec 829 millions d'utilisateurs en ligne fin 2022. A.accelere B.continu C.faible D.incontrôlé 正确答案是 C 解 析 截至 2022 年底，中国移动网络继续蓬勃发展，在线用户达到 8.29 亿。 Viqoureux 表示\"强壮的，强劲的，猛烈的\"题干中用来修饰\"发展\"，表示\"发展迅猛强劲\",反\n\n---\n\n义词为\"faible\"，可翻译为\"虚弱疲软\"。其余选项表意为 A\"加速的\"，B\"持续的\"，D\"无法控 制的\" 。\n\n29. Les technologies [avancées] aidant, on a mis au point des véhicules sans pilote. A.sensibles B.pointues C.économes D.dep"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q028",
+      "questionVersionId": "tfs4-2024-q028:v1",
+      "year": 2024,
+      "label": 28,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "primaryId": "obj-2024-lex-28",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Les reseaux mobiles de la Chine poursuivent leur développement [vigoureux] avec 829 millions d'utilisateurs en ligne fin 2022."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n28.Les reseaux mobiles de la Chine poursuivent leur développement [vigoureux] avec 829 millions d'utilisateurs en ligne fin 2022. A.accelere B.continu C.faible D.incontrôlé 正确答案是 C 解 析 截至 2022 年底，中国移动网络继续蓬勃发展，在线用户达到 8.29 亿。 Viqoureux 表示\"强壮的，强劲的，猛烈的\"题干中用来修饰\"发展\"，表示\"发展迅猛强劲\",反\n\n---\n\n义词为\"faible\"，可翻译为\"虚弱疲软\"。其余选项表意为 A\"加速的\"，B\"持续的\"，D\"无法控 制的\" 。\n\n29. Les technologies [avancées] aidant, on a mis au point des véhicules sans pilote. A.sensibles B.pointues C.économes D.depassées 正确答案是 D 解析 在[先进]技术的帮助下，无人驾驶车辆被开发出来。 avance 表示\"先进的，超前的\"，反义词为\"depasse\"过时的。其余选项表意为 A\"敏感的\"，B\"尖 端的\"，C\"节约的\" 。\n30. Mowgli a été [enlevé] par les singes qui lui avaient donne plein de fruits à manger. A.rapporté B.maltraité C.libéré D.rec"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q029",
+      "questionVersionId": "tfs4-2024-q029:v1",
+      "year": 2024,
+      "label": 29,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "primaryId": "obj-2024-lex-29",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Les technologies [avancées] aidant, on a mis au point des véhicules sans pilote."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n29. Les technologies [avancées] aidant, on a mis au point des véhicules sans pilote. A.sensibles B.pointues C.économes D.depassées 正确答案是 D 解析 在[先进]技术的帮助下，无人驾驶车辆被开发出来。 avance 表示\"先进的，超前的\"，反义词为\"depasse\"过时的。其余选项表意为 A\"敏感的\"，B\"尖 端的\"，C\"节约的\" 。\n30. Mowgli a été [enlevé] par les singes qui lui avaient donne plein de fruits à manger. A.rapporté B.maltraité C.libéré D.recuperé 正确答案是 C 解析 莫格利被猴子带走了，猴子给了他很多水果吃。 题干意思为\"莫格利被猴子们绑架了，它们给了他很多水果吃\"。Enlever 在此作\"绑架，拐走\" 理解，反义词为 liberer\"解放.释放\"。其余选项表意为 A\"被拿回，带回的\"，\"B 被虐待的\"， D\"被取回的\" 。\n\n## 完形填空\n\n## Section B(10 points)\n\nComplétez le texte suivant avec les mots et expressions qui conviennent.\n\n---\n\nLe défi（挑战）«Familles à énergie positive »est un defi d'économies d'énergie."
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q030",
+      "questionVersionId": "tfs4-2024-q030:v1",
+      "year": 2024,
+      "label": 30,
+      "typeId": "antonym",
+      "responseType": "choice",
+      "primaryId": "obj-2024-lex-30",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Mowgli a été [enlevé] par les singes qui lui avaient donné plein de fruits à manger."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n30. Mowgli a été [enlevé] par les singes qui lui avaient donne plein de fruits à manger. A.rapporté B.maltraité C.libéré D.recuperé 正确答案是 C 解析 莫格利被猴子带走了，猴子给了他很多水果吃。 题干意思为\"莫格利被猴子们绑架了，它们给了他很多水果吃\"。Enlever 在此作\"绑架，拐走\" 理解，反义词为 liberer\"解放.释放\"。其余选项表意为 A\"被拿回，带回的\"，\"B 被虐待的\"， D\"被取回的\" 。\n\n## 完形填空\n\n## Section B(10 points)\n\nComplétez le texte suivant avec les mots et expressions qui conviennent.\n\n---\n\nLe défi（挑战）«Familles à énergie positive »est un defi d'économies d'énergie. L'objectif est de (31) les citoyens sur les économies d'énergie que l'on peut (32) au quotidien (electricite, gaz; eau, etc.), (33) nuire à son confort. Le défi se présente pendant toute la période de chauffage, du ler décembre au 30 "
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q031",
+      "questionVersionId": "tfs4-2024-q031:v1",
+      "year": 2024,
+      "label": 31,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "31."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n31. A.tirer B.placer C.contraindre D.mobiliser 正确答案是 D. 解析\n\nA. tirer：意为\"拉\" ，不符合语境。这里需要一个表示\"激励\"或\"动员\"的词。\nB. placer：意为\"放置\" ，也不符合语境。\nC. contraindre：意为\"强迫\" ，虽然可以表示让某人做某事，但\"强迫\"公民节能显得过于 强硬，不符合\"积极\"的挑战主题。\nD. mobiliser：意为\"动员\" ，符合语境。挑战的目的是\"动员\"公民参与节能行动，这是一 个积极的、鼓励性的表达。 挑战目的是动员公民，动员对应\"mobiliser\"。 32. A.donner B.opposer C.réaliser D.supprimer 正确答案是 C. 解析\nA. donner：意为\"给予\" ，不符合语境。节能措施不是\"给予\"的东西。\nB. opposer：意为\"反对\" ，完全不符合语境。\nC. réaliser：意为\"实现\" ，符合语境。节能措施是需要\"实现\"的，即通过实际行动来完 成。\nD. supprimer：意为\"取消\" ，不符合语境。节能措施是需要\"实施\"，而不是\"取消\"。 公民在日常生活中就可以实现的能源节约，实现对应\"réaliser\" 。 33. A.a\n\n---\n\nB.de C.par D.sans 正确答案是 D. 解析\n\nA. à：意为\"到\" ，不符合语境。这里需要一个表示\"不损害\"的短语。\nB. de：意为\"从\" ，也不符合语境。\nC. par：意为\"通过\" ，不符合语境。\nD. sans：意为\"没有\" ，符合语境。这里表达的意思是\""
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q032",
+      "questionVersionId": "tfs4-2024-q032:v1",
+      "year": 2024,
+      "label": 32,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "32."
+        },
+        {
+          "source": "explanation",
+          "quote": "解析题号未自动定位，待人工复核"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q033",
+      "questionVersionId": "tfs4-2024-q033:v1",
+      "year": 2024,
+      "label": 33,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "33."
+        },
+        {
+          "source": "explanation",
+          "quote": "解析题号未自动定位，待人工复核"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q034",
+      "questionVersionId": "tfs4-2024-q034:v1",
+      "year": 2024,
+      "label": 34,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "7"
+        },
+        {
+          "source": "explanation",
+          "quote": "解析题号未自动定位，待人工复核"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q035",
+      "questionVersionId": "tfs4-2024-q035:v1",
+      "year": 2024,
+      "label": 35,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "35."
+        },
+        {
+          "source": "explanation",
+          "quote": "解析题号未自动定位，待人工复核"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q036",
+      "questionVersionId": "tfs4-2024-q036:v1",
+      "year": 2024,
+      "label": 36,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "36."
+        },
+        {
+          "source": "explanation",
+          "quote": "解析题号未自动定位，待人工复核"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q037",
+      "questionVersionId": "tfs4-2024-q037:v1",
+      "year": 2024,
+      "label": 37,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "37."
+        },
+        {
+          "source": "explanation",
+          "quote": "解析题号未自动定位，待人工复核"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q038",
+      "questionVersionId": "tfs4-2024-q038:v1",
+      "year": 2024,
+      "label": 38,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "38."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n38. A.coûteuse B.poetique C.concrete D.informelle 正确答案是 C 解析\n\nA. coûteuse：意为\"昂贵的\" ，不符合语境。这里需要一个表示\"实际\"或\"具体\"的词。\nB. poétique：意为\"诗意的\" ，不符合语境。\nC. concrète：意为\"具体的\" ，符合语境。节能措施需要是具体的、可操作的。\nD. informelle：意为\"非正式的\" ，不符合语境。 这个挑战允许每个人以具体的方式被动员起来，其中\"具体\"对应\"concret\" 。 39. A.se joue B.se trouve C.s'impose D.se termine 正确答案是 A 解析\nA. se joue：意为\"进行\" ，符合语境。这里表示挑战是以团队形式进行的。\nB. se trouve：意为\"发现\" ，不符合语境。\nC. s'impose：意为\"强加\" ，不符合语境。挑战不是强加的，而是自愿参与的。\nD. se termine：意为\"结束\" ，不符合语境。 挑战以 5 到 10 个家庭为一组进行，其中\"进行\"对应\"se joue\" 。 40. A.autorisées B.interrogees C.interessées D.défavorisées\n\n---\n\n正确答案是 C 解析\n\nA. autorisées：意为\"被授权的\" ，不符合语境。这里需要一个表示\"感兴趣\"的词。\nB. interrogées：意为\"被询问的\" ，不符合语境。\nC. intéressées：意为\"感兴趣的\" ，符合语境。只有感兴趣的人才会加入或组建团队。"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q039",
+      "questionVersionId": "tfs4-2024-q039:v1",
+      "year": 2024,
+      "label": 39,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "39."
+        },
+        {
+          "source": "explanation",
+          "quote": "解析题号未自动定位，待人工复核"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q040",
+      "questionVersionId": "tfs4-2024-q040:v1",
+      "year": 2024,
+      "label": 40,
+      "typeId": "cloze",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "8"
+        },
+        {
+          "source": "explanation",
+          "quote": "解析题号未自动定位，待人工复核"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q041",
+      "questionVersionId": "tfs4-2024-q041:v1",
+      "year": 2024,
+      "label": 41,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Le petit garçon ouvre la porte de sa chambre qui donne 【____】 l'escalier, et tend le cou pour écouter les bruits de la maison."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n41. Le petit garcon ouvre la porte de sa chambre qui donne【\\_\\_\\_\\_】 l'escalier, et tend le cou pour écouter les bruits de la maison. A.dans B.en C.sur D.Sous 正确答案是 C. 解析\n\n考察介词在具体语境中的用法。 句子意思：句子的意思是\"小男孩打开他房间的门，门通向楼梯，他伸长脖子聆听屋子里的 声音\"。 介词的用法：\n\nA. dans：表示\"在……里面\" ，不符合语境。\nB. en：表示\"在……里面\"（用于进入某个空间），也不符合语境。\nC. sur：表示\"在……上面\"或\"通向……\" ，在这里表示\"门通向楼梯\"，符合语境。\nD. Sous：表示\"在……下面\" ，不符合语境。 小男孩打开通往楼梯的卧室门，伸长脖子听房子里的声音。 donner sur 固定搭配，表示朝向，比如 donner sur la mer 为面朝大海，题干中表 意为房间是对着楼梯的。\n\n---\n\n42.Jeune, on a de l'appétit ; vieux, on a 【\\_\\_\\_\\_】ventre. A.un B.une C.du D.de la 正确答案是 C 解析 考察部分冠词的用法。\n\n1. 句子意思：句子的意思是\"年轻时，我们有胃口；年老时，我们有满肚子（问题/烦恼）\" 。 这里\"ventre\"表示\"肚子\" 。\n2. 部分冠词的用法： - 部分冠词（du, de la, des）用于表示\"一些\"\"部分\"的意思，常用于不可数名词"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q042",
+      "questionVersionId": "tfs4-2024-q042:v1",
+      "year": 2024,
+      "label": 42,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Jeune, on a de l'appétit ; vieux, on a 【____】 ventre."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n42.Jeune, on a de l'appétit ; vieux, on a 【\\_\\_\\_\\_】ventre. A.un B.une C.du D.de la 正确答案是 C 解析 考察部分冠词的用法。\n\n1. 句子意思：句子的意思是\"年轻时，我们有胃口；年老时，我们有满肚子（问题/烦恼）\" 。 这里\"ventre\"表示\"肚子\" 。\n2. 部分冠词的用法： - 部分冠词（du, de la, des）用于表示\"一些\"\"部分\"的意思，常用于不可数名词或可 数名词复数形式。 - 在这里，\"ventre\"是单数形式，且\"avoir du ventre\"是一个固定表达，意思是\"有满 肚子（问题/烦恼）\" 。 - 因此，正确答案是 C. du。 其他选项的分析： - A. un：表示\"一个\" ，不符合语法规则。 - B. une：表示\"一个\" ，也不符合语法规则。 - D. de la：用于阴性单数名词，但在这里\"ventre\"是阳性名词，因此也不合适。 所以，正确答案是 C. du。 年轻时，我们有食欲：年老时，我们有肚子（肚子变大了），ventre 肚子为阳性。 avoir du ventre 发胖，肚子大起来；选择 du。\n\n43.Après avoir chantépendant une heure elle se met à vendre ses produits en ligne. mais tout le monde fuit【\\_\\_\\_\\_】 cing minutes. A.au bout de B.au prix de C.au point de\n\n---\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q043",
+      "questionVersionId": "tfs4-2024-q043:v1",
+      "year": 2024,
+      "label": 43,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Après avoir chanté pendant une heure elle se met à vendre ses produits en ligne.\nmais tout le monde fuit 【____】 cinq minutes."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n43.Après avoir chantépendant une heure elle se met à vendre ses produits en ligne. mais tout le monde fuit【\\_\\_\\_\\_】 cing minutes. A.au bout de B.au prix de C.au point de\n\n---\n\nD.au cours de 正确答案是 A . 解析\n\n考察的是固定短语的用法。 短语含义： au bout de：表示\"经过...时间之后\"，强调时间段的终结 其他选项分析： B. au prix de → \"以...代价\"（如：au prix de grands efforts） C. au point de → \"到...程度\"（如：au point de tout abandonner） D. au cours de → \"在...期间\"（强调过程，不强调终结） 句意逻辑： 通过 au bout de 突出\"仅五分钟就出现结果\"的迅速性 隐含吐槽：\"直播卖货效果极差，观众秒退\" 时间表达对比：\n\n| 法语表达 | 时间焦点 | 例句 |\n|---|---|---|\n| au bout de | 时间段终点 | Il réussit au bout de 3 essais |\n| au cours de | 过程期间 | 3 accidents au cours du voyage |\n| en l'espace de | 时间跨度 | Tout changea en l'espace d'un an |\n\n---\n\n常见"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q044",
+      "questionVersionId": "tfs4-2024-q044:v1",
+      "year": 2024,
+      "label": 44,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Puis elle baissa la voix; 【____】 le reste de la classe ne puisse pas l'entendre."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n44. Puis elle baissa la voix;【\\_\\_\\_\\_】le reste de la classe ne puisse pas l'entendre. A.après que B.sous prétexte que C.où que D.de sorte que 正确答案是 D. 解析\n\n语法结构： de sorte que 表示\"为了，以便\"，引导目的状语从句，要求使用虚拟式（puisse 是 pouvoir 的 虚拟式现在时） 其他选项分析：\n\nA. après que → \"在...之后\"（需接直陈式，且时间关系不符）\nB. sous prétexte que → \"以...为借口\"（语义不符）\nC. où que → \"无论哪里\"（需接地点状语，如 où que tu ailles） 句意逻辑： 通过 de sorte que 明确表达\"降低声音\"的目的是让他人听不见 虚拟式 puisse 强调主观意图而非客观结果 目的表达对比：\n\n连词 语气 例句 pour que 强目的性Je ferme la porte pour qu'il ne voie pas afin que 正式目的Écrivez afin qu'on vous comprenne de sorte que结果导向Parle clairement de sorte qu'on te croie\n\n常见错误： 误选 après que（忽略其必须接直陈式的规则，如 après qu'elle a baissé） 混淆 de sorte que（目的）和 si bien que（结果"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q045",
+      "year": 2024,
+      "label": 45,
+      "status": "pending",
+      "pendingReason": "source_text_issue"
+    },
+    {
+      "questionId": null,
+      "year": 2024,
+      "label": 46,
+      "status": "pending",
+      "pendingReason": "source_structure_issue"
+    },
+    {
+      "questionId": "tfs4-2024-q047",
+      "questionVersionId": "tfs4-2024-q047:v1",
+      "year": 2024,
+      "label": 47,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Ses parents se marièrent en 1345, et l'année 【____】 , il naquit."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n47. Ses parents se marièrent en 1345, et l'annee【\\_\\_\\_\\_】, il naquit. A.précédant B.suivante C.derniere D.prochaine 正确答案是 B 解析\n\n时间逻辑： l'année suivante 表示\"接下来的一年\"，即 1346 年 其他选项分析： A. précédant → \"前一年\"（应为 1344 年，与\"结婚后出生\"矛盾） C. dernière → \"最后一年\"（时间线不明确） D. prochaine → \"明年\"（仅用于未来时） 历史叙述规则： 法语叙述过去事件时： 已发生 → l'année suivante（次年） 未发生 → l'année d'après（更口语化） 语法要点： suivant 作形容词必须与名词性数配合（l'année suivante） 区别于现在分词 suivant（不配合）：Suite aux événements... 常见错误： 混淆 suivante（过去/现在）和 prochaine（仅将来）\n\n---\n\n误用 dernière（需特定上下文，如 la dernière année du siècle） 实用例句： Il partit en 2020 et revint l'année suivante（他 2020 年离开，次年返回） La récolte fut bonne cette année-là, mais mauvaise l'année suivante 因此，B. suivante 是唯一正确答"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q048",
+      "questionVersionId": "tfs4-2024-q048:v1",
+      "year": 2024,
+      "label": 48,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Fermez les rideaux 【____】 la lumière ne vous gene pas."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n48. Fermez les rideaux 【\\_\\_\\_\\_】 la lumiere ne vous gene pas. A.pour que B.avant que C.depuis que D.au moment où 正确答案是 A 解析 语法结构： pour que 表示目的，意为\"为了，以便\"，后面接虚拟式（此处 gêne 是 gêner 的虚拟式 现在时） 其他选项分析： B. avant que → \"在...之前\"（虽接虚拟式，但时间关系不符） C. depuis que → \"自从...\"（接直陈式，且表时间延续） D. au moment où → \"当...时\"（接直陈式，表同时性） 句意逻辑： 明确表达\"拉窗帘\"的目的是\"避免光线干扰\" 虚拟式强调主观意图而非客观事实 目的表达对比：\n\n# 连词 用法 例句 pour que 常规目的 Cache-toi pour qu'il ne te voie pas afin que 正式目的 Éteignez afin que personne ne nous repère\n\n---\n\n# 连词 用法 例句 de sorte que结果导向目的Chuchote de sorte qu'il n'entende pas\n\n常见错误： 误选 avant que（虽语法正确，但\"在光线干扰前拉窗帘\"逻辑不通） 忽略虚拟式要求（如误用 pour que la lumière ne gêne pas ×，正确为 ne vous gêne pas） 实用场景： 该结构常见于指示说明，如： \"Mettez des bou"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q049",
+      "questionVersionId": "tfs4-2024-q049:v1",
+      "year": 2024,
+      "label": 49,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "【____】 tu dises, je n'abandonnerai pas ce projet."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n49.【\\_\\_\\_\\_】 tu dises, je n'abandonnerai pas ce projet. A.Quelque B.Quel que C.Quoique D.Quoi que 正确答案是 D 解析\n\n语法结构： Quoi que 是让步连词，表示\"无论什么\"，后接虚拟式（dises 是 dire 的虚拟式） 必须与 que 分开写（≠ quoique） 其他选项分析：\n\nA. Quelque → 需搭配形容词（如 quelque difficile que ce soit）\nB. Quel que → 需搭配系动词（如 quel qu'il soit）\nC. Quoique → \"尽管\"（接让步从句，如 quoiqu'il pleuve） 句意逻辑： 强调\"任何话语都无法改变决定\"的坚决态度 虚拟式 dises 体现假设性（无论可能说什么）\n\n---\n\n让步表达对比：\n\n# 表达 结构 例句 Quoi que+ 虚拟式Quoi qu'il fasse, je resterai Qui que 指人 Qui que tu sois, entrez Où que 指地点 Où que vous alliez, je suivrai\n\n常见错误： 混淆 quoi que（指事物）和 qui que（指人） 误写为 quoique（连写仅用于\"尽管\"） 经典引用： 雨果在《悲惨世界》中类似用法： \"Quoi qu'on fasse, on reconstruit toujours la prison quelque part.\" （\"无论人们做什么，总会在某处重"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q050",
+      "questionVersionId": "tfs4-2024-q050:v1",
+      "year": 2024,
+      "label": 50,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Pauvres enfants! C'est toujours eux qui paient les bêtises des grands, en 【____】 d'être en âge de faire soigneusement les mêmes, d'être en âge de faire soigneusement les mêmes."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n50.Pauvres enfants! C'est toujours eux qui paient les bêtises des grands, en 【\\_\\_\\_\\_】 d'être en âge de faire soigneusement les mêmes, d'être en âge de faire soigneusement les mêmes. A.attendant B.mesure C.état D.passant 正确答案是 A 解析 短语结构： en attendant de 是固定搭配，表示\"在...的同时/在等待...期间\" 其他选项分析： B. mesure → en mesure de \"能够做某事\"（语义不符） C. état → en état de \"处于...状态\"（不适用） D. passant → en passant \"顺便\"（逻辑不通）\n\n---\n\n句意深度： 通过 en attendant 制造讽刺效果： 表层：孩子们在\"等待\"长大 深层：暗示他们长大后也会重复大人的错误 语法对比：\n\n表达 用法 例句 en attendant de表伴随/等待Il lit en attendant de partir en mesure de 表能力 Je suis en mesure de prouver en état de 表状态 La voiture est en état de marche\n\n常见错误： 误选 mesure（受 en mesure de 常见搭配影响） 忽略 en attendant 的双关意义（既指时间等待"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q051",
+      "questionVersionId": "tfs4-2024-q051:v1",
+      "year": 2024,
+      "label": 51,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Il y a eu de violents orages, 【___】 le feu d'artifice a ete annule par la mairie."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n51. Il y a eu de violents orages, 【\\_\\_\\_\\_】 le feu d'artifice a ete annule par la mairie. A.si bien que B.jusqu'à ce que C.bien que D.en attendant que 正确答案是 A 解析\n\n---\n\n\"si bien que\" 表示\"因此，以至于\" ，引导结果状语从句。句意为\"暴风雨太猛烈，因此市 政府取消了烟花表演。\" 其他选项不符： B. jusqu'à ce que → 表示\"直到……\" ，需接未完成的动作（如虚拟式），但句中\"取消\" 是已发生的确定结果。 C. bien que → 表示\"尽管\" ，但前后文是因果关系，非让步关系。 D. en attendant que → 表示\"在等待……期间\" ，与句意无关。 因此，A. si bien que 是唯一正确答案。 ✅ （逻辑关系：暴风雨是因，取消烟花是果。） \"暴风雨如此猛烈以至于烟花被市政府取消了\"，结果表达以至于，选 si bien que。 52.Il n'y a qu'un héroïsme au monde : c'est de voir le monde 【\\_\\_\\_\\_】 il est et de l'aimer. A.ainsi qu' B.tant qu' C.tel qu' D.bien qu' 正确答案是 C\n\n解析 \"tel qu'\" 意思是\"如同……的样子\" ，表示\"按照世界本来的面貌\"。句意为\"世上只有一 种英雄主义：认清世界的真相（如其所是），并依"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q052",
+      "questionVersionId": "tfs4-2024-q052:v1",
+      "year": 2024,
+      "label": 52,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Il n'y a qu'un héroïsme au monde : c'est de voir le monde 【___】 il est et de l'aimer."
+        },
+        {
+          "source": "explanation",
+          "quote": "解析题号未自动定位，待人工复核"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q053",
+      "questionVersionId": "tfs4-2024-q053:v1",
+      "year": 2024,
+      "label": 53,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "【___】 exercices, Mathieu se plongea dans la lecture d'un roman policier."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n53.【\\_\\_\\_\\_】exercices, Mathieu se plongea dans la lecture d'un roman policier. A.Terminé B.Terminant C.En terminant D.Ayant terminé 正确答案是 D. 解析 \"Ayant terminé\" 是复合过去分词（le participe passé composé），表示\"完成练习后\"这一先 于主句动作的已完成行为。句意为\"马修做完练习后，便沉浸在一本侦探小说中。\" 其他选项分析：\n\nA. Terminé → 简单过去分词（participe passé），需与助动词构成复合时态（如 Il a terminé）， 单独使用时不体现时间先后。\nB. Terminant → 现在分词（participe présent），表示与主句动作同时发生（\"正在做练习时\"）， 与句意矛盾。\nC. En terminant → \"en + 现在分词\"强调伴随动作（\"一边完成练习，一边…\"），但\"沉 浸阅读\"需在\"完成\"之后，逻辑不符。 语法重点： 复合过去分词（ayant + pp） 专门用于表达先于主句动作完成的过去行为，是本题最精准的 选择。 若选 A. Terminé，需补充主语（Ses exercices terminés, Mathieu...），否则语法错误。 因此，D. Ayant terminé 是唯一正确答案。 ✅ 在完成作业后，马修全神贯注地读一本侦探小说。 现在分词的过去时表达先时性，\"在完成作业以后\" 。\n54. L'exposition de"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q054",
+      "questionVersionId": "tfs4-2024-q054:v1",
+      "year": 2024,
+      "label": 54,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "L'exposition de photos célèbre le 【___】 anniversaire de l'écrivain."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n54. L'exposition de photos célèbre le 【\\_\\_\\_\\_】anniversaire de l'écrivain. A.centaine B.centime\n\n---\n\nC.centième D.centenaire 正确答案是 C. 解析\n\n根据题目和选项分析：\n\nA. centaine 是名词，意为 \"百\"（如：une centaine de livres 一百本书），不能直接修饰名 词，排除。\nB. centime 意为 \"分币\"（如欧元中的分），与题意无关，排除。\nC. centième 是序数词\"第一百个\"，修饰名词时需搭配定冠词，构成 le centième anniversaire （第一百个周年，即百年诞辰），符合语法和语境。\nD. centenaire 是形容词 \"百年的\"，虽可修饰名词（如：anniversaire centenaire），但通常 置于名词后，且此处更强调 \"第 100 个\" 这一序数概念，而非单纯 \"百年的\" 属性。 法语中，\"庆祝某人生日 / 诞辰的第 N 个周年\" 通常用序数词表达，因此 le centième anniversaire 是标准用法。\n\n答案：C. centième\n\n55.【\\_\\_\\_\\_】 que mon mari est mort, j'ai de moins en moins envie de sortir. A.Depuis B.Bien C.De peur D.Pendant 正确答案是 A 解析 \"Depuis que\" 表示\"自从……以来\" ，强调从过去某一时间点持"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q055",
+      "questionVersionId": "tfs4-2024-q055:v1",
+      "year": 2024,
+      "label": 55,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "【___】 que mon mari est mort, j'ai de moins en moins envie de sortir."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n55.【\\_\\_\\_\\_】 que mon mari est mort, j'ai de moins en moins envie de sortir. A.Depuis B.Bien C.De peur D.Pendant 正确答案是 A 解析 \"Depuis que\" 表示\"自从……以来\" ，强调从过去某一时间点持续到现在的状态。句意为\"自 从我丈夫去世后，我越来越不想出门。\" 其他选项分析： B. Bien → \"Bien que\" 表示\"尽管\"，需接虚拟式（如 Bien qu'il soit mort...），但句中无转 折关系。 C. De peur → \"De peur que\" 表示\"生怕/以免\"，需接虚拟式（如 De peur qu'il ne meure...），\n\n---\n\n与句意无关。 D. Pendant → \"Pendant que\" 表示\"在……期间\" ，但丈夫去世是过去的时间点，而非持续 的动作。 语法重点： \"Depuis que\" + 直陈式 用于表达\"自某事件发生后一直持续的状态\" ，常与现在时搭配（如 je n'ai plus envie）。 若用 \"Pendant que\"，句子需改为过去时（如 Pendant qu'il était malade, je sortais peu）。 因此，A. Depuis 是唯一正确答案。 ✅ 自从丈夫死了，我越来越不想出门了。 自从他丈夫去世，从过去延续到现在且没有终止，搭配 depuis 。\n\n56.Il faut 【\\_\\_\\_\\_】 premieres impressions. Mieux "
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q056",
+      "questionVersionId": "tfs4-2024-q056:v1",
+      "year": 2024,
+      "label": 56,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Il faut 【___】 premières impressions. Mieux vaut agir avec prudence."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n56.Il faut 【\\_\\_\\_\\_】 premieres impressions. Mieux vaut agir avec prudence. A.se fier aux B.se fier des C.se méfier aux D.se méfier des 正确答案是 D. 解析 \"se méfier de\" 是固定搭配，意为\"对……保持警惕/不轻信\" ，符合句意\"不要轻信第一印 象，最好谨慎行事。\" \"premières impressions\" 是阴性复数名词，介词 \"de\" 与之结合时变为 \"des\"（de + les = des）。 错误选项分析：\n\nA. se fier aux → \"se fier à\" 表示\"信任\" ，但句意强调\"不信任\" ，且介词用错（应为 à， 而非 aux）。\nB. se fier des → 搭配错误（se fier 后接 à，不接 de）。\nC. se méfier aux → 介词错误（se méfier 后必须接 de）。 语法重点： se méfier de qqch（对某事保持警惕） se fier à qqch（信任某事）\n\n---\n\n因此，D. se méfier des 是唯一正确答案。 ✅ 你必须警惕第一印象。最好谨慎行事。 考察介词搭配，se fier à表达信任，依赖，se mefier de 表示不信任，怀疑。题干表 意为不要相信第一印象，选择后者。\n\n57.【\\_\\_\\_\\_】ne peut rester chez soi par un temps si beau. A.Il B.Certain C"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q057",
+      "questionVersionId": "tfs4-2024-q057:v1",
+      "year": 2024,
+      "label": 57,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "【____】 ne peut rester chez soi par un temps si beau."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n57.【\\_\\_\\_\\_】ne peut rester chez soi par un temps si beau. A.Il B.Certain C.Chacun D.Personne 正确答案是 D. 解析 \"Personne ne\" 是法语中的否定代词，意为\"没有人\" ，符合句意\"天气这么好，没有人能 待在家里。\" 其他选项分析：\n\nA. Il → 无人称主语（如 Il pleut），但此处需有明确主语，且 Il ne peut rester 语义不完整。\nB. Certain → 指\"某些人\"（如 Certains aiment la pluie），但缺少复数形式（Certains ne peuvent...），且与句意矛盾。\nC. Chacun → 指\"每个人\"（如 Chacun son goût），但 Chacun ne peut rester 意为\"不是 每个人都能留下\"，逻辑不通。 语法重点： Personne ne + verbe 构成全称否定（= aucun individu）。 若用 Certains，需改为复数动词：Certains ne peuvent pas rester...（但句意改变）。 因此，D. Personne 是唯一正确答案。 ✅ peronne...ne 表示没有任何人，其中, personne 这个否定泛指代词可以和重读人称代词 soi 搭 配，题干表意为\"没有人能够在如此的好天气下呆在自己家里。\"\n58. 【\\_\\_\\_\\_】 veut me faire plaisir n'a qu'à m'offrir des fleurs."
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q058",
+      "questionVersionId": "tfs4-2024-q058:v1",
+      "year": 2024,
+      "label": 58,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "【____】 veut me faire plaisir n'a qu'à m'offrir des fleurs."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n58. 【\\_\\_\\_\\_】 veut me faire plaisir n'a qu'à m'offrir des fleurs. A.Celui B.Personne\n\n---\n\nC.Ce qui D.Quiconque 正确答案是 D.\n\n解析 \"Quiconque\" 是泛指代词，意为\"任何人、无论谁\" ，在句中作主语，表示\"任何想让我开 心的人，只要送花给我就行\"。 其他选项分析：\n\nA. Celui → 指示代词\"那个（人）\"，需搭配关系从句（如 Celui qui veut...），单独使用 不完整。\nB. Personne → 否定代词\"没有人\" ，与句意矛盾（原句是肯定语气）。\nC. Ce qui → 中性关系代词，指代事物（如 Ce qui me plaît...），不能指代人。 语法重点： Quiconque = 书面语中泛指\"任何人\"（= toute personne qui），可作主语或宾语。 若用 Celui，需补充关系代词：Celui qui veut...（口语更常见）。 因此，D. Quiconque 是最精准的选项。 ✅ （注：虽然 Celui qui 在口语中也可接受，但题目选项未提供完整形式，故排除。） 不论谁想要取悦我就给我送花。 celui 不能单独作主语；personne 需要和 ne 搭配；ce qui 指代物；只有 quiconque 可以做泛指 代词，表示任何人，不论谁。\n59. Il m'a demandé un service. A vrai dire, ce n'est pas facile, mais je lui d"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q059",
+      "questionVersionId": "tfs4-2024-q059:v1",
+      "year": 2024,
+      "label": 59,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Il m'a demandé un service. A vrai dire, ce n'est pas facile, mais je lui dois trop pour 【____】 ."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n59. Il m'a demandé un service. A vrai dire, ce n'est pas facile, mais je lui dois trop pour【\\_\\_\\_\\_】. A.lui obéir B.l'obéir C.ne pas lui obéir D.ne pas l'obéir 正确答案是 C. 解析 根据句子结构和语境分析：\n\n---\n\n动词搭配：\n\n\"obéir\" 表示 \"服从\"，后接间接宾语时需用介词 \"à\"，即 \"obéir à qn\" 。因此，间 接宾语代词应为 \"lui\"（代替 \"à lui\"），而非直接宾语代词 \"le\"（排除 B、D，因 \"l'\" 是 \"le\" 的省音形式，属直接宾语）。 否定结构：\n\n句子含义为 \"我太亏欠他了，以至于不能不服从他\"，需用双重否定表达 \"必须服从\"。 法语中，\"pour\" 后接动词原形时，否定形式为 \"pour ne pas + 动词原形\"。此处 \"ne pas\" 需置于动词原形 \"lui obéir\" 前，构成 \"ne pas lui obéir\"（不能不服从）。\n\n语境逻辑： 前半句 \"ce n'est pas facile\"（这不容易）与转折词 \"mais\"（但）表明，尽管困难，因 \"亏欠太多\" ，最终仍会服从。\"pour ne pas lui obéir\"（为了不服从他）在逻辑上是否定， 但结合 \"dois trop\"（亏欠太多），实际表达 \"无法拒绝\" ，即 \"不得不服从\"，符合语\n\n义。 答案：C. ne pas lui obéir。\n\n60. Si tu as envie"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q060",
+      "questionVersionId": "tfs4-2024-q060:v1",
+      "year": 2024,
+      "label": 60,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Si tu as envie de me quitter, 【____】 dans la pluie, pour que tu ne voies pas mes larmes."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n60. Si tu as envie de me quitter, 【\\_\\_\\_\\_】dans la pluie, pour que tu ne voies pas mes larmes. A.dis-le-toi B.dis-toi-le C.dis-le-moi D.dis-moi-le 正确答案是 C 解析 法语命令式代词顺序规则： 肯定命令句中，代词顺序为：动词 + 直接宾语（le/la/les） + 间接宾语（moi/toi/lui...） \"dis-le-moi\" 严格遵循这一结构，意为\"把这件事告诉我\"。 错误选项分析：\nA. \"dis-le-toi\" → 代词顺序错误，且语义矛盾（\"告诉自己\"）\nB. \"dis-toi-le\" → 代词顺序完全颠倒 D. \"dis-moi-le\" → 间接宾语\"moi\"不应先于直接宾语\"le\"\n\n---\n\n诗句背景： 这个句子充满诗意，通过\"在雨中诉说\"的意象，隐藏流泪的脆弱。正确的代词顺序\"dis-le-moi\" 保持了法语的韵律美。 语法重点： 记住命令式代词的\"动词+直宾+间宾\"黄金顺序 类似结构： \"Donne-le-lui\"（把这个给他） \"Écris-la-nous\"（把这个写给我们） 因此，C. dis-le-moi 是唯一符合语法和语境的选项 ✅ 如果你想离开我，请在雨中告诉我，这样你就看不到我的眼泪。 考察命令式肯定句，其中 le la la 在 moi toi nous vous lui leur 的前面。\n\n61.Nous y avons même planté de beaux arbres, à l"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q061",
+      "questionVersionId": "tfs4-2024-q061:v1",
+      "year": 2024,
+      "label": 61,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Nous y avons même planté de beaux arbres, à l'ombre 【____】 votre famille pourra jouir de la fraîcheur en plein été."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n61.Nous y avons même planté de beaux arbres, à l'ombre【\\_\\_\\_\\_】votre famille pourra jouir de la fraîcheur en plein été. A.auxquels B.auxquelles C.desquels D.desquelles 正确答案是 C 解析\n\n题目解析：\n\n61. Nous y avons même planté de beaux arbres, à l'ombre【\\_\\_\\_\\_】votre famille pourra jouir de la fraîcheur en plein été. 选项：A. auxquels B. auxquelles C. desquels D. desquelles 一、确定先行词及其性数 先行词：句中关系代词指代的是前文的 \"de beaux arbres\"（一些美丽的树），这是 阳性复 数名词（\"arbres\" 为阳性复数）。 因此，关系代词的性数需与先行词一致，即 阳性复数（排除阴性选项 B、D）。 二、分析介词与关系代词的搭配\n\n---\n\n从句结构： 从句部分为 \"votre famille pourra jouir de la fraîcheur à l'ombre【\\_\\_\\_\\_】\"，其中 \"à l'ombre\" 需 与先行词 \"arbres\" 建立联系。 完整逻辑为：\"à l'ombre des arbres\"（在树的阴影下），即 \"l'ombre\" 与 \"arbres\" 是 所属关 系，需用介词 de（表"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q062",
+      "questionVersionId": "tfs4-2024-q062:v1",
+      "year": 2024,
+      "label": 62,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "L'erreur d'un jour devient une faute si l'on 【____】 retombe.\n\n12"
+        },
+        {
+          "source": "explanation",
+          "quote": "\n62. L'erreur d'un jour devient une faute si l'on 【\\_\\_\\_\\_】 retombe。 A.en B.y C.s'y D.s'en\n\n---\n\n正确答案是 B 解析\n\n核心结构： 动词短语\"retomber dans qqch\"（重新陷入某事） 此处需要代词替代\"dans l'erreur\"（重新犯错） 代词选择： \"y\" 专门替代\"à/dans/en + 地点/抽象概念\" 例句逻辑：\"如果再次陷入（y = dans l'erreur），一日之错便成过失\" 排除其他选项： A. en → 替代\"de + 名词\"（如：Je m'en souviens） C. s'y → 自反代词+地点（如：s'y mettre 开始做某事），但\"retomber\"无需自反 D. s'en → 自反代词+de（如：s'en aller 离开），与动词结构不符 经典错误： 误选\"s'y\"（受常见短语如\"s'y prendre\"影响），但此处无需自反意义 忽略\"retomber dans qqch\"的固定介词搭配 语法要点： \"y\" 的用法本质：\n\n- 替代以à/dans/sur/en 引导的地点/抽象名词\n- 例句：Je pense à ce problème → J'y pense 因此，B. y 是唯一符合语法和逻辑的选项 ✅ （注：该句为法语谚语，强调重复错误会改变错误的性质。） 一天的错误如果你重新陷入其中，就会变成一个错误。 考察 retomber a 再跌倒，retomber a une erreur 表示再次犯错，其中 a+qch 用"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q063",
+      "questionVersionId": "tfs4-2024-q063:v1",
+      "year": 2024,
+      "label": 63,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Il m'a dit que Marie allait partir 【____】"
+        },
+        {
+          "source": "explanation",
+          "quote": "\n63. Il m'a dit que Marie allait partir 【\\_\\_\\_\\_】 A.hier B.la veille C.il y a un jour D.le lendemain\n\n---\n\n正确答案是 D. 解析 答案：D. le lendemain 解析： 句子结构分析： 主句为复合过去时（passé composé）\"il m'a dit\"（他告诉我），从句用未完成过去时（imparfait） \"que Marie allait partir\"（玛丽打算离开）。未完成过去时在此处表示过去某个时间点的计划 或打算。 时间状语的选择：\n\nA. hier（昨天）：通常与复合过去时搭配（如\"est partie hier\"），与未完成过去时搭配可能引 发时态冲突，表示正在进行的动作时需明确上下文，但在此题中不够贴切。\nB. la veille（前一天）：多与复合过去时连用（如\"était partie la veille\"），而未完成过去时更 强调当时的状态，搭配\"la veille\"逻辑上不够连贯。\nC. il y a un jour（一天前）：固定与复合过去时搭配（如\"est partie il y a un jour\"），与未完 成过去时语法不兼容。\nD. le lendemain（第二天）：正确。未完成过去时可表示过去某个时间之后的计划（\"allait partir le lendemain\"意为\"打算第二天离开\"），与主句时态逻辑一致。 语法验证： 直接引语转间接引语时，\"demain\"（明天）需变为\"le lendemain\"（第二天）。例如："
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q064",
+      "questionVersionId": "tfs4-2024-q064:v1",
+      "year": 2024,
+      "label": 64,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "À peine 【____】 à Paris, nous avons un autre avion à prendre avant d'atteindre notre destination."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n64. À peine 【\\_\\_\\_\\_】 à Paris, nous avons un autre avion à prendre avant d'atteindre notre destination. A.arrivé B.arrivée\n\n---\n\nC.arrivés D.arrivant 正确答案是 C 解析\n\n语法结构： \"À peine + 过去分词\" 表示\"刚刚完成某动作\"，需与主语性数配合 主语\"nous\"（我们）是复数，因此过去分词\"arrivés\"要用阳性复数形式 排除其他选项：\n\nA. arrivé → 阳性单数（仅适用于单数男性主语）\nB. arrivée → 阴性单数 D. arrivant → 现在分词（表示同时性，不符合\"刚刚完成\"的语义） 句意逻辑： \"我们刚抵达巴黎，就需要转乘另一班飞机才能到达目的地。\" 强调\"抵达\"动作的完成性（故用过去分词而非现在分词） 即使主语包含女性，集体主语默认用阳性复数 常见错误： 误选\"arrivant\"（受英语\"arriving\"影响），但法语中\"à peine\"必须配合过去分词 忽略集体主语的性数配合规则 语法扩展： 类似结构： À peine installés, le téléphone a sonné.（刚安顿好电话就响了） 若主语为单数女性： À peine arrivée, elle a téléphoné. 因此，C. arrivés 是唯一正确答案 ✅ 刚刚到达巴黎，我们在到达目的地之前还有另一架飞机要乘坐。 助动词为être 的动词的过去分词表先时性，需要和主语配合，主语为 nous，选"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q065",
+      "questionVersionId": "tfs4-2024-q065:v1",
+      "year": 2024,
+      "label": 65,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Les deux frères étaient fâchés l'un contre l'autre 【____】 ils ne se parlaient plus."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n65. Les deux frères étaient fâchés l'un contre l'autre【\\_\\_\\_\\_】 ils ne se parlaient plus. A.afin qu'\n\n---\n\nB.au point qu' C.pourvu qu' D.tant qu' 正确答案是 B 解析 逻辑关系： 主句\"两兄弟互相生气\"与从句\"他们不再说话\"是程度结果关系 \"au point que\"（到...的程度）专门表达这种极端后果 选项对比：\n\nA. afin qu' → 表目的（\"为了\"），需接虚拟式（afin qu'ils ne se parlent plus），与事实矛盾\nB. au point qu' → 正确，表示\"以至于\"，引导实际结果（直陈式）\nC. pourvu qu' → 表条件（\"只要\"），需接虚拟式，语义不符\nD. tant qu' → 表时间（\"只要...期间\"）或程度（\"如此...以至于\"），但后者需配合\"tant...que\" 结构\n\n句意精准传达： \"兄弟俩互相怨恨，到了不再交谈的地步。\" 强调冲突的严重程度（用\"au point que\"比普通\"si...que\"更强烈） 常见错误： 误选\"tant qu'\"（混淆\"tant...que\"强调结构与简单连词用法） 忽略\"pourvu qu'\"必须接虚拟式的规则 经典搭配： \"à tel point que\"（同义替换） \"si bien que\"（结果较轻） 例句对比： Il criait au point que les voisins protestaient.（叫嚷到邻"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q066",
+      "questionVersionId": "tfs4-2024-q066:v1",
+      "year": 2024,
+      "label": 66,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Paul ignore la date 【____】 sa mère est partie."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n66.Paul ignore la date 【\\_\\_\\_\\_】 sa mère est partie. A.quand B.où C.qui D.dont 正确答案是 B 解析 语法规则： 当先行词是时间名词（如 date, jour, moment 等）时，关系代词必须用 \"où\" 此处 la date（日期）是时间概念，故用 où 引导从句 错误选项分析： A. quand → 仅用于疑问句（Quand pars-tu ?）或间接引语（Dis-moi quand tu pars），不能作 关系代词 C. qui → 只能指代人（la femme qui parle） D. dont → 替代 de + 名词（le livre dont je parle），与时间无关 经典对比： 正确：C'était le jour où tout a changé.（这是改变一切的那天） 错误：C'était le jour quand tout a changé.（×） 常见误区： 英语中常用 when 引导时间从句，但法语中： 疑问句/间接引语 → quand 修饰时间名词 → où 因此，B. où 是唯一正确答案 ✅ 保罗忽略了他的母亲离开的日期。 考察关系代词，代替时间用 ou 。\n\n67. S'il 【\\_\\_\\_\\_】 le temps, il irait vous voir demain. A.avait B.a\n\n---\n\nC.aurait D.aura 正确答案是 A 解析 语法结构： 这是一个典型的条件句（si 从句），表达与现在事实相反的假设 结构要求： si"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q067",
+      "questionVersionId": "tfs4-2024-q067:v1",
+      "year": 2024,
+      "label": 67,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "S'il 【____】 le temps, il irait vous voir demain."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n67. S'il 【\\_\\_\\_\\_】 le temps, il irait vous voir demain. A.avait B.a\n\n---\n\nC.aurait D.aura 正确答案是 A 解析 语法结构： 这是一个典型的条件句（si 从句），表达与现在事实相反的假设 结构要求： si + 未完成过去时（imparfait） → 主句用条件式现在时（conditionnel présent） 此处主句 il irait（条件式）决定了从句必须用 avait（未完成过去时） 时态分析：\n\n## 从句（si） 主句 含义 未完成过去时条件式现在时与现在事实相反的假设 S'il avait... il irait... （实际现在没时间）\n\n排除其他选项： B. a（现在时）→ 只能用于真实条件（S'il a le temps, il vient. 如果他有时间就会来） C. aurait→ 无此动词变位（混淆 avoir 的条件式 aurait 和未完成过去式 avait） D. aura（简单将来时）→ 违反 si 从句永远不用将来时的铁律 常见错误： 误将英语\"If he had...\"（过去时）直接对应法语简单过去时（il eut），但法语必须用未完成\n\n过去时 混淆 avait（未完成过去时）和 aurait（条件式）的拼写 例句对比： 真实条件：S'il pleut demain, je reste à la maison.（如果明天下雨，我就留在家里）→ 可能实 现\n\n虚拟条件：S'il pleuvait demain, je resterais à la m"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q068",
+      "questionVersionId": "tfs4-2024-q068:v1",
+      "year": 2024,
+      "label": 68,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "【___】 trouver ton amie Mme Forestier et demande-lui de te prêter des bijoux."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n68.【\\_\\_\\_\\_】 trouver ton amie Mme Forestier et demande-lui de te prêter des bijoux. A.Va B.Vas C.Allez D.Allons 正确答案是 A 解析 语法结构： 这是一个\\*\\*命令式（impératif）\\*\\*句子，用于对\"你\"（tu）发出指令 动词原形 \"aller\" 的命令式变位为： tu → va（注意：去掉\"s\"，不同于直陈式 tu vas） nous → allons vous → allez 人称分析： 句中动词 demande-lui（命令式第二人称单数）表明对象是\"tu\" 因此必须用 va（tu 的变位），而非其他选项 排除其他选项： B. Vas → 直陈式现在时（tu vas），命令式必须去掉\"s\" C. Allez → 用于\"vous\"或复数对象（与后文 demande-lui 矛盾） D. Allons → 用于\"nous\"（我们） 特殊规则： 在法语命令式中，第二人称单数（tu）的动词变位通常去掉词尾\"s\" 例外：vas-y（固定搭配保留\"s\"） 但 va trouver 必须去掉\"s\" 常见错误 混淆直陈式 tu vas 和命令式 va\n\n---\n\n忽略动词 demander 的人称提示（demande-lui 明确指向\"tu\"） 例句对比： 错误：~~Vas~~ voir ton père ! 正确：Va voir ton père !（去看你父亲！） 因此，A. Va 是唯一正确答案 ✅ 去找到你的朋友 Forestier 夫人，请她借给你一些"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q069",
+      "questionVersionId": "tfs4-2024-q069:v1",
+      "year": 2024,
+      "label": 69,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Que l'on me donne six heures pour couper un arbre, j'en passerai quatre 【___】 préparer mon outil."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n69. Que l'on me donne six heures pour couper un arbre, j'en passerai quatre 【\\_\\_\\_\\_】préparer mon outil. A.sans B.pour C.de D.à 正确答案是 D 解析\n\n句子解析 Que l'on me donne six heures pour couper un arbre, j'en passerai quatre ____ préparer mon outil. 主句核心结构：passer quatre heures \\_\\_\\_\\_ préparer mon outil（花四小时做某事）。\n\n## 根据法语固定搭配，passer du temps à faire qch 表示 \"花时间做某事\" ，其中介 词 à 后接动词原形。 选项分析\n\n| 选项 | 含义 | 是否符合搭配 |\n|---|---|---|\n| A. sans | 没有 | 语义不通（\"花四小时不准备工具\" 不合逻辑） |\n| B. pour | 为了 | 常见搭配为 faire qch pour faire qch（为做某事而做某事），但 passer 需与 à 搭配 |\n| C. de | 属于 / 部分 | 无此用法 |\n\n---\n\n| 选项 | 含义 | 是否符合搭配 |\n|---|---|---|\n| D. à | 在… 方面 | 符合 passer du temps à faire qch 结构 |\n\n固定搭配补充 类似用法的动词短语还有： devenir + à faire "
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q070",
+      "questionVersionId": "tfs4-2024-q070:v1",
+      "year": 2024,
+      "label": 70,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Au 19e siècle, il était difficile voire impossible de faire le tourdu monde 【___】 quatre-vingts jours."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n70. Au 19e siècle, il était difficile voire impossible de faire le tourdu monde【\\_\\_\\_\\_】quatre-vingts jours. A.pour B.depuis C.en D.pendant 正确答案是 C 解析 在 19 世纪，八十天环游世界是困难的，甚至是不可能的。 考查时间表达，en 强调完成某事所需最少时间，复合题意。 \"Au 19e siècle, il était difficile voire impossible de faire le tour du monde en quatre-vingts jours.\" （在 19 世纪，很难甚至不可能在 80 天内环游世界。） \"en\" 在这里表示完成某事所需的时间，即\"在……时间内\" 。 其他选项不符合语法或语义：\n\n---\n\npour（为了）→ 不适用。 depuis（自……以来）→ 表示时间的起点，与句意无关。 pendant（在……期间）→ 强调持续的时间段，而非完成期限。 注： 这句话可能参考了儒勒·凡尔纳的小说《八十天环游地球》（Le Tour du monde en quatre-vingts jours），书名中也使用了 \"en\"。\n\n71. 【\\_\\_\\_\\_】 rester devant ton ordinateur, tu vas finir par devenir très fatigue! A.Afin de B.À cause de C.À force de D.Au lieu de 正确答案是 C"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q071",
+      "questionVersionId": "tfs4-2024-q071:v1",
+      "year": 2024,
+      "label": 71,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "【___】 rester devant ton ordinateur, tu vas finir par devenir très fatigue!"
+        },
+        {
+          "source": "explanation",
+          "quote": "\n71. 【\\_\\_\\_\\_】 rester devant ton ordinateur, tu vas finir par devenir très fatigue! A.Afin de B.À cause de C.À force de D.Au lieu de 正确答案是 C 解析\n\n短语含义： À force de：表示\"由于反复/长时间做某事\"，强调持续行为导致的必然结果 其他选项分析：\n\nA. Afin de → \"为了\"（表目的，与句意矛盾）\nB. À cause de → \"由于\"（通常接负面原因，但不如à force de 强调持续性） D. Au lieu de → \"而不是\"（表替代，完全不符句意） 句意逻辑： 强调\"持续对着电脑\"与\"最终疲惫\"的因果关系 类似中文表达：\"老是这样对着电脑，迟早会累垮\" 经典搭配： À force de travailler, il a réussi.（由于持续努力，他成功了） À force de mentir, personne ne le croit.（因为老是说谎，没人信他了） 常见错误： 混淆 à cause de（一般原因）和 à force de（强调重复/持续行为）\n\n---\n\n误选 afin de（将结果误认为目的） 因此，C. À force de 是唯一正确答案 ✅ 由于不断地呆在电脑前，你最终会变得很累！ À force de\"意思是\"由于不断地\"或\"通过不断地\" 。它用于表达某种行为或努力的重复性和持 久性，最终导致某种结果。\n\n72. Elle aime les ailes 【\\_\\_\\_\\_】"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q072",
+      "questionVersionId": "tfs4-2024-q072:v1",
+      "year": 2024,
+      "label": 72,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Elle aime les ailes 【___】 poulet 【___】 coca-cola."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n72. Elle aime les ailes 【\\_\\_\\_\\_】 poulet【\\_\\_\\_\\_】 coca-cola. A.au, de B.de, au C.par, de D.de, par 正确答案是 B 解析 介词搭配规则： aile de poulet（鸡翅）： 表示\"属于鸡的翅膀\"，法语中食材原料必须用 de（类似：jus d'orange 橙汁） poulet au coca-cola（可乐鸡）： 表示\"用可乐烹制的鸡\"，烹饪方式用 à/au（类似：boeuf aux carottes 胡萝卜炖牛肉） 排除其他选项： A. au, de → 颠倒原料与烹饪方式的介词 C. par, de → par 表示通过某种方式（如 cuit par...），不用于食材搭配 D. de, par → par 完全不符合烹饪表达习惯 烹饪术语对比：\n\n## 法语表达 字面结构 中文对应 aile de poulet 鸡的翅膀 鸡翅 poulet au coca 用可乐做的鸡 可乐鸡 gâteau aux pommes加入苹果的蛋糕苹果蛋糕\n\n---\n\n常见错误： 混淆 de（所属关系）和 à/au（烹饪方式）的用法 受英语\"chicken wings with cola\"影响误用 avec（法语烹饪不用 avec 表达主料） 因此，B. de, au 是唯一符合法语烹饪术语的选项 ✅ 考察介词在食物中的搭配，a 表示点缀或风味，de 引导主要食材。\n\n73. Un siècle plus tôt, on le (l') 【\\_\\_\\_\\_】 en prison. A.m"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q073",
+      "questionVersionId": "tfs4-2024-q073:v1",
+      "year": 2024,
+      "label": 73,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Un siècle plus tôt, on le (l') 【___】 en prison"
+        },
+        {
+          "source": "explanation",
+          "quote": "\n73. Un siècle plus tôt, on le (l') 【\\_\\_\\_\\_】 en prison. A.met B.mettra C.mettrait D.aurait mis 正确答案是 D. 解析\n\n语法结构： 这是一个条件式过去时（conditionnel passé）的典型用法，表示与过去事实相反的假设 结构：on l'aurait mis（条件式现在时助动词 avoir + 过去分词 mis） 时间状语 Un siècle plus tôt（一个世纪前）提示这是对过去情况的虚拟 时态对比：\n\n## 选项 时态 适用场景 A. met 现在时 与过去时间矛盾 B. mettra 简单将来时 不能用于历史假设 C. mettrait 条件式现在时只能表示现在/将来的假设 D. aurait mis条件式过去时唯一正确（过去虚拟）\n\n句意逻辑： 通过对比现在与过去的社会规范，暗示\"现在不会因此入狱，但过去会\" 类似中文表达：\"这要搁在百年前，早被下大狱了\" 常见错误：\n\n---\n\n误选 mettrait（条件式现在时），忽略 plus tôt 明确指向过去时间 混淆 aurait mis（条件式过去时）和 avait mis（愈过去时，表过去已完成动作） 经典例句： S'il avait étudié, il aurait réussi（如果他当初学习了，早就成功了） À cette époque-là, on l'aurait condamné（在那个年代，他早被判刑了） 因此，D. aurait mis 是唯一正确答案 ✅ 一个世纪前，他会被关进监狱。 "
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q074",
+      "questionVersionId": "tfs4-2024-q074:v1",
+      "year": 2024,
+      "label": 74,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "【____】 le métro, vous ne serez pas en retard."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n74.【\\_\\_\\_\\_】 le métro, vous ne serez pas en retard. A.Si vous preniez B.Si vous aviez pris C.En prenant D.Pris 正确答案是 C 解析 语法结构： En + 现在分词（prenant） 构成副动词（gérondif），表示\"通过做某事\"或\"在做某事的同时\"， 在此表示条件 这种结构比 si 条件句更简洁，强调方式方法 排除其他选项：\n\nA. Si vous preniez → 未完成过去时，需主句用条件式（vous ne seriez pas），时态不匹配\nB. Si vous aviez pris → 愈过去时，需主句用条件式过去时（vous n'auriez pas été），时态错\n\n误 D. Pris → 过去分词单独使用需配合助动词（如 Ayant pris），此处语法错误 句意对比：\n\n---\n\n## 表达方式例句 语气差异 副动词 En prenant... 简洁，强调方法 条件句 Si vous prenez... 更正式，强调假设 命令式 Prenez le métro pour...直接建议\n\n常见错误： 混淆副动词（en + 现在分词）和现在分词（prenant 单独使用）的用法 忽视主从句时态配合规则（尤其 si 条件句的三类结构） 实用扩展： 同类结构： En partant plus tôt, vous éviterez les embouteillages.（早点出发就能避开堵车） 错误示范： ~~Prenant le métro~~, "
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q075",
+      "questionVersionId": "tfs4-2024-q075:v1",
+      "year": 2024,
+      "label": 75,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Jamais je n'avais vu 【____】 d'argent"
+        },
+        {
+          "source": "explanation",
+          "quote": "\n75. Jamais je n'avais vu 【\\_\\_\\_\\_】 d'argent. A.si beaucoup B.aussi C.tant D.beaucoup 正确答案是 C 解析 语法结构： tant de + 无冠词名词 表示\"如此多的...\"，强调数量极大 这是法语中表达\"大量\"的固定搭配，尤其用于否定句（jamais...ne）加强语气 排除其他选项：\nA. si beaucoup → 错误组合（beaucoup 不能与 si 连用）\nB. aussi → 只能修饰形容词/副词（aussi grand），不能直接修饰名词\n\n---\n\nD. beaucoup → 正确用法应为 beaucoup d'argent，但无法与 jamais 的强调语气匹配 程度副词对比：\n\n## 表达 结构 例句 tant de + 无冠词名词tant de problèmes（如此多问题） autant d e + 无冠词名词autant de chance（同样多的运气） beaucoup de+ 无冠词名词beaucoup de temps（很多时间）\n\n常见错误： 误用 si beaucoup（受英语\"so much\"直译影响），但法语中 beaucoup 不可被 si 修饰 混淆 aussi（修饰形容词）和 tant（修饰名词）的用法 经典例句： Je n'ai jamais rencontré tant de gentillesse.（我从未遇见过如此多的善意） Il dépense tant d'argent sans compter.（他挥霍了这么多钱） 因此，C"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q076",
+      "questionVersionId": "tfs4-2024-q076:v1",
+      "year": 2024,
+      "label": 76,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Elle s'habille vraiment 【____】."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n76. Elle s'habille vraiment 【\\_\\_\\_\\_】. A.quelconque B.n'importe quoi C.quel que ce soit D.n'importe comment 正确答案是 D. 解析\n\n短语含义： n'importe comment：表示\"随便地、胡乱地\"，专门描述方式/状态的随意性 其他选项分析：\n\nA. quelconque → \"普通的\"（中性评价，不表达负面随意性）\nB. n'importe quoi → \"随便什么东西\"（指代事物，不能修饰动词）\n\n---\n\nC. quel que ce soit → \"无论什么\"（需接名词，如 quel que soit le prix） 句意逻辑： 强调\"穿衣方式\"的混乱无序，带有批评意味 类似中文表达：\"穿得没个样子\" 固定搭配对比：\n\n短语 用法 例句 n'importe comment修饰动词Il parle n'importe comment（他胡说八道） n'importe quoi 作名词 Il mange n'importe quoi（他乱吃东西） quelconque 形容词 un film quelconque（一部普通电影）\n\n常见错误： 误选 n'importe quoi（混淆\"行为方式\"和\"事物对象\"） 不理解 quelconque 的中性含义（无贬义） 实用扩展： 同类批评表达： Elle s'habille comme un sac（她穿得像个麻袋） 反义表达： Elle s'habille avec soin（她穿着考究） 因此，D. n'i"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q077",
+      "questionVersionId": "tfs4-2024-q077:v1",
+      "year": 2024,
+      "label": 77,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Ce numero vous permet de nous contacter en cas 【____】."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n77. Ce numero vous permet de nous contacter en cas【\\_\\_\\_\\_】. A.d'ignorance B.d'urgence C.de l'ignorance D.de l'urgence 正确答案是 B 解析 固定搭配：\n\n---\n\nen cas de + 无冠词名词 是法语固定结构，表示\"在...情况下\" 此处必须用 d'urgence（无冠词），而非 de l'urgence（带冠词错误） 语义分析： urgence（紧急情况）是唯一符合\"联系电话\"使用场景的词汇 其他选项： A/C. ignorance（无知）→ 与联系电话功能无关 D. de l'urgence → 违反 en cas de 必须省略冠词的规则 语法规则：\n\n## 正确结构 错误结构 示例 en cas de danger ~~en cas du danger~~ \"在危险情况下\" en cas d'absence ~~en cas de l'absence~~ \"在缺席情况下\"\n\n常见错误： 受英语\"in case of emergency\"（带冠词）影响误选 de l'urgence 混淆 urgence（紧急）和 ignorance（无知）的词义 实用场景扩展： 同类表达： en cas de problème（如有问题） en cas de besoin（如有需要） 错误示范： ~~en cas de la panne~~ → 正确应为 en cas de panne（故障时） 因此，B. d'urgence 是唯一正确答案 ✅ 此号码允许您"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q078",
+      "questionVersionId": "tfs4-2024-q078:v1",
+      "year": 2024,
+      "label": 78,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Il est parti pour la France et il sera 【____】 vers la fin du mois."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n78. Il est parti pour la France et il sera 【\\_\\_\\_\\_】vers la fin du mois. A.de retour B.en retour C.a retour\n\n---\n\nD.par retour 正确答案是 A 解析\n\n固定搭配： être de retour 是法语中表示\"回来、返回\"的标准表达 其他选项分析： B. en retour → 表示\"作为回报\"（如 en retour de votre aide） C. à retour → 无此搭配（retourner à 需接地点） D. par retour → 仅用于信件（répondre par retour \"即复\"） 句意逻辑： 描述\"去法国\"与\"返回\"的时间关系，需用状态表达（être de retour）而非动作动词 类似中文表达：\"他将于...归来\" 常用结构对比：\n\n法语表达 用法 例句 être de retour 状态性返回Je serai de retour demain rentrer/retourner动作性返回Il retourne à Paris en retour 抽象回报 Donnez-moi un conseil en retour\n\n常见错误： 混淆 de retour（状态）和 rentrer（动作，需说 il rentrera） 误用 par retour（仅限信件用语） 实用扩展： 同类表达： être de passage（短暂停留） être en voyage（在旅行中） 错误示范： ~~Il sera en r"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q079",
+      "questionVersionId": "tfs4-2024-q079:v1",
+      "year": 2024,
+      "label": 79,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Il ne faut pas abandonner ce monde à 【____】 tu méprises."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n79. Il ne faut pas abandonner ce monde à 【\\_\\_\\_\\_】 tu méprises. A.ce que B.ceux que C.ce qui D.ceux qui 正确答案是 B 解析\n\n语法结构： 句子需要同时满足两个条件：\n\na) 指代人（\"那些人\"）\nb) 作\"méprises\"（轻视）的直接宾语（\"你轻视的人\"） ceux que 是唯一符合要求的选项： ceux 是指示代词，特指\"那些人\" que 是关系代词，作直接宾语（相当于\"whom\"） 选项对比：\n\n## 选项 问题 A. ce que 只能指事物（\"你所轻视的事\"） B. ceux que正确（\"你所轻视的那些人\"） C. ce qui 指事物且作主语（\"所发生的事情\"） D. ceux qui 虽指人但作主语（\"那些轻视你的人\"），与句意相反\n\n经典误區： 受英语\"those who\"影响误选 ceux qui（忽略动词\"mépriser\"需要直接宾语） 混淆 ce que（指物）和 ceux que（指人）的用法 实用例句： Aidez ceux que vous connaissez（帮助你认识的那些人） Je parle à ceux que j'aime（我与我爱的那些人交谈）\n\n---\n\n句式背景： 这句话常见于议论文，强调\"不应让世界被品行低劣者掌控\"。使用复合关系代词（ceux que） 能精准表达\"特定群体+被动关系\"的语义。 因此，B. ceux que 是唯一正确答案 ✅ 你不应该把这个世界交给你鄙视的人。 ceux que 代替人，在从句"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q080",
+      "questionVersionId": "tfs4-2024-q080:v1",
+      "year": 2024,
+      "label": 80,
+      "typeId": "grammar-choice",
+      "responseType": "choice",
+      "primaryId": "obj-2024-grammar-candidate",
+      "primaryName": "2024批次候选新叶",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Elle a les yeux 【_____】."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n80. Elle a les yeux 【\\_\\_\\_\\_】. A.bleu clair B.bleue claire C.bleus clairs D.bleues claires 正确答案：A. bleu clair 关键解析： 复合颜色形容词的规则： 在法语中，复合颜色形容词（由两个形容词组成，表示一种特定颜色）通常不进行性数配合。 例如： bleu clair（浅蓝） vert foncé（深绿） 即使修饰的名词是复数或阴性，复合颜色中的两个形容词均保持阳性单数形式。 本题结构分析： 句子：Elle a les yeux 【\\_\\_\\_\\_】. 名词 yeux（眼睛）是阳性复数。 复合颜色 bleu clair 中的 clair 用于修饰 bleu（说明蓝色的深浅），因此整体视为固定搭配， 无需配合。 错误选项辨析： B. bleue claire ❌ 错误地对两个形容词进行了阴性单数配合（与 yeux 的阳性复数矛盾）。\n\n---\n\nC. bleus clairs ❌ 错误地对两个形容词进行了阳性复数配合（复合颜色形容词应保持原形）。 D. bleues claires ❌ 错误地对两个形容词进行了阴性复数配合（与 yeux 的性别和数均矛盾）。 正确用法示例： Elle a des robes bleu clair.（她的裙子是浅蓝色的。） Les murs sont vert pomme.（墙是苹果绿色的。） 语法总结： 简单颜色形容词（如 bleu, rouge）需与名词性数配合。 复合颜色形容词（如 bleu clair, vert foncé）不配合，视为"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q081",
+      "questionVersionId": "tfs4-2024-q081:v1",
+      "year": 2024,
+      "label": 81,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "A Bruxelles, que fait Van Rappard à l'Académie ?"
+        },
+        {
+          "source": "explanation",
+          "quote": "\n81. A Bruxelles, que fait Van Rappard a l'Académie ? A.Il y donne des cours. B.Il y fait ses etudes. C.Il y vend ses toiles. D.Il y attend sa chance 在布鲁塞尔，范·拉帕德在学院做什么？ A.他在那里上课。 B.他在那里学习。 C.他在那里卖他的画。 D.他在那里等待机会 正确答案是 B 解析\n\n---\n\n关键信息定位： 在原文第二段开头提到： \"Van Rappard [...] a travaillé à Utrecht avant de s'installer à Bruxelles pour y suivre les cours de l'Académie\"（Van Rappard 曾在乌得勒支工作，后来定居布鲁塞尔，为了在艺术学院上课。） \"suivre les cours de l'Académie\" 是核心表达，意为 \"在学院学习/上课\"，明确说明他是学生\n\n身份。 文中未提及他授课（A）、卖画（C）或等待机会（D）的相关信息。 排除法验证： A 选项（授课）： 原文只说他去\"上课\"(suivre les cours)，而非\"授课\"(donner des cours)。 后文提到他比梵高年轻 5 岁且刚定居布鲁塞尔，不太可能是教师身份。 C 选项（卖画）： 文中仅提到他\"画工人和农民场景\"，但未提及卖画行为。 D 选项（等待机会）： 这是无原文依据的干扰项，文中明确说明他去学习的动机。 正确答案：B (Il y fa"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q082",
+      "questionVersionId": "tfs4-2024-q082:v1",
+      "year": 2024,
+      "label": 82,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Laquelle des affirmations suivantes correspond au texte ?"
+        },
+        {
+          "source": "explanation",
+          "quote": "\n82. Laquelle des affirmations suivantes correspond au texte ? A.L'accueil accordé par Van Rappard est plutôt chaleureux. B.Van Rappard est jaloux du talent de Van Gogh. C.Van Gogh et Van Rappard sont compatriotes. D.Van Rappard ne s'interessé pas aux paysages. 82.下列哪项陈述符合正文？\n\n---\n\nA.范·拉帕德的欢迎相当热烈。 B.范·拉帕德嫉妒梵高的才华。 C.梵高和范·拉帕德是同胞。 D.范·拉帕德对风景不感兴趣。 正确答案是 C 解析 关键信息定位与分析： 选项 C：梵高和 Van Rappard 是同胞（正确） 原文第二段开头明确提到： \"Van Rappard, lui aussi d'origine hollandaise\" （Van Rappard 同样来自荷兰）。 梵高是荷兰人，因此两人是同胞（compatriotes = 同国籍）。 直接对应原文，其他选项均无明确支持。 其他选项排除： 选项 A：接待热情（错误） 原文：\"à vrai dire, il n'accueille pas Vincent avec un grand enthousiasme\" （说实话，他并未热情接待梵高）。 明确说明接待不热情，与 A 选项矛盾。 选项 B：嫉妒才华（错误） 原文提到 Van Rappard 后来写道"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q083",
+      "questionVersionId": "tfs4-2024-q083:v1",
+      "year": 2024,
+      "label": 83,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Que Van Gogh pense-t-il de Van Rappard ?"
+        },
+        {
+          "source": "explanation",
+          "quote": "\n83. Que Van Gogh pense-t-il de Van Rappard ? A.Il le trouve plutôt sérieux. B.Il le trouve audacieux. C.Il le trouve méprisant. D.Il le trouve talentueux. 83.梵高对范·拉帕德有什么看法？ A.他觉得这很严重。 B.他觉得很大胆。 C.他觉得他很鄙视。 D.他觉得他很有才华。 正确答案是 A 解析 关键信息定位： 在梵高写给弟弟提奥的信中，明确提到： \"L'impression qu'il a produite sur moi, c'est qu'il est sérieux.\" （他给我的印象是，他是个严肃的人。） 这是梵高对 Van Rappard 的直接评价，明确对应选项 A。 其他形容词（audacieux 大胆的, méprisant 轻蔑的, talentueux 有才华的）均未在原文出现。 其他选项排除： 选项 B（大胆的）： 文中无任何关于 Van Rappard 性格大胆的描述。 梵高仅提到他的严肃和经济状况（\"assez richement installé\"）。 选项 C（轻蔑的）： 原文提到 Van Rappard 对梵高不够热情（\"pas un grand enthousiasme\"），但这是 Van Rappard\n\n---\n\n的态度，而非梵高对他的看法。 梵高本人并未评价 Van Rappard\"轻蔑\"。 选项 D（有才华的）： 原文提到 Van Rappard后来赞赏梵高的才华（\"ses g"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q084",
+      "questionVersionId": "tfs4-2024-q084:v1",
+      "year": 2024,
+      "label": 84,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Que Van Rappard pense-t-il de Van Gogh?"
+        },
+        {
+          "source": "explanation",
+          "quote": "\n84. Que Van Rappard pense-t-il de Van Gogh? A.Il le trouve colereux et violent. B.Il surestime le talent de Van Gogh. C.Il le trouve trop pauvre pour être son ami. D.Il pense que le goût artistique de Van Gogh est superieur au sien. 84.范·拉帕德对梵高有什么看法？ A.他发现他生气且暴力。 B.他高估了梵高的才华。 C.他觉得他太穷了，不能做他的朋友。 D.他认为梵高的艺术品味高于自己。 正确答案是 A 解析 关键信息定位： 原文中 Van Rappard 对梵高的直接评价在第二段末尾： \"Il s'étonne de son visiteur « qui, écrira-t-il plus tard, se fichait bien souvent et se montrait violent,\n\n---\n\nmais qui méritait toujours l'amitié et l'admiration pour son noble caractère et ses grands talents d'artiste. »\" （他后来写道，这位访客\\*\\*\"经常发脾气且表现暴力，但因其高尚品格和伟大艺术才华，始 终值得友谊和钦佩\"\\*\\*。） \"se montrait violent\" → \"表现暴力\"，对应选项 A 的\"violent\""
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q085",
+      "questionVersionId": "tfs4-2024-q085:v1",
+      "year": 2024,
+      "label": 85,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-exclusion",
+      "primaryName": "否定问法与信息排除",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Laquelle des affirmations suivantes ne correspond pas au texte ?"
+        },
+        {
+          "source": "explanation",
+          "quote": "\n85. Laquelle des affirmations suivantes ne correspond pas au texte ? A.Van Rappard travaille surtout à des scenes ouvrieres ou paysannes. B.Van Rappard est plus jeune que Van Gogh de cinq ans. C.Van Gogh compte cohabiter avec Van Rappard. D.Van Rappard est riche et vit confortablement. 85.下列说法与正文不符的是 A.范·拉帕德主要在工人或农民的场景中工作。 B.范·拉帕德比梵高小五岁。 C.梵高打算与范·拉帕德同居。 D.Van Rappard 很富有，生活舒适。 正确答案是 C. 解析\n\n关键信息定位与验证： 选项 C：梵高打算与 Van Rappard 同住（不符合原文） 原文第一段提到梵高的顾虑： \"je ne sais s'il est bien l'homme avec lequel je pourrais cohabiter\" （我不确定他是否是我能与之同住的人）。 \"je ne sais\"（我不知道）表明梵高并未决定同住，仅是考虑可能性。 选项 C 的\"compte cohabiter\"（打算同住）与原文的犹豫态度矛盾，是错误表述。 其他选项验证（均符合原文）： 选项 A： 原文：\"il travaille surtout à des scènes ouvrières ou p"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q086",
+      "questionVersionId": "tfs4-2024-q086:v1",
+      "year": 2024,
+      "label": 86,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Le premier panda né en France s'appelle 【_______】."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n86. Le premier panda ne en France s'appelle【\\_\\_\\_\\_\\_】. A.Huan Huan B.Yuan Meng C.Huan Li Li D.Yuan Du Du 86.法国第一只熊猫叫【\\_\\_\\_\\_\\_】。 A.欢欢 B.袁梦 C.李欢 D.袁杜杜 正确答案是 B\n\n---\n\n解 析\n\n关键信息定位： 原文第三段明确提到： \"ces deux pandas ont eu un bébé en 2017: le petit Yuan Meng. C'est le premier panda né en France !\"\n\n（这两只大熊猫在 2017 年生了一只幼崽：小 Yuan Meng。这是法国出生的第一只大熊 猫！）\n\n直接对应：Yuan Meng 是法国出生的第一只大熊猫。 其他选项均为干扰项： Huan Huan 和 Yuan Zi 是父母（2012 年来法）。 Huan Li Li 和 Yuan Du Du 是 Yuan Meng 的妹妹（2021 年出生，非\"第一只\"）。 正确答案：B (Yuan Meng) 依据： 原文明确说明\"premier panda né en France\"的名字是 Yuan Meng。 补充信息： 时间线： 2012 年：父母 Huan Huan 和 Yuan Zi 来法。 2017 年：Yuan Meng 出生（第一只）。 2021 年：双胞胎妹妹 Huan Li Li 和 Yuan Du Du 出生。 Yuan Meng 的归宿： 2023 年 7 月 25 日返回中国四川，"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q087",
+      "questionVersionId": "tfs4-2024-q087:v1",
+      "year": 2024,
+      "label": 87,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Les deux sœurs de Yuan Meng sont nées en 【_____】."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n87. Les deux sœurs de Yuan Meng sont nées en 【\\_\\_\\_\\_\\_】. A.2012 B.2017 C.2021 D.2023 87.袁梦的两个妹妹出生于【\\_\\_\\_\\_\\_】。 A.2012 B.2017\n\n---\n\nC.2021 D.2023 正确答案是 C 解析 关键信息定位： 原文第五段明确提到： \"Plus tard, en 2021, sa famille s'est agrandie ! Yuan Meng a eu deux petites sœurs: Huan Li Li et Yuan Du Du.\" （后来，2021 年，他的家庭扩大了！Yuan Meng 有了两个妹妹：Huan Li Li 和 Yuan Du Du。） 直接对应：2021 年是两个妹妹的出生年份。 其他年份的干扰项： 2012 年：父母 Huan Huan 和 Yuan Zi 抵达法国。 2017 年：Yuan Meng 出生。 2023 年：Yuan Meng 返回中国。 正确答案：C (2021) 依据： 原文明确使用\"en 2021\"指出妹妹们的出生时间。 时间线速记：\n\n2012：父母来法 2017：Yuan Meng 出生（法国第一只）\n\n2021：双胞胎妹妹 Huan Li Li 和 Yuan Du Du 出生 2023：Yuan Meng 回中国\n\n88. Selon le projet initial, les parents de Yuan Meng auraient du rentrer dans 【\\_\\_\\_\\_"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q088",
+      "questionVersionId": "tfs4-2024-q088:v1",
+      "year": 2024,
+      "label": 88,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Selon le projet initial, les parents de Yuan Meng auraient du rentrer dans 【_____】."
+        },
+        {
+          "source": "explanation",
+          "quote": "\n88. Selon le projet initial, les parents de Yuan Meng auraient du rentrer dans 【\\_\\_\\_\\_\\_】. A.2012 B.2017 C.2022 D.2027 88.按照原计划，袁梦的父母应该是在【\\_\\_\\_\\_\\_】返回的。 A.2012\n\n---\n\nB.2017 C.2022 D.2027 正确答案是 C 解析 关键信息定位： 原文第六段提到： \"les parents de Yuan Meng, prêtés à la France pour une durée de 10 ans, vont rester plus longtemps que prévu au zoo de Beauval.\" （Yuan Meng 的父母借给法国的期限是 10 年，将比原计划停留更长时间。） 计算时间： 父母是 2012 年抵达法国（原文第二段）。 最初借期 10 年 → 2012 + 10 = 2022 年应返回。 实际延期至 2027 年（\"prolongé jusqu'en 2027\"），但题目问的是最初计划。 其他选项排除：\n\nA. 2012：抵达年份，非返回时间。\nB. 2017：Yuan Meng 出生年份。 D. 2027：延期后的时间，非原计划。 正确答案：C (2022) 依据： 10 年借期从 2012 年开始计算，原计划 2022 年返回。 时间线总结：\n\n## 事件 年份 说明 父母抵法 2012 开始 10 年借期 Yuan Meng 出生2017 法国首只熊猫宝宝 原计划父"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q089",
+      "questionVersionId": "tfs4-2024-q089:v1",
+      "year": 2024,
+      "label": 89,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Comment Yuan Meng retournera-t-il en Chine ?"
+        },
+        {
+          "source": "explanation",
+          "quote": "\n89.Comment Yuan Meng retournera-t-il en Chine ? A.Il sera accompagné pendant son voyage. B.Il prendra un vol direct tout seul. C.Il sera transporte par un bateau spécialisé. D.Il sera surveillé par un soigneur du Sichuan. 89.袁梦将如何回国？ A.他将在旅途中得到陪伴。 B.他将独自乘坐直飞航班。 C.它将由专门的船只运输。 D.他将由四川的护理人员监护。 正确答案是 A 解析 关键信息定位： 原文最后一段详细描述了 Yuan Meng 的返程安排： \"Il voyagera dans un camion climatisé jusqu'en Allemagne, puis il sera transporté par avion sous la surveillance d'un soigneur et d'un vétérinaire du zoo Beauval.\" （它将乘坐空调卡车前往德国，然后在Beauval动物园的饲养员和兽医的监督下乘飞机运输。） 明确信息： 旅程分两段（卡车+飞机） 有专人陪同（饲养员和兽医） 监督人员来自法国动物园，非四川（排除 D） 选项对比：\n\nA. 有人陪同 → 正确 对应\"sous la surveillance d'un soigneur et d'un vétérinaire\"（在饲养员和兽医监督下）。\nB."
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q090",
+      "questionVersionId": "tfs4-2024-q090:v1",
+      "year": 2024,
+      "label": 90,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-exclusion",
+      "primaryName": "否定问法与信息排除",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Laquelle des affirmations suivantes ne correspond pas au texte ?"
+        },
+        {
+          "source": "explanation",
+          "quote": "解析题号未自动定位，待人工复核"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q091",
+      "questionVersionId": "tfs4-2024-q091:v1",
+      "year": 2024,
+      "label": 91,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Pourquoi est-il difficile pour les enfants de s'orienter dans la forêt ?"
+        },
+        {
+          "source": "explanation",
+          "quote": "\n91.Pourquoi est-il difficile pour les enfants de s'orienter dans la forêt ? A.Parce qu'ils n'ont pas de guide. B.Parce qu'il y fait toujours gris. C.Parce que les arbres sont tres grands. D.Parce que personne ne leur vient en aide. 91.为什么孩子们在森林里很难找到方向？ A.因为他们没有向导。 B.因为那里总是灰色的。 C.因为树很大。 D.因为没有人来帮助他们。 正确答案是 C 解析\n\n1. 定位关键句\n\n---\n\n原文中提到： \"Il est aussi très difficile de s'orienter dans cette forêt, car les arbres sont immenses. Ils peuvent atteindre 45 mètres de haut, la taille d'un immeuble de 15 étages !\" （\"在这片森林中很难辨别方向，因为树木非常巨大。它们可以长到 45 米高，相当于一栋 15 层楼的高度！\"） 这句话直接说明了难以辨别方向的原因是树木极其高大。\n\n2. 排除错误选项\nA. 没有向导 虽然孩子们确实没有向导，但文中并未将\"没有向导\"列为难以辨别方向的原因。 原文强调的是环境因素（树木高大），而非人为因素（缺少向导）。 排除。\nB. 天气总是阴天 全文完全没有提到天气"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q092",
+      "questionVersionId": "tfs4-2024-q092:v1",
+      "year": 2024,
+      "label": 92,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Qu'a-t-on fait pour que les enfants puissent survivre dans la jungle ?"
+        },
+        {
+          "source": "explanation",
+          "quote": "\n92. Qu'a-t-on fait pour que les enfants puissent survivre dans la jungle ? A.Les militaires se sont renseignés auprès de la communaute des Uitoto. B.Les habitants locaux ont parcouru plus de 2 500 kilometres à pied. C.On a laisse des kits de survie un peu partout dans la jungle. D.Les habitants locaux ont lancé l'opération Esperanza. 92.为了让孩子们在丛林中生存，我们做了什么？ A.军方询问了 Uitoto 社区。 B.当地居民步行 2500 多公里。 C.我们在丛林里到处都留下了救生包。 D.当地居民发起了埃斯佩朗莎行动。 正确答案是 C\n\n解析\n\n1. 定位关键信息 原文中提到： 救生包的投放： \"Les militaires ont aussi lancé par hélicoptère des kits de survie un peu partout dans la jungle pour que les enfants puissent les trouver.\" （\"军方还通过直升机在丛林各处投放了救生包，以便孩子们能找到它们。\"） 当地居民的协助： \"Les populations locales, qui connaissen"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q093",
+      "questionVersionId": "tfs4-2024-q093:v1",
+      "year": 2024,
+      "label": 93,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Qui a enfin trouve les enfants ?"
+        },
+        {
+          "source": "explanation",
+          "quote": "\n93. Qui a enfin trouve les enfants ? A.Les militaires. B.Les habitants locaux. C.Le pere des enfants. D.Les membres de la communauté des Uitoto. 93.谁终于找到了孩子们？ A.军队。 B.当地居民。 C.孩子们的父亲。 d.Uitoto 社区成员。 正确答案是 A 解析 1. 定位关键信息 原文中提到： 搜救团队组成：\n\n---\n\n\"Les populations locales, qui connaissent bien la jungle, l'ont beaucoup aidée, les 200 sauveteurs mobilisés auraient parcouru au total plus de 2 500 kilomètres à pied !\" （\"熟悉丛林的当地居民提供了很大帮助，200 名救援人员徒步走了总计超过 2500 公里！\"） 搜救行动的主导者： \"Pour retrouver les enfants, l'armée colombienne a lancé l'opération Esperanza.\" （\"为了找到孩子们，哥伦比亚军方发起了'希望行动'。\"） 最终找到孩子们： \"Au bout de trois semaines de recherche, ils ont finalement retrouvé les quatre enfants, sains et saufs, mais b"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q094",
+      "questionVersionId": "tfs4-2024-q094:v1",
+      "year": 2024,
+      "label": 94,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "On a retrouvé les enfants au bout de 【______】 de recherche.\n\n21"
+        },
+        {
+          "source": "explanation",
+          "quote": "\n94. On a retrouvé les enfants au bout de 【\\_\\_\\_\\_\\_】 de recherche. A.15 jours B.40 jours C.plus d'un mois D.trois semaines 94.经过【\\_\\_\\_\\_\\_】搜寻，我们找到了孩子们。 A.15 天 B.40 天 C.一个多月 D.三周 正确答案是 D. 解析\n1. 定位关键信息 原文中提到： \"Au bout de trois semaines de recherche, ils ont finalement retrouvé les quatre enfants, sains et saufs, mais bien affaiblis.\" （\"经过三周的搜索，他们最终找到了四个孩子，他们安然无恙，但非常虚弱。\"）\n2. 分析选项\nA. 15 天（≈2 周） 与原文\"三周\"不符。 排除。\nB. 40 天（≈5.7 周） 原文未提到 40 天，且远长于三周。 排除。\nC. 超过一个月（＞4 周）\n\n---\n\n三周≈21 天，不足一个月。 排除。 D. 三周（trois semaines） 完全对应原文。 正确。\n\n3. 排除干扰项 后文提到孩子们\"经过一个多月缺乏食物和水\"（Après plus d'un mois avec très peu de nourriture et d'eau），但这是生存时间，与搜救时间无关。 搜救时间明确为\"三周\"。\n95. Laquelle des affirmations suivantes ne correspond "
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q095",
+      "questionVersionId": "tfs4-2024-q095:v1",
+      "year": 2024,
+      "label": 95,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-exclusion",
+      "primaryName": "否定问法与信息排除",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Laquelle des affirmations suivantes ne correspond pas au texte ?"
+        },
+        {
+          "source": "explanation",
+          "quote": "\n95. Laquelle des affirmations suivantes ne correspond pas au texte ? A.Les enfants connaissent bien la foret. B.Les enfants ignorent la dangerosite de la forêt. C.La communaute des Uitoto vit dans la forêt depuis toujours. D.Les enfants ont trouve de quoi manger grâce à leur sœur ainée. 95.下列说法与正文不符的是 A.孩子们很了解森林。 B.孩子们不知道森林的危险。 C.Uitoto 社区一直生活在森林中。 D.多亏了姐姐，孩子们才找到了食物。 正确答案是 B 解析\n1. 定位关键信息 A. 孩子们熟悉森林 \"Les enfants viennent de la communauté des Uitoto, qui vivent dans la forêt depuis toujours. Ils connaissaient donc la jungle et ses différents fruits, plantes et animaux.\" （\"孩子们来自 Uitoto 社区，该社区一直生活在森林中。因此他们熟悉丛林及其不同的水 果、植物和动物。\"） 与原文一致。\n\n100\n\n---\n\nB. 孩子们不知道森林的危险 原文提到森林非常危险（un endroit très dangereu"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q096",
+      "questionVersionId": "tfs4-2024-q096:v1",
+      "year": 2024,
+      "label": 96,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Quelle est la particularité du grand chant ?"
+        },
+        {
+          "source": "explanation",
+          "quote": "\n96. Quelle est la particularité du grand chant ?\n\n102\n\n---\n\nA.On le chante au petit matin. B.On le chante en pleine nature. C.Il fait partie de la longue histoire de l'ethnie Dong. D.Il n'y a pas de chef d'orchestre ni d'accompagnement musical. 96.伟大的歌唱有什么特别之处？ A.我们一大早就唱。 B.我们在大自然中歌唱。 C.它是侗族悠久历史的一部分。 D. 没有指挥，也没有音乐伴奏。\n\n正确答案是 D 解析 1.定位关键信息 原文中提到： \"C'est une forme unique de chœur folklorique, caractérisée par l'absence de chef d'orchestre et d'accompagnement.\" （\"这是一种独特的民间合唱形式，特点是没有指挥和伴奏。\"）\n\n2. 分析选项\nA. 人们在清晨演唱 原文提到潘彩花在清晨唱歌（Au petit matin），但这是个人行为，不是侗族大歌的普遍特点。 排除。\nB. 人们在大自然中演唱 文中未提到\"在自然环境中演唱\"是其特点。 排除。\nC. 它是侗族悠久历史的一部分 原文提到侗族大歌的文化价值（如被列入非遗），但未明确说\"历史悠久\"是其特点。 排除。\nD. 没有指挥，也没有音乐伴奏 完全对应原文中的\\*\\*\"absence"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q097",
+      "questionVersionId": "tfs4-2024-q097:v1",
+      "year": 2024,
+      "label": 97,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Le grand chant a été inscrit sur la liste du Patrimoine culturel immatériel de?"
+        },
+        {
+          "source": "explanation",
+          "quote": "\n97. Le grand chant a été inscrit sur la liste du Patrimoine culturel immateriel de A.ses belles melodies B.son influence artistique C.son importance economique D.son importance culturelle 97.大圣被列入非物质文化遗产名录 A.他优美的旋律 B.他的艺术影响力 C.其经济重要性 D.其文化意义 正确答案是 D 解析\n1. 定位关键信息 原文中提到： \"En reconnaissance de son importance culturelle, les Nations unies ont inscrit en 2000 le grand chant sur la liste du Patrimoine culturel immateriel de l'humanité.\" （\"鉴于其文化重要性，联合国于 2000 年将侗族大歌列入人类非物质文化遗产名录。\"）\n2. 分析选项\nA. 它优美的旋律 原文提到侗族大歌在巴黎秋季艺术节上因优美旋律吸引观众，但这不是列入非遗的原因。 排除。\nB. 它的艺术影响力 文中未直接提到\"艺术影响力\"是列入非遗的原因。 排除。\nC. 它的经济重要性\n\n104\n\n---\n\n后文提到旅游发展带来经济收益，但这是结果，而非列入非遗的原因。 排除。 D. 它的文化重要性 完全对应原文中的\\*\\*\"son importance culturelle\"\\*\\*。 正确。\n\n"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q098",
+      "questionVersionId": "tfs4-2024-q098:v1",
+      "year": 2024,
+      "label": 98,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "À propos de Mme Pan, laquelle des affirmations suivantes ne correspond pas?"
+        },
+        {
+          "source": "explanation",
+          "quote": "\n98. À propos de Mme Pan, laquelle des affirmations suivantes ne correspond pas？ A.Elle est l'heritière nationale du grand chant. B.Elle ne chante qu'a l'occasion des grandes fêtes. C.Elle habite dans un village du Guizhou. D.Elle dirige un cheur de personnes âgees. 98.关于潘女士，下列说法不正确的是 A.她是伟大歌曲的民族继承人。 B.她只在重大节日唱歌。 C.她住在贵州的一个村庄里。 D. 她经营着一个老年合唱团。\n\n正确答案是 B 解析\n\n1. 定位关键信息\nA. 国家级传承人 \"Mme Pan Chayinhua, âgée de 80 ans, est l'heritiere nationale du grand chant.\" （\"80 岁的潘彩花是侗族大歌的国家级传承人。\"） 与原文一致。\nB. 只在重大节日时唱歌 原文提到： 唱歌是村民日常生活的一部分（chanter fait partie de la vie quotidienne）； 潘彩花领导老年人合唱团，定期在鼓楼聚集唱歌（La tour du tambour sert de lieu de\n\n105\n\n---\n\nrassemblement...）； 春节时全村穿传统服装唱歌（À chaque fête du Printemps...），但"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q099",
+      "questionVersionId": "tfs4-2024-q099:v1",
+      "year": 2024,
+      "label": 99,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-detail",
+      "primaryName": "人物、事件与事实定位",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "Qu'est-ce qui a fait augmenter les revenus des chanteurs locaux ?"
+        },
+        {
+          "source": "explanation",
+          "quote": "\n99. Qu'est-ce qui a fait augmenter les revenus des chanteurs locaux ? A.Le developpement du tourisme rural. B.La vente de leurs costumes traditionnels. C.La création d'une association consacrée au grand chant. D.L'inscription du grand chant sur la liste du Patrimoine culturel immatériel de l'humanite. 99.是什么增加了当地歌手的收入？ A.乡村旅游的发展。 B.出售他们的传统服装。 C.成立一个致力于伟大歌唱的协会。 D.将《大圣》列入人类非物质文化遗产名录。 正确答案是 A 解析\n1. 定位关键信息 原文中提到：\n\n106\n\n---\n\n\"Ces dernières années, grâce au développement du tourisme rural, un nombre croissant de touristes visitent le village pour profiter des spectacles du grand chant, ce qui permet également aux chanteurs locaux d'augmenter leurs revenus.\" （\"近年来，由于乡村旅游的发展，越来越多的游客来到村庄欣赏侗族大歌表演，这也使"
+        }
+      ]
+    },
+    {
+      "questionId": "tfs4-2024-q100",
+      "questionVersionId": "tfs4-2024-q100:v1",
+      "year": 2024,
+      "label": 100,
+      "typeId": "reading",
+      "responseType": "choice",
+      "primaryId": "obj-r-exclusion",
+      "primaryName": "否定问法与信息排除",
+      "status": "candidate",
+      "basis": "三源交叉校对后依据2024解析形成的首轮考点候选，待现有叶/新叶独立复核。",
+      "keyEvidence": [
+        {
+          "source": "question",
+          "quote": "En ce qui concerne l'association fondée par Wu Dingfeng, laquelle des affirmations suivantes ne correspond pas au texte?"
+        },
+        {
+          "source": "explanation",
+          "quote": "\n100. En ce qui concerne l'association fondéepar Wu Dingfeng, laquelle des affirmations suivantes ne correspond pas au texte? A.Elle offre une plate-forme aux villageois pour chanter. B.Elle permet aux villageois d'échanger des idées. C.Elle permet de proteger une culture unique. D.Elle a pour objectif de developper le tourisme culturel. 100.关于吴鼎峰创办的协会，下列说法与正文不符的是 A. 她为村民提供了一个歌唱的平台。\n\n107\n\n---\n\nB.它允许村民交流思想。 C.它可以保护独特的文化。 D.其目标是发展文化旅游。 正确答案是 D 解析\n\n1. 定位关键信息 原文中提到： \"L'association a offert une plate-forme aux villageois pour chanter, apprendre auprès des autres et échanger des idées. Cela a non seulement contribué à la protection d'une culture unique, mais a également permis à chacun de montrer "
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "choiceQuestions": 80,
+    "candidateAnnotated": 78,
+    "pending": 2,
+    "verbExplanationAvailable": true,
+    "answersAdopted": false,
+    "classificationApproved": false
+  }
+}

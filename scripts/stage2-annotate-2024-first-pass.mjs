@@ -1,7 +1,7 @@
 import fs from 'node:fs';import path from 'node:path';import assert from 'node:assert/strict';
 const [contentFile,explanationFile,outputDir,startedAt]=process.argv.slice(2);if(!contentFile||!explanationFile||!outputDir||!startedAt)throw Error('Usage: ... CONTENT EXPLANATION OUTPUT START_ISO');
 const content=JSON.parse(fs.readFileSync(contentFile,'utf8')), explanation=fs.readFileSync(explanationFile,'utf8');
-const blocked=new Map([[45,'source_text_issue'],[46,'source_structure_issue'],[65,'answer_range_issue'],[66,'answer_range_issue'],[67,'answer_range_issue'],[68,'answer_range_issue'],[69,'answer_range_issue'],[70,'answer_range_issue']]);
+const blocked=new Map([[45,'source_text_issue'],[46,'source_structure_issue']]);
 const qBy=n=>content.questions.find(q=>q.responseType==='choice'&&q.originalLabel===String(n));
 const quote=n=>{const m=explanation.match(new RegExp('(?:^|\\n)(?:#{1,6}\\s*)?(?:\\*\\*)?'+n+'[.、]'));return m?explanation.slice(m.index,Math.min(explanation.length,m.index+700)):'解析题号未自动定位，待人工复核';};
 const records=[];const leaves=[];for(let n=21;n<=30;n++){const id=`obj-2024-lex-${n}`;leaves.push({id,name:`2024词汇题${n}解析新叶`,parentId:'obj-units',leaf:true,definition:`依据2024题${n}解析建立的独立词汇考点候选；待边界复核。`});}

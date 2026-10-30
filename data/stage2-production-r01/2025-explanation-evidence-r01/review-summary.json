@@ -1,0 +1,58 @@
+{
+  "version": "2025-explanation-evidence-r01",
+  "scope": "Cross-check of unreviewed 2025 explanation Markdown as a secondary evidence layer; no source overwrite or answer adoption.",
+  "inputs": {
+    "explanationMarkdown": {
+      "path": "data/explanations/2025/v1/2025年法语专四真题解析.md",
+      "sha256": "2d23e59102f56a9f51f65ce011bf49216299e75623bf641defc9245e97a5b21b",
+      "pages": 100
+    },
+    "pageProjection": {
+      "path": "data/explanations/2025/v1/pages.json",
+      "sha256": "97296219ac501a8b8e1431031c79f37b9149a77e321671603b34e213fe6d075f"
+    }
+  },
+  "coverage": {
+    "objectiveExplanationQuestions": [
+      "21-40",
+      "41-80",
+      "81-100"
+    ],
+    "objectiveExplanationCount": 80,
+    "listening": "no transcript or explanation; remain pending",
+    "verbForm": "no Part V per-blank explanation; not a replacement for answer mappings"
+  },
+  "candidateAnswerRecovery": {
+    "range": "66-70",
+    "value": "ABACA",
+    "status": "candidate_only",
+    "reason": "Explanation gives A/B/A/C/A individually; answer MD has malformed seven-letter group ABACABA."
+  },
+  "issues": [
+    {
+      "question": 52,
+      "pageRange": "40-41",
+      "code": "ANSWER_CONFLICT",
+      "explanation": "B. dans; explicitly marked disputed",
+      "answerMd": "A in the 51-55 group",
+      "status": "pending"
+    },
+    {
+      "question": 61,
+      "pageRange": "52-53",
+      "code": "EXPLANATION_REASONING_ERROR",
+      "explanation": "A. Adhérés, with unsupported active past-participle agreement rationale",
+      "answerMd": "B in the 61-65 group",
+      "status": "pending"
+    },
+    {
+      "question": 36,
+      "code": "EXPLANATION_TRANSCRIPTION_TYPO",
+      "explanation": "connaisais",
+      "paper": "connaissais (B)",
+      "status": "answer_letter_unaffected"
+    }
+  ],
+  "answersAdopted": false,
+  "classificationApproved": false
+}

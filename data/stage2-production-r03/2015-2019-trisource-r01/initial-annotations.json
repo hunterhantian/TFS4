@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "sourcePolicy": "question + explanation only",
+  "years": [
+    {
+      "year": "2015",
+      "annotations": []
+    },
+    {
+      "year": "2016",
+      "annotations": []
+    },
+    {
+      "year": "2017",
+      "annotations": []
+    },
+    {
+      "year": "2018",
+      "annotations": []
+    },
+    {
+      "year": "2019",
+      "annotations": []
+    }
+  ]
+}

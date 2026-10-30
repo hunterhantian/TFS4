@@ -1,0 +1,23 @@
+{
+  "checkedAt": "2026-10-30T04:07:00Z",
+  "branchHead": "1e07a71",
+  "sittings": 21,
+  "missing": {
+    "paper": [],
+    "answers": [],
+    "explanations": []
+  },
+  "intentionalNoSitting": ["2020"],
+  "specialVersions": {
+    "2023": ["fast-main", "fast-supplement"],
+    "2025": ["fast", "v1"]
+  },
+  "manifest": {
+    "fastOutputs": 22,
+    "fastPages": 1850,
+    "allExplanationRecords": 23,
+    "hashMismatches": 0,
+    "pageCountMismatches": 0
+  },
+  "status": "complete_source_presence; content proofreading still required"
+}

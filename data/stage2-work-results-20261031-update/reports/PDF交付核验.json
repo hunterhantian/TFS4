@@ -1,0 +1,62 @@
+{
+  "pages": 36,
+  "paragraphs_and_table_cells_checked": 683,
+  "missing_text_chunks": [],
+  "outside_page_safe_bounds": [],
+  "embedded_files": 9,
+  "embedded_files_byte_exact": true,
+  "replacement_glyphs": 0,
+  "all_305_leaf_ids_in_pdf": true,
+  "sparse_pages": [
+    1
+  ],
+  "toc": [
+    [
+      1,
+      "一、全部题型与分值结构",
+      3
+    ],
+    [
+      1,
+      "二、知识点归纳与统计",
+      4
+    ],
+    [
+      1,
+      "三、词汇量范围：观测值、覆盖模拟与备考估计分开看",
+      8
+    ],
+    [
+      1,
+      "四、命题思路：正向、反向与干扰项设计",
+      10
+    ],
+    [
+      1,
+      "五、据此反推的学习大纲",
+      15
+    ],
+    [
+      1,
+      "六、结论的可信范围与后续数据缺口",
+      17
+    ],
+    [
+      1,
+      "交付与复算",
+      17
+    ],
+    [
+      1,
+      "附录 A · 全部出现的305个主知识叶",
+      18
+    ],
+    [
+      1,
+      "附录 B · 版本、配色与附件",
+      36
+    ]
+  ],
+  "sha256": "a1ee8dc000c5a3cd80cc431072eaf970d0c7af447db7f9bb5f72c57157ca38c7",
+  "note": "Text/attachment/bounds checks complement the rendered-page visual review; they do not independently certify source semantics."
+}

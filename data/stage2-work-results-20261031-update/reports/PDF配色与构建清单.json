@@ -1,0 +1,62 @@
+{
+  "output": "/Users/chuzu/codex test/output/pdf/法语专四-近六卷反推考试大纲与命题分析.pdf",
+  "pages": 36,
+  "attachments": [
+    {
+      "embedded_name": "report.md",
+      "source_name": "近六卷真题反推考试大纲报告.md"
+    },
+    {
+      "embedded_name": "knowledge-statistics-appendix.md",
+      "source_name": "知识点统计附录.md"
+    },
+    {
+      "embedded_name": "question-index.tsv",
+      "source_name": "题目索引.tsv"
+    },
+    {
+      "embedded_name": "vocabulary-lemma-proxy.tsv",
+      "source_name": "词汇词元近似表.tsv"
+    },
+    {
+      "embedded_name": "statistics.json",
+      "source_name": "statistics.json"
+    },
+    {
+      "embedded_name": "vocabulary-statistics.json",
+      "source_name": "vocabulary-statistics.json"
+    },
+    {
+      "embedded_name": "lemma-proxy-statistics.json",
+      "source_name": "lemma-proxy-statistics.json"
+    },
+    {
+      "embedded_name": "reading-question-polarity.json",
+      "source_name": "reading-question-polarity.json"
+    },
+    {
+      "embedded_name": "exam-mechanism-evidence.json",
+      "source_name": "命题机制证据.json"
+    }
+  ],
+  "source_report_sha256": "fd616cfa0c1c310ebe42168b82ab75aceb7adb4d2dc8d680d915da78397e8ad3",
+  "github_style": "https://github.com/hunterhantian/TFS4/blob/stage-2-question-bank/docs/%E7%95%8C%E9%9D%A2%E4%BF%A1%E6%81%AF%E9%85%8D%E8%89%B2%E8%A7%84%E8%8C%83.md",
+  "github_style_sha": "aba10eef2524c02a51f23bb1cd67eb53fe33594b",
+  "palette": {
+    "bg": "#121825",
+    "panel": "#1A2538",
+    "panel2": "#172131",
+    "line": "#344156",
+    "text": "#E2E9F4",
+    "muted": "#ADB7CA",
+    "title": "#C3A5FF",
+    "date": "#75D9FF",
+    "time": "#FFD17B",
+    "completion": "#6EE7B7",
+    "type": "#F4A5DD",
+    "listen": "#B397FF",
+    "lexical": "#66D9BA",
+    "grammar": "#71B9FF",
+    "reading": "#EDC677"
+  }
+}

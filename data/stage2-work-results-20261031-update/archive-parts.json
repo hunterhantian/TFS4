@@ -1,0 +1,101 @@
+{
+  "archive": {
+    "name": "tfs4-update-20261031.tar.xz",
+    "bytes": 2946500,
+    "sha256": "ca4b698fb701b181d739f501172d59ca2349b3ab44b1cc664288cb2c9177139e",
+    "parts": 15,
+    "part_bytes": 196608
+  },
+  "parts": [
+    {
+      "path": "archive/tfs4-update-20261031.tar.xz.part000",
+      "bytes": 196608,
+      "sha256": "65d448ff16b674e93400ab442ac9dc155a7399fb2c2c0647d0e69725a18c2b35",
+      "git_blob_sha": "8bc75df34e6ea854ca9a1c54d7ae8ad101679448"
+    },
+    {
+      "path": "archive/tfs4-update-20261031.tar.xz.part001",
+      "bytes": 196608,
+      "sha256": "8351147d0f142289e3b8a0b5db499add7535b2fdaf26f95b18641dfb11c1b98e",
+      "git_blob_sha": "83265a4fb4849a4075b34d87c57cfa8e3f3fb4d8"
+    },
+    {
+      "path": "archive/tfs4-update-20261031.tar.xz.part002",
+      "bytes": 196608,
+      "sha256": "13907bbdc46224e84b1338ccb3617d0f9b12e10734cfc2e96039b6aeb72a1cdc",
+      "git_blob_sha": "bc323c0fd1ee5c3b6bc3f2d5dbe673ffd0676504"
+    },
+    {
+      "path": "archive/tfs4-update-20261031.tar.xz.part003",
+      "bytes": 196608,
+      "sha256": "06f8617917c327770c9e38d5d30530f94de533a9caca6a3be38370a1854a7199",
+      "git_blob_sha": "beb7946fec62ac1b99e747734651e86c9afe2f00"
+    },
+    {
+      "path": "archive/tfs4-update-20261031.tar.xz.part004",
+      "bytes": 196608,
+      "sha256": "c5e03e9a3877f23edc14a2932c0476405e05145dc6ab406a7825c5d2b65752cb",
+      "git_blob_sha": "837d714462464e278f56c47313ef46056060e663"
+    },
+    {
+      "path": "archive/tfs4-update-20261031.tar.xz.part005",
+      "bytes": 196608,
+      "sha256": "767ed1ad3eaad788819c23bbc9a47919942679d6a0315cd74a2db186528fb482",
+      "git_blob_sha": "c234cd4122ea58edd25c2e37709a1f5f37e20075"
+    },
+    {
+      "path": "archive/tfs4-update-20261031.tar.xz.part006",
+      "bytes": 196608,
+      "sha256": "2f5517bfa12c152e40f5a01aa92e792e8d811e52a7f5a94dcd403b298590f678",
+      "git_blob_sha": "fe57c168076e3ca6faa98607119fc4123be7f1d9"
+    },
+    {
+      "path": "archive/tfs4-update-20261031.tar.xz.part007",
+      "bytes": 196608,
+      "sha256": "acf0c3bf758b93e9d7ed22ff7987b2eda5c6a834241ad83b7784420c66057532",
+      "git_blob_sha": "e152781c1219ccfacbe6cc25778b003974dfa544"
+    },
+    {
+      "path": "archive/tfs4-update-20261031.tar.xz.part008",
+      "bytes": 196608,
+      "sha256": "2422ef0a60a13c83a3dfc40be16ae011b07f12b4c6966f271521ebdc26cd165e",
+      "git_blob_sha": "05de49b88202e42e51853946624ccbd68e45a1ad"
+    },
+    {
+      "path": "archive/tfs4-update-20261031.tar.xz.part009",
+      "bytes": 196608,
+      "sha256": "4dcdefcf02b100037212c3b397b3a9ce7ca00222b77929ad001eb5dc1ef7b57c",
+      "git_blob_sha": "69c9f0442b307c82306cf29768bb0343fb1c860d"
+    },
+    {
+      "path": "archive/tfs4-update-20261031.tar.xz.part010",
+      "bytes": 196608,
+      "sha256": "15015fa9171600f2d855b61ad0918d2c28d9fe5ef14deec090fc5999af6d9853",
+      "git_blob_sha": "e8b223dc4e069a89e2e39d8c3f268864e8130d41"
+    },
+    {
+      "path": "archive/tfs4-update-20261031.tar.xz.part011",
+      "bytes": 196608,
+      "sha256": "35249b610a88e9bc52bfacf0b74c8095f777d2b21b6fba070f20221dcfa8f5a6",
+      "git_blob_sha": "a8e1bb1bd5a367fdc7006fc840a88bc9dc0ab19d"
+    },
+    {
+      "path": "archive/tfs4-update-20261031.tar.xz.part012",
+      "bytes": 196608,
+      "sha256": "756c409d4ec3a05db3a0529f05db8bb72cecbf536c0958a6de4487a8bef0ee17",
+      "git_blob_sha": "13a0668e53be694de9a903d497e00fb0fe106da1"
+    },
+    {
+      "path": "archive/tfs4-update-20261031.tar.xz.part013",
+      "bytes": 196608,
+      "sha256": "16982b243dfc4029af071ff8c377d65476f76079404f0f47c6cc09f1aef8f763",
+      "git_blob_sha": "36ce5719ea0cda9e4a1c83caf23794b827172ea6"
+    },
+    {
+      "path": "archive/tfs4-update-20261031.tar.xz.part014",
+      "bytes": 193988,
+      "sha256": "2e48e33fa5616e35402217e00499c8e33de2b04dc5c0e4715229b96102ca3f05",
+      "git_blob_sha": "a6e941738108029dbde61973e845706eaa389e0e"
+    }
+  ]
+}

@@ -1,0 +1,3603 @@
+{
+  "version": 1,
+  "repository": "hunterhantian/TFS4",
+  "branch": "stage-2-question-bank",
+  "scope": "2026-10-30至2026-10-31全部工作成果及本地来源快照；不代表审计全部通过",
+  "fileCount": 715,
+  "roots": [
+    "TFS4-2023-baseline",
+    "TFS4-audits",
+    "TFS4-batch-results",
+    "TFS4-docs",
+    "TFS4-experiments",
+    "TFS4-first-pass-terra-high",
+    "TFS4-materials",
+    "TFS4-terra-2023",
+    "build_batch1.mjs",
+    "build_batch2.mjs"
+  ],
+  "archive": {
+    "name": "tfs4-complete-results-20261031.tar.gz",
+    "bytes": 6454984,
+    "sha256": "783b4ba80b598c02e8322f0a63cdea734222b47b30d32f49f5d903b53821af55",
+    "partBytes": 196608,
+    "parts": 33
+  },
+  "files": [
+    {
+      "path": "TFS4-2023-baseline/2023-content-candidate-r2/2023/content-v4.json",
+      "bytes": 294514,
+      "sha256": "f98e970cefaf7bbe46378852a771228d4f5e46ae3650b0c6c6f2787aa811c647"
+    },
+    {
+      "path": "TFS4-2023-baseline/2023-trisource-r01/initial-annotations.json",
+      "bytes": 47734,
+      "sha256": "36d8dd1eb79b6b74b4177badb0acd4570a980e61307f7d94ecffdd77e43b36e1"
+    },
+    {
+      "path": "TFS4-2023-baseline/2023-trisource-r01/tri-source-review.json",
+      "bytes": 24270,
+      "sha256": "094658409647c884da07f92f96fee7e8b5dea9e3a3f1f2f05c956420a3649bcf"
+    },
+    {
+      "path": "TFS4-2023-baseline/2023-trisource-r01/tri-source-review.md",
+      "bytes": 650,
+      "sha256": "c2809e11c8bd12d72afcdf0bb8e71489c027c44223696b1bb7e5faa2ab4cae0e"
+    },
+    {
+      "path": "TFS4-audits/2005-pending-sol-low/simple-r1/answers-and-annotations.json",
+      "bytes": 94945,
+      "sha256": "75abb927953c3d8dc465e856210cba50c6c579fe637c630d9daf5942f6bd2d98"
+    },
+    {
+      "path": "TFS4-audits/2005-pending-sol-low/simple-r1/validation.json",
+      "bytes": 5104,
+      "sha256": "f0fadf80b1e09b2a505c27ba3233297cee6e266f82be36525284c9a6c7079f36"
+    },
+    {
+      "path": "TFS4-audits/2005-pending-sol-low/simple-r1/答案与标注.md",
+      "bytes": 21345,
+      "sha256": "fd92273f3d2b8c8eaf21309d7fa4358d4c5fd9411b36f449b647753b0fa5f994"
+    },
+    {
+      "path": "TFS4-audits/2006-pending-sol-low/simple-r1/answers-and-annotations.json",
+      "bytes": 46703,
+      "sha256": "b292bc34f66f2c23018bfc4677022f1ec5c81023a51229774895c2fc23611461"
+    },
+    {
+      "path": "TFS4-audits/2006-pending-sol-low/simple-r1/validation.json",
+      "bytes": 3845,
+      "sha256": "106363885631444be5e5a8326a233f5cd5c55fbd25889edb5b445f72259d86f4"
+    },
+    {
+      "path": "TFS4-audits/2006-pending-sol-low/simple-r1/答案与标注.md",
+      "bytes": 10577,
+      "sha256": "d5558902b7f998fb509d334a77eb1b6805ce004ca5ec3f6e2767fbba61c49542"
+    },
+    {
+      "path": "TFS4-audits/2007-pending-sol-low/simple-r1/answers-and-annotations.json",
+      "bytes": 62917,
+      "sha256": "ac8439f89d984b6bfb0f1d907209c03887acbfbc19830cf99400e54c83cb7d0b"
+    },
+    {
+      "path": "TFS4-audits/2007-pending-sol-low/simple-r1/validation.json",
+      "bytes": 4069,
+      "sha256": "db3d30aa97d11f826b40a2974c789911b3747da78aa1b71b6a6239b0c892b924"
+    },
+    {
+      "path": "TFS4-audits/2007-pending-sol-low/simple-r1/答案与标注.md",
+      "bytes": 12921,
+      "sha256": "cbc4fcd9e31cbf1a7de7c5806779476c2985a441b4db2cfbc5949362308dec2a"
+    },
+    {
+      "path": "TFS4-audits/2008-pending-sol-low/simple-r1/answers-and-annotations.json",
+      "bytes": 51708,
+      "sha256": "da1904e2becf029ef1d429edd29792257d0aa99ce18bdf4ae8f3af58cd49edfe"
+    },
+    {
+      "path": "TFS4-audits/2008-pending-sol-low/simple-r1/validation.json",
+      "bytes": 3765,
+      "sha256": "7b349df29a8a7891818886d036a421ed7bd19c52ad1e5d9775e19a691f3e692b"
+    },
+    {
+      "path": "TFS4-audits/2008-pending-sol-low/simple-r1/答案与标注.md",
+      "bytes": 10196,
+      "sha256": "81b9a165726718603cc0ac1b2ffc5591c622334f594f9dcb3897898794376ac0"
+    },
+    {
+      "path": "TFS4-audits/2009-pending-sol-low/simple-r1/answers-and-annotations.json",
+      "bytes": 54523,
+      "sha256": "0ae02c2b7054059425a2783973f612a6bab5000e7de8abbc7b49b42fc83c203d"
+    },
+    {
+      "path": "TFS4-audits/2009-pending-sol-low/simple-r1/validation.json",
+      "bytes": 3773,
+      "sha256": "e67422476b598a2441cc9dabf95f49d99e3c9dd675c1233ada11f621dd4b8be9"
+    },
+    {
+      "path": "TFS4-audits/2009-pending-sol-low/simple-r1/答案与标注.md",
+      "bytes": 10256,
+      "sha256": "66d620da2d49314f6f33d2c129ff3f978a12739cc1f78af1e0064d8dd7d513f9"
+    },
+    {
+      "path": "TFS4-audits/2010-pending-sol-low/simple-r1/answers-and-annotations.json",
+      "bytes": 69043,
+      "sha256": "74c2d5eaa1ac0f83d6c77ac1dd60c4887c82be96962473f256454ce6e51e4fdb"
+    },
+    {
+      "path": "TFS4-audits/2010-pending-sol-low/simple-r1/validation.json",
+      "bytes": 4353,
+      "sha256": "7359d42520e39e5c44506f5a97c7b959a70479707a1cdf9b5265720bf536ba60"
+    },
+    {
+      "path": "TFS4-audits/2010-pending-sol-low/simple-r1/答案与标注.md",
+      "bytes": 12547,
+      "sha256": "beebbf620106a1b6dd190432852e5b6c039217e7dd7a497c2289ac5cabb5b636"
+    },
+    {
+      "path": "TFS4-audits/2011-pending-sol-low/simple-r1/answers-and-annotations.json",
+      "bytes": 49766,
+      "sha256": "e80c9f642b26ae7a5095255bb1efe3f2182df3895ad2720fb4ba7dd97e5c87a4"
+    },
+    {
+      "path": "TFS4-audits/2011-pending-sol-low/simple-r1/validation.json",
+      "bytes": 4133,
+      "sha256": "fe09bb34b9f42c0800e2dc67e33348d20bd1b6af99b76bb83b141260832bde50"
+    },
+    {
+      "path": "TFS4-audits/2011-pending-sol-low/simple-r1/答案与标注.md",
+      "bytes": 10977,
+      "sha256": "40d8f88116adf9d71fc48911e34d01f28559be2750a0118812dbeaa1862c2543"
+    },
+    {
+      "path": "TFS4-audits/2012-pending-sol-low/simple-r1/answers-and-annotations.json",
+      "bytes": 64690,
+      "sha256": "58e9611e59453c86af2b8c5ffaf030df547d7efb8f6e3027f3d3c81f94ddd29a"
+    },
+    {
+      "path": "TFS4-audits/2012-pending-sol-low/simple-r1/validation.json",
+      "bytes": 4262,
+      "sha256": "6a03805c51500f71ec44ce608d5006899ec1470faf45a447e73da525cdac908a"
+    },
+    {
+      "path": "TFS4-audits/2012-pending-sol-low/simple-r1/答案与标注.md",
+      "bytes": 11478,
+      "sha256": "2b465c7b4a828638c10bd22762bba51115676ef28cae155a24e1a7cd3f2d65c9"
+    },
+    {
+      "path": "TFS4-audits/2013-pending-sol-low/simple-r1/answers-and-annotations.json",
+      "bytes": 82100,
+      "sha256": "cb191b43af070173b1c8a2c08e5b7f0541af92454cd0df30c58ec602d93330d5"
+    },
+    {
+      "path": "TFS4-audits/2013-pending-sol-low/simple-r1/validation.json",
+      "bytes": 4269,
+      "sha256": "114d14beeb319fe28f2cfa5fba0017b33bb91858c353ee7bf65fdea38777a434"
+    },
+    {
+      "path": "TFS4-audits/2013-pending-sol-low/simple-r1/答案与标注.md",
+      "bytes": 13375,
+      "sha256": "5dcd0ad1e832b86538c1add5cdf570337a61a4bb5a39c2d7377086c00a8d9e37"
+    },
+    {
+      "path": "TFS4-audits/2014-pending-sol-low/simple-r1/answers-and-annotations.json",
+      "bytes": 66866,
+      "sha256": "356082b6ac612a5f9dcc3f982d7c983d4f66090459f31a4755c47c7e25dc437a"
+    },
+    {
+      "path": "TFS4-audits/2014-pending-sol-low/simple-r1/validation.json",
+      "bytes": 4113,
+      "sha256": "1d8d909617ef91a7f43773858f128856d0eddc35b1bc03151f4ff76d5af16fba"
+    },
+    {
+      "path": "TFS4-audits/2014-pending-sol-low/simple-r1/答案与标注.md",
+      "bytes": 11661,
+      "sha256": "0cbc7a2d4125ef0374e39e4e3f0055c01d91cfc9df788f9f5e17b8b3af59d8d2"
+    },
+    {
+      "path": "TFS4-audits/2015-pending-sol-low/simple-r1/answers-and-annotations.json",
+      "bytes": 55868,
+      "sha256": "d227f2e4c8acbc45ef539d10b22d406306b441cfd9e9d87983585c248037ba74"
+    },
+    {
+      "path": "TFS4-audits/2015-pending-sol-low/simple-r1/validation.json",
+      "bytes": 4049,
+      "sha256": "faccc0cca675f53f27984a2bc739cc69cf3ca3f8016f2868dbb667cddbf1f664"
+    },
+    {
+      "path": "TFS4-audits/2015-pending-sol-low/simple-r1/答案与标注.md",
+      "bytes": 10594,
+      "sha256": "b6737ad285b43c16a05f4ed34045494dcd3ce26b38c8f6eb001f958e8f89cf17"
+    },
+    {
+      "path": "TFS4-audits/2016-pending-sol-low/simple-r1/answers-and-annotations.json",
+      "bytes": 47310,
+      "sha256": "7478a213378c25344b1516a39f6b036a938d6cb0932347201de997ff4b28c25d"
+    },
+    {
+      "path": "TFS4-audits/2016-pending-sol-low/simple-r1/validation.json",
+      "bytes": 3737,
+      "sha256": "8f6169b005539cf1508bf05300ce65383e22c679529028429a1d438327506ae1"
+    },
+    {
+      "path": "TFS4-audits/2016-pending-sol-low/simple-r1/答案与标注.md",
+      "bytes": 9030,
+      "sha256": "ebc06d81d588c8f564c74b8862ab1e432baec899cbb41afcbef2e23ba22c39a7"
+    },
+    {
+      "path": "TFS4-audits/2017-pending-sol-low/simple-r1/answers-and-annotations.json",
+      "bytes": 80348,
+      "sha256": "39752b33f665dc7396eb4b475756fd02ee091ed3689fdadafff5d50b9df66663"
+    },
+    {
+      "path": "TFS4-audits/2017-pending-sol-low/simple-r1/validation.json",
+      "bytes": 4413,
+      "sha256": "b72c303f650037b14c4532a14683ea2c8b85a5c2face1e4685323f9e38be8a27"
+    },
+    {
+      "path": "TFS4-audits/2017-pending-sol-low/simple-r1/答案与标注.md",
+      "bytes": 14498,
+      "sha256": "2ceb010d61fc00808a5c5a5d56a4b77091dd29e095444646bcf4b2a78d9f069a"
+    },
+    {
+      "path": "TFS4-audits/2018-pending-sol-low/simple-r1/answers-and-annotations.json",
+      "bytes": 64686,
+      "sha256": "2696af593c6635043bc736f604c07adbc3c39fbb247ef25a22293261e5550498"
+    },
+    {
+      "path": "TFS4-audits/2018-pending-sol-low/simple-r1/validation.json",
+      "bytes": 4577,
+      "sha256": "93ae15fae5cacd6e456188d4201571463ceca7cfb23e2e0e4c207420ecb67525"
+    },
+    {
+      "path": "TFS4-audits/2018-pending-sol-low/simple-r1/答案与标注.md",
+      "bytes": 14586,
+      "sha256": "dad2bd2c823a9b95595dbff22462b9a5cb01ec0af1246573ffbb47b2014556da"
+    },
+    {
+      "path": "TFS4-audits/2019-pending-sol-low/simple-r1/answers-and-annotations.json",
+      "bytes": 42547,
+      "sha256": "567a63e37b7a9c2172e6b05f259ca7c9e804f2b5a9a9ab51fdca39ed1510ec5a"
+    },
+    {
+      "path": "TFS4-audits/2019-pending-sol-low/simple-r1/validation.json",
+      "bytes": 3897,
+      "sha256": "191940f452088d739ed115b138a55dd47d284169dec2d5740e2db0faba0ac8c7"
+    },
+    {
+      "path": "TFS4-audits/2019-pending-sol-low/simple-r1/答案与标注.md",
+      "bytes": 9297,
+      "sha256": "57c2ed72de9288869788fc96b546531672bd0685c8cb18c51be27389d42e115e"
+    },
+    {
+      "path": "TFS4-audits/2021-05-pending-sol-low/simple-r1/answers-and-annotations.json",
+      "bytes": 35283,
+      "sha256": "c87696f9fcd951e906a66ab0c267c471d6ca936be47419057d24ef7ef9dc7395"
+    },
+    {
+      "path": "TFS4-audits/2021-05-pending-sol-low/simple-r1/validation.json",
+      "bytes": 3707,
+      "sha256": "7dfe5fb81f96914847de36b4c49d419467eca3534ccb0298a669d138acfb4db2"
+    },
+    {
+      "path": "TFS4-audits/2021-05-pending-sol-low/simple-r1/答案与标注.md",
+      "bytes": 6635,
+      "sha256": "043c5441e6425853324e942b88af163905cd5b463de7030a8fdc06e998702003"
+    },
+    {
+      "path": "TFS4-audits/2021-06-pending-sol-low/simple-r1/answers-and-annotations.json",
+      "bytes": 28686,
+      "sha256": "69449dbeba8f721a2443d8a71ed091e5138a52f9d2f4ded86cf9472508f79d7d"
+    },
+    {
+      "path": "TFS4-audits/2021-06-pending-sol-low/simple-r1/validation.json",
+      "bytes": 3431,
+      "sha256": "6af40d8d80bfd6119f0d303218f73b9513fe24d4c9ac335cbe39191ec107eaaf"
+    },
+    {
+      "path": "TFS4-audits/2021-06-pending-sol-low/simple-r1/答案与标注.md",
+      "bytes": 5705,
+      "sha256": "4341717e3fc3c6910360c601d00a1bfcb27984ee500c2ca4dcb6bf8c6be96644"
+    },
+    {
+      "path": "TFS4-audits/2022-pending-sol-low/simple-r1/answers-and-annotations.json",
+      "bytes": 22190,
+      "sha256": "eecbe30cb220f8a944253658b97f7eb7a8bb67ea1265ea28a3f34e2465d76bbc"
+    },
+    {
+      "path": "TFS4-audits/2022-pending-sol-low/simple-r1/validation.json",
+      "bytes": 3138,
+      "sha256": "b3753e56b2fa69d60d9ef01c6f07104dfb8f29db693fdabd56e77b6f681bc10b"
+    },
+    {
+      "path": "TFS4-audits/2022-pending-sol-low/simple-r1/答案与标注.md",
+      "bytes": 4275,
+      "sha256": "361886b496952d6d181dde1bb724034a7934f73303493327dc0934d8619c7ad4"
+    },
+    {
+      "path": "TFS4-audits/2023-pending-sol-low/simple-r1/answers-and-annotations.json",
+      "bytes": 38113,
+      "sha256": "637c06638820509a0d1ec21b42c3b82043415e088f0f1229cb77d2b17516548d"
+    },
+    {
+      "path": "TFS4-audits/2023-pending-sol-low/simple-r1/validation.json",
+      "bytes": 2723,
+      "sha256": "2fc13b63e1e1eb02a7ac1f076428e7743647858c871b9684bc94028de060f674"
+    },
+    {
+      "path": "TFS4-audits/2023-pending-sol-low/simple-r1/答案与标注.md",
+      "bytes": 6516,
+      "sha256": "f2dc8f031ad1c813f240d34fc77e315bdd556bf7830a64368e4d8d458cc426dc"
+    },
+    {
+      "path": "TFS4-audits/2024-pending-sol-low/r1/README.md",
+      "bytes": 2815,
+      "sha256": "8a148ed40bf1764901ab53cd4c8eaf076e04088ca7ab2d929b78e0bff22cc08e"
+    },
+    {
+      "path": "TFS4-audits/2024-pending-sol-low/r1/additional-leaf-proposals.json",
+      "bytes": 736,
+      "sha256": "d5fe20dce8dcf13cebb65208e753bbec92e7e09b56e64385e4e274f2e89ce8a6"
+    },
+    {
+      "path": "TFS4-audits/2024-pending-sol-low/r1/adjudications.json",
+      "bytes": 250206,
+      "sha256": "ad07204ed017523b251f29b89cffa08711c1e356e9a0f57898b6c374ec804479"
+    },
+    {
+      "path": "TFS4-audits/2024-pending-sol-low/r1/adjudications.md",
+      "bytes": 87238,
+      "sha256": "1351ffb4017fa134a849c26dd5781e4dd155d50a81f6c52d9e81b44578afe498"
+    },
+    {
+      "path": "TFS4-audits/2024-pending-sol-low/r1/build-adjudications.py",
+      "bytes": 37843,
+      "sha256": "31dc908bb3586aeec72e6c791d67c89e16bd0d897e1c8f109039d66bb4007428"
+    },
+    {
+      "path": "TFS4-audits/2024-pending-sol-low/r1/content-candidate.r2.json",
+      "bytes": 292913,
+      "sha256": "08de9554a092fa354821b7621d2d83814f6728943839eb310c4c2b1918952b91"
+    },
+    {
+      "path": "TFS4-audits/2024-pending-sol-low/r1/external-sources.json",
+      "bytes": 1647,
+      "sha256": "f65bd3ddd48ad6a8a0250fa0a0a382dd1994a4ddc1e8194b2fbf82f3c58af588"
+    },
+    {
+      "path": "TFS4-audits/2024-pending-sol-low/r1/finalize-adjudications.py",
+      "bytes": 4249,
+      "sha256": "471338522dd37f1d89ec2ad340e9848ff4414a608e7f416b575e204d20ee6b45"
+    },
+    {
+      "path": "TFS4-audits/2024-pending-sol-low/r1/initial-annotations.r2.json",
+      "bytes": 50009,
+      "sha256": "003009459f6116fbe421800e7496a24cdc01d2741c1e72c9d97e254a986e3655"
+    },
+    {
+      "path": "TFS4-audits/2024-pending-sol-low/r1/issues-and-unresolved.json",
+      "bytes": 96616,
+      "sha256": "9973abdc2b4ac722024a4a556385cbbe777a5e0708c208d5e090981c62731bbd"
+    },
+    {
+      "path": "TFS4-audits/2024-pending-sol-low/r1/output-hashes.json",
+      "bytes": 4605,
+      "sha256": "38481e139858b2673ec4557b96199f8988ffd1cad764c01ea98d4e717cceadc4"
+    },
+    {
+      "path": "TFS4-audits/2024-pending-sol-low/r1/pending-items.r2.json",
+      "bytes": 71522,
+      "sha256": "b062a973946699d7eb92d2f37aa97cda0b80c28468d65456e61a101d94c3acab"
+    },
+    {
+      "path": "TFS4-audits/2024-pending-sol-low/r1/r2-change-map.json",
+      "bytes": 92740,
+      "sha256": "8606e1c467215c03dac76e6da4dcace580f2e1932c4067d151557d6f4f26f065"
+    },
+    {
+      "path": "TFS4-audits/2024-pending-sol-low/r1/scope-manifest.json",
+      "bytes": 4988,
+      "sha256": "52cbcdb7a5b9a8e023aa27cde0b7873007512429a32e3bbfe17c7870762cd11f"
+    },
+    {
+      "path": "TFS4-audits/2024-pending-sol-low/r1/scoped-leaf-decisions.json",
+      "bytes": 25133,
+      "sha256": "c5f8348e63fca840e839d0e791b180c8f6e7e9fa1389c7d6de3d259e4bd18299"
+    },
+    {
+      "path": "TFS4-audits/2024-pending-sol-low/r1/source-hashes.json",
+      "bytes": 3946,
+      "sha256": "ee0ed87e8497653c1a7b7ed9e0604d1b570d5de129e009d26d2adbea9d7751ea"
+    },
+    {
+      "path": "TFS4-audits/2024-pending-sol-low/r1/summary.md",
+      "bytes": 1771,
+      "sha256": "e1f037116833c6239b53e4dfbfbb000136e714a35665b82d1fbe92ddf95d3b08"
+    },
+    {
+      "path": "TFS4-audits/2024-pending-sol-low/r1/timing-start.json",
+      "bytes": 88,
+      "sha256": "c4ce8db56fc6c26e74e582ff1ea3414ad3191697242c33ec7f383ebb83c8e6a6"
+    },
+    {
+      "path": "TFS4-audits/2024-pending-sol-low/r1/timing.json",
+      "bytes": 1103,
+      "sha256": "8a9004f0e78eeed58d10d1f7a30a89540afb3026e62136320957e2b0cb8d6d46"
+    },
+    {
+      "path": "TFS4-audits/2024-pending-sol-low/r1/validation.json",
+      "bytes": 1784,
+      "sha256": "688e77b84015989a64205f90c6d7c5d7ddf80bd44b0b59444615b66d7920153f"
+    },
+    {
+      "path": "TFS4-audits/2024-pending-sol-low/r1/待核清单.r2.md",
+      "bytes": 1725,
+      "sha256": "ce8ea9490a6fc31c04f364fd1eef432dba118596dfca1ab55051eb185e395583"
+    },
+    {
+      "path": "TFS4-audits/2024-pending-sol-low/r1/问题与未解清单.md",
+      "bytes": 9700,
+      "sha256": "e51ad2b1d757af5c825555a4eb402965c7b4bfd3d5836bd90bf64abc8100f049"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/README.md",
+      "bytes": 3366,
+      "sha256": "ec652e6c7b7fbc854920e3fb5941dfa4d31d8fb7f26701942a2e99665e35cdd9"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/additional-leaf-proposals.json",
+      "bytes": 785,
+      "sha256": "e2b9e9f8e88629d039fe1d348c006034d75939b977df18a71b00a5ae201adf34"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/audit.json",
+      "bytes": 489209,
+      "sha256": "e8c7f2a50d48b9514519ba72a7129ac6032da59d6b9dd8ee34e288121601d726"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/audit.md",
+      "bytes": 130618,
+      "sha256": "240cc3a152e8f0c6907f5b102c39994cf5b07fa13c488df4540bbe62060db26a"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/build-audit.py",
+      "bytes": 45501,
+      "sha256": "edf2e4b9a312b33c0baafff5ca920f3608a5a6e121d7e79055a94bd46e95a344"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/candidate-leaf-decisions.json",
+      "bytes": 68598,
+      "sha256": "bc97b3afce532ccf0882ce03857f5361c87875d147e93cbd42142e3505c3f56e"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/candidate-new-leaves.revised-v2.json",
+      "bytes": 41342,
+      "sha256": "0050a8bcc4d7eb8656535570b233a9e6c098281875b9b43f2457d5eccae0dd9c"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/content-candidate.revised-v2.json",
+      "bytes": 301596,
+      "sha256": "af79def0f13fa9fb8f72ca51a196760935950b43370fef48b78c202d61ff399c"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/external-sources.json",
+      "bytes": 3622,
+      "sha256": "a1b1fc3660a99f04b76023b8d8851fe908768878f95f1557319f5bd9d2576e10"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/finalize-audit.py",
+      "bytes": 6759,
+      "sha256": "87d35f055aded26bf6b192b5e2564e024b9c9e0480742436a9ece342964cda28"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/initial-annotations.revised-v2.json",
+      "bytes": 50983,
+      "sha256": "06703f10a672b61148f46a3a243578f228f08bf4b03f4ce47c67a9420fc5ec95"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/issues-and-revisions.json",
+      "bytes": 59506,
+      "sha256": "7018102264e141657f2ddb9b2b104d73aa12c65b5969ba4e98ac2090acc9ca92"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/manifest.json",
+      "bytes": 758,
+      "sha256": "bb97a80d308d6190990a4bbcbd3e0176f087371b7e3751cf68b75c94b9f43627"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/output-hashes.json",
+      "bytes": 5478,
+      "sha256": "163b7aef2ca6cdb759fe13a041ac27254ddcc9950e0ab5824bbe7a3bd083bcd4"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/review-sets.json",
+      "bytes": 2651,
+      "sha256": "4002ce752b2a1c30a62ea9ea199632b260ad81e1a7f7953f699614e12edfe81d"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/rubric.json",
+      "bytes": 1533,
+      "sha256": "d6781562210f420ac96abfccf752df03844d48c7038b382414f802e636fae4f7"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/scorecard.json",
+      "bytes": 9936,
+      "sha256": "1b58c9f5ac65b28d4e710f6decd591a59824396b11fd889bc8b4919907f86183"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/semantic-notes.json",
+      "bytes": 14871,
+      "sha256": "c8d3d232a5e0ba097bc2f1b51c5c051ab6092bc0a89a36bb183a896561788424"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/source-explanation-index.json",
+      "bytes": 521771,
+      "sha256": "281dcf1364b493184a06bc6d5db1ca64516ca981e1e79bc8503a8651810802cb"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/source-hashes.json",
+      "bytes": 4573,
+      "sha256": "d56e2b325d06e1afdd6a22297088baac5c584ed198a05b20be59e4848ac3f5c5"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/timing-start.json",
+      "bytes": 128,
+      "sha256": "b19247e041e1edc58da106c292f1a975104abff35bde6fdee653c1def8b13ba4"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/timing.json",
+      "bytes": 1246,
+      "sha256": "aeea9b5a98f0e9ad62dd81e02f20ed47c4774b4ba2d03c45a20173c5ff2cbeeb"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/validation.json",
+      "bytes": 3010,
+      "sha256": "6d9a93ec4963f76fa48fd697c9ef75b571d995f254cab2ca3a9f02fad4ce0b58"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/候选新叶逐项裁决建议.md",
+      "bytes": 18100,
+      "sha256": "3b85f153a30dab4e9370e26e609e717c839da9d3943e4e1ce69874ae63aa6869"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/审计摘要.md",
+      "bytes": 1301,
+      "sha256": "a3cfac21bae475e57154860f858a39365c1001e3c154acc0207c1f900e436170"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/质量评分.md",
+      "bytes": 6002,
+      "sha256": "99c3a97a97aa3b24df342873dec5b90754ffe767df0b37374c5edcb3dc68b9e4"
+    },
+    {
+      "path": "TFS4-audits/2025-sol-low/r1/问题及修订建议.md",
+      "bytes": 49739,
+      "sha256": "df38ee21ad7b4b184f2fcb62e4d72d2cca83b8e48a68eee2e4f9d353519227d9"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/adjudications.json",
+      "bytes": 334084,
+      "sha256": "5831cb0741328a7e2750618c9c00e5d19fe965ec90ce98f9232e98c60cc6edef"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/adjudications.md",
+      "bytes": 53688,
+      "sha256": "3ba559cd12be910158299887efcd951f9486f8a42357f74b8b1215f13b207128"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/build-deliverables.py",
+      "bytes": 62548,
+      "sha256": "b26ad768bac987c3235a3c887c2c217e7a4e8bf81a508aa6f45ff3c690900b93"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/candidate-new-leaves.json",
+      "bytes": 25671,
+      "sha256": "380e092b3e7d3c8dca1206323785664848a698ec087976fae43a8342c3f859fd"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/candidate-new-leaves.md",
+      "bytes": 9073,
+      "sha256": "ded8fd8480f45e1bd70dda906555e31297822cbbcb051fd53962856e9f5b0cb8"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/evidence/2005-paper-result.json",
+      "bytes": 30221,
+      "sha256": "e653be004a2a077b50ec0120b846790cd0d389d932be179b0a81db126f2ba5ab"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/evidence/2010-paper-result.json",
+      "bytes": 28553,
+      "sha256": "793a75eb28a09792e92e3b2e2c8c495405583728759762a6077148961d6eaf8a"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/evidence/2011-paper-result.json",
+      "bytes": 30417,
+      "sha256": "96047f94b4d7877ffe8f82569b3da320400923a84e4925bf14c978bcc02144e8"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/evidence/2013-paper-result.json",
+      "bytes": 32480,
+      "sha256": "fc3f601957a69b869722e95e80fb13408043221dd8fd07a3bcd3b485bdeeef30"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/evidence/2016-paper-result.json",
+      "bytes": 37333,
+      "sha256": "730cc1ed6ce3e032667484b83b5b618cbc0d8d61af49dae505b109d9e9336440"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/evidence/2017-paper-result.json",
+      "bytes": 36772,
+      "sha256": "b26c5a907f74a611fb6ecda266defed5c753823d85af5c7bd176ccb20fa09ae9"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/evidence/2018-paper-result.json",
+      "bytes": 32886,
+      "sha256": "76f29d64ebed28b6453920b1a2f3b289344d3a93c9ba280212cbccb1f65d61a5"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/evidence/2021-06-paper-result.json",
+      "bytes": 31320,
+      "sha256": "c05d4e281ae9a6ecec709d50912d540db1f43fd6baf7524b751de84e16959b27"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/evidence/2024-paper-result.json",
+      "bytes": 31376,
+      "sha256": "999fefee4614182e6632b8a20e896ba7dc5c2a00917f926e25ca32e9e284433f"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/evidence/2025-explanation-pages-scoped.json",
+      "bytes": 4572,
+      "sha256": "fd8671397a995e892ccd80a323a12abed89ca7749209ed08d9421984fb2e1e0e"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/evidence/2025-paper-result.json",
+      "bytes": 33055,
+      "sha256": "a3abda2850adfa7e3cd7edccf026222760f3658796c36e5cd2363cbc91354789"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/evidence/md-projection-check.json",
+      "bytes": 10901,
+      "sha256": "c8d5e7ed78bd02bd0aba99c2cbd3f8b3cbf62200af2d7a4b38b8cb98095babfc"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/evidence/remote-fetches.json",
+      "bytes": 4798,
+      "sha256": "01ac5ff612afea446a27c19accd053712da3105fbe28e303020ec63fa2b03856"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/evidence/remote-inventory.json",
+      "bytes": 31486,
+      "sha256": "d09625615fd8abc9d5464bc023376bece6577a241a258de7c0b9f631819edea4"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/external-sources.json",
+      "bytes": 4338,
+      "sha256": "a6f46ef12efd639781422dc277ea913495f89f58d251e14157be07d23e1ad458"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/initial-annotations.json",
+      "bytes": 188810,
+      "sha256": "0169c2d98f2d3451684d224a4fe77b8bc014dbaea336cb6ed7f35d70c0490824"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/output-hashes.json",
+      "bytes": 4420,
+      "sha256": "e381e0dfcdd414389174455e47f73ae106a3c4d694dfeead3552bf3b116e4a63"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/progress.json",
+      "bytes": 6332,
+      "sha256": "6782eb77c893d4949578bbd28bb3caf39988306168893d9917c494aac9b5b2ee"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/scope-manifest.json",
+      "bytes": 197703,
+      "sha256": "b20e060bf5034745c9ed547d999822252f5d839bd8463a264c3260cb66ef0274"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/source-hashes.json",
+      "bytes": 16343,
+      "sha256": "985532b51c924e3fdf93346e29c1b8bd63cc1ccaec000806f2200507806ec7db"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/source-integrity-check.json",
+      "bytes": 31225,
+      "sha256": "9f965807a0015bad5aa31b9f32d13e6e22a5a8d52bb7b1444cbde53374c0e039"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/source-search-log.json",
+      "bytes": 14267,
+      "sha256": "582671dbc87e226dcf4a6f4357bf92d450605204b9b66432014abe609993a8a2"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/summary.md",
+      "bytes": 2318,
+      "sha256": "67cb27228e366698e835e58a20e143cd7dace3d772d5e4bd43e6987b1bd8d8b4"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/timing.json",
+      "bytes": 830,
+      "sha256": "6e206659ca87798c021c4f3dbecd52470c570ecf7fac16330cd274207315547c"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/unresolved-items.json",
+      "bytes": 22514,
+      "sha256": "0a71bdc209810e3f6bd81b23df384ff53e24fae531b1d2ef2a6b973ca109bb08"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/unresolved-items.md",
+      "bytes": 4092,
+      "sha256": "e88c601e56170b018c560b4147a36c044d4bfa4bdcc022f38916e8f89b71ef05"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-high/r1/validation.json",
+      "bytes": 2610,
+      "sha256": "9e5304022689bdfb04287b7efedd4d0d4201aa5aefd46bb9ef731ea488004cfd"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-low/progress.json",
+      "bytes": 9942,
+      "sha256": "2dfcfe98d3c1273354decefe4d6ac66f295fe538d3bbe52e552eff9992feea3f"
+    },
+    {
+      "path": "TFS4-audits/remaining-pending-sol-low/进度.md",
+      "bytes": 4615,
+      "sha256": "8942476b78a5de11d645e9040b177350e21cb47bcf75307d3eaacca611b3edfc"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2005/initial-annotations.json",
+      "bytes": 119188,
+      "sha256": "9aeac188ba0c2258932d45fee5c4a45106355a039b78c5a2d97f91c6870de7f2"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2005/initial-annotations.md",
+      "bytes": 32507,
+      "sha256": "bc4b13621caf3316ec1b9428359da1f424619bcce57d8a4428674402c9a2f94d"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2006/initial-annotations.json",
+      "bytes": 69240,
+      "sha256": "25081e915497b98187b421265e4953caea44faede79bfb2406576ff6de948faf"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2006/initial-annotations.md",
+      "bytes": 18168,
+      "sha256": "69b08ed512e4061d6b18106696ee35ca40bdd351026185866d3422116e0ba484"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2007/initial-annotations.json",
+      "bytes": 81850,
+      "sha256": "5f099f38e10e47c2d83954f614d199caa57506a9be5058b7305e0f0dc892cdd6"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2007/initial-annotations.md",
+      "bytes": 21347,
+      "sha256": "8c875cb9f5219914867118ebc8567977ad7e49c109f478ba0a0ccef71ba5607d"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2008/initial-annotations.json",
+      "bytes": 63755,
+      "sha256": "537f85297460d4c0572554722cf82e496a7381064dcdcd1694294eaf2f3b450a"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2008/initial-annotations.md",
+      "bytes": 16881,
+      "sha256": "e95c44a8a3e37db75107b606d9774bd6aa70b3c4344e322d4cacb64628dd86df"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2009/initial-annotations.json",
+      "bytes": 62452,
+      "sha256": "8fc63ba0cd2c5004be05a393b9e6cf9f6b5909c809b8dec9aa979ac17955bea0"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2009/initial-annotations.md",
+      "bytes": 16102,
+      "sha256": "e4f8f18ee792880a767e84b38cca3fc60d06de508b41485dc9def3931471916a"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2010/initial-annotations.json",
+      "bytes": 76710,
+      "sha256": "406fc53f3291a4fa83a04c85cb4f23dfd611d8c0c14adbf79adcde1757b4e2d3"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2010/initial-annotations.md",
+      "bytes": 19360,
+      "sha256": "7b0b2df25d9613017cd0bcba7903380a977cd262396a1f8638231b7b28847faa"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2011/initial-annotations.json",
+      "bytes": 68845,
+      "sha256": "72683d77c299963498443bde012f85d76d2d2b14f3152196f0540511ca66bac2"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2011/initial-annotations.md",
+      "bytes": 17656,
+      "sha256": "547d775fd205320218a3b58719fab1f17e96dd5482a7f7f6d9fa829f337a78c4"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2012/initial-annotations.json",
+      "bytes": 75887,
+      "sha256": "f1e50ebfd3eda444cf8cb1271b7832173ad2a0b223877f4841289c802b42d891"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2012/initial-annotations.md",
+      "bytes": 18725,
+      "sha256": "7c24eb474c122ad1a3c656de6b5ab2907162c9812e254107e6d0207ebc0cd4bf"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2013/initial-annotations.json",
+      "bytes": 73627,
+      "sha256": "b849344101a21e0405317dda352cdbb01168b672f38ea1e9e76764f6d2881967"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2013/initial-annotations.md",
+      "bytes": 18744,
+      "sha256": "25d7da6600d6cb9ffd46259d7395fdb8d2cb2b640b0a8e38b099b61dfb721b5a"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2014/initial-annotations.json",
+      "bytes": 73073,
+      "sha256": "88199c1ab66fef4b86c5262ea4bb0a88984d9edfa0de96c301a8f5f18d6c478b"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2014/initial-annotations.md",
+      "bytes": 18877,
+      "sha256": "debd5096d8274feff9c02a63468278e3278481fb4cd13a2dfe84f4efa535c61b"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2015/initial-annotations.json",
+      "bytes": 71371,
+      "sha256": "acacbc3e9b0e8a017ed1d4ef214eb7df8e1e23ce028c729faae66c05625311f0"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2015/initial-annotations.md",
+      "bytes": 18190,
+      "sha256": "e19437f709b23909ad97a129b3c0be1859e7d3a6fcb69a34cd775ba52a45fe29"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2016/initial-annotations.json",
+      "bytes": 54703,
+      "sha256": "597f97a2a71a643311f594906c89d7e522c1c22a85b8d80919bee65879d77a74"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2016/initial-annotations.md",
+      "bytes": 14354,
+      "sha256": "911bfe3d982c4aa888c39a398c965192380dfcd442ba81bf1b7fd12c2a6cf605"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2017/initial-annotations.json",
+      "bytes": 99065,
+      "sha256": "37cc267252ca688a80adec1a60dc435a7ca8d476b70092874b0f6acdac8cdabc"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2017/initial-annotations.md",
+      "bytes": 25463,
+      "sha256": "58b0aa1761a7f8a1bb6c85a63a7589076beb742bd1de344cc8229815fc7f7c2d"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2018/initial-annotations.json",
+      "bytes": 63777,
+      "sha256": "1f8afce227f7cb70d950af643b85afa62a1d6dd59facf6ed0b69539368034d19"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2018/initial-annotations.md",
+      "bytes": 16165,
+      "sha256": "618591ae10c93e6fe449de6a7ed485e34803995a7da8a1ecfccad220550c5841"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2019/initial-annotations.json",
+      "bytes": 63783,
+      "sha256": "759b1b449e59690b294d945a18eb9ac4498d602312c2829973ba7947ff9246e4"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2019/initial-annotations.md",
+      "bytes": 16455,
+      "sha256": "e90731c3d6cb0493e0cb98978adbd22adf21ee62a47a3ff7301da8f13145814f"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2021-05/initial-annotations.json",
+      "bytes": 43564,
+      "sha256": "5216cd0d21e06b70e4e457b197208f22d52461ceefd0c08b4338d7da41187ea6"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2021-05/initial-annotations.md",
+      "bytes": 11293,
+      "sha256": "1fabfc6f96a0d270a250d1dd0c984a33acbe0ddfa5629e2f276a99483efc9a60"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2021-06/initial-annotations.json",
+      "bytes": 34244,
+      "sha256": "4997733eb1eecc0dc944322cc25eeca7ae7eb3efc904ce03f4080a09903e9ea3"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2021-06/initial-annotations.md",
+      "bytes": 8953,
+      "sha256": "ffea1eebacc98f51d7776a2d321a6b75b7f9240fccaa3fcab204626d04e51498"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2022/initial-annotations.json",
+      "bytes": 25812,
+      "sha256": "d3bb330a7688a6098896b87e1194305b0e4b50cec997fabf2622a9c568ded6d6"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/2022/initial-annotations.md",
+      "bytes": 6961,
+      "sha256": "f5960b511e4a83ede2701a5358abddea4d488aa552399e717191c5f214a4bc11"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/build_annotations.py",
+      "bytes": 70916,
+      "sha256": "9c10329f20d7390c3a5fd7a160c0604700135b494316bc6baa56c453421ac55a"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/candidate-new-leaves.json",
+      "bytes": 91344,
+      "sha256": "e9937a9d26602146b9d145d744b0be14de409720581ed267449445155d08d83a"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/initial-annotations.json",
+      "bytes": 1211155,
+      "sha256": "9618a18792c5f0089a941aae10c5d4b3e06368de6a15dbde778a2cd0643206ac"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/initial-annotations.md",
+      "bytes": 311646,
+      "sha256": "b213b5b77139970e712dcad6c9f799697827e8f566c0aeb5a5cea1b8dd841191"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/progress.json",
+      "bytes": 4569,
+      "sha256": "d8059a0f86442c6b5288ebe09a7790dc2c2aea77d9c14ab2e36f4e42a8bbb0b0"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/scope-manifest.json",
+      "bytes": 65005,
+      "sha256": "9575b3686f71e7456ed4f61ebe723058af6388e686d5e0d4d8a9e00cd759e622"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/summary.md",
+      "bytes": 2536,
+      "sha256": "23d245bc355526774e342b2f612caf009f2ac512f8c91879444a18afdbf3d5a4"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/timing.json",
+      "bytes": 487,
+      "sha256": "bf44af7d3e2bde01125f4e0078abfaccd3840865205453bb9311f2705625af09"
+    },
+    {
+      "path": "TFS4-audits/resolved-initial-annotations-sol-low/r1/validation.json",
+      "bytes": 1942,
+      "sha256": "6572ecbcd3c396ffb699f42d1323580fa0293c2ff34db0ce686de79627d4b352"
+    },
+    {
+      "path": "TFS4-audits/本轮核定与初标交付小结.md",
+      "bytes": 1984,
+      "sha256": "ae9329c368578e538a9bd1dedfc5ff222e78a221644e428347b0ad986975f0ad"
+    },
+    {
+      "path": "TFS4-batch-results/20场次验收报告.md",
+      "bytes": 3112,
+      "sha256": "9c46620fa78d1ba3a617a1f61f4621669ffe869ee21c8096f5323123050d0d2f"
+    },
+    {
+      "path": "TFS4-batch-results/20场次验收统计.json",
+      "bytes": 10138,
+      "sha256": "b92d00844b4a4d09d13d86b4bd456612b548cc9394661b9191b58bb93b041ad1"
+    },
+    {
+      "path": "TFS4-batch-results/audit-deliverables.cjs",
+      "bytes": 3882,
+      "sha256": "682f487f4df46c9fa65aeaaaf0cdbd85b90024d3720c6e9c20fb453d18152806"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/2005/content-v4.json",
+      "bytes": 78329,
+      "sha256": "8eaf7c80ba2bdd1015ebd4cfc3912c63febbcfcb942bb74c5c3801f5863b1f34"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/2005/initial-annotations.json",
+      "bytes": 62358,
+      "sha256": "7c6ddc562dee4b9bf7e280c59a2fb474607d0b008c90f8425c2ebeb7fb1001ed"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/2005/sources-and-versions.json",
+      "bytes": 940,
+      "sha256": "95e3d4df34c48bdbb42aef8719649be94db960d3def3345fffe4a2969899cacf"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/2005/timing.json",
+      "bytes": 190,
+      "sha256": "b714767805c14bca011c6aa4380c24eafa8a07ae15cc1df0adc41766683c329a"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/2005/tri-source-review.json",
+      "bytes": 795,
+      "sha256": "172e07497d0926660d07e25394517bf9e4d7bca089c4bb0495be3f40944dd322"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/2005/tri-source-review.md",
+      "bytes": 524,
+      "sha256": "c9034f769566cd1ce4a78983b7b55ae7f8dadbf31a260148cc700e1eec08c6f3"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/2006/content-v4.json",
+      "bytes": 64998,
+      "sha256": "9b211b885fece1b2a662826cba2a1d5861fe8a63b0530eadb5c90ec43cc5eb5d"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/2006/initial-annotations.json",
+      "bytes": 48571,
+      "sha256": "8099e37fe2ddd9ac18e24ccd17b4a61b71f1ca463fedfaa9331ed42da1d8d49d"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/2006/sources-and-versions.json",
+      "bytes": 940,
+      "sha256": "ddb0ed234bb9b6433e32c42213b8e6218dbbb91cf550aae0989f4456d9e574d2"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/2006/timing.json",
+      "bytes": 190,
+      "sha256": "325de1436f59f8abb67b596b4a6e3b13ddfa18e379dbcb6fdfcb0269824f725c"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/2006/tri-source-review.json",
+      "bytes": 1131,
+      "sha256": "534e11e897724d86ddaef92d6d01721d6baeb8e67543d42c2a058699967f24d8"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/2006/tri-source-review.md",
+      "bytes": 692,
+      "sha256": "7593cf9be890a5cbc8e2dd1aaa24bb67da15b05bc39684c324a4fb3014e1c96e"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/2007/content-v4.json",
+      "bytes": 59400,
+      "sha256": "c3e2e69ba196836e75e3e524679376be1b21578e755dcba0a953d86561cd7d04"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/2007/initial-annotations.json",
+      "bytes": 42464,
+      "sha256": "45fa604ba81e640f495691e423d27414b09b52f7d8004b0cdefd19aa1df21ea5"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/2007/sources-and-versions.json",
+      "bytes": 940,
+      "sha256": "2a39c7ae81fe9579c92a369d95deda832413cd59409bfced9078ab9c79b0a6bf"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/2007/timing.json",
+      "bytes": 190,
+      "sha256": "1f7af09b12e47f6c9c4ad328a413db480822b6eb91c9e8c8a9449d9b19227e6e"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/2007/tri-source-review.json",
+      "bytes": 683,
+      "sha256": "be91f75abcb0a87bb118e9f98eadb2e6681c514f05323fc9ae89f084913ca174"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/2007/tri-source-review.md",
+      "bytes": 468,
+      "sha256": "d892f709f35372b6a2253ac6c6a8ca9f254b237350b982572d35c7172baca6aa"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/2008/content-v4.json",
+      "bytes": 62927,
+      "sha256": "88fc73ee9d546749dafdc021c6a6da12bac21f613570eb9de04c66f5037f38bf"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/2008/initial-annotations.json",
+      "bytes": 46384,
+      "sha256": "d8a745c504a9aa6d240827d2f645d293c78bf9749bed4af329acac443347886f"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/2008/sources-and-versions.json",
+      "bytes": 940,
+      "sha256": "e3021a429bc5a8027042b74315ddbb0b7a5175d6c1ba2ef9b30da5164e1406f5"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/2008/timing.json",
+      "bytes": 190,
+      "sha256": "43266dee7df1b366d1c3c50ab9e13eb442da0756520397262de7b7c6db59d2de"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/2008/tri-source-review.json",
+      "bytes": 691,
+      "sha256": "69b838adc5bc347c6c0756099a58c4062fee13419f599bdf939b0e76cefd6c08"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/2008/tri-source-review.md",
+      "bytes": 472,
+      "sha256": "ab7c181f680dd675c8d5fdc24f1024b9d58fb54e1ca350c02bcc2544e95f0154"
+    },
+    {
+      "path": "TFS4-batch-results/batch-1/batch-summary.json",
+      "bytes": 1110,
+      "sha256": "fd500d185b3af3f2a9f1fb2ac582a9737955acf7a49f40bf6fb7250aeb530cd3"
+    },
+    {
+      "path": "TFS4-batch-results/batch-2/2009/initial-annotations.json",
+      "bytes": 78727,
+      "sha256": "f159f885eaf80ea5d49af5c1cd9973cf2c2b83650af9b494afcf94ce99a53a3e"
+    },
+    {
+      "path": "TFS4-batch-results/batch-2/2009/source-manifest.json",
+      "bytes": 985,
+      "sha256": "4364b39b8c3762bd749703036c22b21be0cb8448d3fc39bdab71f02a8ecdf149"
+    },
+    {
+      "path": "TFS4-batch-results/batch-2/2009/tri-source-review.json",
+      "bytes": 1520,
+      "sha256": "648c764716aea12e3f8fc967b883ff653f8881166dfab0033ee71bd86c5bc46d"
+    },
+    {
+      "path": "TFS4-batch-results/batch-2/2009/tri-source-review.md",
+      "bytes": 4496,
+      "sha256": "75f06d71ec067386b4a257dea64ba97166311f45bfb7382195c8c708369eeaad"
+    },
+    {
+      "path": "TFS4-batch-results/batch-2/2010/initial-annotations.json",
+      "bytes": 77377,
+      "sha256": "d92be802cf0bf793266666a4aaf81cfc03e3abfabe1e3d476e588ac720bc853b"
+    },
+    {
+      "path": "TFS4-batch-results/batch-2/2010/source-manifest.json",
+      "bytes": 960,
+      "sha256": "0811a0aa535b92a1c9566c576df6dd19f5fbc4b684c106096958bb0c6d74dd22"
+    },
+    {
+      "path": "TFS4-batch-results/batch-2/2010/tri-source-review.json",
+      "bytes": 1495,
+      "sha256": "9c824fc426943832910482c2d026fe8846c221b0c512072ef62c4ae4dc8c43d5"
+    },
+    {
+      "path": "TFS4-batch-results/batch-2/2010/tri-source-review.md",
+      "bytes": 4471,
+      "sha256": "23341cd57ffe6e2962039d0a622b5413bf36353ee17928f239979df7062a4717"
+    },
+    {
+      "path": "TFS4-batch-results/batch-2/2011/initial-annotations.json",
+      "bytes": 75352,
+      "sha256": "da418faca122e1dd007c7c493c5b3327713b06d96506f441d218776f16e715b1"
+    },
+    {
+      "path": "TFS4-batch-results/batch-2/2011/source-manifest.json",
+      "bytes": 967,
+      "sha256": "66f999df4c41669e82d83e9b3791e3a780170b8cabac361299cb06c700b3eae2"
+    },
+    {
+      "path": "TFS4-batch-results/batch-2/2011/tri-source-review.json",
+      "bytes": 1502,
+      "sha256": "4a90f77b042ac85b20dd8adbdb9a7755763c2e1afb48251c8bcc6aa622a1ec07"
+    },
+    {
+      "path": "TFS4-batch-results/batch-2/2011/tri-source-review.md",
+      "bytes": 4478,
+      "sha256": "dd667ef9158966fa4e475ed56ce26d9c3cd2a9c837cb1e96d742b8f79eb9a5a8"
+    },
+    {
+      "path": "TFS4-batch-results/batch-2/2012/initial-annotations.json",
+      "bytes": 77376,
+      "sha256": "52660039b63c17065bdc8e7e3869b18afc5c321baf573f00e8c311c6f9da4dc2"
+    },
+    {
+      "path": "TFS4-batch-results/batch-2/2012/source-manifest.json",
+      "bytes": 970,
+      "sha256": "42877dc674c3bfc3726d896ef4f96982e4a5a117af30ac6d7115f819d455fb74"
+    },
+    {
+      "path": "TFS4-batch-results/batch-2/2012/tri-source-review.json",
+      "bytes": 1505,
+      "sha256": "c411ae885f9f197262d41e222ff621cd98357ba0088e55c6fd6f3ecd57e92180"
+    },
+    {
+      "path": "TFS4-batch-results/batch-2/2012/tri-source-review.md",
+      "bytes": 4480,
+      "sha256": "2d1972722638564b7eb28e8f6334c86f32a1a5f0a9ac66e46fc4c519335663be"
+    },
+    {
+      "path": "TFS4-batch-results/batch-2/batch-summary.json",
+      "bytes": 418,
+      "sha256": "476261cdda761218977b79b2e3fdfd0a1b52e9bc1487f0cf36d707514c80b834"
+    },
+    {
+      "path": "TFS4-batch-results/batch-3/2013/initial-annotations.json",
+      "bytes": 61948,
+      "sha256": "67871ca796604c85e66ab6d83dae72a1efbe11f135c40e942ad1b2ac6b49f009"
+    },
+    {
+      "path": "TFS4-batch-results/batch-3/2013/source-manifest.json",
+      "bytes": 1383,
+      "sha256": "08a7abbc5baccb3e34169e6671a3eeb3f09a9854f764ac3a3401279330814227"
+    },
+    {
+      "path": "TFS4-batch-results/batch-3/2013/tri-source-review.json",
+      "bytes": 44265,
+      "sha256": "0d3a830cb0693dfc2df0d617b2c1c4a02c13f2b0a242252e8119adbb5a5a922a"
+    },
+    {
+      "path": "TFS4-batch-results/batch-3/2013/tri-source-review.md",
+      "bytes": 1213,
+      "sha256": "4d9f98d6c1eb88a3e6275eff1b873875a4b5686bfaf751eebfb3d5bd945ef66f"
+    },
+    {
+      "path": "TFS4-batch-results/batch-3/2014/initial-annotations.json",
+      "bytes": 54650,
+      "sha256": "913993cf129dad3057b1c2484e6f42509f5be520c23e84559e0af04338e965ed"
+    },
+    {
+      "path": "TFS4-batch-results/batch-3/2014/source-manifest.json",
+      "bytes": 1383,
+      "sha256": "ef2626807eddf1605b11ab429494bab6fa4ce9017c99244d24006662cdd55608"
+    },
+    {
+      "path": "TFS4-batch-results/batch-3/2014/tri-source-review.json",
+      "bytes": 37281,
+      "sha256": "9d0f603b7942fb94c93a89788d3bd5d1f6262a27a86274cbad5a6665dcd20894"
+    },
+    {
+      "path": "TFS4-batch-results/batch-3/2014/tri-source-review.md",
+      "bytes": 1213,
+      "sha256": "b4ab116e4e0e59c78249b0e591f14be4431f4b58c3c3706c2394be4b10f390c3"
+    },
+    {
+      "path": "TFS4-batch-results/batch-3/2015/initial-annotations.json",
+      "bytes": 56044,
+      "sha256": "4cafafde743d1c397ab28d611d01e4eab9d4aa9fb7df7b2cf9da450c741e13ca"
+    },
+    {
+      "path": "TFS4-batch-results/batch-3/2015/source-manifest.json",
+      "bytes": 1383,
+      "sha256": "686de3527f458210a0d30671cbb9d1508af43d6e984099a952bcc6b6166ab14b"
+    },
+    {
+      "path": "TFS4-batch-results/batch-3/2015/tri-source-review.json",
+      "bytes": 38250,
+      "sha256": "5a131cbbc6f6986eac02332bc8261b5fa792b1b9591264065119cb4f8cc5ad8a"
+    },
+    {
+      "path": "TFS4-batch-results/batch-3/2015/tri-source-review.md",
+      "bytes": 1213,
+      "sha256": "a5933ac54bb7261ea2472228b705a3f2f3299c9bf4b1692971cc4954fccbc215"
+    },
+    {
+      "path": "TFS4-batch-results/batch-3/2016/initial-annotations.json",
+      "bytes": 56625,
+      "sha256": "a5cd2567ffe188889e302e969ab9fea66812474c86e250c284b3d7bc9758f110"
+    },
+    {
+      "path": "TFS4-batch-results/batch-3/2016/source-manifest.json",
+      "bytes": 1381,
+      "sha256": "7e88e5ffbe22614240548021fbe426fc2a46579007bf98af79ed2863f3ed6e6f"
+    },
+    {
+      "path": "TFS4-batch-results/batch-3/2016/tri-source-review.json",
+      "bytes": 39127,
+      "sha256": "7dca538d012d9b09d515f86a667f53c087e2d24adcb97b93eb5b8071ebb572cf"
+    },
+    {
+      "path": "TFS4-batch-results/batch-3/2016/tri-source-review.md",
+      "bytes": 1210,
+      "sha256": "1154b76a68dd6ba6352c0a4a3ed8f0e66c8e5d2ecfc6903b63e20e53b51662a6"
+    },
+    {
+      "path": "TFS4-batch-results/batch-3/README.md",
+      "bytes": 1119,
+      "sha256": "afa00926d2f6388a67f207fa6db502db654fd8591d19842bfff6d6f25e5d6ca0"
+    },
+    {
+      "path": "TFS4-batch-results/batch-4/2017/content-v4.json",
+      "bytes": 53123,
+      "sha256": "d377fc2da8bce8044292eeb4520419a0000170d121707b7814bb047e9b82bdbd"
+    },
+    {
+      "path": "TFS4-batch-results/batch-4/2017/initial-annotations.json",
+      "bytes": 31549,
+      "sha256": "e25804f289b90c33ef7b73b5172cafa39040d1b6c5a4d6044a9858d4f92e168e"
+    },
+    {
+      "path": "TFS4-batch-results/batch-4/2017/run-report.json",
+      "bytes": 555,
+      "sha256": "279418c5b05a43be4e83d2de4f250636cf542b45cf90c09690d6da8b38d4c412"
+    },
+    {
+      "path": "TFS4-batch-results/batch-4/2017/source-hashes.json",
+      "bytes": 827,
+      "sha256": "61fb5320a4d98b7533a5996c95f919e36c9a5dbecae013ad09d314446629feae"
+    },
+    {
+      "path": "TFS4-batch-results/batch-4/2017/tri-source-review.json",
+      "bytes": 72421,
+      "sha256": "22cf4da8330e99e351bc905957c93f7623be0e4c1ca969ee06e1e0b4284e1295"
+    },
+    {
+      "path": "TFS4-batch-results/batch-4/2017/tri-source-review.md",
+      "bytes": 470,
+      "sha256": "2e430ea4c7b57f53932ff76b4c543199fbdcdd5d763b9a1682920b5c39630454"
+    },
+    {
+      "path": "TFS4-batch-results/batch-4/2018/content-v4.json",
+      "bytes": 40791,
+      "sha256": "98635415427384b82a67e1bcd0f7b948da06ec9d3130716426d438de45e5b315"
+    },
+    {
+      "path": "TFS4-batch-results/batch-4/2018/initial-annotations.json",
+      "bytes": 25279,
+      "sha256": "7fea9e9416f0bfd8fe7db58143e675ef41cb4228b1a48966ce81996ad269a004"
+    },
+    {
+      "path": "TFS4-batch-results/batch-4/2018/run-report.json",
+      "bytes": 554,
+      "sha256": "127c77d5b339128a77a05be3f04596dd1e563a0026444af474c9673f8fe48757"
+    },
+    {
+      "path": "TFS4-batch-results/batch-4/2018/source-hashes.json",
+      "bytes": 828,
+      "sha256": "eb69fa0ade60f4a521a2a840c4ba205442b0eef9f1aa648ecabc012c4fb7bf4f"
+    },
+    {
+      "path": "TFS4-batch-results/batch-4/2018/tri-source-review.json",
+      "bytes": 55763,
+      "sha256": "521e7614c5e64b0d05f6926d442b64563043ee23c5ca162422bcafdadfeebb91"
+    },
+    {
+      "path": "TFS4-batch-results/batch-4/2018/tri-source-review.md",
+      "bytes": 470,
+      "sha256": "604ca6425d78e55047449dbd24694d245ac46000f7258a50e4ad970276f1f1d3"
+    },
+    {
+      "path": "TFS4-batch-results/batch-4/2019/content-v4.json",
+      "bytes": 51647,
+      "sha256": "9e064514b0f9dd1e83c5cdb08c719e518442069c09b799fdd2a03518483b6b7e"
+    },
+    {
+      "path": "TFS4-batch-results/batch-4/2019/initial-annotations.json",
+      "bytes": 27728,
+      "sha256": "af0d175964aa09d1be4fb0c2da4e542a0748123d0089cc6404bb2d19f983266e"
+    },
+    {
+      "path": "TFS4-batch-results/batch-4/2019/run-report.json",
+      "bytes": 555,
+      "sha256": "6b0b1c76c7246e8f82c0d252417e90d2f5fbde37287c35c242ffcec9aa72c590"
+    },
+    {
+      "path": "TFS4-batch-results/batch-4/2019/source-hashes.json",
+      "bytes": 844,
+      "sha256": "12e5a274cc1a9be07d07a214256e2941f0d99dda94267b617296da1157a55f1b"
+    },
+    {
+      "path": "TFS4-batch-results/batch-4/2019/tri-source-review.json",
+      "bytes": 70065,
+      "sha256": "45f6b6ce854babc1c8da3b159d0fc3cb80a3b88b40a70241adac8a084e9e18ae"
+    },
+    {
+      "path": "TFS4-batch-results/batch-4/2019/tri-source-review.md",
+      "bytes": 486,
+      "sha256": "70e6a141c09d200956edd83b408e487e35abe47b99c3a304c9eb71c5682dd9db"
+    },
+    {
+      "path": "TFS4-batch-results/batch-4/2021-05/content-v4.json",
+      "bytes": 52213,
+      "sha256": "5c3f8a80da9fbdde5d807881d67e7f6ada4a063b0ce0791b87b92022e439f96a"
+    },
+    {
+      "path": "TFS4-batch-results/batch-4/2021-05/initial-annotations.json",
+      "bytes": 28799,
+      "sha256": "938d375eec036d7a619c497ec92676cef5674106f7e9e73062fcec2bb678d4d9"
+    },
+    {
+      "path": "TFS4-batch-results/batch-4/2021-05/run-report.json",
+      "bytes": 557,
+      "sha256": "cee909c2270a661ff611111986c37031e5f4d59d1903885b241c2e9b33e7f418"
+    },
+    {
+      "path": "TFS4-batch-results/batch-4/2021-05/source-hashes.json",
+      "bytes": 849,
+      "sha256": "bf4557d7176547e7efc953de448593bef7ff48be5b47436e7c7b227e242a8277"
+    },
+    {
+      "path": "TFS4-batch-results/batch-4/2021-05/tri-source-review.json",
+      "bytes": 70264,
+      "sha256": "1d7ac8281571df6e70ee4add5c1322f71fc64d3bab09c443701e4754f35cfb0f"
+    },
+    {
+      "path": "TFS4-batch-results/batch-4/2021-05/tri-source-review.md",
+      "bytes": 485,
+      "sha256": "6bbaf3fcd4e2792afa2b2ee3cd32e6faa35c6f1f243d6cb272380fe4d0975d82"
+    },
+    {
+      "path": "TFS4-batch-results/batch-5/2021-06/content-v4.json",
+      "bytes": 16966,
+      "sha256": "9ab1d743c39a410d0c5c2f4a0352702f0822f26bde7b240ec0dfc774b99a4581"
+    },
+    {
+      "path": "TFS4-batch-results/batch-5/2021-06/initial-annotations.json",
+      "bytes": 51807,
+      "sha256": "e981ec76d9030454d0c51f53a0e82ef349cb5617027e26a3cb93c6fee45e0ebc"
+    },
+    {
+      "path": "TFS4-batch-results/batch-5/2021-06/source-manifest.json",
+      "bytes": 863,
+      "sha256": "24adb84af6c281f4aba8b3d6879c6890ede6d42ddac4ec885e62098763e64744"
+    },
+    {
+      "path": "TFS4-batch-results/batch-5/2021-06/tri-source-review.json",
+      "bytes": 1782,
+      "sha256": "0827ec9a6fd25fe563c19c6f1bb59415a630c2a6bbf66acc493a98689e56530b"
+    },
+    {
+      "path": "TFS4-batch-results/batch-5/2021-06/tri-source-review.md",
+      "bytes": 687,
+      "sha256": "5cabc0142a11f53835b0c46b417ef18fd22e82a35732452a1cead2a6448a02d8"
+    },
+    {
+      "path": "TFS4-batch-results/batch-5/2022/content-v4.json",
+      "bytes": 22717,
+      "sha256": "673fa0b22fcc56441a0a4818d07a648779ddffc40762ef68be4561cfed50a3a0"
+    },
+    {
+      "path": "TFS4-batch-results/batch-5/2022/initial-annotations.json",
+      "bytes": 69725,
+      "sha256": "14d5e35cbbe2d5fd06a38c7e8a0fd8f5037d3536860436c68c8d40a3d9950ba0"
+    },
+    {
+      "path": "TFS4-batch-results/batch-5/2022/source-manifest.json",
+      "bytes": 860,
+      "sha256": "421d851072bccca1fab3f62780fd2e29f7a6a5c8ac004cd045273f2a7cdcd073"
+    },
+    {
+      "path": "TFS4-batch-results/batch-5/2022/tri-source-review.json",
+      "bytes": 1784,
+      "sha256": "ee1ef9b18f027e1a45deb41c993e7d269f61e3bbee47fc9904713c8d79f358d7"
+    },
+    {
+      "path": "TFS4-batch-results/batch-5/2022/tri-source-review.md",
+      "bytes": 698,
+      "sha256": "87aafef497777cc0e92ebaba2935f118525c3fab21c2d915507f9c7f9c6721f3"
+    },
+    {
+      "path": "TFS4-batch-results/batch-5/2024/content-v4.json",
+      "bytes": 22516,
+      "sha256": "cdc1ee34a62e53a89ee8c7896a3da4411bf2679b386e9b56fb1020a3f2bafa7c"
+    },
+    {
+      "path": "TFS4-batch-results/batch-5/2024/initial-annotations.json",
+      "bytes": 69054,
+      "sha256": "4f6a4c675226445fe2f49799e398995fc64b25e8500a14ab206fb2acde8408bb"
+    },
+    {
+      "path": "TFS4-batch-results/batch-5/2024/source-manifest.json",
+      "bytes": 836,
+      "sha256": "42f5ac4569c48a46e7c87beb95a5f5ba60f1b5f0035f1814daf50d8381ed4c66"
+    },
+    {
+      "path": "TFS4-batch-results/batch-5/2024/tri-source-review.json",
+      "bytes": 1758,
+      "sha256": "5e011408f9789e4bfe503c154983888496f21168d7454d8313edcb4a3eaa8058"
+    },
+    {
+      "path": "TFS4-batch-results/batch-5/2024/tri-source-review.md",
+      "bytes": 682,
+      "sha256": "fde11de4307d759c32169e89c084cf5431cb54f1a1f824cd77b5a42eff93055e"
+    },
+    {
+      "path": "TFS4-batch-results/batch-5/2025/content-v4.json",
+      "bytes": 22357,
+      "sha256": "5173e052e7cd5382857d03079c894fd682f80bbf618dce7c83be97426f1a2ee9"
+    },
+    {
+      "path": "TFS4-batch-results/batch-5/2025/initial-annotations.json",
+      "bytes": 69143,
+      "sha256": "cf02c8d06d2401cfea217e8d9720112bd642edfe6977a3e1a50580679d7b12dc"
+    },
+    {
+      "path": "TFS4-batch-results/batch-5/2025/source-manifest.json",
+      "bytes": 1065,
+      "sha256": "6bb8147a38ad3e0640c66368ee0ac3d73dfcb9141cc419b75cbd49116a1968d7"
+    },
+    {
+      "path": "TFS4-batch-results/batch-5/2025/tri-source-review.json",
+      "bytes": 1986,
+      "sha256": "de281655cfd7307706101bc2a2acf0b842ded4fa1f6d69a2ba23de7b9629969f"
+    },
+    {
+      "path": "TFS4-batch-results/batch-5/2025/tri-source-review.md",
+      "bytes": 675,
+      "sha256": "38995547069728ad9bf4c274a189b366d230701dd0f4a670819c219c084ad0e3"
+    },
+    {
+      "path": "TFS4-batch-results/batch-5/batch-summary.json",
+      "bytes": 1395,
+      "sha256": "2f339ccc9bc46b7d0d74221dc848c60bfa1cd61483ca9d4e4d758ab0ec93170f"
+    },
+    {
+      "path": "TFS4-batch-results/batch-5/timing.json",
+      "bytes": 275,
+      "sha256": "2b2e9073db2383606b7cea8c63c73a724a0ed23c1dff421fce319afc2915d22a"
+    },
+    {
+      "path": "TFS4-docs/AGENTS.md",
+      "bytes": 3399,
+      "sha256": "46670e9f3bfd2b3a08097572731d9f59180f7f30657a245d24492ae1a2672c02"
+    },
+    {
+      "path": "TFS4-docs/docs/2023批次执行流程.md",
+      "bytes": 2465,
+      "sha256": "07daf78c1b212eeb0be1600d6a45ad3b7092ef7d24cbce8d76c2511a877e0ee3"
+    },
+    {
+      "path": "TFS4-docs/docs/CODEX-WEB-HANDOFF.md",
+      "bytes": 14291,
+      "sha256": "2cd4f148e328d846e876da0ff3c64a1ae40410632709f8c3f6600da5be9c6f2f"
+    },
+    {
+      "path": "TFS4-docs/docs/Stage2两轮生产与知识树审计流程.md",
+      "bytes": 8408,
+      "sha256": "70fc429d3825080805f656382bb389a671b84f6187857e1cb421dc1428419766"
+    },
+    {
+      "path": "TFS4-docs/docs/Stage2剩余MD分批生产计划.md",
+      "bytes": 8334,
+      "sha256": "5285b3dc8e563545e954173ddfd314618e00559b4c84a9495b231ba278e3f5c9"
+    },
+    {
+      "path": "TFS4-docs/docs/Stage2匹配原则.md",
+      "bytes": 5214,
+      "sha256": "3664f091363f8e2b0a4bd9e6831dcaf932b7df0a52432cd101214f81999e2ac4"
+    },
+    {
+      "path": "TFS4-docs/docs/软柿子开发清单.md",
+      "bytes": 71378,
+      "sha256": "c8e40a818427f08a286a1ef31c98c0740a2f24d37c07aea0c905b31eb6368cbc"
+    },
+    {
+      "path": "TFS4-experiments/2023-paper-answer/build-annotations.py",
+      "bytes": 7978,
+      "sha256": "8f28badbd903b24e3457b80ebb87ca41a28b303ade305ed1576f7095988c564b"
+    },
+    {
+      "path": "TFS4-experiments/2023-paper-answer/build-review.py",
+      "bytes": 14452,
+      "sha256": "3d1bc4b4552b9c74c3def0fd353faa15c06984637c362abb8dfd297bf767b991"
+    },
+    {
+      "path": "TFS4-experiments/2023-paper-answer/candidate-new-leaves.json",
+      "bytes": 7827,
+      "sha256": "a20cbb43129b612d9bfbc2ffb1006088ce44d226ac3f5bc7e8224abaeae74eb3"
+    },
+    {
+      "path": "TFS4-experiments/2023-paper-answer/content-candidate.json",
+      "bytes": 299575,
+      "sha256": "8b22fe8049be2ad6c964aa8cd62d0598afe2b5c70c013c91df1b071190051913"
+    },
+    {
+      "path": "TFS4-experiments/2023-paper-answer/initial-annotations.json",
+      "bytes": 214763,
+      "sha256": "32e51a5888210175b8fcc9884bf1c9b17a1cadfe2a5f33b87c59382e228f3230"
+    },
+    {
+      "path": "TFS4-experiments/2023-paper-answer/manifest.json",
+      "bytes": 976,
+      "sha256": "956de4b759f0e53b3079da013c7ba700a0f2e0ee0aa84fa7a797f39db7006032"
+    },
+    {
+      "path": "TFS4-experiments/2023-paper-answer/review.json",
+      "bytes": 278520,
+      "sha256": "611f89c0111486ee222cba6cbc999b4d88f35ef10983a95b9c7db09060e6f85e"
+    },
+    {
+      "path": "TFS4-experiments/2023-paper-answer/review.md",
+      "bytes": 74625,
+      "sha256": "ca85a7d8a59ac3a90ccbfae88ff27cdb0b7b690ef0299cf198f858b7c095e2ca"
+    },
+    {
+      "path": "TFS4-experiments/2023-paper-answer/summary.md",
+      "bytes": 847,
+      "sha256": "2bf0c1dc4eab5c542a1b4bf4493366abd0eaa1c08b231daf319d78917347a56b"
+    },
+    {
+      "path": "TFS4-experiments/2023-paper-answer/timing.json",
+      "bytes": 409,
+      "sha256": "c21fffcab399dd9a5ce951cd484a0a390f3760476e31c62e168d35a4269c0f39"
+    },
+    {
+      "path": "TFS4-experiments/2023-paper-answer/validation.json",
+      "bytes": 1260,
+      "sha256": "07fdf9e2c2437c72083231f5caf0ff8041665295b84f95fcb041b3e4f249ac7f"
+    },
+    {
+      "path": "TFS4-experiments/2023-paper-answer/verify.py",
+      "bytes": 6704,
+      "sha256": "c82d692b70a33a23b596c3b664b938a8461c49be6a935084815e10ce23af4ddc"
+    },
+    {
+      "path": "TFS4-experiments/2023-paper-only/build.py",
+      "bytes": 17030,
+      "sha256": "8186bc6028fb685d4d8cee5895e542a97034915d2d2f2184aaed008c5f2201cb"
+    },
+    {
+      "path": "TFS4-experiments/2023-paper-only/content.json",
+      "bytes": 137203,
+      "sha256": "abf475c9016ae811bdbb8fa8a2359328fa6478254f986812405f3d863e6b9002"
+    },
+    {
+      "path": "TFS4-experiments/2023-paper-only/initial-annotations.json",
+      "bytes": 40984,
+      "sha256": "dafdc2b9dc6fcde54c9848f2fee3233ae3c4728612b618e0b8882f195d3ba1c1"
+    },
+    {
+      "path": "TFS4-experiments/2023-paper-only/review.json",
+      "bytes": 137716,
+      "sha256": "7c3b1a92b1b78a148c439dc5c8ed3c39a8c83702324da44f5509f6be2ee436fb"
+    },
+    {
+      "path": "TFS4-experiments/2023-paper-only/review.md",
+      "bytes": 51345,
+      "sha256": "bd4ceb0e5d344f24efdb1bc4ef8903718e23ce91a03578a4f6612b574b9bf5e1"
+    },
+    {
+      "path": "TFS4-experiments/2023-paper-only/source-sha256.txt",
+      "bytes": 181,
+      "sha256": "85250c54f204cf88bd181dec4d85cde92480cacb9412cab71e1a85893a4db8df"
+    },
+    {
+      "path": "TFS4-experiments/2023-paper-only/summary.md",
+      "bytes": 903,
+      "sha256": "f5f2783cb8bd145728d0baa98613018f2a5ca2ffe220114cb5bd532dfb0bcec4"
+    },
+    {
+      "path": "TFS4-experiments/2023-paper-only/timing.json",
+      "bytes": 749,
+      "sha256": "be51e14c1f0ab0dac016644a1f78df071e768737fcd60974c76fb3b46e1a9289"
+    },
+    {
+      "path": "TFS4-experiments/2023-paper-only/validation.json",
+      "bytes": 486,
+      "sha256": "cb31ef1b47a22410c16aa7236084a07ab869454f21cd2e1339f5508645c22763"
+    },
+    {
+      "path": "TFS4-experiments/2023-sol-low-paper-only/build.py",
+      "bytes": 32037,
+      "sha256": "68a5ab7921b505adb295ce791dd7f74d2224a2ffcaf9828a47ad498dbe51a0c4"
+    },
+    {
+      "path": "TFS4-experiments/2023-sol-low-paper-only/content.json",
+      "bytes": 160753,
+      "sha256": "4936e1d4be7ad116b49ad24686f0e2e8e85e2fa6ab974e010ddcece7d4d859ec"
+    },
+    {
+      "path": "TFS4-experiments/2023-sol-low-paper-only/initial-annotations.json",
+      "bytes": 78631,
+      "sha256": "23fd16bb10732f170f94511344489520caa41f034f424d49d55eb4d41f80bc05"
+    },
+    {
+      "path": "TFS4-experiments/2023-sol-low-paper-only/review.json",
+      "bytes": 322168,
+      "sha256": "c20ffbb133a1e46dd20cbc494aa5aeec3cee9cfe50b1ff70f5df1405a9c32c40"
+    },
+    {
+      "path": "TFS4-experiments/2023-sol-low-paper-only/review.md",
+      "bytes": 122265,
+      "sha256": "627daa4ecb83809de059c30d0678bd556e950773769e35fc2fe6207619fb3b7f"
+    },
+    {
+      "path": "TFS4-experiments/2023-sol-low-paper-only/source-sha256.txt",
+      "bytes": 300,
+      "sha256": "b0265eea42d523355ab1bd68db08564e87ca145d943370c6354f6b79fe032944"
+    },
+    {
+      "path": "TFS4-experiments/2023-sol-low-paper-only/start-utc.txt",
+      "bytes": 21,
+      "sha256": "cfa53ee591408c05b85f0f5180e8d99ee85b82d0627001f0d4be84e44f9dfba7"
+    },
+    {
+      "path": "TFS4-experiments/2023-sol-low-paper-only/summary.md",
+      "bytes": 1981,
+      "sha256": "1042c78aa799cd7cd4799e87eb2f1b099f6257291705495402c0241dde391700"
+    },
+    {
+      "path": "TFS4-experiments/2023-sol-low-paper-only/timing.json",
+      "bytes": 1289,
+      "sha256": "6cc17a8204c123d1b68f7432f646e4a57a7cb50026b90db0c7f3489d28392eec"
+    },
+    {
+      "path": "TFS4-experiments/2023-sol-low-paper-only/validation.json",
+      "bytes": 1675,
+      "sha256": "e479a5f2b7d60c10fc0a6d00bdc04616a226b8715efe0fde0bad3e5cf94895d4"
+    },
+    {
+      "path": "TFS4-experiments/2023-terra-high-paper-only/build.py",
+      "bytes": 22264,
+      "sha256": "c86e0078c05c5e17cf9173753964b8c5ff234093b80ce27dd62059ba93611a8b"
+    },
+    {
+      "path": "TFS4-experiments/2023-terra-high-paper-only/content.json",
+      "bytes": 142821,
+      "sha256": "96c13fa4d63a57b160a2112eec1cc2f40efe2e8b32502c77a1c76e94a3d2e9ad"
+    },
+    {
+      "path": "TFS4-experiments/2023-terra-high-paper-only/initial-annotations.json",
+      "bytes": 43560,
+      "sha256": "5b050ab34f739f8096c1eaf74ee88ff78f70ba9e46a60ffd74c5e03d9925e955"
+    },
+    {
+      "path": "TFS4-experiments/2023-terra-high-paper-only/review.json",
+      "bytes": 198185,
+      "sha256": "dcd219fa4e1c038eb405261d61b8f70ebbbb8de594ff4578e14f29bcd840be84"
+    },
+    {
+      "path": "TFS4-experiments/2023-terra-high-paper-only/review.md",
+      "bytes": 78835,
+      "sha256": "cdf56c0b4c3485256646cb9641d11968873210941c5159228551ad70c40fdec8"
+    },
+    {
+      "path": "TFS4-experiments/2023-terra-high-paper-only/summary.md",
+      "bytes": 1166,
+      "sha256": "941e2345ce0d0d6bef2aa32e6fa7b6a688769be359bfbe81ede3f3a2c6ca9492"
+    },
+    {
+      "path": "TFS4-experiments/2023-terra-high-paper-only/timing.json",
+      "bytes": 391,
+      "sha256": "e665f9e1cab17da004d00a2c80268dac2af92c4262c5c74d411ae32d81ace62c"
+    },
+    {
+      "path": "TFS4-experiments/2023-terra-high-paper-only/validation.json",
+      "bytes": 1349,
+      "sha256": "1263825de6ec3aee765666625545e7c0552526da4072262f9373b63fab443542"
+    },
+    {
+      "path": "TFS4-experiments/三流程比较报告.md",
+      "bytes": 3870,
+      "sha256": "22e4d3a0483a0f7096c33174ffd1fcb4f4ab3e5b4b253dbbf8d072f93f7a4aa5"
+    },
+    {
+      "path": "TFS4-experiments/五流程比较报告.md",
+      "bytes": 3759,
+      "sha256": "517a1034d952ff1300dd84bbb10c86b00fc26c52b09961344b1d4edcfd9a633a"
+    },
+    {
+      "path": "TFS4-experiments/四流程比较报告.md",
+      "bytes": 3716,
+      "sha256": "79d97e196ecd8b220b92d09ad257999ab737cfd37dff9329c0e089c3f39ccbd8"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2005/r1/adapt.py",
+      "bytes": 14571,
+      "sha256": "dd0d51e4909d27a31c110be961c20a574d80620e1352aa81f5b243d708c6e36d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2005/r1/adjust.py",
+      "bytes": 4462,
+      "sha256": "faf2f2573682d17b46107665a7894ac49ef8ebec6dd0de53e39b5fd5ce3f4dd0"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2005/r1/build.py",
+      "bytes": 21585,
+      "sha256": "1fe935c5728a6680ae82bd36e9b946958f6ecbb709907ddb41abff3e952bb87d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2005/r1/candidate-new-leaves.json",
+      "bytes": 36591,
+      "sha256": "ea13d11b931a15ce02a7baf3d69464b1d8cf65c3ee65d249cb71e402eda9a13e"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2005/r1/content-candidate.json",
+      "bytes": 276818,
+      "sha256": "1d9805ac63a28d93e055246ecc1087b90112c63ffadcf3c67c122bee47624de1"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2005/r1/initial-annotations.json",
+      "bytes": 41316,
+      "sha256": "5a9edc871781559ac9b9a24c1a7fc8fbee85ec99522670fef38916734aaaa47f"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2005/r1/manifest.json",
+      "bytes": 886,
+      "sha256": "734e8a2d77125e3962c0b19c4e20d5d54704b7d53a2fc7d7e275feeda42a8859"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2005/r1/resume.json",
+      "bytes": 185,
+      "sha256": "f1380605f2c5f56ee6b41a54a80770412cda4608f89211e7e627fa6fa172fd5e"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2005/r1/review.json",
+      "bytes": 276793,
+      "sha256": "c99b4a8bae6b7d81afd7a3c2ceabd94315eb5d553c5db6cb4c5d106df3b00975"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2005/r1/review.md",
+      "bytes": 79741,
+      "sha256": "ecc840dc70ce01635e524fa03e553df254accafca9f154a5740b85152af65ea4"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2005/r1/summary.md",
+      "bytes": 349,
+      "sha256": "b4e8091c7a043616e647392504d4fddcc84430c31da0b016c70ab2441dc0148c"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2005/r1/timing.json",
+      "bytes": 473,
+      "sha256": "adf2579cc783d5f7ac81e70635235dde660a458a03e3c936948618d643aaccb8"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2005/r1/validation.json",
+      "bytes": 761,
+      "sha256": "1be8124b70cfd2c4fef8d9d204b134908162898af348775de36eb904b13d9347"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2005/r1/待核清单.md",
+      "bytes": 3411,
+      "sha256": "59680b9ed2d900be67027313a832d06925f9d00be9512ec827e1be6fc48f8948"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2006/r1/adapt.py",
+      "bytes": 10254,
+      "sha256": "76df5b730fb5cbd8dbd2e15a551c48161c8731e200debe4f98a4c0f9fa1c54ea"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2006/r1/build.py",
+      "bytes": 19226,
+      "sha256": "f44c7c66fa70a8e35b6ef0d8fe8f3a7f250ef993859ed3773072a98e90748a8d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2006/r1/candidate-new-leaves.json",
+      "bytes": 34457,
+      "sha256": "5069be571c87f1f4f1a50fbcafc7d1c967bb6bfac885863441bf650d79ef0611"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2006/r1/content-candidate.json",
+      "bytes": 277963,
+      "sha256": "36707e7bfc194576478fef995b9a6d3a1f8a0c54b3698721cb870f641452c40d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2006/r1/initial-annotations.json",
+      "bytes": 39877,
+      "sha256": "473989655064a010d598ceddf2889f969fbcdbd1efc573b4dbb8f1870c851e26"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2006/r1/manifest.json",
+      "bytes": 790,
+      "sha256": "e9c43320b7d6bf72bd2203e06d604b6e16e6077db5bee987225b7eb864013ad3"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2006/r1/review.json",
+      "bytes": 277938,
+      "sha256": "5dc2ee0ce0080225979a8347b59e855015f7dd76ba3ec6a950a5fd8c4cfec374"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2006/r1/review.md",
+      "bytes": 65704,
+      "sha256": "9c8f13591f36fc97c904e337bce77b8460d7700c86916585f9f730995e8aa023"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2006/r1/summary.md",
+      "bytes": 233,
+      "sha256": "e0d5d40d05c9cb4cc9de4d03b5d2c8da47a37fbe7889470fc6a965084b8f3e1c"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2006/r1/timing.json",
+      "bytes": 414,
+      "sha256": "d02b7b30b008db11be8e342fc40979768a0ad8b82fbcc5dcfdd3004c65503caf"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2006/r1/validation.json",
+      "bytes": 696,
+      "sha256": "b7515b862033e47f07b292d9bc59fa39d362262be47609fd5a949e9d36265461"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2006/r1/待核清单.md",
+      "bytes": 2033,
+      "sha256": "ca4f0a1e3b6374b9a4692e6420c7c43918c880d108e816710fb3b04977367e43"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2007/r1/adapt.py",
+      "bytes": 11077,
+      "sha256": "48f0c7270cfea9f9635270a7ce401cfd9dee71e9e4a87d7a238f1d96017fe01b"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2007/r1/build.py",
+      "bytes": 19617,
+      "sha256": "b90572796152bdf95e44b6d52949f909ae4958a4ccce0311812f1c6b9bb86830"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2007/r1/candidate-new-leaves.json",
+      "bytes": 32219,
+      "sha256": "9a08c0bc799f4c60715b087fb3c76adaebf11231fa4097a90f39993f5ef2bdae"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2007/r1/content-candidate.json",
+      "bytes": 280969,
+      "sha256": "0f986bf3e938ffe89f3e7379f273e87e195e9fdbea5c9ddafc89dc19334866e0"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2007/r1/initial-annotations.json",
+      "bytes": 39377,
+      "sha256": "adcd3168196b97e0427a8705991615941a31a50f40d82ee3352838d71f866d6e"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2007/r1/manifest.json",
+      "bytes": 845,
+      "sha256": "56bd940d9f79f279ea9a68b3ee0b5e5aa91b36b43554a190f8918145219d2470"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2007/r1/review.json",
+      "bytes": 280944,
+      "sha256": "9e429aab41d195e7997ae727120e4542d697cf2a74df069705eb602ba13e4d4d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2007/r1/review.md",
+      "bytes": 65416,
+      "sha256": "768f01a1f46842c7eab9ff7a54c8baf3cceb1069640b2920c9f19db91fbc22bf"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2007/r1/summary.md",
+      "bytes": 251,
+      "sha256": "9b74e5044fd9eee686cc5202b15731cf52d992d7abb95affa7c14cf78fd30f5d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2007/r1/timing.json",
+      "bytes": 414,
+      "sha256": "99fe340865a5cabaf2c6b4f227f0a2aa7dee3c011319641542b2d26a054fe187"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2007/r1/validation.json",
+      "bytes": 761,
+      "sha256": "a30ece775068b8f08180d5d962f77ec680653331b48a991ec9d2333202904880"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2007/r1/待核清单.md",
+      "bytes": 2351,
+      "sha256": "92a57f188e4c62979220aac96cf464b7c751ced08945046664b2d07705ff840f"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2008/r1/adapt.py",
+      "bytes": 12426,
+      "sha256": "106c666696faaff0d73c9c1c4f5e4864b8e0b38174009f0213827d7da688597d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2008/r1/build.py",
+      "bytes": 19038,
+      "sha256": "e8ce8c3972c47d6e66e7106a2d46fed21ff744fb2dde66e79ed423de62182e47"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2008/r1/candidate-new-leaves.json",
+      "bytes": 36020,
+      "sha256": "f099665960c508970096b46baef204f2a5fee54b80300a06f9da06b8d4a45e19"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2008/r1/content-candidate.json",
+      "bytes": 281152,
+      "sha256": "d5d94148233bdf275620c3cba7a1ddac45bc4649f8c0d1df4b8bb514baedd36c"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2008/r1/initial-annotations.json",
+      "bytes": 39825,
+      "sha256": "0ae013aa814e9a12ee389ba194fe4ba662411b5f235aedcd068a72095e5dc301"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2008/r1/manifest.json",
+      "bytes": 785,
+      "sha256": "0e2457b026df6271d5624bc6bc838327e9851d88b895bb462804622a92c77c06"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2008/r1/review.json",
+      "bytes": 281127,
+      "sha256": "9ac87619418b272019ea4908fddf2892e7540a32c8f99b880f14c5285dfa7467"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2008/r1/review.md",
+      "bytes": 69249,
+      "sha256": "29574d5a6cdc3c4b12599fab296e102199c90580f7b85b6730b3c0a7141b2786"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2008/r1/summary.md",
+      "bytes": 235,
+      "sha256": "755d4ae8b332d92c470cf012264808c2e954bdaf93619a42352e6ba635a08f8b"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2008/r1/timing.json",
+      "bytes": 412,
+      "sha256": "1b00fbb0f5795cb8d43ec142e8b095b301ec5c204dd50e40abba689d8b32eddd"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2008/r1/validation.json",
+      "bytes": 694,
+      "sha256": "0cb8cf22abe6a231c2d83cd0d263b81b9ca59f6e32b4cd0724607875d76977e8"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2008/r1/待核清单.md",
+      "bytes": 1929,
+      "sha256": "646a7db387b50cad9a648bcd7b2210fd258ebb68881951d6d20840c805943ba6"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2009/r1/build.py",
+      "bytes": 20055,
+      "sha256": "b9a3eab68517f9e84ccdac3ef0305b4b445ed5d61015cc580a9757b070362145"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2009/r1/candidate-new-leaves.json",
+      "bytes": 37345,
+      "sha256": "5eac99180586bfdce06af0f8ccb407e2fd39d4d418416bc3ad2fc261eb2451f9"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2009/r1/content-candidate.json",
+      "bytes": 311930,
+      "sha256": "0de44015a89b65b91fe7db574739e8369b36681a83f65e3a82c04fac563fdc83"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2009/r1/initial-annotations.json",
+      "bytes": 39173,
+      "sha256": "5fcb837b31cc7c5bf41b38704e53c0e02022d8d7c89ff2cdfbe8ba13e8790bf4"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2009/r1/manifest.json",
+      "bytes": 3706,
+      "sha256": "2a01199fa90a94cc3701d3e9749a742bd6fde90a0b25ca0031e24cbf7ea6af3d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2009/r1/mark-exposure.py",
+      "bytes": 1728,
+      "sha256": "c9ed659722f1b3fba6a7c8dd866a1b52583dffa6f74384450d3091c5479c5bb1"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2009/r1/review.json",
+      "bytes": 311905,
+      "sha256": "8f08a700fb5b13d02ee4ff72e630f9d7f7b2e4d296cd2dc762670f63cc11250d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2009/r1/review.md",
+      "bytes": 91852,
+      "sha256": "7db44811a89a4379c3a7815b91d5b650570609c62b94f8f6ad0baeb076f62223"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2009/r1/summary.md",
+      "bytes": 370,
+      "sha256": "3e4dc5ef6731d3a4b27f5bf0e2fce617632ed14fb6971893dbcf0aee0b935ad9"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2009/r1/timing.json",
+      "bytes": 414,
+      "sha256": "a0fedca2a6ac9b741865058c3c8d1d26dbfe1f248aeb4062a0c9233c15b56241"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2009/r1/validation.json",
+      "bytes": 834,
+      "sha256": "d6b7d2844443bc42890ea3a9a66ef40942df6a4c5d0bd94e14142c0af845c575"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2009/r1/待核清单.md",
+      "bytes": 2210,
+      "sha256": "c7b8f21ca351abc62fada3705b297ce63211ca03b2d99ebc992ffee95d4f86f5"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2010/r1/build.py",
+      "bytes": 8456,
+      "sha256": "f2a6f6a08e43dfe99b2359db45f2404f006d7f22f153587ac5e232a0ca113079"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2010/r1/candidate-new-leaves.json",
+      "bytes": 27983,
+      "sha256": "da6320f1ec19a1bb8b7870181780ff9dae1a88adec3a4d962c24f7e60b1a176f"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2010/r1/content-candidate.json",
+      "bytes": 275591,
+      "sha256": "73cbd42d63a09be37750ce709f89d647d3633979e8bc7caa954f8a9c9cdede2e"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2010/r1/finalize.py",
+      "bytes": 7872,
+      "sha256": "005414431fdcc17f7791ee199a0cbee4102148bd9b4e8f46b1e3589447d7c643"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2010/r1/initial-annotations.json",
+      "bytes": 41927,
+      "sha256": "cb19dd1003b6ce8d3545d4ebd688a8030043969e63a31ded8e7d76afed7f8431"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2010/r1/manifest.json",
+      "bytes": 2247,
+      "sha256": "eca22bbd4240d6dbad8e4728a522695298511043950cc49783448ea2c092c249"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2010/r1/review.json",
+      "bytes": 275566,
+      "sha256": "23b6799164bb8fcd595d31982a2c63ce9ae23cbd3c082cc71a497f2062d7893d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2010/r1/review.md",
+      "bytes": 83025,
+      "sha256": "5251d6b9da258364fbd3bd048a03fbca104a751f7ab4d8e3614370fe69493019"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2010/r1/summary.md",
+      "bytes": 529,
+      "sha256": "4f5a3f3a223b82a056b221e44bd2104c0e10726549e4b763c838e09292606e12"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2010/r1/timing.json",
+      "bytes": 414,
+      "sha256": "6f0e578dabae62beb9afe50ecb8cec5350e03dcc301e05d611250c69f4aee37d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2010/r1/validation.json",
+      "bytes": 1074,
+      "sha256": "becfbfbca1dc77231d0c43d5338416e76f0e8b206d01c08504227b613c499937"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2010/r1/work.json",
+      "bytes": 15703,
+      "sha256": "d4f25bce0d13ea40af67c611d0c788be22f473337187105eb5e130e46a952ba7"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2010/r1/待核清单.md",
+      "bytes": 2013,
+      "sha256": "5cb93bd9c8fc529390c5f5d0896c17f11699b2e2cb991cbac1e0c8bccdee79bd"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2011/r1/build.py",
+      "bytes": 7705,
+      "sha256": "407bd652f76c6edaedfccb4d80f80ed34407b76df1c8811349fc654adb8c9390"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2011/r1/candidate-new-leaves.json",
+      "bytes": 30871,
+      "sha256": "3c8c50821043163cbc419b61fae820a9e0971308aa87f44bc4463371529caba0"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2011/r1/content-candidate.json",
+      "bytes": 249854,
+      "sha256": "387a7ece84f7c3188f9da34048a2e337b8ad22fe00787653eb9b795d40b0c802"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2011/r1/finalize.py",
+      "bytes": 7832,
+      "sha256": "54e7462f565111414decc8358207f7e7dc397ada8c4d2379825aae12fed64c60"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2011/r1/initial-annotations.json",
+      "bytes": 40870,
+      "sha256": "3482bb5cac2434ace4a84a2fde314ad9e4bc21095c133514e146a7a3001f3c8b"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2011/r1/manifest.json",
+      "bytes": 1109,
+      "sha256": "4a1f7ee16ccc111019836510c5f7f01a3fa38ac11a6c578bba2574ef2aa18566"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2011/r1/review.json",
+      "bytes": 249829,
+      "sha256": "5c392a2e1d645ca1b5be3ced5ae602d4963f3826e598dad3e6e284e0844661fc"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2011/r1/review.md",
+      "bytes": 82220,
+      "sha256": "b520e105fc1a9141a333ba113ea40be06c4172cf710dd3980ecbf879da86b3e9"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2011/r1/summary.md",
+      "bytes": 471,
+      "sha256": "b6d09f46c8761b6dccd9299b6e45dac411b1fac820a99bcf4cf15829fdc26987"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2011/r1/timing.json",
+      "bytes": 416,
+      "sha256": "994e5c71f174b1bb5412f638f38871b9b8b9fa850296dd31093010dcd3b10a91"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2011/r1/validation.json",
+      "bytes": 1067,
+      "sha256": "2932d740b537dc391f3bbe4b66d24ca868fee3fb6936baeaf9e06ac873ffdb6e"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2011/r1/work.json",
+      "bytes": 12814,
+      "sha256": "d4cf823c8a4165297ddd0f32e262ae2cc32614e0aa3c491ea3a3e6ed08fd1448"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2011/r1/待核清单.md",
+      "bytes": 1705,
+      "sha256": "a3bcfb7734376c7b06a25756dd12570ecda89cc58c29a76ef5c077bc450bee09"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2012/r1/build.py",
+      "bytes": 6842,
+      "sha256": "d83066f9eaefac2a76c7929b0762d8aac016bf39dff8fc7666a7a26fccac4874"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2012/r1/candidate-new-leaves.json",
+      "bytes": 829,
+      "sha256": "377e9c0a5dc8fdb2b0c23d789d6cc97c2e30d2561a532452696ede76e8fbf691"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2012/r1/content-candidate.json",
+      "bytes": 264742,
+      "sha256": "e7376ed011081b93d8e9704e886ca6e0dcea8454f813b732e2d10bada1b45932"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2012/r1/finalize.py",
+      "bytes": 7853,
+      "sha256": "87430149f7fba9a851e10e9a0d71b064b5c35042309b92452dabb134d0c87179"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2012/r1/initial-annotations.json",
+      "bytes": 40502,
+      "sha256": "ec35fbb63790ea1283267f47df65d2c7de4ca15e71a5de8065700acff9bdd914"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2012/r1/manifest.json",
+      "bytes": 1107,
+      "sha256": "6828089222b7cdbc12517ad5f73c4d2566b5ec866f7882fe8ef52bfafffac54e"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2012/r1/review.json",
+      "bytes": 264717,
+      "sha256": "78fa8b4cc5d4085346a152f2aadf3ced7d58b4622c598f56deadc21d39ec4635"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2012/r1/review.md",
+      "bytes": 90768,
+      "sha256": "5c32746461dff2ec6653813d93fa270118d8ac1b3e956168013bdd381cd2798d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2012/r1/summary.md",
+      "bytes": 502,
+      "sha256": "742bfd2ca7dca07bdc39623b3e529e31e04f54db9e7753d1961b4ebe05f7b7f3"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2012/r1/timing.json",
+      "bytes": 412,
+      "sha256": "e1231b21f6cf8c4a6f04957ffe00ebb88b7b4f97a26d6da6a5f100ae620ba4ba"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2012/r1/validation.json",
+      "bytes": 1100,
+      "sha256": "3699ffc2b55246598bb1965a10502fe1ff524801ff88d6f8482d3170685ad8fc"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2012/r1/work.json",
+      "bytes": 12644,
+      "sha256": "67f6ebaa51513356506d98cda1c168ede3705910a7185185fafac9585431ffba"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2012/r1/待核清单.md",
+      "bytes": 1748,
+      "sha256": "73a2e190487490d341062e577853905d1c63bfb5366ccd4588f1a0a0e6b7ebc6"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2013/r1/build.py",
+      "bytes": 7788,
+      "sha256": "caa76db7b861ceffa622e5b4b1acb7eff1ed2c85a2f673469f6fba13969a1e3e"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2013/r1/candidate-new-leaves.json",
+      "bytes": 787,
+      "sha256": "ef654f7669b75443bf34b17526bca6f73bf533e8b2e2eadb878f6b5a65903da5"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2013/r1/content-candidate.json",
+      "bytes": 290126,
+      "sha256": "cbc97edb39337aa27426c412da7af32da288af0ede5d366dac37ce0d007450a9"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2013/r1/finalize.py",
+      "bytes": 7993,
+      "sha256": "676cbca9c8d0d3575e9babe5a5992618689706239a80698f83e071950572bcaa"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2013/r1/initial-annotations.json",
+      "bytes": 40588,
+      "sha256": "72d0211462fdd39252ffc7306389526c706df017af7f1cf70f52d3f9b4280155"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2013/r1/manifest.json",
+      "bytes": 1195,
+      "sha256": "8108678ab9a2efd32b318f358dbd8824615bcd3f72397ee228c44d9e524769aa"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2013/r1/review.json",
+      "bytes": 290101,
+      "sha256": "5eaa4196be8e2ff50e9a512ea5b36fd084fed0136e236dddfba74d42c997492a"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2013/r1/review.md",
+      "bytes": 87125,
+      "sha256": "ac294925dd3628531e0b8e81f93a558a021a4acf5d9b740d41e97179d81aabb8"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2013/r1/summary.md",
+      "bytes": 509,
+      "sha256": "8255db31f5aefec763c06fb45c85b64bdda62cab5b76878b841f8d0d62af4a40"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2013/r1/timing.json",
+      "bytes": 414,
+      "sha256": "4557ff1bd0fc8295ea62939add5bde4a9af6b53d661843cec53a66a236d1a11d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2013/r1/validation.json",
+      "bytes": 1118,
+      "sha256": "f78b2c75f8a10ee6444cfd071bb44a0f0c71c1864ffca7052490d2629935e4d8"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2013/r1/work.json",
+      "bytes": 15193,
+      "sha256": "ae17029594b43bbac8ef43d437f206b12c5357222bf6135dca8ac6e7b75fb50d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2013/r1/待核清单.md",
+      "bytes": 1953,
+      "sha256": "3fd6e3a393380f825fe406855a6181cc90e95a6b1928465b0c07b83c9bea1f94"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2014/r1/build.py",
+      "bytes": 8047,
+      "sha256": "6807153e26aed81b3ed7b35e2cf63cb87b6b31c6200a16ec7d4227db93a56026"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2014/r1/candidate-new-leaves.json",
+      "bytes": 28592,
+      "sha256": "c92d68d4e87fcc1238e30dfbf36271cd2604d79b58c841ad09641b574d0562c6"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2014/r1/content-candidate.json",
+      "bytes": 282542,
+      "sha256": "485ded371ff0c3f85176a472fb9d905cbde321ecc2483795b0acb34944a9124f"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2014/r1/finalize.py",
+      "bytes": 8050,
+      "sha256": "8621346c02c5966e5400b52fdbd58778900cde3d1210fbda820c3be43cc94c02"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2014/r1/initial-annotations.json",
+      "bytes": 41508,
+      "sha256": "9a54b663f9081e819b5c3e19d1e162113799e2fbebbac7b8d3f5b14873282822"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2014/r1/manifest.json",
+      "bytes": 1350,
+      "sha256": "292edade57b876fceb90b05ccea07ab57af6f73da503652a376668f67d435fa1"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2014/r1/review.json",
+      "bytes": 282517,
+      "sha256": "019bf5ff71bd051f5265f84d85293fc49b550b6697e4ce2583ec5b12ceb5fdfb"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2014/r1/review.md",
+      "bytes": 94570,
+      "sha256": "1922a118ab4a12498de43b9f4229e9a20f675126744943ea6c159d846255410a"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2014/r1/summary.md",
+      "bytes": 535,
+      "sha256": "15e929188389b10954da200dc43c3c65a6d79f567eefa4541c61a74b39e2557c"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2014/r1/timing.json",
+      "bytes": 414,
+      "sha256": "02f9e276257af416ecb06af5a79c5acb37bcaed55703d94011dc2b64c66e9e93"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2014/r1/validation.json",
+      "bytes": 1119,
+      "sha256": "ef8e5857a76fc8bf6684ed6ebc147de237f7f2bf04d85955e821f32deb98769d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2014/r1/work.json",
+      "bytes": 13065,
+      "sha256": "3c3f7c6d1f2120b87f6abc10a35dfced8fe508a2396f9ea6aa59fb05e7fd1fc2"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2014/r1/待核清单.md",
+      "bytes": 1895,
+      "sha256": "22f09168b8296d7d122b1b20693f4d004e0c988be3c477c25a327be4bd1c1e41"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2015/r1/build.py",
+      "bytes": 8330,
+      "sha256": "c1e227305adc7f50b6db28c7b793a93033f02953973fa8eac80aef29938b042b"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2015/r1/candidate-new-leaves.json",
+      "bytes": 37325,
+      "sha256": "15eae174e5da5886e207ef27107d76285b46b8234784b034f3eff449cb4e2a53"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2015/r1/content-candidate.json",
+      "bytes": 272371,
+      "sha256": "7948e464d8d86ea412b23a90f8b8a19a30d8df531371e232f47eea205e7d20d0"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2015/r1/finalize.py",
+      "bytes": 7439,
+      "sha256": "90d471207634dcf9a62ce4c788ac576ee85f00ccf1f1803bd9e7525d302a6242"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2015/r1/initial-annotations.json",
+      "bytes": 41428,
+      "sha256": "e1e91a2cb17d4f89a29080c1dc8f0b76e799841827491a77e6e055c3ecf3354f"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2015/r1/manifest.json",
+      "bytes": 1483,
+      "sha256": "ae10d6d482f35ad290443b3c07f87d8d8e2c365015154afb27bb5dd90667d31e"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2015/r1/review.json",
+      "bytes": 272346,
+      "sha256": "ed48fe198c94655763b7391bca47b027e4476e24d901e68010eccde18b89d06f"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2015/r1/review.md",
+      "bytes": 85270,
+      "sha256": "c763cc1f5aeaac9682d0866070b16f115e04cf3df98d0d1d13b1d50fc2a765c5"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2015/r1/summary.md",
+      "bytes": 455,
+      "sha256": "df0a9ca146582bb1e6e346dc8d12d5b77c2b6aaeac05d64fc036242b744736dc"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2015/r1/timing.json",
+      "bytes": 414,
+      "sha256": "02552d3a4d983b9429c5a9537ff5ea9adf9c9515d6c6ac5143e2734d5cbb75ea"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2015/r1/validation.json",
+      "bytes": 819,
+      "sha256": "4a1c2b61c21ffc809099fbd82cb2193b7b52d8ec4c6eb22d51cda1f46ba0d3ae"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2015/r1/work.json",
+      "bytes": 13460,
+      "sha256": "a75200e2b54d56a10d3a95033c5f9e3814a4088cc64543c8f4294c90168fc817"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2015/r1/待核清单.md",
+      "bytes": 1703,
+      "sha256": "d98ab9061b2a5da02514b39573c770a5ce6c22c13a5e6297ac684c7c2fd7d38d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2016/r1/build.py",
+      "bytes": 8140,
+      "sha256": "4264ddbfede37fce4236d1eac08fa251e3845c88de96e429d8a51fe3d8ff4b28"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2016/r1/candidate-new-leaves.json",
+      "bytes": 39994,
+      "sha256": "b0ca3e0d7ac34a54000d609329412ae0d7c81e82199ec9b680f8d446e7a5f15c"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2016/r1/content-candidate.json",
+      "bytes": 291439,
+      "sha256": "28059b4862afeea81d9afbf57472217365d90ad806e4a875b65e4be62a44aa13"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2016/r1/finalize.py",
+      "bytes": 8102,
+      "sha256": "65c753535696b4c48db30a0109119bf3503aae92eeda810d7249f9cd303fcf5b"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2016/r1/initial-annotations.json",
+      "bytes": 40479,
+      "sha256": "d4739714d04e39d8759015a2586b88ee197476956e516692e885170ac885d3d4"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2016/r1/manifest.json",
+      "bytes": 786,
+      "sha256": "db0b10c555165aa5eb41aa532a8da4af77e16168be0e42ca40005bec1946b999"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2016/r1/review.json",
+      "bytes": 291414,
+      "sha256": "88bacd86212144fa3b287a2b47bd7bb8e2f8f1601fbb74cbcd26147743acd179"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2016/r1/review.md",
+      "bytes": 88187,
+      "sha256": "43a3933ea304f4369f32695ef00a1e8ecbdd00ffcd353db297ae2413007d051d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2016/r1/summary.md",
+      "bytes": 505,
+      "sha256": "13bec42afbf0555e964255e13f54ef6cc70f948f7f985833a14a30a644d27ec1"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2016/r1/timing.json",
+      "bytes": 414,
+      "sha256": "c29ffcd8b536fbbd0acbdbc4e1efcef73c82547650ef4a489cab0c5f5c4a012d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2016/r1/validation.json",
+      "bytes": 901,
+      "sha256": "993c37e3097939ecd5b1316f0d1001c18c26dc6cb91de1910c61712ac99ef1b1"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2016/r1/work.json",
+      "bytes": 12820,
+      "sha256": "0ffb9dc83dcc41b12bbe50272eca03eec02e4efdb90975007855855936a89651"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2016/r1/待核清单.md",
+      "bytes": 1440,
+      "sha256": "aa5ce44e0b441ace6e793944247a01baf7ac32c54cad61445e19283908b4a4c4"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2017/r1/build.py",
+      "bytes": 9502,
+      "sha256": "010eb94d3a18314540f1ae313be94036d90d07abdf5f1fcf507683b78359056b"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2017/r1/candidate-new-leaves.json",
+      "bytes": 42963,
+      "sha256": "0c3f7f2260eab2090c34a9d2db29c34bf4cefc98e33134c9203ef5d2ea8487bd"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2017/r1/content-candidate.json",
+      "bytes": 294825,
+      "sha256": "cb4111ade1820081b1f1979bd98ce666919b8ca5f4a750264f805fb4817f4bfc"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2017/r1/finalize.py",
+      "bytes": 7463,
+      "sha256": "1b6ca8d3984384070944580be921fab45e71f488c9aceb1f75cf60b43291974d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2017/r1/initial-annotations.json",
+      "bytes": 43114,
+      "sha256": "d45060e148e5558644de0ea97249965ea9fcf98680ee74f6dd487a826207d8d0"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2017/r1/manifest.json",
+      "bytes": 846,
+      "sha256": "cf9e8938a952baf1536f7e6d22053237ed330a335f6d6c73c4484079cd7a0a26"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2017/r1/review.json",
+      "bytes": 294800,
+      "sha256": "328eb31a371c4b5118f54c320a9e4dba0f514f07b8de0068272586540dce9d55"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2017/r1/review.md",
+      "bytes": 89936,
+      "sha256": "72e72d5a91e125f90ba681d6a5790d3ec56a5323cdc024e87f130b17b04025fb"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2017/r1/summary.md",
+      "bytes": 476,
+      "sha256": "8c584819df694fbcaa544c7bed132d06e0541dd6232e58b841241da29e928a79"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2017/r1/timing.json",
+      "bytes": 414,
+      "sha256": "35d888b1745887b3ff1d8381a5fc4411d175bbbe449153d7c8536de68bc6ffdb"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2017/r1/validation.json",
+      "bytes": 810,
+      "sha256": "82e19a3c1f8b0e54d756a4130eaa1cc4cbbf0a26893662c434dd19ca3a9037db"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2017/r1/work.json",
+      "bytes": 13197,
+      "sha256": "9d68e99b362a5fba3b49509b1170cc4fc530798b23b463eaabce73990519488d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2017/r1/待核清单.md",
+      "bytes": 2042,
+      "sha256": "91e880d0fd7fede6e40884106f7c2b0d96a7654800e81aa787c9e1b9c2bbb34d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2018/r1/build.py",
+      "bytes": 9016,
+      "sha256": "ca204e0a8deb8dfa6cfb337a26467508f224d595c8581e98451aa3b4788b5907"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2018/r1/candidate-new-leaves.json",
+      "bytes": 38329,
+      "sha256": "3b18fd0d163104198b37d6b7d484dde4f752d4679f3d2e86d4d01f88cca69836"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2018/r1/content-candidate.json",
+      "bytes": 273442,
+      "sha256": "0488a3dce2dbd2aa95e0ccda879f8e2c3f942db9942a961a85a973528ec1979c"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2018/r1/finalize.py",
+      "bytes": 8336,
+      "sha256": "0c8117576306c245ba570f10cace01cd34ffe586907696e97028ecb1d4350ed0"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2018/r1/initial-annotations.json",
+      "bytes": 40969,
+      "sha256": "95ed5bceba053a9fcbc0d4bce03823c0874cbe0cd0b03d6a838d55358cf6acdc"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2018/r1/manifest.json",
+      "bytes": 1044,
+      "sha256": "954b470bcb89c93bc395ddffccdee029a5130058c0cd651d2902a665d7fa059f"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2018/r1/review.json",
+      "bytes": 273417,
+      "sha256": "eb544f9bedd150737a825c9f44b73ea56eeed671da0c6b2bd9a79ba6773f8d52"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2018/r1/review.md",
+      "bytes": 82478,
+      "sha256": "81d61905b14541daa55d7652a42efba61b7436cfb2fd494dcc793f398a3c772e"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2018/r1/summary.md",
+      "bytes": 536,
+      "sha256": "67a0c55d9b107b701c2f6ffd7c157e9dc3c7ec8eb1b7433ef10264d03ce235b8"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2018/r1/timing.json",
+      "bytes": 412,
+      "sha256": "b744639b39364a97084264d10a92c21564470afa4fc8f95aa983ca4c30012a90"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2018/r1/validation.json",
+      "bytes": 1115,
+      "sha256": "5b2a6132310b3b8955206936e00a026658f18489d1f78aafe0fdf24b8bae9ddb"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2018/r1/work.json",
+      "bytes": 16358,
+      "sha256": "40d9cc2d4fcc178798d2b431e4864c27a4c2cdcc2de223653df3d0681dc4239d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2018/r1/待核清单.md",
+      "bytes": 2429,
+      "sha256": "348aba2b2948c5b5af83208efc2eecaa26a250fcd53da0189607a17f7554d5ab"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2019/r1/build.py",
+      "bytes": 9163,
+      "sha256": "89ba7795e08cde08b73e055ada803843c7620e80e4a932a66bbfdffce1aec162"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2019/r1/candidate-new-leaves.json",
+      "bytes": 29725,
+      "sha256": "8d410788c5c7bbd7127157ad6be766f23963c17586c46c7517e00480ad0fa103"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2019/r1/content-candidate.json",
+      "bytes": 263995,
+      "sha256": "be1a3ed35b635a952272c36b2cd321e135d5d9f1ea50eeca96e2c905e28d3afb"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2019/r1/finalize.py",
+      "bytes": 7399,
+      "sha256": "5205fb4101223b83c23bf39c34cd2b65942f8a66f0c071a4deb09984cead7919"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2019/r1/initial-annotations.json",
+      "bytes": 42900,
+      "sha256": "99b7398def6ff93eddf9aba633214b742d32407a5d6921c9804a5d1a11fe9ffe"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2019/r1/manifest.json",
+      "bytes": 1149,
+      "sha256": "4330f0e4605ec60d43c014fc91654fdb9adfea9082a1af0f506087aa257fc004"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2019/r1/review.json",
+      "bytes": 263970,
+      "sha256": "be15f29d108fc4d1f9910e907a639ec38fe404a2c1a886f0b43ce5f5d820dd37"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2019/r1/review.md",
+      "bytes": 80463,
+      "sha256": "0ab7db437ee28c7408380c6a3c2984f96088dee8396988092b7e7a4e3e5ccca9"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2019/r1/summary.md",
+      "bytes": 466,
+      "sha256": "b9f4876d75b3ad7e368fc3bf23b99c3ca797455045239d40e3cd4d6bf21f6e76"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2019/r1/timing.json",
+      "bytes": 414,
+      "sha256": "f61575d46bf63afa51e7396724c189436cf69777fb754449e157b24a31065574"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2019/r1/validation.json",
+      "bytes": 799,
+      "sha256": "8b57c5f189030bf700e5a7a778833a9d271df227c986d83f09ee3d4bd98b9db6"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2019/r1/work.json",
+      "bytes": 13408,
+      "sha256": "7003ece68adceaf974a632ddd7452073c7ca5769b6bb874fb6a7dbf418da4e47"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2019/r1/待核清单.md",
+      "bytes": 1588,
+      "sha256": "8de34a64730f172033785367781d15942819f108b728b13c2191feaae611a256"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-05/r1/build.py",
+      "bytes": 7430,
+      "sha256": "4b49a1a784c135563a5d5805aa1399c83d9ac3ddb2af41985e118d2ece7bff17"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-05/r1/candidate-new-leaves.json",
+      "bytes": 29041,
+      "sha256": "69fb3ca477719e29142f29ce9c98caf97b65d2d5d83b4402192f6ef247798e8a"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-05/r1/content-candidate.json",
+      "bytes": 288907,
+      "sha256": "08219f10b1cb5fe396ebd7dd5c154731736dde81be615433f6343b4f11dbbf55"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-05/r1/finalize.py",
+      "bytes": 6973,
+      "sha256": "9846545e6c780e60b080550738bd09fe788a5685a4b8996d7d82510d3fab47f7"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-05/r1/initial-annotations.json",
+      "bytes": 41690,
+      "sha256": "552e6eb4f72b32929065edf2473901010a3876736298a267555b6382d9d38949"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-05/r1/manifest.json",
+      "bytes": 727,
+      "sha256": "3db1dbe2264d4c9ab08b56e5954fc91baf83bbdd2488a448c3c98d31cd3a26be"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-05/r1/review.json",
+      "bytes": 288882,
+      "sha256": "7dd33ad9962ca5220e6f06398da231dde6eaf5112cd89731d0ec07e62435cfb4"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-05/r1/review.md",
+      "bytes": 103807,
+      "sha256": "21bdf017be0dd1a207795c2c67f9cb3c4c817f53fff75f3654b94af282714ada"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-05/r1/summary.md",
+      "bytes": 427,
+      "sha256": "22fe26a9c2f1a6188c9bf9434fed4a998d77de2c6a80822ab06566548cfd6fd0"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-05/r1/timing.json",
+      "bytes": 412,
+      "sha256": "ada51ced25afab1d775284f68b4746aa32b9627c502cfc3617e13f8818fd18b6"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-05/r1/validation.json",
+      "bytes": 754,
+      "sha256": "f6137537dc623d8f709fd8550dfde1b677e0a8317eeaab2a5994fd71b5422c46"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-05/r1/work.json",
+      "bytes": 16107,
+      "sha256": "0575f45eac3199ff2768a5abc9806b9bf438fde7c1f75c6e18fb512acc136831"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-05/r1/待核清单.md",
+      "bytes": 1233,
+      "sha256": "0e83627039718d4e0e573b7b7e8d1c2d9da9ae916d652a861e2d9536a2c5e1f9"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-06/r1/build.py",
+      "bytes": 7955,
+      "sha256": "559b4ffcc021ddde70d02bbaef5e812ce1d703f5e8349819e5f09849a0dca3f1"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-06/r1/candidate-new-leaves.json",
+      "bytes": 28466,
+      "sha256": "7441ce4f9d4a1e9399eac30b16928415ff7e3f1f25fb11aadf045d275cb6a2d8"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-06/r1/content-candidate.json",
+      "bytes": 280169,
+      "sha256": "d9dd8650e27471aeddbfc6320e5cf228214b675e9d0ee12a49ce4745b2ebb904"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-06/r1/finalize.py",
+      "bytes": 7444,
+      "sha256": "e1f14a3b28b6cd74576303c598b71e9b9a36d5d083e8ff726c3a8d565380eb11"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-06/r1/initial-annotations.json",
+      "bytes": 41093,
+      "sha256": "4e0bc11b3939ba9da21af880d6c4c8fd8d71a26bcb9c5608fe181522981af4d8"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-06/r1/manifest.json",
+      "bytes": 992,
+      "sha256": "a6d96a1b13fcecfb752c3191f82490841da5ac0ad0b8df0264fca978b517acf0"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-06/r1/review.json",
+      "bytes": 280144,
+      "sha256": "e99cf539d322f8aa6961b4dab36c2849a1a5e857e33353e44a5748c10ba6b0fa"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-06/r1/review.md",
+      "bytes": 89207,
+      "sha256": "df06884af2abae46f1d45eebf25a14bc44d50049cc3fc667bd744277d044d61d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-06/r1/summary.md",
+      "bytes": 527,
+      "sha256": "aa48e7a17b7c73901e6984ccd3b4a508ba7585d34cde184ad8e24fecd947d00f"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-06/r1/timing.json",
+      "bytes": 414,
+      "sha256": "ae48e77c54f3bcfb40eddbddf022b5d26c0170aa5195f1adfc4d04eafe77e07b"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-06/r1/validation.json",
+      "bytes": 797,
+      "sha256": "f84e06f5c0f439c6914cb091affe829306b8fa692cdbda91fad908c34aaa81e0"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-06/r1/work.json",
+      "bytes": 13246,
+      "sha256": "e6fe80d36bf0c055cbc15a0e386cee79ab115fe3a99110f3b306edad6c0493ba"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2021-06/r1/待核清单.md",
+      "bytes": 1009,
+      "sha256": "85ff1cf0db32816336b3c3a7f2fb532993fbd335001ea5cd73e9d25319b6e1fd"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2022/r1/build.py",
+      "bytes": 7188,
+      "sha256": "1271073a205d6ab139f590b61a644f2a71ea1bcf977a8fbc1e6a0823555f0686"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2022/r1/candidate-new-leaves.json",
+      "bytes": 33376,
+      "sha256": "3d6339e7a76ad9302f22fd60d77a5965e256c13779c372d27e7db6d33c8ead4f"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2022/r1/content-candidate.json",
+      "bytes": 273290,
+      "sha256": "5af0c4ea50d25c0b1575b0350ad2451859776fdcfdfdfce672cbb1a42a9fc9f1"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2022/r1/finalize.py",
+      "bytes": 7260,
+      "sha256": "a12c97f63d78f1897959a890425015ae46b06b4168ec57cae0b0e7a904027673"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2022/r1/initial-annotations.json",
+      "bytes": 39474,
+      "sha256": "0491719c1946ed171dbcac55e502b5e6de76a03c00a6c8543a7a9115cdb0403d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2022/r1/manifest.json",
+      "bytes": 860,
+      "sha256": "d9df644749541811f4ce0e2a191c6f0d6baf2af10630a7f8bb7aea70f3e28533"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2022/r1/review.json",
+      "bytes": 273265,
+      "sha256": "7cef5fbf6bb6dba091e52357eb11fe383c3214827f6fe07ae68e0e7c6f69fc28"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2022/r1/review.md",
+      "bytes": 85543,
+      "sha256": "64c8b0eb00fb429ac76057af89c0a37021a34c8eb5eaf5457914f067bd751826"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2022/r1/summary.md",
+      "bytes": 455,
+      "sha256": "f3925b71df1277b0dc0ed36ccef3e9a26f2648d02eea800b1ac4815467ee6e12"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2022/r1/timing.json",
+      "bytes": 414,
+      "sha256": "cf49ae049a2de335e7100d60b383bf9b53ebcc425766fd254888142bf992e843"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2022/r1/validation.json",
+      "bytes": 795,
+      "sha256": "49d27f5c40f3f862f693d85e1010b2738bc3797d7e77e656e2542ff923b1a59a"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2022/r1/work.json",
+      "bytes": 15762,
+      "sha256": "8d446d7191a836dab5a8602ee023971b4c7b679b73dbd1dc20b407a950c74c24"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2022/r1/待核清单.md",
+      "bytes": 782,
+      "sha256": "85852117355f2e301bf3d9af70043490f94dc0da88369afb0cd1cc3f77e565b5"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2023/r1/build.py",
+      "bytes": 9027,
+      "sha256": "751af6733a2055f6213c4e59c11f9c29c5aff77196b1d33ea185dc75049e748d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2023/r1/candidate-new-leaves.json",
+      "bytes": 2846,
+      "sha256": "ccc14f36e7f1b5a1b5b2906815b6ed3fcb8d34f8bc271ea05101a4c1fec7d6fd"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2023/r1/content-candidate.json",
+      "bytes": 283215,
+      "sha256": "0bbf7e7223c61d30f4deaf6900738b5e22230749a498daa9633698ba05b7d3c8"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2023/r1/finalize.py",
+      "bytes": 7409,
+      "sha256": "b2c68e44cb16450b3e4864eecc799a22956693d302ecaa2984a0da822178a7f2"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2023/r1/initial-annotations.json",
+      "bytes": 41166,
+      "sha256": "34635095cbcfeced405e6fdc1e4f40b75c5f676ca6709864f29f25cf0ee31ac5"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2023/r1/manifest.json",
+      "bytes": 1179,
+      "sha256": "6b8dc70cba9eb1733df485c849b816642c654d9f80719ceb5ac56050439b1908"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2023/r1/review.json",
+      "bytes": 283190,
+      "sha256": "de7de4087077407de0785d3accb257cf4abe52fc00ddf6849e6ae0750ffc3c2e"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2023/r1/review.md",
+      "bytes": 85383,
+      "sha256": "c60160e2b560c39121fecf73d386ecc5d718b4f4f676a14f745634f87b19a48c"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2023/r1/summary.md",
+      "bytes": 480,
+      "sha256": "585d27f11b932bdba81ec1b733e0ceda8b07753c9dd6f48a2e4a4123d646781a"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2023/r1/timing.json",
+      "bytes": 414,
+      "sha256": "4f6a670ddf4a2ae350bc945a802c31084138c5ee8aa3ba1fe5d66356f03e5f6e"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2023/r1/validation.json",
+      "bytes": 802,
+      "sha256": "4d93d6eaf1b05755aad301e47fad9d68c377c3ee91a37b4c2dd5ea38daf24f6c"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2023/r1/work.json",
+      "bytes": 13572,
+      "sha256": "dff5d984332113e4e1510282486f63ef92d6669f01dd05f2f0ba34ac8178369a"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2023/r1/待核清单.md",
+      "bytes": 1399,
+      "sha256": "cd478d3d02c9d599046378e4a4d83cb86ba2b4e918740e912ca5ee2b3b6fb011"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2024/r1/build.py",
+      "bytes": 7606,
+      "sha256": "cb6b00edc53ea9959fb87d6557e73c64724104fee383af2ef52fb08f3246b7cb"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2024/r1/candidate-new-leaves.json",
+      "bytes": 42499,
+      "sha256": "3812dd6381e8c6bc596666a948eeea871d9a05b29eaea62f1861edc05909bcfa"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2024/r1/content-candidate.json",
+      "bytes": 266282,
+      "sha256": "2a4ce7a99ca53be07d60c748f3781b920ca071d215744bb5d7e26e0e65c4a488"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2024/r1/finalize.py",
+      "bytes": 7188,
+      "sha256": "84c4e3ff7d719e6cb63044641eccb493648e884e44083748807ac2131e4a8588"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2024/r1/initial-annotations.json",
+      "bytes": 43172,
+      "sha256": "8b55a237e25313692451be941a58321e72093231a97bce7006eb3ce9093da76b"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2024/r1/manifest.json",
+      "bytes": 690,
+      "sha256": "76d5cc48b81b221d41b70a0edfecdb9947ca694c153bba420304e84863cd497b"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2024/r1/review.json",
+      "bytes": 266257,
+      "sha256": "2566093eea9b6a93c7f816b421ec95c5f641dbeaf0fe348f293a4cc0703d6af4"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2024/r1/review.md",
+      "bytes": 87924,
+      "sha256": "d295eb1bcd199ae7252720b80a2c8e5babb4b07ccb952b7ff1164081785b30aa"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2024/r1/summary.md",
+      "bytes": 526,
+      "sha256": "2dc694333237b109a64371b1d6e59f9e9168d36aa8411da51ce6be8d038265fd"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2024/r1/timing.json",
+      "bytes": 414,
+      "sha256": "1b16d068f3562a5ac6867983bb86217ff9c48f772874a00b7ceeb6a4427b2fe7"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2024/r1/validation.json",
+      "bytes": 807,
+      "sha256": "773c5a5e6ae648e286f626d379bd8304cb5c0022a268449b701fb42a4108aca7"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2024/r1/work.json",
+      "bytes": 16811,
+      "sha256": "c6fb9ab9fb35901463fe9b91fd906df2be5ab4293d3671a145f393c1a216b75a"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2024/r1/待核清单.md",
+      "bytes": 2382,
+      "sha256": "27c61ad06b761a540d79b9e8791299541e167dfb8d649c20d1ecf0706bd35b85"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2025/r1/boundaries.json",
+      "bytes": 4853,
+      "sha256": "beb5d857447db3a7d07ce77753c53317c2983b11af1118b68563a09a7e275313"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2025/r1/build.py",
+      "bytes": 8931,
+      "sha256": "4fb3845807b2bafbadef0246bc8d82eae5fe830eb20cfd09df533a6a2fe2eaeb"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2025/r1/candidate-new-leaves.json",
+      "bytes": 29964,
+      "sha256": "aa6b12f26e49fb2a9d3474c3ec06e274b2b64891bf0885587efc8b2c96e1275c"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2025/r1/content-candidate.json",
+      "bytes": 255799,
+      "sha256": "f162a01b3f1613d257dcbe2ec189fa9ed592b1de7315c78124ed526693b2c5e2"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2025/r1/finalize.py",
+      "bytes": 6761,
+      "sha256": "9b7ef4fde974cdff735f1528677d326e6b176f65e7c18f088a5fc66defb865f7"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2025/r1/initial-annotations.json",
+      "bytes": 41006,
+      "sha256": "74e83b2f80daccd4ccb5e65732cf4eed987db06143cb1287a3efa099cc4f2483"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2025/r1/manifest.json",
+      "bytes": 785,
+      "sha256": "dd2130695bbcee3646722babe8ca6156670f137b86149a6dd259462597fb87e9"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2025/r1/review.json",
+      "bytes": 255774,
+      "sha256": "937ca34ea3aa529b8b0647834da34ce5193998b7aef0da293bca951a10458f35"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2025/r1/review.md",
+      "bytes": 81323,
+      "sha256": "026dfaab28815a0e6bf998272ed25c7fa3f5d8828081b5dcc22ae580b0d4b011"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2025/r1/summary.md",
+      "bytes": 625,
+      "sha256": "c1320f87c679b9f926eaeb89ebe2d70e38c774213b6b391a781372582921b9b9"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2025/r1/timing.json",
+      "bytes": 721,
+      "sha256": "ed33b6f7367961b3e30f5ce690c60ff4dc7e3c60e7f1be068d427d459e20f733"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2025/r1/validation.json",
+      "bytes": 758,
+      "sha256": "9e0958f6c0a26fd0f9a9bc67c7e73492967e1241b5282dbf63b186d01a420c95"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2025/r1/work.json",
+      "bytes": 8473,
+      "sha256": "cce562262a989bad5e1d7c7a6501769618f89f211e01427f14526a10ca6f0be8"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2025/r1/work2.json",
+      "bytes": 5773,
+      "sha256": "dc0cdbd5b25332865afb4143e1b29528a413907189dd815dc814ff213430ddde"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/2025/r1/待核清单.md",
+      "bytes": 2468,
+      "sha256": "f6a15ec5e100eb5e972b904bd38f8a0d040844598f271b258556c55ec0f796cb"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/monitor-state.json",
+      "bytes": 355,
+      "sha256": "6dc9a570f5bdf9f9d0ec6d95b02928455c2c7058c001c1c8b10b36f9b98ea934"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/progress.json",
+      "bytes": 10011,
+      "sha256": "a8ea3bdee3f9eec4d3f56ee94f6140872c940ef48f92870c4fa4adb0595ff48d"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/总报告.md",
+      "bytes": 2085,
+      "sha256": "37e05ad2cd72c21b688b799e79ab539ac8772eec03a604bd37cf1546d6f6af2a"
+    },
+    {
+      "path": "TFS4-first-pass-terra-high/进度.md",
+      "bytes": 3253,
+      "sha256": "e7a5ca75bdb6c6304856b382c13660db9eb51cac4215f1457cb5b72059b1b357"
+    },
+    {
+      "path": "TFS4-materials/HTML检查报告.md",
+      "bytes": 361047,
+      "sha256": "ac4518cc790073873f7bcc5e40cd050922ad12e89fc51c5d537b0d0ce4919c09"
+    },
+    {
+      "path": "TFS4-materials/check-html.cjs",
+      "bytes": 1629,
+      "sha256": "0476cd008c8f1b2923ace0754550e55eaaed40b245edce4833383de1766b881e"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/2005/fast/2005年法语专四真题解析.md",
+      "bytes": 187847,
+      "sha256": "a18c6150504a5de71f8b0e189700138b391003be584b82374d433d1cc644b6a4"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/2006/fast/2006年法语专四真题解析.md",
+      "bytes": 172868,
+      "sha256": "67d7a8ac6c6c756ba51e977a9eba731d89fb11ba530b97d0e41db85f89cf2667"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/2007/fast/2007年法语专四真题解析.md",
+      "bytes": 202172,
+      "sha256": "ab51b8b188ca60a89d7ca93e0e90e4ea0c5c4c142c402118313a47556fdfb1bf"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/2008/fast/2008年法语专四真题解析.md",
+      "bytes": 211677,
+      "sha256": "eafc3490b89f468eccb4a6fbe5afad1b1a01b1100944a5c724e93662dab74a9c"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/2009/fast/2009年法语专四真题解析.md",
+      "bytes": 48058,
+      "sha256": "fc4d5ca5d836af6aea859dd147c6e169ca3470b10e3b32a81368d577cb09902d"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/2010/fast/2010年法语专四真题详解.md",
+      "bytes": 78405,
+      "sha256": "2150efb85550bdde687d1b02ad1d57b25c52260fcf0b1ac847ca95225b8a2412"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/2011/fast/2011 年法语专业四级真题详解.md",
+      "bytes": 77187,
+      "sha256": "4ba18164f7c8d1d886e1fd1d774f0f69aba953bfb90ec07e6e3397775d332dd3"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/2012/fast/2012年法语专四真题解析(1).md",
+      "bytes": 170752,
+      "sha256": "c4e6d25fef08f90d68ca7b08b1200cae33031e8815fd2a131b7008366f7ed875"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/2013/fast/2013年法语专四真题解析.md",
+      "bytes": 196709,
+      "sha256": "2550f8ee073a34aa0ef1f6b6ee9c79bbec3e67ccc0d170bd4427153469071128"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/2014/fast/2014年法语专四解析.md",
+      "bytes": 103669,
+      "sha256": "cc6581e25e74936d6178250996f0eb1c9499aafc9fbf14757d94b4067acc7fab"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/2015/fast/2015法语专四真题解析.md",
+      "bytes": 111946,
+      "sha256": "fc6124eeb8488704f019bec1b0e93519346379461735d498219ab5fe0391cdc6"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/2016/fast/2016法语专四解析.md",
+      "bytes": 104874,
+      "sha256": "ae10c69ae9f3d7cf59fc2c9035cde8d61dae88e93f7d8b3c9feadbc8db52155f"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/2017/fast/2017年法语专四真题解析.md",
+      "bytes": 95010,
+      "sha256": "b8b82d32749cb9a297dbb0ef75243605d9dec7ced48adde4fa926655bc05a8bd"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/2018/fast/2018年法语专四真题解析.md",
+      "bytes": 189995,
+      "sha256": "40272c110957e63d376d14acf248819e74550eb8190b9aa133a7e1dbeaf176f2"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/2019/fast/2019年法语专四解析（2）_20250522103947.md",
+      "bytes": 166023,
+      "sha256": "ad526d9db2866a5cf9f3f82e1c202abaa22357d087cdc963b0b6a58c0d283126"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/2021-05/fast/2021年5月法语专四真题解析.md",
+      "bytes": 212861,
+      "sha256": "5e5968f3718f0c166f24b99a80daebff170840f34d35dc0c43630fde8f6eed8c"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/2021-06/fast/2021年6月法语专四真题解析(2).md",
+      "bytes": 209790,
+      "sha256": "f686723a39258949065883d65487dd306aa2f5af193bac260d5453ab231359a0"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/2022/fast/2022年法语专四真题解析为主，别看答案.md",
+      "bytes": 202013,
+      "sha256": "464eadc95bed7dcf070c3e044c45e02d91b86d8223c8706325dfd9e04a9a43aa"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/2023/fast-main/2023年法语专四真题解析.md",
+      "bytes": 201747,
+      "sha256": "fa2760d02a35900be08c3209ca79ec3d286aa4ac66390c735d4fd4c19f79f2fe"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/2023/fast-supplement/2023年法语专四真题解析5758看解析，59AB不确定.md",
+      "bytes": 203347,
+      "sha256": "df8d8a19000068c5e454720d7beb53743f64685a2e96bcd4b47be431edebcafa"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/2024/fast/2024年法语专业四级真题解析.md",
+      "bytes": 157187,
+      "sha256": "9a190fe2ae82ee749b4e3e6cad673022ca997bf12d98b81a559f0f0f64ffb9f1"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/2025/fast/2025年法语专四真题解析.md",
+      "bytes": 237534,
+      "sha256": "e154fbcd949cbf8873fde37353a0b9a25c62eafe910c1b847d14bc59c8b4451a"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/2025/v1/2025年法语专四真题解析.md",
+      "bytes": 255947,
+      "sha256": "2d23e59102f56a9f51f65ce011bf49216299e75623bf641defc9245e97a5b21b"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/2025/v1/README.md",
+      "bytes": 843,
+      "sha256": "11e71989675a5ad83a229d9fc9191b1235eaac811965df8eff41c3d31f27330e"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/README.md",
+      "bytes": 792,
+      "sha256": "e41271fae3b64635993abbc4329e924027f6c60898f3f4ee2c8e318bb8c9dd51"
+    },
+    {
+      "path": "TFS4-materials/data/explanations/completeness-audit-2026-10-30.md",
+      "bytes": 2196,
+      "sha256": "c5e1808fe499ecb796b5be283fd4ae049b77227cae556edc99e913efcadfe3a9"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2005-answers/05年专四真题答案.md",
+      "bytes": 3959,
+      "sha256": "30c77feb02e33265e5de7c6d5ec4dee7c0e4a0478c2f2ccc967e416784da60c5"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2005-paper/2005年法语专四真题及答案 校对 + 仿考试卷排版.md",
+      "bytes": 28237,
+      "sha256": "f20c50c46885894e2197ef4b5af5228848b550305b6deb5055ae97540fdec4af"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2006-answers/06年专四真题答案.md",
+      "bytes": 2597,
+      "sha256": "177da44d4af6407251291b98a4c897ae8e8eb9889cb09c47cb2cc49b272b3d97"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2006-paper/2006年法语专四真题及答案 校对 + 仿考试卷排版.md",
+      "bytes": 30927,
+      "sha256": "aa117f65dd8b8e0a9047a77379f2385d3304eee7f316b56fc4d218fe738c4d30"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2007-answers/07年专四真题答案.md",
+      "bytes": 2350,
+      "sha256": "e8772348339e9dfd2adfc619bc9c974f87ca6d0e4dd18f66fa86efc7656283d1"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2007-paper/2007年法语专四真题及答案 校对 + 仿考试卷排版.md",
+      "bytes": 29658,
+      "sha256": "4fd2c0c3f9f7eddb4148ebe30e9eb9d9ba77828fd1a0eb799f414dbd76f7b37b"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2008-answers/08年专四真题答案.md",
+      "bytes": 3669,
+      "sha256": "f070975fc94ee8800f8a30c7fdf86d7e80ea2b9e14c87d622db3e208685fe61a"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2008-paper/2008年法语专四真题及答案 校对 + 仿考试卷排版.md",
+      "bytes": 30756,
+      "sha256": "77e5ed848c79e2d7adb0e94962ee895b2f7bc29499b2366d80c0e65013f8d2a3"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2009-answers/2009年法语专四真题答案.md",
+      "bytes": 1528,
+      "sha256": "e249b0b934afa929e7e89dff58dec90621f05111445c8db35eb3930308d0c9b6"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2009-paper/2009年法语专四真题及答案 校对 + 仿考试卷排版.md",
+      "bytes": 28457,
+      "sha256": "8b69df3edd3f7b9fd9408811989c78b6e699b1d42e60199005984f6a740ae6df"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2010-answers/2010年法语专四答案.md",
+      "bytes": 1537,
+      "sha256": "f233b045d682b6cca11f2f1ab9b838f3cc39298d86567dd9b77fa5bcf5816ccd"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2010-paper/2010年法语专四真题（无水印版）.md",
+      "bytes": 26796,
+      "sha256": "c89dea8f864c7239788bba5a9f278706e3f92f6897152259bfdab888211319c5"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2011-answers/2011年法语专四答案.md",
+      "bytes": 8423,
+      "sha256": "cb675e335be77cc699feb48fd5844eaf0b7a5864bc8aa33f6945624d9afdfb70"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2011-paper/2011年法语专四真题（无水印版）.md",
+      "bytes": 28642,
+      "sha256": "afc43e08e94b5b9f852144b11000071052f1a83da949dac392f203f482aa60c9"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2012-answers/2012年法语专四真题答案.md",
+      "bytes": 6325,
+      "sha256": "24e43da16ed6487cdfac68f67ea5a9657c95002dffa08937a60b390c10a7b44e"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2012-paper/2012年法语专四真题（无水印版）.md",
+      "bytes": 28859,
+      "sha256": "3b0d3411e6fbc67be71bfee6642e1a0f817eb64f867566c50eead237b9a680e5"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2013-answers/2013年法语专四答案.md",
+      "bytes": 8912,
+      "sha256": "dd3370403f9ef85c5e1ee6d0b024ebd8a0f71c2805755532251fe1b7e157c631"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2013-paper/2013年法语专四真题（无水印版）.md",
+      "bytes": 30379,
+      "sha256": "9f40705cac10152b8edc3f1172c01827009aa4486d83d7146a31456bb151665e"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2014-answers/2014年法语专四真题答案.md",
+      "bytes": 9312,
+      "sha256": "715f8f10b6b51d36aaae424e0691ee688ac728e655f6931b6ed1b3549d053710"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2014-paper/2014年法语专四真题（无水印版）.md",
+      "bytes": 29185,
+      "sha256": "b3db5104666537d2456d53bf5f9d9812785d65c2aa416d6466e729a652cbe598"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2015-answers/2015年法语专四答案.md",
+      "bytes": 8697,
+      "sha256": "43a761b767a276448383872051860da3534675be86976eff0935cc79250716d3"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2015-paper/2015年法语专四真题（无水印版）.md",
+      "bytes": 31909,
+      "sha256": "0c90d4e5f76c1d3df3390df3ae000c2f43ea9e80ea627d101dc42bcef7f98d50"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2016-answers/2016年法语专四真题答案.md",
+      "bytes": 10797,
+      "sha256": "2afc662d0ebe60a39bb17bc4cfb82cbe88db841a92e6afd20ebfb115530cb302"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2016-paper/2016年法语专四真题（无水印版）.md",
+      "bytes": 35148,
+      "sha256": "5e88679b3a31942e34b22b15213a8f42ad358024dbf20cddf49075393bb3d4ab"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2017-answers/2017年法语专四真题答案.md",
+      "bytes": 7400,
+      "sha256": "47ce69abdb9fbb5155945294c6787112d21a4cf2646a4106d7486dca1e8fe8fe"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2017-paper/2017年法语专四真题（无水印版）.md",
+      "bytes": 34677,
+      "sha256": "90c40229fbdce14e55771337b280a0708a0b32d3ca81d55b81ff002bbddf53cc"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2018-answers/2018年法语专四真题答案.md",
+      "bytes": 9036,
+      "sha256": "e55bceef76b7e1c68127adacc41f8ea4a1fc8c390cb1286aeb06d502212c7367"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2018-paper/2018年法语专四真题（无水印版）.md",
+      "bytes": 31044,
+      "sha256": "4ce6686ebdd855353be8563010cc689d61e1b679472716edda41e8770fe05a16"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2019-answers/2019年法语专四真题答案.md",
+      "bytes": 9392,
+      "sha256": "9a374610f6b460f26c2a187640bb3f201d949dfada78fafb22d084f67e29d0d5"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2019-paper/2019年法语专四真题（无水印版）.md",
+      "bytes": 30532,
+      "sha256": "b02fadc2206a6bde02dc3ee0eea351f9c0d44d882ca9cd292aa4c7ee99f99a8b"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2021-05-answers/2021年5月法语专四真题答案.md",
+      "bytes": 9817,
+      "sha256": "809bbcba6b99272b52f59304b4182605818753125761eba35054d498e2dff1c7"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2021-05-paper/2021年5月法语专四真题（无水印版）.md",
+      "bytes": 34042,
+      "sha256": "170c5bd3ccde692e72a35b193a3a010dc15da0caff99b340319f04749d00cafa"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2021-06-answers/2021年6月法语专四答案.md",
+      "bytes": 9251,
+      "sha256": "4811a4cb46e8a45e06ac5f0bb5392249aba3fc98e5c514ed5fe848d8ad80a196"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2021-06-paper/2021年6月法语专四真题（无水印版）.md",
+      "bytes": 29636,
+      "sha256": "960714681535029e549c5ef29bfe36a3305ac3f216907ef8496f8ffa3c60e90a"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2022-answers/2022年法语专四真题答案.md",
+      "bytes": 1430,
+      "sha256": "359a459a73af7f3dcd9c332748b61f93cb0ed4d823025626bb5ebf31d1d081f1"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2022-paper/2022年法语专四真题（无水印）.md",
+      "bytes": 32901,
+      "sha256": "c9b0e48306d4ce23ce9d882e31920191b49ffa2c65ee5d300408827ae88e7e5b"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2023-answers/2023年法语专四真题答案.md",
+      "bytes": 1437,
+      "sha256": "8e3dfd0fceae57d1329ef0eeb328f5dc57c680ad8e81d44f59a5839e6b8a4cd7"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2023-paper/2023年法语专四真题.md",
+      "bytes": 33394,
+      "sha256": "cb80be213370c00e144a1e62a10d171b32fc100207588a860bd8556a97af6c19"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2024-answers/2024年法语专四真题答案.md",
+      "bytes": 2628,
+      "sha256": "5ff5ef86ef23582256d50f8fabc522aebf406ec369522738bb3cd2eefd00d99f"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2024-paper/2024年法语专业四级真题.md",
+      "bytes": 28969,
+      "sha256": "4dbdb4603214da22ba1022a007b637a323778492512030176752a26c8225ffd4"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2025-answers/2025专四真题答案.md",
+      "bytes": 3580,
+      "sha256": "fa0ce0667231125b45567062fc90dd2ec7087a2e55e8318da4b1e08cdb1e8674"
+    },
+    {
+      "path": "TFS4-materials/data/stage2-handoff/md-batch/output/2025-paper/2025年法语专四真题.md",
+      "bytes": 31204,
+      "sha256": "98912440dd684703954c2e63578bc513530ed5d39794da53e43416dbaec67bc9"
+    },
+    {
+      "path": "TFS4-materials/download-manifest.json",
+      "bytes": 19736,
+      "sha256": "e777d04776eb9a6800c4ec555c3f01c4af78e9b86ff09693381077715bc8eedd"
+    },
+    {
+      "path": "TFS4-materials/html-audit.json",
+      "bytes": 1217144,
+      "sha256": "e1aba15e31c153d03d1cd2a598f101d2c8af800fe03f59e2efee6d9312669fc9"
+    },
+    {
+      "path": "TFS4-terra-2023/answers-pages.json",
+      "bytes": 1586,
+      "sha256": "daf7db5f5fd9800d761cc3505cc3ca0c2f5899123ca9514273906c178cb4f389"
+    },
+    {
+      "path": "TFS4-terra-2023/candidate-new-leaves.json",
+      "bytes": 151,
+      "sha256": "184094d1ab9b1aa2b1d9d1fa809adf0926a874d042e4433dd0db8b6c175af03c"
+    },
+    {
+      "path": "TFS4-terra-2023/catalog.json",
+      "bytes": 51443,
+      "sha256": "14e02f12ef4422b5f8ab8361f1dac06085351076c93a0393eeb79dc6a3a91883"
+    },
+    {
+      "path": "TFS4-terra-2023/content-v4.json",
+      "bytes": 1631524,
+      "sha256": "874f3efc07dcfc6e03bce199231722c9c53bac9b559c50025dd88fe2d940449f"
+    },
+    {
+      "path": "TFS4-terra-2023/content-validation.json",
+      "bytes": 183,
+      "sha256": "14a26ef8ef20ec442569f568c60b64533f780a55c45c27599d0d3f8984bda423"
+    },
+    {
+      "path": "TFS4-terra-2023/extraction-draft.json",
+      "bytes": 579994,
+      "sha256": "45b90e5df55c0432e4e63589e0d08a382e7be5f0ed2445cfb13c5e086c5109ef"
+    },
+    {
+      "path": "TFS4-terra-2023/initial-annotations.json",
+      "bytes": 46061,
+      "sha256": "1bcad2ad828a5ea386441c9a0f31d2894039b166a5e9ed45fdb3def85a7c82a4"
+    },
+    {
+      "path": "TFS4-terra-2023/input-manifest.json",
+      "bytes": 2377,
+      "sha256": "3c6aaa61afdb18803e63fd1ff1399f8875f03cbb58ba88523768b922fbc7ea7c"
+    },
+    {
+      "path": "TFS4-terra-2023/paper-pages.json",
+      "bytes": 35406,
+      "sha256": "061c43757d260d67eface0c3253685e6c8e223db0167783b83a19553fba4cec7"
+    },
+    {
+      "path": "TFS4-terra-2023/tri-source-review.json",
+      "bytes": 583359,
+      "sha256": "134a816a16cb2ffcda503260d26b4cc785f945c6af0dccf3b39a3b92c50d1cf6"
+    },
+    {
+      "path": "TFS4-terra-2023/tri-source-review.md",
+      "bytes": 18746,
+      "sha256": "c9ec54c8d5051e99386c79a4bb109d908c918e7335082bf72d4db61617949ad5"
+    },
+    {
+      "path": "TFS4-terra-2023/validate-content.mjs",
+      "bytes": 9337,
+      "sha256": "751d661a21c523ef2babe42afef28f7742ba86a0ba374d4dbd81c8c6d48d1472"
+    },
+    {
+      "path": "TFS4-terra-2023/validation-report.json",
+      "bytes": 1778,
+      "sha256": "23d5101083b33010c1fff9dc1388c817338302f5d4f07ed38a746cb69c9d7515"
+    },
+    {
+      "path": "TFS4-terra-2023/version-differences.json",
+      "bytes": 35730,
+      "sha256": "05b1c06f93a3d2c74ad2381ec457d70a910f9db8be25e8ccf3505c0a940d66aa"
+    },
+    {
+      "path": "TFS4-terra-2023/与旧2023结果对比.md",
+      "bytes": 1909,
+      "sha256": "9ce1176402c5c15710148f734b5cfcd5b05b6e99381804b7dd182fb1e688031c"
+    },
+    {
+      "path": "TFS4-terra-2023/待核问题.md",
+      "bytes": 8979,
+      "sha256": "7e4aade88873d63235dad221a7a7661dcf0839f9c8985e57932f36a16d76f71e"
+    },
+    {
+      "path": "TFS4-terra-2023/执行记录.md",
+      "bytes": 1235,
+      "sha256": "27b63752977e1322cffc5dd09e8dfd401cf8b2907d3e084330eac6d631cd8b0c"
+    },
+    {
+      "path": "TFS4-terra-2023/阶段比较记录.md",
+      "bytes": 807,
+      "sha256": "b2e58834b2545802d5fa6926ad092138ec0ca66bcd87bd55a6d70e0d7ef654b7"
+    },
+    {
+      "path": "build_batch1.mjs",
+      "bytes": 6481,
+      "sha256": "03f5a92c14c27462f8cc2813b3774c3092ac23aea4862756db9e70fd2d23bc1a"
+    },
+    {
+      "path": "build_batch2.mjs",
+      "bytes": 5021,
+      "sha256": "4fd007ad352056e0abc5d30f733e31207bb5d86c729eebe42d6e38b41aa9b5d2"
+    }
+  ]
+}

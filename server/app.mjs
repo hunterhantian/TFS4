@@ -1,3 +1,4 @@
+import {registerSynthesis} from './synthesis.mjs';
 import {registerKnowledgeTree} from './knowledge-tree.mjs';
 import Fastify from 'fastify';
 import fs from 'node:fs';
@@ -49,6 +50,7 @@ export async function createApp(options={}){
  registerApprovedBank(app,{db,admin});
  registerStage2(app,{db,admin});
  registerKnowledgeTree(app,{db,admin});
+ registerSynthesis(app,{admin});
  const reportTitle=r=>{const p=JSON.parse(r.payload);return ['2025 法语专四考试','导入的本机考试存档'].includes(r.title)?archiveTitle(p.sourceTitle||'2025 法语专四考试',p.submittedAt):r.title;};
  const report=(id,owner)=>{const r=db.prepare('SELECT * FROM reports WHERE id=? AND owner_id=?').get(id,owner);if(!r)fail(404,'NOT_FOUND');return {id:r.id,title:reportTitle(r),...JSON.parse(r.payload)};};
  app.get('/api/health',async()=>({ok:db.prepare('SELECT 1 AS ok').get().ok===1}));
@@ -81,6 +83,16 @@ export async function createApp(options={}){
   })();
  });
  app.get('/api/attempts/:id',async req=>visibleAttempt(ownedAttempt(db,req.params.id,req.account.id)));
+ app.delete('/api/attempts/:id',async req=>{
+  exact(req.body,['expectedRevision','deviceId']);integer(req.body.expectedRevision);string(req.body.deviceId,1,128);
+  return db.transaction(()=>{
+   const a=ownedAttempt(db,req.params.id,req.account.id);
+   if(a.status==='submitted'||db.prepare('SELECT 1 FROM reports WHERE attempt_id=?').get(a.id))fail(409,'ALREADY_SUBMITTED','已提交的考试不能从未完成考试中删除');
+   if(a.revision!==req.body.expectedRevision)fail(409,'REVISION_CONFLICT','考试进度已更新，请刷新后重试');
+   if(a.lease_device&&a.lease_device!==req.body.deviceId&&a.lease_until>now())fail(409,'LEASE_CONFLICT','另一台设备正在作答，请先暂停后再删除');
+   db.prepare('DELETE FROM attempts WHERE id=? AND owner_id=?').run(a.id,req.account.id);return {ok:true};
+  })();
+ });
  const save=(req,action)=>db.transaction(()=>{
   const allowed=['expectedRevision','deviceId','answers','position','effectiveMs','materialTimes',...(action==='submit'?['requestId','confirmIncomplete']:[])];allowed.push('pendingTiming','timingMode');exact(req.body,allowed,allowed.filter(k=>!['confirmIncomplete','pendingTiming','timingMode'].includes(k)));
   if(action==='submit')string(req.body.requestId,1,128);

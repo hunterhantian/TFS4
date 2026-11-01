@@ -129,3 +129,16 @@ test('archive date ranges use Shanghai calendar boundaries and admin-only owner 
  for(const query of ['range=custom&from=2026-02-30&to=2026-03-01','range=custom&from=2026-10-26&to=2026-10-19','range=custom&from=2026-10-19','range=invalid','range=last7&to=2026-10-26'])assert.equal((await call(alice,'GET','/api/reports?'+query)).statusCode,400,query);
  },{now:()=>clock});
 });
+test('delete unfinished attempt requires owner, CSRF, current revision and safe lease; submitted reports remain',async()=>fixture(async({app,db,alice,bob,call})=>{
+ let attempt=(await create(call,alice,'delete-target')).json();const url=`/api/attempts/${attempt.id}`,payload={expectedRevision:attempt.revision,deviceId:'device-a'};
+ assert.equal((await app.inject({method:'DELETE',url,headers:{origin,cookie:alice.cookie},payload})).statusCode,403);
+ assert.equal((await call(bob,'DELETE',url,payload)).statusCode,404);
+ assert.equal((await call(alice,'DELETE',url,{...payload,deviceId:'other-device'})).statusCode,409);
+ attempt=(await call(alice,'POST',url+'/pause',progress(attempt))).json();
+ assert.equal((await call(alice,'DELETE',url,payload)).statusCode,409);
+ assert.equal((await call(alice,'DELETE',url,{expectedRevision:attempt.revision,deviceId:'device-a'})).statusCode,200);
+ assert.equal((await call(alice,'GET',url)).statusCode,404);assert.equal((await call(alice,'GET','/api/attempts')).json().attempts.length,0);
+ const submitted=(await create(call,alice,'submit-keep')).json();const result=await call(alice,'POST',`/api/attempts/${submitted.id}/submit`,progress(submitted,[],{requestId:'keep-report',confirmIncomplete:true}));assert.equal(result.statusCode,200);
+ assert.equal((await call(alice,'DELETE',`/api/attempts/${submitted.id}`,{expectedRevision:submitted.revision,deviceId:'device-a'})).statusCode,409);
+ assert.equal((await call(alice,'GET',`/api/reports/${result.json().reportId}`)).statusCode,200);assert.equal(db.prepare('SELECT COUNT(*) n FROM reports').get().n,1);
+}));

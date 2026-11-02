@@ -9,7 +9,7 @@ export function discardDraft(owner,id){localStorage.removeItem(key(owner,id));}
 export function removeDraftIfUnchanged(draft){if(localStorage.getItem(draft.storageKey)!==draft.raw)return false;localStorage.removeItem(draft.storageKey);return true;}
 export class ExamSync{
  constructor(owner,attempt,{onStatus,onConflict,onSubmitted,onStorageError}){this.owner=owner;this.attempt=attempt;this.progress=structuredClone(attempt.progress);this.running=false;this.dirty=false;this.sequence=0;this.activeId=attempt.questions[this.progress.position]?.id;this.onStatus=onStatus;this.onConflict=onConflict;this.onSubmitted=onSubmitted;this.onStorageError=onStorageError;this.pendingAction=null;this.chain=Promise.resolve();this.frozen=false;this.submitRequestId=newClientId();this.lastSaveAttemptAt=performance.now();this.ensureTiming();}
- persist(){try{localStorage.setItem(key(this.owner,this.attempt.id),JSON.stringify({baseRevision:this.attempt.revision,progress:this.progress,dirty:this.dirty,deviceId,pendingAction:this.pendingAction,submitRequestId:this.submitRequestId}));return true;}catch{this.running=false;this.frozen=true;this.onStorageError('本机缓存不可写，请导出待同步内容并处理存储空间；当前已停止计时');return false;}}
+ persist(){try{localStorage.setItem(key(this.owner,this.attempt.id),JSON.stringify({title:this.attempt.title||'考试内容未记录',baseRevision:this.attempt.revision,progress:this.progress,dirty:this.dirty,deviceId,pendingAction:this.pendingAction,submitRequestId:this.submitRequestId}));return true;}catch{this.running=false;this.frozen=true;this.onStorageError('本机缓存不可写，请导出待同步内容并处理存储空间；当前已停止计时');return false;}}
  change(){this.dirty=true;this.sequence++;this.persist();this.onStatus('已保存本机 · 每5分钟自动同步服务器','pending');}
  ensureTiming(){
   if(!this.progress.timingMode||this.progress.timingMode==='explicit_focus_v1')this.progress.timingMode=this.progress.effectiveMs>0?'mixed-explicit-and-automatic-v1':'automatic-answer-interval-v1';
@@ -33,7 +33,7 @@ export class ExamSync{
    this.commitPending(questionId,true);this.response(questionId)[field]=value;
    const q=this.attempt.questions.find(q=>q.id===questionId);const no=q.originalNo||this.attempt.questions.indexOf(q)+1;
    const bounds=PAGE_RANGES.find(([a,b])=>no>=a&&no<=b)||[1,100];
-   const page=this.attempt.questions.filter((q,i)=>(q.originalNo||i+1)>=bounds[0]&&(q.originalNo||i+1)<=bounds[1]);
+   const page=q.pageKey?this.attempt.questions.filter(x=>x.pageKey===q.pageKey):this.attempt.questions.filter((q,i)=>(q.originalNo||i+1)>=bounds[0]&&(q.originalNo||i+1)<=bounds[1]);
    const unanswered=q=>!this.progress.answers.find(r=>r.questionId===q.id)?.choice;
    const next=page.find(q=>(q.originalNo||this.attempt.questions.indexOf(q)+1)>no&&unanswered(q))||page.find(unanswered)||q;
    this.setTarget(next.id);

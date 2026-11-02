@@ -1,3 +1,6 @@
+import {fullExamCatalog} from './full-exam.mjs';
+import {miniCatalog} from './mini-exam.mjs';
+import {listeningCatalog} from './listening-exam.mjs';
 import {registerSynthesis} from './synthesis.mjs';
 import {registerKnowledgeTree} from './knowledge-tree.mjs';
 import Fastify from 'fastify';
@@ -31,7 +34,7 @@ export async function createApp(options={}){
  app.decorate('db',db);app.decorateRequest('account',null);app.decorateRequest('sessionHash',null);app.decorateRequest('csrf',null);
  app.setErrorHandler((e,req,reply)=>{const status=e.statusCode>=400&&e.statusCode<500?e.statusCode:500;const code=status===500?'INTERNAL_ERROR':e.code||'INVALID_INPUT';if(status===500)req.log.error({code,requestId:req.id},'Request failed');reply.code(status).send({error:{code,message:status===500?'服务暂不可用，请保留待同步内容':e.message},requestId:req.id});});
  app.addHook('onRequest',async(req,reply)=>{
-  reply.header('X-Content-Type-Options','nosniff').header('Referrer-Policy','same-origin').header('Content-Security-Policy',"default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self'; media-src 'self'; connect-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'self'");
+  reply.header('X-Content-Type-Options','nosniff').header('Referrer-Policy','same-origin').header('Content-Security-Policy',"default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self'; media-src 'self' https://193.112.151.236; connect-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'self'");
   if(req.url.startsWith('/api/'))reply.header('Cache-Control','no-store');
   if(req.url.startsWith('/api/')&&!['GET','HEAD'].includes(req.method)&&req.headers.origin!==publicOrigin&&req.headers.origin!==lanOrigin)fail(403,'ORIGIN_REJECTED','请求来源不受信任');
  });
@@ -72,14 +75,17 @@ export async function createApp(options={}){
   db.transaction(()=>{if(!db.prepare('SELECT id FROM users WHERE id=?').get(req.params.id))fail(404,'NOT_FOUND');db.prepare('UPDATE users SET password_hash=? WHERE id=?').run(hash,req.params.id);db.prepare('DELETE FROM sessions WHERE user_id=?').run(req.params.id);})();return {ok:true};
  });
  app.get('/api/sources',async()=>({sources:db.prepare('SELECT id,payload FROM sources').all().map(r=>{const p=JSON.parse(r.payload);return {id:r.id,year:p.year,title:p.title,total:p.questions.length};})}));
- app.get('/api/attempts',async req=>({attempts:db.prepare("SELECT id,status,mode,revision,created_at AS createdAt FROM attempts WHERE owner_id=? AND status!='submitted' ORDER BY created_at DESC").all(req.account.id)}));
+ app.get('/api/mini-sittings',async()=>({sittings:miniCatalog().map(x=>x.sitting)}));
+ app.get('/api/mini-sittings/:sitting',async req=>{const sitting=req.params.sitting;const saved=db.prepare('SELECT payload FROM mini_assignments WHERE owner_id=? AND sitting=?').get(req.account.id,sitting);const catalog=saved?JSON.parse(saved.payload):miniCatalog().find(x=>x.sitting===sitting);if(!catalog)fail(404,'SOURCE_UNAVAILABLE');const attempts=db.prepare("SELECT id,status,snapshot,progress FROM attempts WHERE owner_id=? AND mode='mini' ORDER BY created_at DESC").all(req.account.id).map(a=>({...a,snapshot:JSON.parse(a.snapshot),progress:JSON.parse(a.progress)}));return {sitting,sheets:catalog.sheets.map(({number,available,issues})=>{const a=attempts.find(a=>a.snapshot.mini?.sitting===sitting&&a.snapshot.mini?.number===number);return {number,available,issues,status:a?.status||'new',attemptId:a?.id||null,answered:a?.progress.answers.filter(r=>r.choice?.trim()).length||0};})};});
+ app.get('/api/full-exam-sittings',async()=>({sittings:fullExamCatalog().map(({sitting,title,available,issues,warnings})=>({sitting,title,available,issues,warnings}))}));
+ app.get('/api/listening-sittings',async()=>({sittings:listeningCatalog().map(({sitting,title,available,format})=>({sitting,title,available,format}))}));
+ app.get('/api/attempts',async req=>({attempts:db.prepare("SELECT id,status,mode,revision,created_at AS createdAt,snapshot FROM attempts WHERE owner_id=? AND status!='submitted' ORDER BY created_at DESC").all(req.account.id).map(({snapshot,...a})=>({...a,title:JSON.parse(snapshot).title||'考试内容未记录'}))}));
  app.post('/api/attempts',async req=>{
-  exact(req.body,['sourceId','mode','deviceId','requestId']);string(req.body.sourceId,1,128);string(req.body.deviceId,1,128);string(req.body.requestId,1,128);if(req.body.mode!=='full')fail(422,'MODE_NOT_AVAILABLE');
+  exact(req.body,['sourceId','mode','deviceId','requestId']);string(req.body.sourceId,1,128);string(req.body.deviceId,1,128);string(req.body.requestId,1,128);if(!['full','listening','mini','full_candidate'].includes(req.body.mode))fail(422,'MODE_NOT_AVAILABLE');
   return db.transaction(()=>{
    const existing=db.prepare('SELECT id FROM attempts WHERE owner_id=? AND request_id=?').get(req.account.id,req.body.requestId);if(existing)return visibleAttempt(ownedAttempt(db,existing.id,req.account.id));
-   const source=db.prepare('SELECT * FROM sources WHERE id=?').get(req.body.sourceId);if(!source)fail(422,'SOURCE_UNAVAILABLE');
-   const snapshot={...JSON.parse(source.payload),sourceRevision:source.revision};const id=token(),date=nowIso();const progress={answers:[],position:0,effectiveMs:0,materialTimes:{}};
-   db.prepare('INSERT INTO attempts(id,owner_id,request_id,mode,origin,status,created_at,started_at,revision,lease_device,lease_until,snapshot,progress) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)').run(id,req.account.id,req.body.requestId,'full','ordinary','active',date,date,0,req.body.deviceId,now()+leaseMs,JSON.stringify(snapshot),JSON.stringify(progress));return visibleAttempt(ownedAttempt(db,id,req.account.id));
+   let snapshot;if(req.body.mode==='full_candidate'){const entry=fullExamCatalog().find(x=>x.sitting===req.body.sourceId);if(!entry||!entry.available)fail(422,'SOURCE_UNAVAILABLE',entry?.issues.join('；')||'该场次题面不完整');snapshot=entry.snapshot;}else if(req.body.mode==='mini'){const match=/^(\d{4}(?:-0[56])?):([1-5])$/.exec(req.body.sourceId);if(!match)fail(422,'SOURCE_UNAVAILABLE');const [_,sitting,no]=match;let saved=db.prepare('SELECT payload FROM mini_assignments WHERE owner_id=? AND sitting=?').get(req.account.id,sitting);let plan=saved?JSON.parse(saved.payload):miniCatalog().find(x=>x.sitting===sitting);if(!plan)fail(422,'SOURCE_UNAVAILABLE');const sheet=plan.sheets[Number(no)-1];if(!sheet?.available)fail(422,'SOURCE_UNAVAILABLE',sheet?.issues.join('；')||'试卷不可用');if(!saved)db.prepare('INSERT INTO mini_assignments VALUES (?,?,?,?,?)').run(req.account.id,sitting,plan.revision,JSON.stringify(plan),nowIso());const prior=db.prepare("SELECT id,snapshot FROM attempts WHERE owner_id=? AND mode='mini' AND status!='submitted'").all(req.account.id).find(x=>{const m=JSON.parse(x.snapshot).mini;return m?.sitting===sitting&&m?.number===Number(no);});if(prior)return visibleAttempt(ownedAttempt(db,prior.id,req.account.id));snapshot=sheet.snapshot;}else if(req.body.mode==='listening'){const entry=listeningCatalog().find(x=>x.sitting===req.body.sourceId);if(!entry||!entry.available)fail(422,'SOURCE_UNAVAILABLE','该场次题面不完整，暂不能开始。');snapshot=entry.snapshot;}else{const source=db.prepare('SELECT * FROM sources WHERE id=?').get(req.body.sourceId);if(!source)fail(422,'SOURCE_UNAVAILABLE');snapshot={...JSON.parse(source.payload),sourceRevision:source.revision};}const id=token(),date=nowIso();const progress={answers:[],position:0,effectiveMs:0,materialTimes:{}};
+   db.prepare('INSERT INTO attempts(id,owner_id,request_id,mode,origin,status,created_at,started_at,revision,lease_device,lease_until,snapshot,progress) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)').run(id,req.account.id,req.body.requestId,req.body.mode,'ordinary','active',date,date,0,req.body.deviceId,now()+leaseMs,JSON.stringify(snapshot),JSON.stringify(progress));return visibleAttempt(ownedAttempt(db,id,req.account.id));
   })();
  });
  app.get('/api/attempts/:id',async req=>visibleAttempt(ownedAttempt(db,req.params.id,req.account.id)));
@@ -105,7 +111,7 @@ export async function createApp(options={}){
   if(!submitted)return visibleAttempt(ownedAttempt(db,a.id,req.account.id));
   const final=ownedAttempt(db,a.id,req.account.id);const payload=makeReport(final);const reportId=token();
   db.prepare('INSERT INTO reports(id,attempt_id,owner_id,title,payload,created_at) VALUES (?,?,?,?,?,?)').run(reportId,a.id,req.account.id,archiveTitle(a.snapshot.title,date),JSON.stringify(payload),date);
-  for(const item of payload.items){
+  for(const item of (['listening','mini','full_candidate'].includes(a.mode)?[]:payload.items)){
    const prior=db.prepare('SELECT id FROM response_events WHERE owner_id=? AND question_id=? AND choice IS NOT NULL ORDER BY rowid DESC LIMIT 1').get(req.account.id,item.question.id);const count=db.prepare('SELECT COUNT(*) AS n FROM response_events WHERE owner_id=? AND question_id=? AND choice IS NOT NULL').get(req.account.id,item.question.id).n;const eventId=token();
    db.prepare('INSERT INTO response_events VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)').run(eventId,req.account.id,a.id,item.question.id,item.question.version,item.question.answer.version,item.question.formalPart,item.question.component,item.choice,item.confidence,item.effectiveMs,item.result,date,a.origin,count,prior?.id||null);
    if(item.result==='wrong')db.prepare('INSERT INTO error_events VALUES (?,?,?)').run(token(),eventId,date);

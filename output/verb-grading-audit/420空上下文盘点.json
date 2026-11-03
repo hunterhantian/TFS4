@@ -1,0 +1,3408 @@
+[
+  {
+    "id": "2005-V01",
+    "answer": "m'appelle",
+    "alternatives": [],
+    "left": "(Jean Vlijean se présente) : Je (s'appeler)",
+    "right": "Jean Valjean. J'ai passé dix-neuf ans au berge. Je (libérer) __2__ depuis quatre jours et en route",
+    "flags": []
+  },
+  {
+    "id": "2005-V02",
+    "answer": "suis libéré",
+    "alternatives": [],
+    "left": "(Jean Vlijean se présente) : Je (s'appeler) __1__ Jean Valjean. J'ai passé dix-neuf ans au berge. Je (libérer)",
+    "right": "depuis quatre jours et en route pour Pontarlier qui est ma destination. Quatre jours que je (marche",
+    "flags": []
+  },
+  {
+    "id": "2005-V03",
+    "answer": "marche",
+    "alternatives": [],
+    "left": "u berge. Je (libérer) __2__ depuis quatre jours et en route pour Pontarlier qui est ma destination. Quatre jours que je (marcher)",
+    "right": "depuis Toulon. Aujourd'hui je (faire) __4__ douze lieues à pied. Ce soir, (arriver) __5__ dans ce p",
+    "flags": []
+  },
+  {
+    "id": "2005-V04",
+    "answer": "ai fait",
+    "alternatives": [],
+    "left": "urs et en route pour Pontarlier qui est ma destination. Quatre jours que je (marcher) __3__ depuis Toulon. Aujourd'hui je (faire)",
+    "right": "douze lieues à pied. Ce soir, (arriver) __5__ dans ce pays, je (être) __6__ dans une auberge. On me",
+    "flags": []
+  },
+  {
+    "id": "2005-V05",
+    "answer": "en arrivant",
+    "alternatives": [],
+    "left": "tination. Quatre jours que je (marcher) __3__ depuis Toulon. Aujourd'hui je (faire) __4__ douze lieues à pied. Ce soir, (arriver)",
+    "right": "dans ce pays, je (être) __6__ dans une auberge. On me (envoyer) __7__ à cause de mon passeport jaun",
+    "flags": []
+  },
+  {
+    "id": "2005-V06",
+    "answer": "ai été",
+    "alternatives": [],
+    "left": "(marcher) __3__ depuis Toulon. Aujourd'hui je (faire) __4__ douze lieues à pied. Ce soir, (arriver) __5__ dans ce pays, je (être)",
+    "right": "dans une auberge. On me (envoyer) __7__ à cause de mon passeport jaune que je (montrer) __8__ à la",
+    "flags": []
+  },
+  {
+    "id": "2005-V07",
+    "answer": "a envoyé",
+    "alternatives": [],
+    "left": "ui je (faire) __4__ douze lieues à pied. Ce soir, (arriver) __5__ dans ce pays, je (être) __6__ dans une auberge. On me (envoyer)",
+    "right": "à cause de mon passeport jaune que je (montrer) __8__ à la mairie. Je (être) __9__ à une autre aube",
+    "flags": []
+  },
+  {
+    "id": "2005-V08",
+    "answer": "avait montré",
+    "alternatives": [],
+    "left": "iver) __5__ dans ce pays, je (être) __6__ dans une auberge. On me (envoyer) __7__ à cause de mon passeport jaune que je (montrer)",
+    "right": "à la mairie. Je (être) __9__ à une autre auberge, on me (dire) __10__ : (s'en aller) __11__ ! Chez",
+    "flags": []
+  },
+  {
+    "id": "2005-V09",
+    "answer": "ai été",
+    "alternatives": [],
+    "left": "(être) __6__ dans une auberge. On me (envoyer) __7__ à cause de mon passeport jaune que je (montrer) __8__ à la mairie. Je (être)",
+    "right": "à une autre auberge, on me (dire) __10__ : (s'en aller) __11__ ! Chez l'un, chez l'autre personne n",
+    "flags": []
+  },
+  {
+    "id": "2005-V10",
+    "answer": "m'a dit",
+    "alternatives": [],
+    "left": "voyer) __7__ à cause de mon passeport jaune que je (montrer) __8__ à la mairie. Je (être) __9__ à une autre auberge, on me (dire)",
+    "right": ": (s'en aller) __11__ ! Chez l'un, chez l'autre personne ne (vouloir) __12__ de moi. Je (être) __13",
+    "flags": [
+      "空前省音候选"
+    ]
+  },
+  {
+    "id": "2005-V11",
+    "answer": "Va-t'en",
+    "alternatives": [],
+    "left": "e mon passeport jaune que je (montrer) __8__ à la mairie. Je (être) __9__ à une autre auberge, on me (dire) __10__ : (s'en aller)",
+    "right": "! Chez l'un, chez l'autre personne ne (vouloir) __12__ de moi. Je (être) __13__ dans la niche d'un",
+    "flags": []
+  },
+  {
+    "id": "2005-V12",
+    "answer": "a voulu",
+    "alternatives": [],
+    "left": "e. Je (être) __9__ à une autre auberge, on me (dire) __10__ : (s'en aller) __11__ ! Chez l'un, chez l'autre personne ne (vouloir)",
+    "right": "de moi. Je (être) __13__ dans la niche d'un chien. Ce chien me (mordre) __14__, comme s'il (être) _",
+    "flags": []
+  },
+  {
+    "id": "2005-V13",
+    "answer": "ai été",
+    "alternatives": [],
+    "left": "autre auberge, on me (dire) __10__ : (s'en aller) __11__ ! Chez l'un, chez l'autre personne ne (vouloir) __12__ de moi. Je (être)",
+    "right": "dans la niche d'un chien. Ce chien me (mordre) __14__, comme s'il (être) __15__ un homme. On (dire)",
+    "flags": []
+  },
+  {
+    "id": "2005-V14",
+    "answer": "a mordu",
+    "alternatives": [],
+    "left": "__ ! Chez l'un, chez l'autre personne ne (vouloir) __12__ de moi. Je (être) __13__ dans la niche d'un chien. Ce chien me (mordre)",
+    "right": ", comme s'il (être) __15__ un homme. On (dire) __16__ qu'il (savoir) __17__ qui s'il (être) __18__ d",
+    "flags": []
+  },
+  {
+    "id": "2005-V15",
+    "answer": "avait été",
+    "alternatives": [],
+    "left": "re personne ne (vouloir) __12__ de moi. Je (être) __13__ dans la niche d'un chien. Ce chien me (mordre) __14__, comme s'il (être)",
+    "right": "un homme. On (dire) __16__ qu'il (savoir) __17__ qui s'il (être) __18__ dans les champs pour couche",
+    "flags": []
+  },
+  {
+    "id": "2005-V16",
+    "answer": "aurait dit",
+    "alternatives": [],
+    "left": "12__ de moi. Je (être) __13__ dans la niche d'un chien. Ce chien me (mordre) __14__, comme s'il (être) __15__ un homme. On (dire)",
+    "right": "qu'il (savoir) __17__ qui s'il (être) __18__ dans les champs pour coucher a la belle étoile. Il (ne",
+    "flags": []
+  },
+  {
+    "id": "2005-V17",
+    "answer": "savait",
+    "alternatives": [],
+    "left": "__13__ dans la niche d'un chien. Ce chien me (mordre) __14__, comme s'il (être) __15__ un homme. On (dire) __16__ qu'il (savoir)",
+    "right": "qui s'il (être) __18__ dans les champs pour coucher a la belle étoile. Il (ne pas y avoir) __19__ d",
+    "flags": []
+  },
+  {
+    "id": "2005-V18",
+    "answer": "étais",
+    "alternatives": [],
+    "left": "'un chien. Ce chien me (mordre) __14__, comme s'il (être) __15__ un homme. On (dire) __16__ qu'il (savoir) __17__ qui s'il (être)",
+    "right": "dans les champs pour coucher a la belle étoile. Il (ne pas y avoir) __19__ d'étoile. J'ai pensé qu'",
+    "flags": []
+  },
+  {
+    "id": "2005-V19",
+    "answer": "n'y avait pas",
+    "alternatives": [],
+    "left": "On (dire) __16__ qu'il (savoir) __17__ qui s'il (être) __18__ dans les champs pour coucher a la belle étoile. Il (ne pas y avoir)",
+    "right": "d'étoile. J'ai pensé qu'il (pleuvoir) __20__ et qu'il n'avait pas de bon Dieu pour empêcher de pleu",
+    "flags": []
+  },
+  {
+    "id": "2005-V20",
+    "answer": "pleuvrait",
+    "alternatives": [],
+    "left": "il (être) __18__ dans les champs pour coucher a la belle étoile. Il (ne pas y avoir) __19__ d'étoile. J'ai pensé qu'il (pleuvoir)",
+    "right": "et qu'il n'avait pas de bon Dieu pour empêcher de pleuvoir. (Victor Hugo Les misérables, 1, 2,",
+    "flags": []
+  },
+  {
+    "id": "2006-V01",
+    "answer": "arriverait",
+    "alternatives": [],
+    "left": "## Au commissariat Ce jour-là, Monsieur Roche m'avait dit qu'il (arriver)",
+    "right": "dans mon bureau le lendemain matin à 9 heures précises. Sophie, une collègue, elle, pensait qu'il (",
+    "flags": []
+  },
+  {
+    "id": "2006-V02",
+    "answer": "serait",
+    "alternatives": [],
+    "left": "qu'il (arriver) __(1)__ dans mon bureau le lendemain matin à 9 heures précises. Sophie, une collègue, elle, pensait qu'il (être)",
+    "right": "en retard. Elle le (connaître) __(3)__. C'est pourquoi elle 10 --- m'a conseillé de lui demander",
+    "flags": []
+  },
+  {
+    "id": "2006-V03",
+    "answer": "connaissait",
+    "alternatives": [],
+    "left": "u le lendemain matin à 9 heures précises. Sophie, une collègue, elle, pensait qu'il (être) __(2)__ en retard. Elle le (connaître)",
+    "right": ". C'est pourquoi elle 10 --- m'a conseillé de lui demander son numéro de téléphone portable afin",
+    "flags": []
+  },
+  {
+    "id": "2006-V04",
+    "answer": "puisse",
+    "alternatives": [],
+    "left": "ître) __(3)__. C'est pourquoi elle 10 --- m'a conseillé de lui demander son numéro de téléphone portable afin que je (pouvoir)",
+    "right": "l'appeler. C'est ce que j'ai fait, car à 9h30, il n'était toujours pas là. Monsieur Roché ne m'ava",
+    "flags": []
+  },
+  {
+    "id": "2006-V05",
+    "answer": "viendrait",
+    "alternatives": [],
+    "left": "l'appeler. C'est ce que j'ai fait, car à 9h30, il n'était toujours pas là. Monsieur Roché ne m'avait pas dit pourquoi il (venir)",
+    "right": ". Sans doute pensait-il que je le (savoir) __(6)__. Lorsque Monsieur Roche (arriver) __(7)__, il m'",
+    "flags": []
+  },
+  {
+    "id": "2006-V06",
+    "answer": "sache",
+    "alternatives": [],
+    "left": "n'était toujours pas là. Monsieur Roché ne m'avait pas dit pourquoi il (venir) __(5)__. Sans doute pensait-il que je le (savoir)",
+    "right": ". Lorsque Monsieur Roche (arriver) __(7)__, il m'a raconté qu'il (devoir) __(8)__ vérifier l'emploi",
+    "flags": []
+  },
+  {
+    "id": "2006-V07",
+    "answer": "est arrivé",
+    "alternatives": [],
+    "left": "m'avait pas dit pourquoi il (venir) __(5)__. Sans doute pensait-il que je le (savoir) __(6)__. Lorsque Monsieur Roche (arriver)",
+    "right": ", il m'a raconté qu'il (devoir) __(8)__ vérifier l'emploi du temps de sa vieille locataire, madame L",
+    "flags": []
+  },
+  {
+    "id": "2006-V08",
+    "answer": "devait",
+    "alternatives": [],
+    "left": "(5)__. Sans doute pensait-il que je le (savoir) __(6)__. Lorsque Monsieur Roche (arriver) __(7)__, il m'a raconté qu'il (devoir)",
+    "right": "vérifier l'emploi du temps de sa vieille locataire, madame Landru. Je lui ai dit qu'elle (être) __(",
+    "flags": []
+  },
+  {
+    "id": "2006-V09",
+    "answer": "était",
+    "alternatives": [],
+    "left": "'a raconté qu'il (devoir) __(8)__ vérifier l'emploi du temps de sa vieille locataire, madame Landru. Je lui ai dit qu'elle (être)",
+    "right": "souvent absente et qu'elle (laisser) __(10)__ son studio à une amie que je (voir) __(11)__ rarement",
+    "flags": []
+  },
+  {
+    "id": "2006-V10",
+    "answer": "avait laissé",
+    "alternatives": [],
+    "left": "emploi du temps de sa vieille locataire, madame Landru. Je lui ai dit qu'elle (être) __(9)__ souvent absente et qu'elle (laisser)",
+    "right": "son studio à une amie que je (voir) __(11)__ rarement. Monsieur Roche ne semblait pas satisfait. I",
+    "flags": []
+  },
+  {
+    "id": "2006-V11",
+    "answer": "voyais",
+    "alternatives": [],
+    "left": "me Landru. Je lui ai dit qu'elle (être) __(9)__ souvent absente et qu'elle (laisser) __(10)__ son studio à une amie que je (voir)",
+    "right": "rarement. Monsieur Roche ne semblait pas satisfait. Il m'a demandé si je (connaître) __(12)__ l'ad",
+    "flags": []
+  },
+  {
+    "id": "2006-V12",
+    "answer": "connaissais",
+    "alternatives": [],
+    "left": "on studio à une amie que je (voir) __(11)__ rarement. Monsieur Roche ne semblait pas satisfait. Il m'a demandé si je (connaître)",
+    "right": "l'adresse de l'employeur de sa locataire. Évidemment, je le (ignorer) __(13)__. Il m'a demandé alor",
+    "flags": []
+  },
+  {
+    "id": "2006-V13",
+    "answer": "ignorais",
+    "alternatives": [],
+    "left": "it pas satisfait. Il m'a demandé si je (connaître) __(12)__ l'adresse de l'employeur de sa locataire. Évidemment, je le (ignorer)",
+    "right": ". Il m'a demandé alors que je (prendre) __(14)__ contacte avec l'agence pour qu'elle me (fournir) __",
+    "flags": []
+  },
+  {
+    "id": "2006-V14",
+    "answer": "prenne",
+    "alternatives": [],
+    "left": "e) __(12)__ l'adresse de l'employeur de sa locataire. Évidemment, je le (ignorer) __(13)__. Il m'a demandé alors que je (prendre)",
+    "right": "contacte avec l'agence pour qu'elle me (fournir) __(15)__ le numéro de téléphone de son travail. L",
+    "flags": []
+  },
+  {
+    "id": "2006-V15",
+    "answer": "fournisse",
+    "alternatives": [],
+    "left": "emment, je le (ignorer) __(13)__. Il m'a demandé alors que je (prendre) __(14)__ contacte avec l'agence pour qu'elle me (fournir)",
+    "right": "le numéro de téléphone de son travail. Le lendemain, j'ai appelé tout de suite l'agence qui m'a ré",
+    "flags": []
+  },
+  {
+    "id": "2006-V16",
+    "answer": "avait appelé",
+    "alternatives": [],
+    "left": "(15)__ le numéro de téléphone de son travail. Le lendemain, j'ai appelé tout de suite l'agence qui m'a répondu qu'elle (appeler)",
+    "right": "la veille le directeur de la locataire. Et ce dernier avait répondu que madame Landru (télephoner)",
+    "flags": []
+  },
+  {
+    "id": "2006-V17",
+    "answer": "avait téléphoné",
+    "alternatives": [],
+    "left": "ndu qu'elle (appeler) __(16)__ la veille le directeur de la locataire. Et ce dernier avait répondu que madame Landru (télephoner)",
+    "right": "pour dire qu'elle (souffrir) __(18)__ de la tête et qu'elle (envoyer) __(19)__ plus tard un certifi",
+    "flags": []
+  },
+  {
+    "id": "2006-V18",
+    "answer": "souffrait",
+    "alternatives": [],
+    "left": "le le directeur de la locataire. Et ce dernier avait répondu que madame Landru (télephoner) __(17)__ pour dire qu'elle (souffrir)",
+    "right": "de la tête et qu'elle (envoyer) __(19)__ plus tard un certificat d'arrêt de maladie. Depuis, nous",
+    "flags": []
+  },
+  {
+    "id": "2006-V19",
+    "answer": "enverrait",
+    "alternatives": [],
+    "left": "rnier avait répondu que madame Landru (télephoner) __(17)__ pour dire qu'elle (souffrir) __(18)__ de la tête et qu'elle (envoyer)",
+    "right": "plus tard un certificat d'arrêt de maladie. Depuis, nous (ne plus avoir) __(20)__ aucune nouvelle",
+    "flags": []
+  },
+  {
+    "id": "2006-V20",
+    "answer": "n'avons plus eu",
+    "alternatives": [],
+    "left": "frir) __(18)__ de la tête et qu'elle (envoyer) __(19)__ plus tard un certificat d'arrêt de maladie. Depuis, nous (ne plus avoir)",
+    "right": "aucune nouvelle de cette dame.",
+    "flags": []
+  },
+  {
+    "id": "2007-V01",
+    "answer": "avons reçu",
+    "alternatives": [],
+    "left": "Bien chers amis, Nous (recevoir)",
+    "right": "votre lettre et nous vous en (remercier) __(2)__ vivement. Nous (être) __(3)__ très touchés par vot",
+    "flags": []
+  },
+  {
+    "id": "2007-V02",
+    "answer": "remercions",
+    "alternatives": [],
+    "left": "Bien chers amis, Nous (recevoir) __(1)__ votre lettre et nous vous en (remercier)",
+    "right": "vivement. Nous (être) __(3)__ très touchés par votre aimable invitation, mais il nous (être) __(4)_",
+    "flags": []
+  },
+  {
+    "id": "2007-V03",
+    "answer": "avons été",
+    "alternatives": [],
+    "left": "Bien chers amis, Nous (recevoir) __(1)__ votre lettre et nous vous en (remercier) __(2)__ vivement. Nous (être)",
+    "right": "très touchés par votre aimable invitation, mais il nous (être) __(4)__ très difficile actuellement",
+    "flags": []
+  },
+  {
+    "id": "2007-V04",
+    "answer": "est",
+    "alternatives": [],
+    "left": "et nous vous en (remercier) __(2)__ vivement. Nous (être) __(3)__ très touchés par votre aimable invitation, mais il nous (être)",
+    "right": "très difficile actuellement de vous donner une réponse définitive. Bien sûr, nous (être) __(5)__ r",
+    "flags": []
+  },
+  {
+    "id": "2007-V05",
+    "answer": "serions",
+    "alternatives": [],
+    "left": "invitation, mais il nous (être) __(4)__ très difficile actuellement de vous donner une réponse définitive. Bien sûr, nous (être)",
+    "right": "ravis de passer quelques jours de vacances avec vous, mais je doute que nous (pouvoir) __(6)__ réal",
+    "flags": []
+  },
+  {
+    "id": "2007-V06",
+    "answer": "puissions",
+    "alternatives": [],
+    "left": "définitive. Bien sûr, nous (être) __(5)__ ravis de passer quelques jours de vacances avec vous, mais je doute que nous (pouvoir)",
+    "right": "réaliser ce projet cette année. En effet, il est possible que Pierre (être) __(7)__ obligé de part",
+    "flags": []
+  },
+  {
+    "id": "2007-V07",
+    "answer": "soit",
+    "alternatives": [],
+    "left": "avec vous, mais je doute que nous (pouvoir) __(6)__ réaliser ce projet cette année. En effet, il est possible que Pierre (être)",
+    "right": "obligé de partir quelques jours en Allemagne pour ses affaires début juillet, et il est fort probab",
+    "flags": []
+  },
+  {
+    "id": "2007-V08",
+    "answer": "ne pourra pas",
+    "alternatives": [],
+    "left": "7)__ obligé de partir quelques jours en Allemagne pour ses affaires début juillet, et il est fort probable qu'il (ne pas pouvoir)",
+    "right": "être rentré avant le 15. Il est encore dans l'incertitude la plus totale quant à sa date de retour,",
+    "flags": []
+  },
+  {
+    "id": "2007-V09",
+    "answer": "soit",
+    "alternatives": [],
+    "left": "avant le 15. Il est encore dans l'incertitude la plus totale quant à sa date de retour, si bien que je ne pense pas qu'il (être)",
+    "right": "raisonnable pour nous de prendre un engagement qui (risquer) __(10)__ de compromettre les vacances",
+    "flags": []
+  },
+  {
+    "id": "2007-V10",
+    "answer": "risquerait",
+    "alternatives": [],
+    "left": "sa date de retour, si bien que je ne pense pas qu'il (être) __(9)__ raisonnable pour nous de prendre un engagement qui (risquer)",
+    "right": "de compromettre les vacances de tout le monde. Sans ce contretemps possible, un rendez-vous comme",
+    "flags": []
+  },
+  {
+    "id": "2007-V11",
+    "answer": "aurait plu",
+    "alternatives": [],
+    "left": "re les vacances de tout le monde. Sans ce contretemps possible, un rendez-vous comme celui que vous nous proposez, nous (plaire)",
+    "right": "énormément. Si par hasard, Pierre (revenir) __(12)__ plus tôt que prévu, je (essayer) __(13)__ de",
+    "flags": []
+  },
+  {
+    "id": "2007-V12",
+    "answer": "revenait",
+    "alternatives": [],
+    "left": "possible, un rendez-vous comme celui que vous nous proposez, nous (plaire) __(11)__ énormément. Si par hasard, Pierre (revenir)",
+    "right": "plus tôt que prévu, je (essayer) __(13)__ de vous joindre, mais rien ne (être) __(14)__ moins sûr,",
+    "flags": []
+  },
+  {
+    "id": "2007-V13",
+    "answer": "essaierais",
+    "alternatives": [
+      "essayerais"
+    ],
+    "left": "vous nous proposez, nous (plaire) __(11)__ énormément. Si par hasard, Pierre (revenir) __(12)__ plus tôt que prévu, je (essayer)",
+    "right": "de vous joindre, mais rien ne (être) __(14)__ moins sûr, considérez cette possibilité comme très hy",
+    "flags": []
+  },
+  {
+    "id": "2007-V14",
+    "answer": "est",
+    "alternatives": [],
+    "left": "rmément. Si par hasard, Pierre (revenir) __(12)__ plus tôt que prévu, je (essayer) __(13)__ de vous joindre, mais rien ne (être)",
+    "right": "moins sûr, considérez cette possibilité comme très hypothétique. Cependant, je (tenir) __(15)__ à",
+    "flags": []
+  },
+  {
+    "id": "2007-V15",
+    "answer": "tiens",
+    "alternatives": [],
+    "left": "ous joindre, mais rien ne (être) __(14)__ moins sûr, considérez cette possibilité comme très hypothétique. Cependant, je (tenir)",
+    "right": "à ce que vous (savoir) __(16)__ combien nous souhaitons que ce projet (pouvoir) __(17)__ se réalise",
+    "flags": []
+  },
+  {
+    "id": "2007-V16",
+    "answer": "sachiez",
+    "alternatives": [],
+    "left": "__(14)__ moins sûr, considérez cette possibilité comme très hypothétique. Cependant, je (tenir) __(15)__ à ce que vous (savoir)",
+    "right": "combien nous souhaitons que ce projet (pouvoir) __(17)__ se réaliser un jour. Il paraît que l'année",
+    "flags": []
+  },
+  {
+    "id": "2007-V17",
+    "answer": "puisse",
+    "alternatives": [],
+    "left": "rès hypothétique. Cependant, je (tenir) __(15)__ à ce que vous (savoir) __(16)__ combien nous souhaitons que ce projet (pouvoir)",
+    "right": "se réaliser un jour. Il paraît que l'année prochaine nos vacances (tomber) __(18)__ la même période",
+    "flags": []
+  },
+  {
+    "id": "2007-V18",
+    "answer": "tomberont",
+    "alternatives": [],
+    "left": "mbien nous souhaitons que ce projet (pouvoir) __(17)__ se réaliser un jour. Il paraît que l'année prochaine nos vacances (tomber)",
+    "right": "la même période, et il est vraiment peu 11 --- probable que nous (rencontrer) __(19)__ à nouveau",
+    "flags": []
+  },
+  {
+    "id": "2007-V19",
+    "answer": "rencontrions",
+    "alternatives": [],
+    "left": "l'année prochaine nos vacances (tomber) __(18)__ la même période, et il est vraiment peu 11 --- probable que nous (rencontrer)",
+    "right": "à nouveau un tel concours de circonstances fâcheuses. Il ne semble pas que cela (pouvoir) __(20)__",
+    "flags": []
+  },
+  {
+    "id": "2007-V20",
+    "answer": "puisse",
+    "alternatives": [],
+    "left": "probable que nous (rencontrer) __(19)__ à nouveau un tel concours de circonstances fâcheuses. Il ne semble pas que cela (pouvoir)",
+    "right": "se renouveler deux années de suite ! Nous vous embrassons affectueusement. Béatrice",
+    "flags": []
+  },
+  {
+    "id": "2008-V01",
+    "answer": "avoir dîné",
+    "alternatives": [],
+    "left": "Hier, après (dîner)",
+    "right": "chez M. Villemain qui habite une maison de campagne près de Neuilly, je suis allé chez le roi. Le",
+    "flags": []
+  },
+  {
+    "id": "2008-V02",
+    "answer": "était",
+    "alternatives": [],
+    "left": "(dîner) __(1)__ chez M. Villemain qui habite une maison de campagne près de Neuilly, je suis allé chez le roi. Le roi ne (être)",
+    "right": "pas dans le salon, où il n'y (avoir) __(3)__ que la reine et quelques dames. Je (saluer) __(4)__ la",
+    "flags": []
+  },
+  {
+    "id": "2008-V03",
+    "answer": "avait",
+    "alternatives": [],
+    "left": "une maison de campagne près de Neuilly, je suis allé chez le roi. Le roi ne (être) __(2)__ pas dans le salon, où il n'y (avoir)",
+    "right": "que la reine et quelques dames. Je (saluer) __(4)__ la reine, qui m'a beaucoup parlé de Madame la p",
+    "flags": []
+  },
+  {
+    "id": "2008-V04",
+    "answer": "ai salué",
+    "alternatives": [],
+    "left": "é chez le roi. Le roi ne (être) __(2)__ pas dans le salon, où il n'y (avoir) __(3)__ que la reine et quelques dames. Je (saluer)",
+    "right": "la reine, qui m'a beaucoup parlé de Madame la princesse de Joinville. Il était près de dix heures,",
+    "flags": []
+  },
+  {
+    "id": "2008-V05",
+    "answer": "étais",
+    "alternatives": [],
+    "left": "Je (saluer) __(4)__ la reine, qui m'a beaucoup parlé de Madame la princesse de Joinville. Il était près de dix heures, je (être)",
+    "right": "déjà dans l'antichambre, quand une dame d'honneur, (envoyer) __(6)__ par la princesse, (venir) __(7",
+    "flags": []
+  },
+  {
+    "id": "2008-V06",
+    "answer": "envoyée",
+    "alternatives": [],
+    "left": "incesse de Joinville. Il était près de dix heures, je (être) __(5)__ déjà dans l'antichambre, quand une dame d'honneur, (envoyer)",
+    "right": "par la princesse, (venir) __(7)__ me dire que le roi (désirer) __(8)__ causer avec moi et me faisai",
+    "flags": []
+  },
+  {
+    "id": "2008-V07",
+    "answer": "est venue",
+    "alternatives": [],
+    "left": "s de dix heures, je (être) __(5)__ déjà dans l'antichambre, quand une dame d'honneur, (envoyer) __(6)__ par la princesse, (venir)",
+    "right": "me dire que le roi (désirer) __(8)__ causer avec moi et me faisait prier de rester. Un moment aprè",
+    "flags": []
+  },
+  {
+    "id": "2008-V08",
+    "answer": "désirait",
+    "alternatives": [],
+    "left": "jà dans l'antichambre, quand une dame d'honneur, (envoyer) __(6)__ par la princesse, (venir) __(7)__ me dire que le roi (désirer)",
+    "right": "causer avec moi et me faisait prier de rester. Un moment après, comme dix heures sonnaient, le roi",
+    "flags": []
+  },
+  {
+    "id": "2008-V09",
+    "answer": "est venu",
+    "alternatives": [],
+    "left": "roi (désirer) __(8)__ causer avec moi et me faisait prier de rester. Un moment après, comme dix heures sonnaient, le roi (venir)",
+    "right": ". Il était sans décorations et avait l'air (préoccuper) __(10)__. En passant près de moi, il m'a dit",
+    "flags": []
+  },
+  {
+    "id": "2008-V10",
+    "answer": "préoccupé",
+    "alternatives": [],
+    "left": "ster. Un moment après, comme dix heures sonnaient, le roi (venir) __(9)__. Il était sans décorations et avait l'air (préoccuper)",
+    "right": ". En passant près de moi, il m'a dit : « (Attendre) __(11)__ que je (faire) __(12)__ ma tournée ; no",
+    "flags": []
+  },
+  {
+    "id": "2008-V11",
+    "answer": "Attendez",
+    "alternatives": [],
+    "left": "venir) __(9)__. Il était sans décorations et avait l'air (préoccuper) __(10)__. En passant près de moi, il m'a dit : « (Attendre)",
+    "right": "que je (faire) __(12)__ ma tournée ; nous (avoir) __(13)__ un peu plus de temps quand on (partir) _",
+    "flags": []
+  },
+  {
+    "id": "2008-V12",
+    "answer": "aie fait",
+    "alternatives": [
+      "fasse"
+    ],
+    "left": "sans décorations et avait l'air (préoccuper) __(10)__. En passant près de moi, il m'a dit : « (Attendre) __(11)__ que je (faire)",
+    "right": "ma tournée ; nous (avoir) __(13)__ un peu plus de temps quand on (partir) __(14)__. Il n'y a plus q",
+    "flags": []
+  },
+  {
+    "id": "2008-V13",
+    "answer": "aurons",
+    "alternatives": [],
+    "left": "réoccuper) __(10)__. En passant près de moi, il m'a dit : « (Attendre) __(11)__ que je (faire) __(12)__ ma tournée ; nous (avoir)",
+    "right": "un peu plus de temps quand on (partir) __(14)__. Il n'y a plus que quatre personnes et je n'ai à di",
+    "flags": []
+  },
+  {
+    "id": "2008-V14",
+    "answer": "sera parti",
+    "alternatives": [],
+    "left": "m'a dit : « (Attendre) __(11)__ que je (faire) __(12)__ ma tournée ; nous (avoir) __(13)__ un peu plus de temps quand on (partir)",
+    "right": ". Il n'y a plus que quatre personnes et je n'ai à dire que quatre mots. » Il ne s'est en effet arrêt",
+    "flags": []
+  },
+  {
+    "id": "2008-V15",
+    "answer": "communiquer",
+    "alternatives": [],
+    "left": "à dire que quatre mots. » Il ne s'est en effet arrêté un moment qu'auprès de l'ambassadeur de Prusse qui lui avait (communiquer)",
+    "right": "une lettre d'Alexandrie. Tout le monde (prendre) __(16)__ congé, puis le roi est venu à moi, m'a s",
+    "flags": []
+  },
+  {
+    "id": "2008-V16",
+    "answer": "a pris",
+    "alternatives": [],
+    "left": "oment qu'auprès de l'ambassadeur de Prusse qui lui avait (communiquer) __(15)__ une lettre d'Alexandrie. Tout le monde (prendre)",
+    "right": "congé, puis le roi est venu à moi, m'a saisi le bras et m'amène dans le grand salon d'attente, où i",
+    "flags": []
+  },
+  {
+    "id": "2008-V17",
+    "answer": "s'est assis",
+    "alternatives": [],
+    "left": "rendre) __(16)__ congé, puis le roi est venu à moi, m'a saisi le bras et m'amène dans le grand salon d'attente, où il (s'asseoir)",
+    "right": "et (me faire asseoir) __(18)__ sur un canapé rouge qui est entré deux portes vis-à-vis de la chemin",
+    "flags": []
+  },
+  {
+    "id": "2008-V18",
+    "answer": "m’a fait asseoir",
+    "alternatives": [],
+    "left": "roi est venu à moi, m'a saisi le bras et m'amène dans le grand salon d'attente, où il (s'asseoir) __(17)__ et (me faire asseoir)",
+    "right": "sur un canapé rouge qui est entré deux portes vis-à-vis de la cheminée. Alors il (se mettre) __(19)",
+    "flags": []
+  },
+  {
+    "id": "2008-V19",
+    "answer": "s'est mis",
+    "alternatives": [],
+    "left": "17)__ et (me faire asseoir) __(18)__ sur un canapé rouge qui est entré deux portes vis-à-vis de la cheminée. Alors il (se mettre)",
+    "right": "à parler vivement, énergiquement : 11 --- « Monsieur Hugo, je vous vois avec plaisir. Que pensez",
+    "flags": []
+  },
+  {
+    "id": "2008-V20",
+    "answer": "tenir compte",
+    "alternatives": [],
+    "left": "us de tout ceci ? Tout cela est grave, et surtout paraît grave. Mais en politique, je le sais, il faut quelquefois (tenir compte)",
+    "right": "de ce qui paraît autant que de ce qui est. »",
+    "flags": []
+  },
+  {
+    "id": "2009-V01",
+    "answer": "m’a demandé",
+    "alternatives": [],
+    "left": "Le soir, Marie est venue me chercher et me (demander)",
+    "right": "si je (vouloir) __(2)__ me marier avec elle. Je (dire) __(3)__ que cela me (être) __(4)",
+    "flags": [
+      "空前省音候选"
+    ]
+  },
+  {
+    "id": "2009-V02",
+    "answer": "voulais",
+    "alternatives": [],
+    "left": "Le soir, Marie est venue me chercher et me (demander) __(1)__ si je (vouloir)",
+    "right": "me marier avec elle. Je (dire) __(3)__ que cela me (être) __(4)__ et que nous (pouvoir)",
+    "flags": []
+  },
+  {
+    "id": "2009-V03",
+    "answer": "’ ai dit",
+    "alternatives": [],
+    "left": "Le soir, Marie est venue me chercher et me (demander) __(1)__ si je (vouloir) __(2)__ me marier avec elle. Je (dire)",
+    "right": "que cela me (être) __(4)__ et que nous (pouvoir) __(5)__ le (faire) __(6)__ si elle le",
+    "flags": []
+  },
+  {
+    "id": "2009-V04",
+    "answer": "m’était",
+    "alternatives": [],
+    "left": "ercher et me (demander) __(1)__ si je (vouloir) __(2)__ me marier avec elle. Je (dire) __(3)__ que cela me (être)",
+    "right": "et que nous (pouvoir) __(5)__ le (faire) __(6)__ si elle le (vouloir) __(7)__. Elle a v",
+    "flags": [
+      "空前省音候选"
+    ]
+  },
+  {
+    "id": "2009-V05",
+    "answer": "pouvions",
+    "alternatives": [],
+    "left": "_ si je (vouloir) __(2)__ me marier avec elle. Je (dire) __(3)__ que cela me (être) __(4)__ et que nous (pouvoir)",
+    "right": "le (faire) __(6)__ si elle le (vouloir) __(7)__. Elle a voulu savoir alors si je l'aimais.",
+    "flags": []
+  },
+  {
+    "id": "2009-V06",
+    "answer": "faire",
+    "alternatives": [],
+    "left": "_(2)__ me marier avec elle. Je (dire) __(3)__ que cela me (être) __(4)__ et que nous (pouvoir) __(5)__ le (faire)",
+    "right": "si elle le (vouloir) __(7)__. Elle a voulu savoir alors si je l'aimais. Je (répondre) __(8)",
+    "flags": []
+  },
+  {
+    "id": "2009-V07",
+    "answer": "voulait",
+    "alternatives": [],
+    "left": "(dire) __(3)__ que cela me (être) __(4)__ et que nous (pouvoir) __(5)__ le (faire) __(6)__ si elle le (vouloir)",
+    "right": ". Elle a voulu savoir alors si je l'aimais. Je (répondre) __(8)__ comme je le (déjà faire) _",
+    "flags": []
+  },
+  {
+    "id": "2009-V08",
+    "answer": "’ ai répondu",
+    "alternatives": [],
+    "left": "r) __(5)__ le (faire) __(6)__ si elle le (vouloir) __(7)__. Elle a voulu savoir alors si je l'aimais. Je (répondre)",
+    "right": "comme je le (déjà faire) __(9)__ une fois, que cela ne (signifier) __(10)__ rien mais que s",
+    "flags": []
+  },
+  {
+    "id": "2009-V09",
+    "answer": "l’avais déjà fait",
+    "alternatives": [],
+    "left": "i elle le (vouloir) __(7)__. Elle a voulu savoir alors si je l'aimais. Je (répondre) __(8)__ comme je le (déjà faire)",
+    "right": "une fois, que cela ne (signifier) __(10)__ rien mais que sans doute je ne l'aimais pas. « Pourq",
+    "flags": [
+      "空前省音候选"
+    ]
+  },
+  {
+    "id": "2009-V10",
+    "answer": "signifiais",
+    "alternatives": [],
+    "left": "savoir alors si je l'aimais. Je (répondre) __(8)__ comme je le (déjà faire) __(9)__ une fois, que cela ne (signifier)",
+    "right": "rien mais que sans doute je ne l'aimais pas. « Pourquoi (m'épouser) __(11)__ alors ? » a-t-elle",
+    "flags": []
+  },
+  {
+    "id": "2009-V11",
+    "answer": "m’épouser",
+    "alternatives": [],
+    "left": "__(9)__ une fois, que cela ne (signifier) __(10)__ rien mais que sans doute je ne l'aimais pas. « Pourquoi (m'épouser)",
+    "right": "alors ? » a-t-elle dit. Je lui ai expliqué que cela n'avait aucune importance et que si elle le (",
+    "flags": []
+  },
+  {
+    "id": "2009-V12",
+    "answer": "désirait",
+    "alternatives": [],
+    "left": "épouser) __(11)__ alors ? » a-t-elle dit. Je lui ai expliqué que cela n'avait aucune importance et que si elle le (désirer)",
+    "right": ", nous pouvions nous marier. D'ailleurs, c'était elle qui le demandait et moi je (se contenter)",
+    "flags": []
+  },
+  {
+    "id": "2009-V13",
+    "answer": "me contenais",
+    "alternatives": [],
+    "left": "elle le (désirer) __(12)__, nous pouvions nous marier. D'ailleurs, c'était elle qui le demandait et moi je (se contenter)",
+    "right": "de dire oui. Elle a observé alors que le mariage était une chose grave. J'ai répondu « Non ». Elle",
+    "flags": []
+  },
+  {
+    "id": "2009-V14",
+    "answer": "s’est tue",
+    "alternatives": [],
+    "left": "ter) __(13)__ de dire oui. Elle a observé alors que le mariage était une chose grave. J'ai répondu « Non ». Elle (se taire)",
+    "right": "un moment et elle m'a regardé en silence. Puis elle a parlé. Elle voulait simplement savoir si je",
+    "flags": []
+  },
+  {
+    "id": "2009-V15",
+    "answer": "aurais accepté",
+    "alternatives": [],
+    "left": "aire) __(14)__ un moment et elle m'a regardé en silence. Puis elle a parlé. Elle voulait simplement savoir si je (accepter)",
+    "right": "la même proposition (venir) __(16)__ d'une autre femme, à qui je (attacher) __(17)__ de la",
+    "flags": []
+  },
+  {
+    "id": "2009-V16",
+    "answer": "venant",
+    "alternatives": [],
+    "left": "gardé en silence. Puis elle a parlé. Elle voulait simplement savoir si je (accepter) __(15)__ la même proposition (venir)",
+    "right": "d'une autre femme, à qui je (attacher) __(17)__ de la même façon. J'ai dit : « Naturellement. »",
+    "flags": []
+  },
+  {
+    "id": "2009-V17",
+    "answer": "serais attaché",
+    "alternatives": [],
+    "left": "mplement savoir si je (accepter) __(15)__ la même proposition (venir) __(16)__ d'une autre femme, à qui je (attacher)",
+    "right": "de la même façon. J'ai dit : « Naturellement. » Elle (se demander) __(18)__ alors si elle m'aim",
+    "flags": []
+  },
+  {
+    "id": "2009-V18",
+    "answer": "s’est demandé",
+    "alternatives": [],
+    "left": "(16)__ d'une autre femme, à qui je (attacher) __(17)__ de la même façon. J'ai dit : « Naturellement. » Elle (se demander)",
+    "right": "alors si elle m'aimait et moi, je ne pouvais rien savoir sur ce point. Après un autre moment de sil",
+    "flags": []
+  },
+  {
+    "id": "2009-V19",
+    "answer": "dégoûterais",
+    "alternatives": [],
+    "left": ", elle a murmuré que j'étais bizarre, qu'elle m'aimait sans doute à cause de cela mais que peut-être un jour je la (dégoûter)",
+    "right": "pour les mêmes raisons. Comme je me taisais, n'ayant rien à ajouter, elle m'a pris le bras (souri",
+    "flags": []
+  },
+  {
+    "id": "2009-V20",
+    "answer": "en souriant",
+    "alternatives": [],
+    "left": "(dégoûter) __(19)__ pour les mêmes raisons. Comme je me taisais, n'ayant rien à ajouter, elle m'a pris le bras (sourire)",
+    "right": "et elle a déclaré qu'elle voulait se marier avec moi.",
+    "flags": []
+  },
+  {
+    "id": "2010-V01",
+    "answer": "s’était mariée",
+    "alternatives": [],
+    "left": "mploi du temps est très chargé. Pourtant c'est aussi la mère d'une famille heureuse. Nathalie nous a raconté qu'elle (se marier)",
+    "right": "très jeune, dès sa sortie du lycée, et qu'elle (avoir) __(2)__ rapidement son premier enfant, Magal",
+    "flags": []
+  },
+  {
+    "id": "2010-V02",
+    "answer": "avait eu",
+    "alternatives": [],
+    "left": "une famille heureuse. Nathalie nous a raconté qu'elle (se marier) __(1)__ très jeune, dès sa sortie du lycée, et qu'elle (avoir)",
+    "right": "rapidement son premier enfant, Magalie, dont-elle (s'occuper) __(3)__ avec joie. Son mari, Pierre,",
+    "flags": []
+  },
+  {
+    "id": "2010-V03",
+    "answer": "s’était occupée",
+    "alternatives": [],
+    "left": "1)__ très jeune, dès sa sortie du lycée, et qu'elle (avoir) __(2)__ rapidement son premier enfant, Magalie, dont-elle (s'occuper)",
+    "right": "avec joie. Son mari, Pierre, (gagner) __(4)__ bien sa vie et elle n'(être) __(5)__ pas obligée de",
+    "flags": []
+  },
+  {
+    "id": "2010-V04",
+    "answer": "gagnait",
+    "alternatives": [],
+    "left": "elle (avoir) __(2)__ rapidement son premier enfant, Magalie, dont-elle (s'occuper) __(3)__ avec joie. Son mari, Pierre, (gagner)",
+    "right": "bien sa vie et elle n'(être) __(5)__ pas obligée de travailler. Deux ans plus tard, leur fils, Vict",
+    "flags": []
+  },
+  {
+    "id": "2010-V05",
+    "answer": "était",
+    "alternatives": [],
+    "left": "remier enfant, Magalie, dont-elle (s'occuper) __(3)__ avec joie. Son mari, Pierre, (gagner) __(4)__ bien sa vie et elle n'(être)",
+    "right": "pas obligée de travailler. Deux ans plus tard, leur fils, Victor, (naître) __(6)__ . Nathalie (remp",
+    "flags": []
+  },
+  {
+    "id": "2010-V06",
+    "answer": "est né",
+    "alternatives": [],
+    "left": "(gagner) __(4)__ bien sa vie et elle n'(être) __(5)__ pas obligée de travailler. Deux ans plus tard, leur fils, Victor, (naître)",
+    "right": ". Nathalie (remplir) __(7)__ parfaitement son rôle de mère au foyer et ses journées étaient bien oc",
+    "flags": []
+  },
+  {
+    "id": "2010-V07",
+    "answer": "remplissait",
+    "alternatives": [],
+    "left": "et elle n'(être) __(5)__ pas obligée de travailler. Deux ans plus tard, leur fils, Victor, (naître) __(6)__ . Nathalie (remplir)",
+    "right": "parfaitement son rôle de mère au foyer et ses journées étaient bien occupées. Elle (aimer) __(8)__",
+    "flags": []
+  },
+  {
+    "id": "2010-V08",
+    "answer": "aimait",
+    "alternatives": [],
+    "left": ") __(6)__ . Nathalie (remplir) __(7)__ parfaitement son rôle de mère au foyer et ses journées étaient bien occupées. Elle (aimer)",
+    "right": "cette vie de [CS 扫描全能王] 3 亿人都在用的扫描App --- famille. Puis, il y a trois ans, Nathamie (avoir) __(",
+    "flags": []
+  },
+  {
+    "id": "2010-V09",
+    "answer": "a eu",
+    "alternatives": [],
+    "left": "en occupées. Elle (aimer) __(8)__ cette vie de [CS 扫描全能王] 3 亿人都在用的扫描App --- famille. Puis, il y a trois ans, Nathamie (avoir)",
+    "right": "envie de travailler... mais sans formation, sans diplôme, que faire ? Elle (s'inscrire) __(10)__ à",
+    "flags": []
+  },
+  {
+    "id": "2010-V10",
+    "answer": "s’est inscrite",
+    "alternatives": [],
+    "left": "l y a trois ans, Nathamie (avoir) __(9)__ envie de travailler... mais sans formation, sans diplôme, que faire ? Elle (s'inscrire)",
+    "right": "à des cours par correspondance pour étudier les métiers de la communication. Après deux ans d'étude",
+    "flags": []
+  },
+  {
+    "id": "2010-V11",
+    "answer": "a obtenu",
+    "alternatives": [],
+    "left": "re) __(10)__ à des cours par correspondance pour étudier les métiers de la communication. Après deux ans d'études, elle (obtenir)",
+    "right": "un BTS en communication. Alors la chance (intervenir) __(12)__ : à ce moment-là, l'entreprise Biofo",
+    "flags": []
+  },
+  {
+    "id": "2010-V12",
+    "answer": "est intervenue",
+    "alternatives": [],
+    "left": "tiers de la communication. Après deux ans d'études, elle (obtenir) __(11)__ un BTS en communication. Alors la chance (intervenir)",
+    "right": ": à ce moment-là, l'entreprise Bioforce (chercher) __(13)__ un responsable de la communication. Nat",
+    "flags": []
+  },
+  {
+    "id": "2010-V13",
+    "answer": "cherchait",
+    "alternatives": [],
+    "left": "tenir) __(11)__ un BTS en communication. Alors la chance (intervenir) __(12)__ : à ce moment-là, l'entreprise Bioforce (chercher)",
+    "right": "un responsable de la communication. Nathalie (se présenter) __(14)__ à un entretien et elle (signer",
+    "flags": []
+  },
+  {
+    "id": "2010-V14",
+    "answer": "s’est présentée",
+    "alternatives": [],
+    "left": "__(12)__ : à ce moment-là, l'entreprise Bioforce (chercher) __(13)__ un responsable de la communication. Nathalie (se présenter)",
+    "right": "à un entretien et elle (signer) __(15)__ un contrat pour trois mois. Il y a maintenant deux ans qu",
+    "flags": []
+  },
+  {
+    "id": "2010-V15",
+    "answer": "a signé",
+    "alternatives": [],
+    "left": "Bioforce (chercher) __(13)__ un responsable de la communication. Nathalie (se présenter) __(14)__ à un entretien et elle (signer)",
+    "right": "un contrat pour trois mois. Il y a maintenant deux ans que Nathalie (occuper) __(16)__ ce poste.",
+    "flags": []
+  },
+  {
+    "id": "2010-V16",
+    "answer": "occupe",
+    "alternatives": [],
+    "left": "__(14)__ à un entretien et elle (signer) __(15)__ un contrat pour trois mois. Il y a maintenant deux ans que Nathalie (occuper)",
+    "right": "ce poste. Aujourd'hui, Nathalie a merveilleusement organisé sa vie. Son travail marche très bien e",
+    "flags": []
+  },
+  {
+    "id": "2010-V17",
+    "answer": "s’y sent",
+    "alternatives": [],
+    "left": ") __(16)__ ce poste. Aujourd'hui, Nathalie a merveilleusement organisé sa vie. Son travail marche très bien et elle (s'y sentir)",
+    "right": "épanouie. Chez elle, elle (aider) __(18)__ par une jeune fille au pair et son mari (participer) __(",
+    "flags": []
+  },
+  {
+    "id": "2010-V18",
+    "answer": "est aidée",
+    "alternatives": [],
+    "left": "a merveilleusement organisé sa vie. Son travail marche très bien et elle (s'y sentir) __(17)__ épanouie. Chez elle, elle (aider)",
+    "right": "par une jeune fille au pair et son mari (participer) __(19)__ aussi aux travaux de la maison et à l",
+    "flags": []
+  },
+  {
+    "id": "2010-V19",
+    "answer": "participe",
+    "alternatives": [],
+    "left": "ien et elle (s'y sentir) __(17)__ épanouie. Chez elle, elle (aider) __(18)__ par une jeune fille au pair et son mari (participer)",
+    "right": "aussi aux travaux de la maison et à l'éducation des enfants. Elle reconnaît qu'elle (réussir) __(20",
+    "flags": []
+  },
+  {
+    "id": "2010-V20",
+    "answer": "a réussi",
+    "alternatives": [],
+    "left": "r et son mari (participer) __(19)__ aussi aux travaux de la maison et à l'éducation des enfants. Elle reconnaît qu'elle (réussir)",
+    "right": ", mais qu'elle a eu de la chance.",
+    "flags": []
+  },
+  {
+    "id": "2011-V01",
+    "answer": "attendais",
+    "alternatives": [],
+    "left": "C'était le jour de la rentrée des classes au lycée, je me suis levée de bonne heure, je (attendre)",
+    "right": "le bus sur la place de Fourmis, le village où je (habiter)__(2)__ et qui (être)__(3)__ à huit kilom",
+    "flags": []
+  },
+  {
+    "id": "2011-V02",
+    "answer": "habitais",
+    "alternatives": [],
+    "left": "classes au lycée, je me suis levée de bonne heure, je (attendre)__(1)__ le bus sur la place de Fourmis, le village où je (habiter)",
+    "right": "et qui (être)__(3)__ à huit kilomètres de la grande ville. En face, mon école primaire : « École Pa",
+    "flags": []
+  },
+  {
+    "id": "2011-V03",
+    "answer": "était",
+    "alternatives": [],
+    "left": "me suis levée de bonne heure, je (attendre)__(1)__ le bus sur la place de Fourmis, le village où je (habiter)__(2)__ et qui (être)",
+    "right": "à huit kilomètres de la grande ville. En face, mon école primaire : « École Pasteur » ; ce (être)__",
+    "flags": []
+  },
+  {
+    "id": "2011-V04",
+    "answer": "était",
+    "alternatives": [],
+    "left": "ter)__(2)__ et qui (être)__(3)__ à huit kilomètres de la grande ville. En face, mon école primaire : « École Pasteur » ; ce (être)",
+    "right": "écrit en grosses lettres. Il (faire)__(5)__ froid. Si Je (s'habiller)__(6)__ un peu plus ... Souda",
+    "flags": []
+  },
+  {
+    "id": "2011-V05",
+    "answer": "faisait",
+    "alternatives": [],
+    "left": "mètres de la grande ville. En face, mon école primaire : « École Pasteur » ; ce (être)__(4)__ écrit en grosses lettres. Il (faire)",
+    "right": "froid. Si Je (s'habiller)__(6)__ un peu plus ... Soudain, la porte de l'école (s'ouvrir)__(7)__ et",
+    "flags": []
+  },
+  {
+    "id": "2011-V06",
+    "answer": "m’étais habillée",
+    "alternatives": [],
+    "left": "e, mon école primaire : « École Pasteur » ; ce (être)__(4)__ écrit en grosses lettres. Il (faire)__(5)__ froid. Si Je (s'habiller)",
+    "right": "un peu plus ... Soudain, la porte de l'école (s'ouvrir)__(7)__ et le directeur me (regarder)__(8)_",
+    "flags": []
+  },
+  {
+    "id": "2011-V07",
+    "answer": "s’est ouverte",
+    "alternatives": [],
+    "left": "it en grosses lettres. Il (faire)__(5)__ froid. Si Je (s'habiller)__(6)__ un peu plus ... Soudain, la porte de l'école (s'ouvrir)",
+    "right": "et le directeur me (regarder)__(8)__ : « Bonjour Sophie ! » et il (sortir)__(9)__ après (mettre)__(",
+    "flags": []
+  },
+  {
+    "id": "2011-V08",
+    "answer": "m’a regardée",
+    "alternatives": [],
+    "left": ")__ froid. Si Je (s'habiller)__(6)__ un peu plus ... Soudain, la porte de l'école (s'ouvrir)__(7)__ et le directeur me (regarder)",
+    "right": ": « Bonjour Sophie ! » et il (sortir)__(9)__ après (mettre)__(10)__ son chapeau, il (ressembler)__(",
+    "flags": [
+      "空前省音候选"
+    ]
+  },
+  {
+    "id": "2011-V09",
+    "answer": "est sorti",
+    "alternatives": [],
+    "left": "lus ... Soudain, la porte de l'école (s'ouvrir)__(7)__ et le directeur me (regarder)__(8)__ : « Bonjour Sophie ! » et il (sortir)",
+    "right": "après (mettre)__(10)__ son chapeau, il (ressembler)__(11)__ a un détective privé (私家侦探) surtout qu'",
+    "flags": []
+  },
+  {
+    "id": "2011-V10",
+    "answer": "avoir mis",
+    "alternatives": [],
+    "left": "orte de l'école (s'ouvrir)__(7)__ et le directeur me (regarder)__(8)__ : « Bonjour Sophie ! » et il (sortir)__(9)__ après (mettre)",
+    "right": "son chapeau, il (ressembler)__(11)__ a un détective privé (私家侦探) surtout qu'il (être)__(12)__ très",
+    "flags": []
+  },
+  {
+    "id": "2011-V11",
+    "answer": "ressemblait",
+    "alternatives": [],
+    "left": "le directeur me (regarder)__(8)__ : « Bonjour Sophie ! » et il (sortir)__(9)__ après (mettre)__(10)__ son chapeau, il (ressembler)",
+    "right": "a un détective privé (私家侦探) surtout qu'il (être)__(12)__ très grand. Il (aller)__(13)__ vers sa gra",
+    "flags": []
+  },
+  {
+    "id": "2011-V12",
+    "answer": "était",
+    "alternatives": [],
+    "left": "et il (sortir)__(9)__ après (mettre)__(10)__ son chapeau, il (ressembler)__(11)__ a un détective privé (私家侦探) surtout qu'il (être)",
+    "right": "très grand. Il (aller)__(13)__ vers sa grande voiture ; il (se garer)__(14)__ devant moi et me (dir",
+    "flags": []
+  },
+  {
+    "id": "2011-V13",
+    "answer": "est allé",
+    "alternatives": [],
+    "left": "ttre)__(10)__ son chapeau, il (ressembler)__(11)__ a un détective privé (私家侦探) surtout qu'il (être)__(12)__ très grand. Il (aller)",
+    "right": "vers sa grande voiture ; il (se garer)__(14)__ devant moi et me (dire)__(15)__ : « (monter)__(16)__",
+    "flags": []
+  },
+  {
+    "id": "2011-V14",
+    "answer": "s’est garé",
+    "alternatives": [],
+    "left": ")__ a un détective privé (私家侦探) surtout qu'il (être)__(12)__ très grand. Il (aller)__(13)__ vers sa grande voiture ; il (se garer)",
+    "right": "devant moi et me (dire)__(15)__ : « (monter)__(16)__ ! » (Arriver)__(17)__ au lycée, on (se serrer",
+    "flags": []
+  },
+  {
+    "id": "2011-V15",
+    "answer": "m’a dit",
+    "alternatives": [],
+    "left": "surtout qu'il (être)__(12)__ très grand. Il (aller)__(13)__ vers sa grande voiture ; il (se garer)__(14)__ devant moi et me (dire)",
+    "right": ": « (monter)__(16)__ ! » (Arriver)__(17)__ au lycée, on (se serrer)__(18)__ la main. Et je (s'en a",
+    "flags": [
+      "空前省音候选"
+    ]
+  },
+  {
+    "id": "2011-V16",
+    "answer": "Monte",
+    "alternatives": [],
+    "left": "_(12)__ très grand. Il (aller)__(13)__ vers sa grande voiture ; il (se garer)__(14)__ devant moi et me (dire)__(15)__ : « (monter)",
+    "right": "! » (Arriver)__(17)__ au lycée, on (se serrer)__(18)__ la main. Et je (s'en aller)__(19)__ vers le",
+    "flags": []
+  },
+  {
+    "id": "2011-V17",
+    "answer": "Arrivé",
+    "alternatives": [],
+    "left": "(aller)__(13)__ vers sa grande voiture ; il (se garer)__(14)__ devant moi et me (dire)__(15)__ : « (monter)__(16)__ ! » (Arriver)",
+    "right": "au lycée, on (se serrer)__(18)__ la main. Et je (s'en aller)__(19)__ vers les enfants qui (attendre",
+    "flags": []
+  },
+  {
+    "id": "2011-V18",
+    "answer": "s’est serré",
+    "alternatives": [],
+    "left": "iture ; il (se garer)__(14)__ devant moi et me (dire)__(15)__ : « (monter)__(16)__ ! » (Arriver)__(17)__ au lycée, on (se serrer)",
+    "right": "la main. Et je (s'en aller)__(19)__ vers les enfants qui (attendre)__(20)__ devant la poste d'entré",
+    "flags": []
+  },
+  {
+    "id": "2011-V19",
+    "answer": "m’en suis allée",
+    "alternatives": [],
+    "left": "moi et me (dire)__(15)__ : « (monter)__(16)__ ! » (Arriver)__(17)__ au lycée, on (se serrer)__(18)__ la main. Et je (s'en aller)",
+    "right": "vers les enfants qui (attendre)__(20)__ devant la poste d'entrée de mon nouveau lycée.",
+    "flags": []
+  },
+  {
+    "id": "2011-V20",
+    "answer": "attendaient",
+    "alternatives": [],
+    "left": "(16)__ ! » (Arriver)__(17)__ au lycée, on (se serrer)__(18)__ la main. Et je (s'en aller)__(19)__ vers les enfants qui (attendre)",
+    "right": "devant la poste d'entrée de mon nouveau lycée.",
+    "flags": []
+  },
+  {
+    "id": "2012-V01",
+    "answer": "raconte",
+    "alternatives": [],
+    "left": "## Une aventure inoubliable « Papa, (raconter)",
+    "right": "-moi ton aventure inoubliable, s'il te plaît ». « Bon. Je vais réfléchir. L'aventure dont je (se s",
+    "flags": []
+  },
+  {
+    "id": "2012-V02",
+    "answer": "me souviendrai",
+    "alternatives": [],
+    "left": "a, (raconter) __(1)__ -moi ton aventure inoubliable, s'il te plaît ». « Bon. Je vais réfléchir. L'aventure dont je (se souvenir)",
+    "right": "toute ma vie (avoir) __(3)__ lieu quand je (avoir) __(4)__ 18 ans. (réussir) __(5)__ mon bac, j'ai",
+    "flags": []
+  },
+  {
+    "id": "2012-V03",
+    "answer": "a eu",
+    "alternatives": [],
+    "left": "n aventure inoubliable, s'il te plaît ». « Bon. Je vais réfléchir. L'aventure dont je (se souvenir) __(2)__ toute ma vie (avoir)",
+    "right": "lieu quand je (avoir) __(4)__ 18 ans. (réussir) __(5)__ mon bac, j'ai rendu visite à mes grands-par",
+    "flags": []
+  },
+  {
+    "id": "2012-V04",
+    "answer": "avais",
+    "alternatives": [],
+    "left": "e plaît ». « Bon. Je vais réfléchir. L'aventure dont je (se souvenir) __(2)__ toute ma vie (avoir) __(3)__ lieu quand je (avoir)",
+    "right": "18 ans. (réussir) __(5)__ mon bac, j'ai rendu visite à mes grands-parents qui (habiter) __(6)__ à c",
+    "flags": []
+  },
+  {
+    "id": "2012-V05",
+    "answer": "Ayant réussi",
+    "alternatives": [],
+    "left": "réfléchir. L'aventure dont je (se souvenir) __(2)__ toute ma vie (avoir) __(3)__ lieu quand je (avoir) __(4)__ 18 ans. (réussir)",
+    "right": "mon bac, j'ai rendu visite à mes grands-parents qui (habiter) __(6)__ à ce moment-là en bordure d'u",
+    "flags": []
+  },
+  {
+    "id": "2012-V06",
+    "answer": "habitaient",
+    "alternatives": [],
+    "left": "ir) __(3)__ lieu quand je (avoir) __(4)__ 18 ans. (réussir) __(5)__ mon bac, j'ai rendu visite à mes grands-parents qui (habiter)",
+    "right": "à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) __(7)__ dans la forêt. Comme il (p",
+    "flags": []
+  },
+  {
+    "id": "2012-V07",
+    "answer": "me suis aventuré",
+    "alternatives": [],
+    "left": "ac, j'ai rendu visite à mes grands-parents qui (habiter) __(6)__ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer)",
+    "right": "dans la forêt. Comme il (pleuvoir) __(8)__ la veille, l'air (être) __(9)__ frais et on (pouvoir) __",
+    "flags": []
+  },
+  {
+    "id": "2012-V08",
+    "answer": "avait plu",
+    "alternatives": [],
+    "left": "qui (habiter) __(6)__ à ce moment-là en bordure d'une forêt. Un jour, je (s'aventurer) __(7)__ dans la forêt. Comme il (pleuvoir)",
+    "right": "la veille, l'air (être) __(9)__ frais et on (pouvoir) __(10)__ entendre le ruisseau (murmurer) __(1",
+    "flags": []
+  },
+  {
+    "id": "2012-V09",
+    "answer": "était",
+    "alternatives": [],
+    "left": "t-là en bordure d'une forêt. Un jour, je (s'aventurer) __(7)__ dans la forêt. Comme il (pleuvoir) __(8)__ la veille, l'air (être)",
+    "right": "frais et on (pouvoir) __(10)__ entendre le ruisseau (murmurer) __(11)__. Tout à coup, une maison co",
+    "flags": []
+  },
+  {
+    "id": "2012-V10",
+    "answer": "pouvait",
+    "alternatives": [],
+    "left": "n jour, je (s'aventurer) __(7)__ dans la forêt. Comme il (pleuvoir) __(8)__ la veille, l'air (être) __(9)__ frais et on (pouvoir)",
+    "right": "entendre le ruisseau (murmurer) __(11)__. Tout à coup, une maison coquette (apparaître) __(12)__ de",
+    "flags": []
+  },
+  {
+    "id": "2012-V11",
+    "answer": "murmurer",
+    "alternatives": [],
+    "left": "forêt. Comme il (pleuvoir) __(8)__ la veille, l'air (être) __(9)__ frais et on (pouvoir) __(10)__ entendre le ruisseau (murmurer)",
+    "right": ". Tout à coup, une maison coquette (apparaître) __(12)__ devant mes yeux. La porte était ouverte. Je",
+    "flags": []
+  },
+  {
+    "id": "2012-V12",
+    "answer": "est apparue",
+    "alternatives": [],
+    "left": "e) __(9)__ frais et on (pouvoir) __(10)__ entendre le ruisseau (murmurer) __(11)__. Tout à coup, une maison coquette (apparaître)",
+    "right": "devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre)",
+    "flags": []
+  },
+  {
+    "id": "2012-V13",
+    "answer": "a répondu",
+    "alternatives": [],
+    "left": "oquette (apparaître) __(12)__ devant mes yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre)",
+    "right": ". Sans doute, l'hôte (sortir) __(14)__. Enfin, (parvenir) __(15)__ au premier étage, j'ai poussé la",
+    "flags": []
+  },
+  {
+    "id": "2012-V14",
+    "answer": "était sorti",
+    "alternatives": [],
+    "left": "es yeux. La porte était ouverte. Je suis entré. J'ai appelé, mais personne ne me (répondre) __(13)__. Sans doute, l'hôte (sortir)",
+    "right": ". Enfin, (parvenir) __(15)__ au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (po",
+    "flags": []
+  },
+  {
+    "id": "2012-V15",
+    "answer": "parvenu",
+    "alternatives": [],
+    "left": "rte. Je suis entré. J'ai appelé, mais personne ne me (répondre) __(13)__. Sans doute, l'hôte (sortir) __(14)__. Enfin, (parvenir)",
+    "right": "au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) __(16)__ une robe blan",
+    "flags": []
+  },
+  {
+    "id": "2012-V16",
+    "answer": "portant",
+    "alternatives": [],
+    "left": "l'hôte (sortir) __(14)__. Enfin, (parvenir) __(15)__ au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter)",
+    "right": "une robe blanche, (lire) __(17)__ un roman attentivement sur une chaise longue. La lumière du jour,",
+    "flags": []
+  },
+  {
+    "id": "2012-V17",
+    "answer": "lisait",
+    "alternatives": [],
+    "left": "parvenir) __(15)__ au premier étage, j'ai poussé la porte d'une salle. Une jeune fille (porter) __(16)__ une robe blanche, (lire)",
+    "right": "un roman attentivement sur une chaise longue. La lumière du jour, (tamiser) __(18)__ par les vitrau",
+    "flags": []
+  },
+  {
+    "id": "2012-V18",
+    "answer": "tamisée",
+    "alternatives": [],
+    "left": "e (porter) __(16)__ une robe blanche, (lire) __(17)__ un roman attentivement sur une chaise longue. La lumière du jour, (tamiser)",
+    "right": "par les vitraux, (caresser) __(19)__ ses cheveux noirs... « Tu (ne pas devoir) __(20)__ entrer che",
+    "flags": []
+  },
+  {
+    "id": "2012-V19",
+    "answer": "caressait",
+    "alternatives": [],
+    "left": "(lire) __(17)__ un roman attentivement sur une chaise longue. La lumière du jour, (tamiser) __(18)__ par les vitraux, (caresser)",
+    "right": "ses cheveux noirs... « Tu (ne pas devoir) __(20)__ entrer chez les autres sans frapper à la porte,",
+    "flags": []
+  },
+  {
+    "id": "2012-V20",
+    "answer": "n’aurais pas dû",
+    "alternatives": [],
+    "left": "se longue. La lumière du jour, (tamiser) __(18)__ par les vitraux, (caresser) __(19)__ ses cheveux noirs... « Tu (ne pas devoir)",
+    "right": "entrer chez les autres sans frapper à la porte, Papa » « Chéri, c'est ainsi que ta maman et moi, n",
+    "flags": []
+  },
+  {
+    "id": "2013-V01",
+    "answer": "l’ont amenée",
+    "alternatives": [],
+    "left": ", une jeune Algérienne en France Farida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener)",
+    "right": "à Paris, elle (être) __(2)__ petite mais elle (se souvenir) __(3)__ bien de ses premières impressio",
+    "flags": [
+      "空前省音候选"
+    ]
+  },
+  {
+    "id": "2013-V02",
+    "answer": "était",
+    "alternatives": [],
+    "left": "nce Farida est Algérienne. Ses parents sont arrivés en France il y a dix ans. Quand ils la (amener) __(1)__ à Paris, elle (être)",
+    "right": "petite mais elle (se souvenir) __(3)__ bien de ses premières impressions. Ses parents (dire) __(4)_",
+    "flags": []
+  },
+  {
+    "id": "2013-V03",
+    "answer": "se souvient",
+    "alternatives": [],
+    "left": "sont arrivés en France il y a dix ans. Quand ils la (amener) __(1)__ à Paris, elle (être) __(2)__ petite mais elle (se souvenir)",
+    "right": "bien de ses premières impressions. Ses parents (dire) __(4)__ toujours : « Ici en Algérie, la vie e",
+    "flags": []
+  },
+  {
+    "id": "2013-V04",
+    "answer": "disaient",
+    "alternatives": [],
+    "left": "__(1)__ à Paris, elle (être) __(2)__ petite mais elle (se souvenir) __(3)__ bien de ses premières impressions. Ses parents (dire)",
+    "right": "toujours : « Ici en Algérie, la vie est trop difficile. Nous (devoir) __(5)__ partir en France. Tou",
+    "flags": []
+  },
+  {
+    "id": "2013-V05",
+    "answer": "devons",
+    "alternatives": [],
+    "left": "en de ses premières impressions. Ses parents (dire) __(4)__ toujours : « Ici en Algérie, la vie est trop difficile. Nous (devoir)",
+    "right": "partir en France. Tout (être) __(6)__ plus facile là-bas. Il y a du travail pour tous. On (pouvoir)",
+    "flags": []
+  },
+  {
+    "id": "2013-V06",
+    "answer": "sera",
+    "alternatives": [],
+    "left": "arents (dire) __(4)__ toujours : « Ici en Algérie, la vie est trop difficile. Nous (devoir) __(5)__ partir en France. Tout (être)",
+    "right": "plus facile là-bas. Il y a du travail pour tous. On (pouvoir) __(7)__ trouver un meilleur logement.",
+    "flags": []
+  },
+  {
+    "id": "2013-V07",
+    "answer": "pourra",
+    "alternatives": [],
+    "left": "ficile. Nous (devoir) __(5)__ partir en France. Tout (être) __(6)__ plus facile là-bas. Il y a du travail pour tous. On (pouvoir)",
+    "right": "trouver un meilleur logement. » Dans sa petite tête, Fabrida (voir) __(8)__ la France comme un pay",
+    "flags": []
+  },
+  {
+    "id": "2013-V08",
+    "answer": "voyait",
+    "alternatives": [],
+    "left": "le là-bas. Il y a du travail pour tous. On (pouvoir) __(7)__ trouver un meilleur logement. » Dans sa petite tête, Fabrida (voir)",
+    "right": "la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, o",
+    "flags": []
+  },
+  {
+    "id": "2013-V09",
+    "answer": "serait",
+    "alternatives": [],
+    "left": "(voir) __(8)__ la France comme un pays où tout le monde était riche dans ses maisons très hautes et très belles, où la vie (être)",
+    "right": "moins dure. Ils sont arrivés à Paris un jour où il (pleuvoir) __(10)__ très fort et où il (faire)",
+    "flags": []
+  },
+  {
+    "id": "2013-V10",
+    "answer": "pleuvait",
+    "alternatives": [],
+    "left": "s ses maisons très hautes et très belles, où la vie (être) __(9)__ moins dure. Ils sont arrivés à Paris un jour où il (pleuvoir)",
+    "right": "très fort et où il (faire) __(11)__ vraiment froid. La première nuit, ils (aller) __(12)__ dans l'h",
+    "flags": []
+  },
+  {
+    "id": "2013-V11",
+    "answer": "faisait",
+    "alternatives": [],
+    "left": "lles, où la vie (être) __(9)__ moins dure. Ils sont arrivés à Paris un jour où il (pleuvoir) __(10)__ très fort et où il (faire)",
+    "right": "vraiment froid. La première nuit, ils (aller) __(12)__ dans l'hôtel le moins cher près de la gare d",
+    "flags": []
+  },
+  {
+    "id": "2013-V12",
+    "answer": "sont allés",
+    "alternatives": [],
+    "left": "rivés à Paris un jour où il (pleuvoir) __(10)__ très fort et où il (faire) __(11)__ vraiment froid. La première nuit, ils (aller)",
+    "right": "dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) __(1",
+    "flags": []
+  },
+  {
+    "id": "2013-V13",
+    "answer": "pensaient",
+    "alternatives": [],
+    "left": "remière nuit, ils (aller) __(12)__ dans l'hôtel le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser)",
+    "right": "rester deux ou trois jours (attendre) __(14)__ de (trouver) __(15)__ un logement. En réalité la rec",
+    "flags": []
+  },
+  {
+    "id": "2013-V14",
+    "answer": "en attendant",
+    "alternatives": [],
+    "left": "le moins cher près de la gare de Lyon. C'était un hôtel bien triste. Ils (penser) __(13)__ rester deux ou trois jours (attendre)",
+    "right": "de (trouver) __(15)__ un logement. En réalité la recherche d'un logement pas trop cher (être) __(16",
+    "flags": []
+  },
+  {
+    "id": "2013-V15",
+    "answer": "trouver",
+    "alternatives": [],
+    "left": "la gare de Lyon. C'était un hôtel bien triste. Ils (penser) __(13)__ rester deux ou trois jours (attendre) __(14)__ de (trouver)",
+    "right": "un logement. En réalité la recherche d'un logement pas trop cher (être) __(16)__ très difficile. Il",
+    "flags": []
+  },
+  {
+    "id": "2013-V16",
+    "answer": "a été",
+    "alternatives": [],
+    "left": "ou trois jours (attendre) __(14)__ de (trouver) __(15)__ un logement. En réalité la recherche d'un logement pas trop cher (être)",
+    "right": "très difficile. Il (falloir) __(17)__ toujours aller en banlieue et les banlieues étaient bien loin",
+    "flags": []
+  },
+  {
+    "id": "2013-V17",
+    "answer": "fallait",
+    "alternatives": [],
+    "left": "(trouver) __(15)__ un logement. En réalité la recherche d'un logement pas trop cher (être) __(16)__ très difficile. Il (falloir)",
+    "right": "toujours aller en banlieue et les banlieues étaient bien loin. Où (être) __(18)__ le soleil de l'Al",
+    "flags": []
+  },
+  {
+    "id": "2013-V18",
+    "answer": "était",
+    "alternatives": [],
+    "left": "er (être) __(16)__ très difficile. Il (falloir) __(17)__ toujours aller en banlieue et les banlieues étaient bien loin. Où (être)",
+    "right": "le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) __(19)__ si dans ce pays le so",
+    "flags": []
+  },
+  {
+    "id": "2013-V19",
+    "answer": "se demandait",
+    "alternatives": [],
+    "left": "lieue et les banlieues étaient bien loin. Où (être) __(18)__ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander)",
+    "right": "si dans ce pays le soleil (exister) __(20)__ encore.",
+    "flags": []
+  },
+  {
+    "id": "2013-V20",
+    "answer": "existait",
+    "alternatives": [],
+    "left": "(être) __(18)__ le soleil de l'Algérie ? Fabrida, dans sa petite tête, (se demander) __(19)__ si dans ce pays le soleil (exister)",
+    "right": "encore.",
+    "flags": []
+  },
+  {
+    "id": "2014-V01",
+    "answer": "semblait",
+    "alternatives": [],
+    "left": "## Fable pour nos fils Il y avait une fois un village, au cœur de l'Amérique, où toute créature",
+    "right": "(sembler) __(2)__ (vivre) en parfaite harmonie avec l'ensemble de la nature. Au printemps, les",
+    "flags": []
+  },
+  {
+    "id": "2014-V02",
+    "answer": "vivre",
+    "alternatives": [],
+    "left": "## Fable pour nos fils Il y avait une fois un village, au cœur de l'Amérique, où toute créature __(1)__ (sembler)",
+    "right": "(vivre) en parfaite harmonie avec l'ensemble de la nature. Au printemps, les fleurs blanches de s",
+    "flags": []
+  },
+  {
+    "id": "2014-V03",
+    "answer": "s’envolaient",
+    "alternatives": [],
+    "left": "(sembler) __(2)__ (vivre) en parfaite harmonie avec l'ensemble de la nature. Au printemps, les fleurs blanches de ses vergers",
+    "right": "(s'envoler) des coteaux (n.m. 山丘) pour __(4)__ (dériver) joliment dans la brise, au-dessus du",
+    "flags": []
+  },
+  {
+    "id": "2014-V04",
+    "answer": "dériver",
+    "alternatives": [],
+    "left": "avec l'ensemble de la nature. Au printemps, les fleurs blanches de ses vergers __(3)__ (s'envoler) des coteaux (n.m. 山丘) pour",
+    "right": "(dériver) joliment dans la brise, au-dessus du vert tendre des jeunes blés. En automne, érables,",
+    "flags": []
+  },
+  {
+    "id": "2014-V05",
+    "answer": "se paraient",
+    "alternatives": [],
+    "left": "(dériver) joliment dans la brise, au-dessus du vert tendre des jeunes blés. En automne, érables, chênes et bouleaux (n.m. 桦树)",
+    "right": "(se parer) de couleurs chatoyantes qui __(6)__ (scintiller) entre les fûts (n.m. 树干) sombres",
+    "flags": []
+  },
+  {
+    "id": "2014-V06",
+    "answer": "scintillaient",
+    "alternatives": [],
+    "left": "vert tendre des jeunes blés. En automne, érables, chênes et bouleaux (n.m. 桦树) __(5)__ (se parer) de couleurs chatoyantes qui",
+    "right": "(scintiller) entre les fûts (n.m. 树干) sombres des pins. L'hiver __(7)__ (venir), les bords de",
+    "flags": []
+  },
+  {
+    "id": "2014-V07",
+    "answer": "venu",
+    "alternatives": [],
+    "left": "桦树) __(5)__ (se parer) de couleurs chatoyantes qui __(6)__ (scintiller) entre les fûts (n.m. 树干) sombres des pins. L'hiver",
+    "right": "(venir), les bords des chemins __(8)__ (être) encore des miracles de beauté. Les campagnes envi",
+    "flags": []
+  },
+  {
+    "id": "2014-V08",
+    "answer": "étaient",
+    "alternatives": [],
+    "left": "toyantes qui __(6)__ (scintiller) entre les fûts (n.m. 树干) sombres des pins. L'hiver __(7)__ (venir), les bords des chemins",
+    "right": "(être) encore des miracles de beauté. Les campagnes environnantes __(9)__ (être) réputées pour",
+    "flags": []
+  },
+  {
+    "id": "2014-V09",
+    "answer": "étaient",
+    "alternatives": [],
+    "left": "ins. L'hiver __(7)__ (venir), les bords des chemins __(8)__ (être) encore des miracles de beauté. Les campagnes environnantes",
+    "right": "(être) réputées pour l'abondance et la variété de leurs oiseaux ; les gens __(10)__ (accourir)",
+    "flags": []
+  },
+  {
+    "id": "2014-V10",
+    "answer": "accouraient",
+    "alternatives": [],
+    "left": "acles de beauté. Les campagnes environnantes __(9)__ (être) réputées pour l'abondance et la variété de leurs oiseaux ; les gens",
+    "right": "(accourir) de fort loin à l'automne et au printemps pour __(11)__ (observer) le passage du flot",
+    "flags": []
+  },
+  {
+    "id": "2014-V11",
+    "answer": "observer",
+    "alternatives": [],
+    "left": "es pour l'abondance et la variété de leurs oiseaux ; les gens __(10)__ (accourir) de fort loin à l'automne et au printemps pour",
+    "right": "(observer) le passage du flot des migrateurs. Et la vie __(12)__ (s'écouler), heureuse, comme e",
+    "flags": []
+  },
+  {
+    "id": "2014-V12",
+    "answer": "s’écoulait",
+    "alternatives": [],
+    "left": ")__ (accourir) de fort loin à l'automne et au printemps pour __(11)__ (observer) le passage du flot des migrateurs. Et la vie",
+    "right": "(s'écouler), heureuse, comme elle l'être __(13)__ toujours depuis l'époque lointaine où les pio",
+    "flags": []
+  },
+  {
+    "id": "2014-V13",
+    "answer": "avait été",
+    "alternatives": [],
+    "left": "mps pour __(11)__ (observer) le passage du flot des migrateurs. Et la vie __(12)__ (s'écouler), heureuse, comme elle l'être",
+    "right": "toujours depuis l'époque lointaine où les pionniers __(14)__ (édifier) là leurs premières maisons",
+    "flags": []
+  },
+  {
+    "id": "2014-V14",
+    "answer": "avaient édifié",
+    "alternatives": [],
+    "left": "urs. Et la vie __(12)__ (s'écouler), heureuse, comme elle l'être __(13)__ toujours depuis l'époque lointaine où les pionniers",
+    "right": "(édifier) là leurs premières maisons. Mais un jour, un mal étrange __(15)__ (s'insinuer, 渗入，混入",
+    "flags": []
+  },
+  {
+    "id": "2014-V15",
+    "answer": "s’insinua",
+    "alternatives": [],
+    "left": "oujours depuis l'époque lointaine où les pionniers __(14)__ (édifier) là leurs premières maisons. Mais un jour, un mal étrange",
+    "right": "(s'insinuer, 渗入，混入) dans le pays, et toutes choses __(16)__ (commencer) à changer. Un mauvais s",
+    "flags": []
+  },
+  {
+    "id": "2014-V16",
+    "answer": "commencèrent",
+    "alternatives": [],
+    "left": "édifier) là leurs premières maisons. Mais un jour, un mal étrange __(15)__ (s'insinuer, 渗入，混入) dans le pays, et toutes choses",
+    "right": "(commencer) à changer. Un mauvais sort __(17)__ (sembler) __(18)__ (s'abattre) sur la communa",
+    "flags": []
+  },
+  {
+    "id": "2014-V17",
+    "answer": "sembla",
+    "alternatives": [],
+    "left": "r, un mal étrange __(15)__ (s'insinuer, 渗入，混入) dans le pays, et toutes choses __(16)__ (commencer) à changer. Un mauvais sort",
+    "right": "(sembler) __(18)__ (s'abattre) sur la communauté. Des adultes et même des enfants, __(19)__ (f",
+    "flags": []
+  },
+  {
+    "id": "2014-V18",
+    "answer": "s’être abattu",
+    "alternatives": [],
+    "left": "15)__ (s'insinuer, 渗入，混入) dans le pays, et toutes choses __(16)__ (commencer) à changer. Un mauvais sort __(17)__ (sembler)",
+    "right": "(s'abattre) sur la communauté. Des adultes et même des enfants, __(19)__ (frapper) dans le feu",
+    "flags": []
+  },
+  {
+    "id": "2014-V19",
+    "answer": "frappés",
+    "alternatives": [],
+    "left": "ncer) à changer. Un mauvais sort __(17)__ (sembler) __(18)__ (s'abattre) sur la communauté. Des adultes et même des enfants,",
+    "right": "(frapper) dans le feu du travail, ou en plein jeu, __(20)__ (mourir) en quelques heures sans qu",
+    "flags": []
+  },
+  {
+    "id": "2014-V20",
+    "answer": "moururent",
+    "alternatives": [],
+    "left": "_ (s'abattre) sur la communauté. Des adultes et même des enfants, __(19)__ (frapper) dans le feu du travail, ou en plein jeu,",
+    "right": "(mourir) en quelques heures sans qu'on sût pourquoi.",
+    "flags": []
+  },
+  {
+    "id": "2015-V01",
+    "answer": "l’a recouverte",
+    "alternatives": [],
+    "left": "ment enterrer une poupée cassée :) - Mais dans quoi la mettrons-nous ? - J'ai une vieille boîte à jouet ; ma bonne la (recouvrir)",
+    "right": "de tissu rose ; c'est très joli ; (venir voir) __(2)__. Les petites coururent chez Mme de Réan, où",
+    "flags": [
+      "空前省音候选"
+    ]
+  },
+  {
+    "id": "2015-V02",
+    "answer": "venez voir",
+    "alternatives": [],
+    "left": "mettrons-nous ? - J'ai une vieille boîte à jouet ; ma bonne la (recouvrir) __(1)__ de tissu rose ; c'est très joli ; (venir voir)",
+    "right": ". Les petites coururent chez Mme de Réan, où la bonne (finir) __(3)__ l'oreiller et le matelas qu'o",
+    "flags": []
+  },
+  {
+    "id": "2015-V03",
+    "answer": "finissait",
+    "alternatives": [],
+    "left": "rir) __(1)__ de tissu rose ; c'est très joli ; (venir voir) __(2)__. Les petites coururent chez Mme de Réan, où la bonne (finir)",
+    "right": "l'oreiller et le matelas qu'on (devoir mettre) __(4)__ dans la boîte ; les enfants (admirer) __(5)_",
+    "flags": []
+  },
+  {
+    "id": "2015-V04",
+    "answer": "devait mettre",
+    "alternatives": [],
+    "left": "oir) __(2)__. Les petites coururent chez Mme de Réan, où la bonne (finir) __(3)__ l'oreiller et le matelas qu'on (devoir mettre)",
+    "right": "dans la boîte ; les enfants (admirer) __(5)__ ce charmant cercueil ; elles y mirent la poupée, et,",
+    "flags": []
+  },
+  {
+    "id": "2015-V05",
+    "answer": "admirèrent",
+    "alternatives": [],
+    "left": "de Réan, où la bonne (finir) __(3)__ l'oreiller et le matelas qu'on (devoir mettre) __(4)__ dans la boîte ; les enfants (admirer)",
+    "right": "ce charmant cercueil ; elles y mirent la poupée, et, pour qu'on ne (voir) __(6)__ pas la tête (bris",
+    "flags": []
+  },
+  {
+    "id": "2015-V06",
+    "answer": "voie",
+    "alternatives": [],
+    "left": ") __(4)__ dans la boîte ; les enfants (admirer) __(5)__ ce charmant cercueil ; elles y mirent la poupée, et, pour qu'on ne (voir)",
+    "right": "pas la tête (briser) __(7)__, les pieds (fondre) __(8)__ et le bras (casser) __(9)__, elles la (rec",
+    "flags": []
+  },
+  {
+    "id": "2015-V07",
+    "answer": "brisée",
+    "alternatives": [],
+    "left": "enfants (admirer) __(5)__ ce charmant cercueil ; elles y mirent la poupée, et, pour qu'on ne (voir) __(6)__ pas la tête (briser)",
+    "right": ", les pieds (fondre) __(8)__ et le bras (casser) __(9)__, elles la (recouvrir) __(10)__ avec un peti",
+    "flags": []
+  },
+  {
+    "id": "2015-V08",
+    "answer": "fondus",
+    "alternatives": [],
+    "left": "e charmant cercueil ; elles y mirent la poupée, et, pour qu'on ne (voir) __(6)__ pas la tête (briser) __(7)__, les pieds (fondre)",
+    "right": "et le bras (casser) __(9)__, elles la (recouvrir) __(10)__ avec un petit couvre-pied de laine rose.",
+    "flags": []
+  },
+  {
+    "id": "2015-V09",
+    "answer": "cassé",
+    "alternatives": [],
+    "left": "y mirent la poupée, et, pour qu'on ne (voir) __(6)__ pas la tête (briser) __(7)__, les pieds (fondre) __(8)__ et le bras (casser)",
+    "right": ", elles la (recouvrir) __(10)__ avec un petit couvre-pied de laine rose. On (placer) __(11)__ la bo",
+    "flags": []
+  },
+  {
+    "id": "2015-V10",
+    "answer": "recouvrirent",
+    "alternatives": [],
+    "left": "u'on ne (voir) __(6)__ pas la tête (briser) __(7)__, les pieds (fondre) __(8)__ et le bras (casser) __(9)__, elles la (recouvrir)",
+    "right": "avec un petit couvre-pied de laine rose. On (placer) __(11)__ la boîte sur un brancard (担架) que la",
+    "flags": []
+  },
+  {
+    "id": "2015-V11",
+    "answer": "plaça",
+    "alternatives": [],
+    "left": "(fondre) __(8)__ et le bras (casser) __(9)__, elles la (recouvrir) __(10)__ avec un petit couvre-pied de laine rose. On (placer)",
+    "right": "la boîte sur un brancard (担架) que la maman leur (faire faire) __(12)__. Elles voulaient toutes le (",
+    "flags": []
+  },
+  {
+    "id": "2015-V12",
+    "answer": "avait fait faire",
+    "alternatives": [],
+    "left": "0)__ avec un petit couvre-pied de laine rose. On (placer) __(11)__ la boîte sur un brancard (担架) que la maman leur (faire faire)",
+    "right": ". Elles voulaient toutes le (porter) __(13)__ ; c'était pourtant impossible, puisqu'il n'y avait pla",
+    "flags": []
+  },
+  {
+    "id": "2015-V13",
+    "answer": "porter",
+    "alternatives": [],
+    "left": "On (placer) __(11)__ la boîte sur un brancard (担架) que la maman leur (faire faire) __(12)__. Elles voulaient toutes le (porter)",
+    "right": "; c'était pourtant impossible, puisqu'il n'y avait place que pour deux. Après qu'ils se furent un p",
+    "flags": []
+  },
+  {
+    "id": "2015-V14",
+    "answer": "poussés",
+    "alternatives": [],
+    "left": "(porter) __(13)__ ; c'était pourtant impossible, puisqu'il n'y avait place que pour deux. Après qu'ils se furent un peu (pousser)",
+    "right": ", (disputer) __(15)__, on (décider) __(16)__ que Sophie et Paul, les deux plus petits, (porter) __(1",
+    "flags": []
+  },
+  {
+    "id": "2015-V15",
+    "answer": "disputés",
+    "alternatives": [],
+    "left": "'était pourtant impossible, puisqu'il n'y avait place que pour deux. Après qu'ils se furent un peu (pousser) __(14)__, (disputer)",
+    "right": ", on (décider) __(16)__ que Sophie et Paul, les deux plus petits, (porter) __(17)__ le --- #rancar",
+    "flags": []
+  },
+  {
+    "id": "2015-V16",
+    "answer": "décida",
+    "alternatives": [],
+    "left": "ble, puisqu'il n'y avait place que pour deux. Après qu'ils se furent un peu (pousser) __(14)__, (disputer) __(15)__, on (décider)",
+    "right": "que Sophie et Paul, les deux plus petits, (porter) __(17)__ le --- #rancard. et que Camille et Ma",
+    "flags": []
+  },
+  {
+    "id": "2015-V17",
+    "answer": "porteraient",
+    "alternatives": [],
+    "left": "e furent un peu (pousser) __(14)__, (disputer) __(15)__, on (décider) __(16)__ que Sophie et Paul, les deux plus petits, (porter)",
+    "right": "le --- #rancard. et que Camille et Madeleine (marcher) __(18)__ l'une derrière, l'autre devant,",
+    "flags": []
+  },
+  {
+    "id": "2015-V18",
+    "answer": "marcheraient",
+    "alternatives": [],
+    "left": ") __(16)__ que Sophie et Paul, les deux plus petits, (porter) __(17)__ le --- #rancard. et que Camille et Madeleine (marcher)",
+    "right": "l'une derrière, l'autre devant, (porter) __(19)__ un panier de fleurs et de feuille qu'on (devoi",
+    "flags": []
+  },
+  {
+    "id": "2015-V19",
+    "answer": "portant",
+    "alternatives": [],
+    "left": "(porter) __(17)__ le --- #rancard. et que Camille et Madeleine (marcher) __(18)__ l'une derrière, l'autre devant, (porter)",
+    "right": "un panier de fleurs et de feuille qu'on (devoir jeter) __(20)__ sur la tombe.",
+    "flags": []
+  },
+  {
+    "id": "2015-V20",
+    "answer": "devait jeter",
+    "alternatives": [],
+    "left": "(marcher) __(18)__ l'une derrière, l'autre devant, (porter) __(19)__ un panier de fleurs et de feuille qu'on (devoir jeter)",
+    "right": "sur la tombe.",
+    "flags": []
+  },
+  {
+    "id": "2016-V01",
+    "answer": "connaissais",
+    "alternatives": [],
+    "left": "## Témoignage Au début, j'étais un peu paumée parce que je ne (connaître)",
+    "right": "personne. J'étais assez timide. Je ne (oser) __(2)__ pas aller les voir, et puis je (être) __(3)__",
+    "flags": []
+  },
+  {
+    "id": "2016-V02",
+    "answer": "osais",
+    "alternatives": [],
+    "left": "## Témoignage Au début, j'étais un peu paumée parce que je ne (connaître) __(1)__ personne. J'étais assez timide. Je ne (oser)",
+    "right": "pas aller les voir, et puis je (être) __(3)__ enceinte. Ça (se -97- --- passer mal) __(4)__. J",
+    "flags": []
+  },
+  {
+    "id": "2016-V03",
+    "answer": "ai été",
+    "alternatives": [],
+    "left": "ée parce que je ne (connaître) __(1)__ personne. J'étais assez timide. Je ne (oser) __(2)__ pas aller les voir, et puis je (être)",
+    "right": "enceinte. Ça (se -97- --- passer mal) __(4)__. Je (passer) __(5)__ neuf mois sans sortir de",
+    "flags": []
+  },
+  {
+    "id": "2016-V04",
+    "answer": "s’est mal passé",
+    "alternatives": [],
+    "left": "étais assez timide. Je ne (oser) __(2)__ pas aller les voir, et puis je (être) __(3)__ enceinte. Ça (se -97- --- passer mal)",
+    "right": ". Je (passer) __(5)__ neuf mois sans sortir de la maison du tout. Quand on (enfermer) __(6)__ co",
+    "flags": []
+  },
+  {
+    "id": "2016-V05",
+    "answer": "ai passé",
+    "alternatives": [],
+    "left": "ne (oser) __(2)__ pas aller les voir, et puis je (être) __(3)__ enceinte. Ça (se -97- --- passer mal) __(4)__. Je (passer)",
+    "right": "neuf mois sans sortir de la maison du tout. Quand on (enfermer) __(6)__ comme ça, on arrive à (s",
+    "flags": []
+  },
+  {
+    "id": "2016-V06",
+    "answer": "est enfermée",
+    "alternatives": [],
+    "left": "Ça (se -97- --- passer mal) __(4)__. Je (passer) __(5)__ neuf mois sans sortir de la maison du tout. Quand on (enfermer)",
+    "right": "comme ça, on arrive à (se créer) __(7)__ un petit monde. Puis après, (reprendre) __(8)__ la vie",
+    "flags": []
+  },
+  {
+    "id": "2016-V07",
+    "answer": "se créer",
+    "alternatives": [],
+    "left": "e (passer) __(5)__ neuf mois sans sortir de la maison du tout. Quand on (enfermer) __(6)__ comme ça, on arrive à (se créer)",
+    "right": "un petit monde. Puis après, (reprendre) __(8)__ la vie réelle demande un sacré effort. On ne (os",
+    "flags": []
+  },
+  {
+    "id": "2016-V08",
+    "answer": "reprendre",
+    "alternatives": [],
+    "left": "aison du tout. Quand on (enfermer) __(6)__ comme ça, on arrive à (se créer) __(7)__ un petit monde. Puis après, (reprendre)",
+    "right": "la vie réelle demande un sacré effort. On ne (oser) __(9)__ plus sortir. Il y a eu le GDFA, le g",
+    "flags": []
+  },
+  {
+    "id": "2016-V09",
+    "answer": "ose",
+    "alternatives": [],
+    "left": "ve à (se créer) __(7)__ un petit monde. Puis après, (reprendre) __(8)__ la vie réelle demande un sacré effort. On ne (oser)",
+    "right": "plus sortir. Il y a eu le GDFA, le groupement féminin. Un jour je (se dire) __(10)__ : « Il faudra",
+    "flags": []
+  },
+  {
+    "id": "2016-V10",
+    "answer": "me suis dit",
+    "alternatives": [],
+    "left": "elle demande un sacré effort. On ne (oser) __(9)__ plus sortir. Il y a eu le GDFA, le groupement féminin. Un jour je (se dire)",
+    "right": ": « Il faudrait peut-être que je (y aller) __(11)__ quand même. » Je (y aller) __(12)__. J'y mettai",
+    "flags": []
+  },
+  {
+    "id": "2016-V11",
+    "answer": "y aille",
+    "alternatives": [],
+    "left": "plus sortir. Il y a eu le GDFA, le groupement féminin. Un jour je (se dire) __(10)__ : « Il faudrait peut-être que je (y aller)",
+    "right": "quand même. » Je (y aller) __(12)__. J'y mettais beaucoup d'espoirs parce que je (penser) __(13)__",
+    "flags": []
+  },
+  {
+    "id": "2016-V12",
+    "answer": "y suis allée",
+    "alternatives": [],
+    "left": "groupement féminin. Un jour je (se dire) __(10)__ : « Il faudrait peut-être que je (y aller) __(11)__ quand même. » Je (y aller)",
+    "right": ". J'y mettais beaucoup d'espoirs parce que je (penser) __(13)__ y rencontrer beaucoup de jeunes agri",
+    "flags": []
+  },
+  {
+    "id": "2016-V13",
+    "answer": "pensais",
+    "alternatives": [],
+    "left": "ait peut-être que je (y aller) __(11)__ quand même. » Je (y aller) __(12)__. J'y mettais beaucoup d'espoirs parce que je (penser)",
+    "right": "y rencontrer beaucoup de jeunes agricultrices ... Je (étonner) __(14)__ parce que toutes les femm",
+    "flags": []
+  },
+  {
+    "id": "2016-V14",
+    "answer": "ai été étonnée",
+    "alternatives": [],
+    "left": "_. J'y mettais beaucoup d'espoirs parce que je (penser) __(13)__ y rencontrer beaucoup de jeunes agricultrices ... Je (étonner)",
+    "right": "parce que toutes les femmes qui (être) __(15)__ là (avoir) __(16)__ plus de 35 ans. J'en (avoi",
+    "flags": []
+  },
+  {
+    "id": "2016-V15",
+    "answer": "étaient",
+    "alternatives": [],
+    "left": "nser) __(13)__ y rencontrer beaucoup de jeunes agricultrices ... Je (étonner) __(14)__ parce que toutes les femmes qui (être)",
+    "right": "là (avoir) __(16)__ plus de 35 ans. J'en (avoir) __(17)__ 22. Et puis je pense que ce n'était p",
+    "flags": []
+  },
+  {
+    "id": "2016-V16",
+    "answer": "avaient",
+    "alternatives": [],
+    "left": "ntrer beaucoup de jeunes agricultrices ... Je (étonner) __(14)__ parce que toutes les femmes qui (être) __(15)__ là (avoir)",
+    "right": "plus de 35 ans. J'en (avoir) __(17)__ 22. Et puis je pense que ce n'était pas une question d'âge,",
+    "flags": []
+  },
+  {
+    "id": "2016-V17",
+    "answer": "avais",
+    "alternatives": [],
+    "left": ".. Je (étonner) __(14)__ parce que toutes les femmes qui (être) __(15)__ là (avoir) __(16)__ plus de 35 ans. J'en (avoir)",
+    "right": "22. Et puis je pense que ce n'était pas une question d'âge, c'était surtout la façon de penser. Si",
+    "flags": []
+  },
+  {
+    "id": "2016-V18",
+    "answer": "avaient eu",
+    "alternatives": [],
+    "left": "oir) __(17)__ 22. Et puis je pense que ce n'était pas une question d'âge, c'était surtout la façon de penser. Si elles (avoir)",
+    "right": "des idées qui (recouper) __(19)__ un petit peu les miennes, je (s'y retrouver) __(20)__.",
+    "flags": []
+  },
+  {
+    "id": "2016-V19",
+    "answer": "recoupaient",
+    "alternatives": [],
+    "left": "que ce n'était pas une question d'âge, c'était surtout la façon de penser. Si elles (avoir) __(18)__ des idées qui (recouper)",
+    "right": "un petit peu les miennes, je (s'y retrouver) __(20)__.",
+    "flags": []
+  },
+  {
+    "id": "2016-V20",
+    "answer": "m’y serais retrouvée",
+    "alternatives": [],
+    "left": "a façon de penser. Si elles (avoir) __(18)__ des idées qui (recouper) __(19)__ un petit peu les miennes, je (s'y retrouver)",
+    "right": ".",
+    "flags": []
+  },
+  {
+    "id": "2017-V01",
+    "answer": "corrige",
+    "alternatives": [],
+    "left": "## La vie quotidienne à l'Élysée Comme un professeur exigeant (corriger)",
+    "right": "les devoirs de ses élèves, le général de Gaulle révisait minutieusement, plume à la main, les docum",
+    "flags": []
+  },
+  {
+    "id": "2017-V02",
+    "answer": "arrivait",
+    "alternatives": [],
+    "left": "s élèves, le général de Gaulle révisait minutieusement, plume à la main, les documents qu'on lui soumettait. Il lui (arriver)",
+    "right": "de faire (réécrire) __(3)__ deux ou trois fois le texte, jusqu'à ce qu'il le (satisfaire) _",
+    "flags": []
+  },
+  {
+    "id": "2017-V03",
+    "answer": "réécrire",
+    "alternatives": [],
+    "left": "évisait minutieusement, plume à la main, les documents qu'on lui soumettait. Il lui (arriver) __(2)__ de faire (réécrire)",
+    "right": "deux ou trois fois le texte, jusqu'à ce qu'il le (satisfaire) __(4)__, tant pour le fond que po",
+    "flags": []
+  },
+  {
+    "id": "2017-V04",
+    "answer": "satisfît",
+    "alternatives": [
+      "satisfasse"
+    ],
+    "left": "t. Il lui (arriver) __(2)__ de faire (réécrire) __(3)__ deux ou trois fois le texte, jusqu'à ce qu'il le (satisfaire)",
+    "right": ", tant pour le fond que pour la forme. Le style, ce (être) __(5)__ l'homme. Et le Général (dét",
+    "flags": []
+  },
+  {
+    "id": "2017-V05",
+    "answer": "est",
+    "alternatives": [],
+    "left": "u trois fois le texte, jusqu'à ce qu'il le (satisfaire) __(4)__, tant pour le fond que pour la forme. Le style, ce (être)",
+    "right": "l'homme. Et le Général (détester) __(6)__ l'imprécision et l'à-peu-près. Aucune faute de frança",
+    "flags": []
+  },
+  {
+    "id": "2017-V06",
+    "answer": "détestait",
+    "alternatives": [],
+    "left": "satisfaire) __(4)__, tant pour le fond que pour la forme. Le style, ce (être) __(5)__ l'homme. Et le Général (détester)",
+    "right": "l'imprécision et l'à-peu-près. Aucune faute de français, qu'elle (être) __(7)__ de syntaxe, de",
+    "flags": []
+  },
+  {
+    "id": "2017-V07",
+    "answer": "fût",
+    "alternatives": [
+      "soit"
+    ],
+    "left": "__(5)__ l'homme. Et le Général (détester) __(6)__ l'imprécision et l'à-peu-près. Aucune faute de français, qu'elle (être)",
+    "right": "de syntaxe, de vocabulaire ou d'orthographe, ne lui (échapper) __(8)__. Ainsi sur une lettre e",
+    "flags": []
+  },
+  {
+    "id": "2017-V08",
+    "answer": "échappait",
+    "alternatives": [],
+    "left": "peu-près. Aucune faute de français, qu'elle (être) __(7)__ de syntaxe, de vocabulaire ou d'orthographe, ne lui (échapper)",
+    "right": ". Ainsi sur une lettre en provenance d'un des ambassadeurs français en Amérique latine, il souligna",
+    "flags": []
+  },
+  {
+    "id": "2017-V09",
+    "answer": "fit",
+    "alternatives": [],
+    "left": "s en Amérique latine, il souligna de deux gros traits une énorme faute d'accord. Un de ses collaborateurs intimes lui (faire)",
+    "right": "remarquer : - C'est sûrement la secrétaire qui (commettre) __(10)__ la faute. - Oui, (dire) __(",
+    "flags": []
+  },
+  {
+    "id": "2017-V10",
+    "answer": "a commis",
+    "alternatives": [],
+    "left": "d'accord. Un de ses collaborateurs intimes lui (faire) __(9)__ remarquer : - C'est sûrement la secrétaire qui (commettre)",
+    "right": "la faute. - Oui, (dire) __(11)__ le Général, mais c'est l'ambassadeur qui (relire) __(12)__ la lett",
+    "flags": []
+  },
+  {
+    "id": "2017-V11",
+    "answer": "dit",
+    "alternatives": [],
+    "left": "s intimes lui (faire) __(9)__ remarquer : - C'est sûrement la secrétaire qui (commettre) __(10)__ la faute. - Oui, (dire)",
+    "right": "le Général, mais c'est l'ambassadeur qui (relire) __(12)__ la lettre. Dans le travail comme au tél",
+    "flags": []
+  },
+  {
+    "id": "2017-V12",
+    "answer": "a relu",
+    "alternatives": [],
+    "left": "ent la secrétaire qui (commettre) __(10)__ la faute. - Oui, (dire) __(11)__ le Général, mais c'est l'ambassadeur qui (relire)",
+    "right": "la lettre. Dans le travail comme au téléphone, le Général avait horreur des bavardages. Il (dire)",
+    "flags": []
+  },
+  {
+    "id": "2017-V13",
+    "answer": "disait",
+    "alternatives": [],
+    "left": "assadeur qui (relire) __(12)__ la lettre. Dans le travail comme au téléphone, le Général avait horreur des bavardages. Il (dire)",
+    "right": "à ses collaborateurs : « Je (vouloir) __(14)__ un rapport sur telle question. Je vous (voir) __(15)",
+    "flags": []
+  },
+  {
+    "id": "2017-V14",
+    "answer": "veux",
+    "alternatives": [],
+    "left": "le travail comme au téléphone, le Général avait horreur des bavardages. Il (dire) __(13)__ à ses collaborateurs : « Je (vouloir)",
+    "right": "un rapport sur telle question. Je vous (voir) __(15)__ tel jour. Vous (avoir) __(16)__ une heure. »",
+    "flags": []
+  },
+  {
+    "id": "2017-V15",
+    "answer": "verrai",
+    "alternatives": [],
+    "left": "r des bavardages. Il (dire) __(13)__ à ses collaborateurs : « Je (vouloir) __(14)__ un rapport sur telle question. Je vous (voir)",
+    "right": "tel jour. Vous (avoir) __(16)__ une heure. » Ce qui (obliger) __(17)__ chacun à (exposer) __(18)__",
+    "flags": []
+  },
+  {
+    "id": "2017-V16",
+    "answer": "aurez",
+    "alternatives": [],
+    "left": "3)__ à ses collaborateurs : « Je (vouloir) __(14)__ un rapport sur telle question. Je vous (voir) __(15)__ tel jour. Vous (avoir)",
+    "right": "une heure. » Ce qui (obliger) __(17)__ chacun à (exposer) __(18)__ son problème le plus efficacemen",
+    "flags": []
+  },
+  {
+    "id": "2017-V17",
+    "answer": "obligeait",
+    "alternatives": [],
+    "left": "ir) __(14)__ un rapport sur telle question. Je vous (voir) __(15)__ tel jour. Vous (avoir) __(16)__ une heure. » Ce qui (obliger)",
+    "right": "chacun à (exposer) __(18)__ son problème le plus efficacement possible et lui (donner) __(19)__, en",
+    "flags": []
+  },
+  {
+    "id": "2017-V18",
+    "answer": "exposer",
+    "alternatives": [],
+    "left": "telle question. Je vous (voir) __(15)__ tel jour. Vous (avoir) __(16)__ une heure. » Ce qui (obliger) __(17)__ chacun à (exposer)",
+    "right": "son problème le plus efficacement possible et lui (donner) __(19)__, en retour, la certitude de (êt",
+    "flags": []
+  },
+  {
+    "id": "2017-V19",
+    "answer": "donnait",
+    "alternatives": [],
+    "left": ")__ une heure. » Ce qui (obliger) __(17)__ chacun à (exposer) __(18)__ son problème le plus efficacement possible et lui (donner)",
+    "right": ", en retour, la certitude de (être écouté) __(20)__ avec la plus grande attention.",
+    "flags": []
+  },
+  {
+    "id": "2017-V20",
+    "answer": "être écouté",
+    "alternatives": [],
+    "left": "(exposer) __(18)__ son problème le plus efficacement possible et lui (donner) __(19)__, en retour, la certitude de (être écouté)",
+    "right": "avec la plus grande attention.",
+    "flags": []
+  },
+  {
+    "id": "2018-V01",
+    "answer": "Réunie",
+    "alternatives": [],
+    "left": "## La famille Longfield Cinq heures sonnèrent à l'horloge de la ferme. (Réunir)",
+    "right": "autour de la table, dans la grand-salle du rez-de-chaussée, la famille Longfield achevait de prendr",
+    "flags": []
+  },
+  {
+    "id": "2018-V02",
+    "answer": "était",
+    "alternatives": [],
+    "left": "__(1)__ autour de la table, dans la grand-salle du rez-de-chaussée, la famille Longfield achevait de prendre le thé. On (être)",
+    "right": "au mois d'avril, un avril particulièrement beau et verdoyant. Les jeunes Longfield (manger) __(3)",
+    "flags": []
+  },
+  {
+    "id": "2018-V03",
+    "answer": "mangeaient",
+    "alternatives": [],
+    "left": "rendre le thé. On (être) __(2)__ au mois d'avril, un avril particulièrement beau et verdoyant. Les jeunes Longfield (manger)",
+    "right": "avec appétit. Ils (être) __(4)__ trois : Jane et Jack, des jumeaux de quinze ans, et Suzanne qui",
+    "flags": []
+  },
+  {
+    "id": "2018-V04",
+    "answer": "étaient",
+    "alternatives": [],
+    "left": "au mois d'avril, un avril particulièrement beau et verdoyant. Les jeunes Longfield (manger) __(3)__ avec appétit. Ils (être)",
+    "right": "trois : Jane et Jack, des jumeaux de quinze ans, et Suzanne qui ne (en avoir) __(5)__ que onze.",
+    "flags": []
+  },
+  {
+    "id": "2018-V05",
+    "answer": "en avait",
+    "alternatives": [],
+    "left": "nger) __(3)__ avec appétit. Ils (être) __(4)__ trois : Jane et Jack, des jumeaux de quinze ans, et Suzanne qui ne (en avoir)",
+    "right": "que onze. Pouf, un joli chien noir (se tenir) __(6)__ près des enfants, (mendier) __(7)__ des",
+    "flags": []
+  },
+  {
+    "id": "2018-V06",
+    "answer": "se tenait",
+    "alternatives": [],
+    "left": "Jane et Jack, des jumeaux de quinze ans, et Suzanne qui ne (en avoir) __(5)__ que onze. Pouf, un joli chien noir (se tenir)",
+    "right": "près des enfants, (mendier) __(7)__ des gâteaux et du sucre. Le père, un robuste fermier à la ha",
+    "flags": []
+  },
+  {
+    "id": "2018-V07",
+    "answer": "mendiant",
+    "alternatives": [],
+    "left": "ns, et Suzanne qui ne (en avoir) __(5)__ que onze. Pouf, un joli chien noir (se tenir) __(6)__ près des enfants, (mendier)",
+    "right": "des gâteaux et du sucre. Le père, un robuste fermier à la haute taille, (sembler) __(8)__ absorb",
+    "flags": []
+  },
+  {
+    "id": "2018-V08",
+    "answer": "semblait",
+    "alternatives": [],
+    "left": "_(6)__ près des enfants, (mendier) __(7)__ des gâteaux et du sucre. Le père, un robuste fermier à la haute taille, (sembler)",
+    "right": "absorbé dans ses pensées. Il (songer) __(9)__ à tout le travail qu'il (devoir) __(10)__ exécute",
+    "flags": []
+  },
+  {
+    "id": "2018-V09",
+    "answer": "songeait",
+    "alternatives": [],
+    "left": "gâteaux et du sucre. Le père, un robuste fermier à la haute taille, (sembler) __(8)__ absorbé dans ses pensées. Il (songer)",
+    "right": "à tout le travail qu'il (devoir) __(10)__ exécuter au cours de la semaine. Au printemps, à la cam",
+    "flags": []
+  },
+  {
+    "id": "2018-V10",
+    "answer": "devait",
+    "alternatives": [],
+    "left": "fermier à la haute taille, (sembler) __(8)__ absorbé dans ses pensées. Il (songer) __(9)__ à tout le travail qu'il (devoir)",
+    "right": "exécuter au cours de la semaine. Au printemps, à la campagne, il n'y a jamais une minute à (perdre",
+    "flags": []
+  },
+  {
+    "id": "2018-V11",
+    "answer": "perdre",
+    "alternatives": [],
+    "left": "l qu'il (devoir) __(10)__ exécuter au cours de la semaine. Au printemps, à la campagne, il n'y a jamais une minute à (perdre)",
+    "right": ". Mme Longfield était assise en face de son mari. [...] Pour l'instant, elle (sourire) __(12)__ au",
+    "flags": []
+  },
+  {
+    "id": "2018-V12",
+    "answer": "souriait",
+    "alternatives": [],
+    "left": "a jamais une minute à (perdre) __(11)__. Mme Longfield était assise en face de son mari. [...] Pour l'instant, elle (sourire)",
+    "right": "aux enfants. -133- --- On (ne jamais croire) __(13)__ que Jane et Jack (être) __(14)__ j",
+    "flags": []
+  },
+  {
+    "id": "2018-V13",
+    "answer": "n’aurait jamais cru",
+    "alternatives": [],
+    "left": "t assise en face de son mari. [...] Pour l'instant, elle (sourire) __(12)__ aux enfants. -133- --- On (ne jamais croire)",
+    "right": "que Jane et Jack (être) __(14)__ jumeaux ! Jack (parler) __(15)__ peu. Il était lent mais piq",
+    "flags": []
+  },
+  {
+    "id": "2018-V14",
+    "answer": "fussent",
+    "alternatives": [
+      "soient"
+    ],
+    "left": "our l'instant, elle (sourire) __(12)__ aux enfants. -133- --- On (ne jamais croire) __(13)__ que Jane et Jack (être)",
+    "right": "jumeaux ! Jack (parler) __(15)__ peu. Il était lent mais piquait à l'occasion de terribles colère",
+    "flags": []
+  },
+  {
+    "id": "2018-V15",
+    "answer": "parlait",
+    "alternatives": [],
+    "left": "12)__ aux enfants. -133- --- On (ne jamais croire) __(13)__ que Jane et Jack (être) __(14)__ jumeaux ! Jack (parler)",
+    "right": "peu. Il était lent mais piquait à l'occasion de terribles colères. Jane était vive, bavarde et pati",
+    "flags": []
+  },
+  {
+    "id": "2018-V16",
+    "answer": "passa",
+    "alternatives": [
+      "a passé"
+    ],
+    "left": "terribles colères. Jane était vive, bavarde et patiente. Suzanne, en train d'engloutir une énorme tranche de cake, en (passer)",
+    "right": "un morceau à Pouf. « Je te déjà (dire) __(17)__ de ne rien donner à ce chien quand nous (être",
+    "flags": []
+  },
+  {
+    "id": "2018-V17",
+    "answer": "t’ai déjà dit",
+    "alternatives": [],
+    "left": "ente. Suzanne, en train d'engloutir une énorme tranche de cake, en (passer) __(16)__ un morceau à Pouf. « Je te déjà (dire)",
+    "right": "de ne rien donner à ce chien quand nous (être) __(18)__ à table ! (grommeler) __(19)__ soudai",
+    "flags": []
+  },
+  {
+    "id": "2018-V18",
+    "answer": "sommes",
+    "alternatives": [],
+    "left": "ake, en (passer) __(16)__ un morceau à Pouf. « Je te déjà (dire) __(17)__ de ne rien donner à ce chien quand nous (être)",
+    "right": "à table ! (grommeler) __(19)__ soudain M. Longfield en sortant de sa méditation. (Tâcher) __(20",
+    "flags": []
+  },
+  {
+    "id": "2018-V19",
+    "answer": "grommela",
+    "alternatives": [
+      "a grommelé"
+    ],
+    "left": "rceau à Pouf. « Je te déjà (dire) __(17)__ de ne rien donner à ce chien quand nous (être) __(18)__ à table ! (grommeler)",
+    "right": "soudain M. Longfield en sortant de sa méditation. (Tâcher) __(20)__ de m'obéir, Suzanne ! » « Bi",
+    "flags": []
+  },
+  {
+    "id": "2018-V20",
+    "answer": "Tâche",
+    "alternatives": [],
+    "left": "hien quand nous (être) __(18)__ à table ! (grommeler) __(19)__ soudain M. Longfield en sortant de sa méditation. (Tâcher)",
+    "right": "de m'obéir, Suzanne ! » « Bien, papa ! » répondit Suzanne qui craignait un peu son père.",
+    "flags": []
+  },
+  {
+    "id": "2019-V01",
+    "answer": "assis",
+    "alternatives": [],
+    "left": "## La Gloire de mon père Je trouvais mon père (s'asseoir)",
+    "right": "devant la table de la salle à manger. Il (être) __(2)__ en train de compter de l'argent ; en face d",
+    "flags": []
+  },
+  {
+    "id": "2019-V02",
+    "answer": "était",
+    "alternatives": [],
+    "left": "## La Gloire de mon père Je trouvais mon père (s'asseoir) __(1)__ devant la table de la salle à manger. Il (être)",
+    "right": "en train de compter de l'argent ; en face de lui, ma mère buvait son café. Mon café au lait (être s",
+    "flags": []
+  },
+  {
+    "id": "2019-V03",
+    "answer": "était servi",
+    "alternatives": [],
+    "left": "anger. Il (être) __(2)__ en train de compter de l'argent ; en face de lui, ma mère buvait son café. Mon café au lait (être servi)",
+    "right": ". Elle me (demander) __(4)__ : - « Tu (se couper) __(5)__ les ongles ? » Il me sembla que le fait d'",
+    "flags": []
+  },
+  {
+    "id": "2019-V04",
+    "answer": "demanda",
+    "alternatives": [],
+    "left": "train de compter de l'argent ; en face de lui, ma mère buvait son café. Mon café au lait (être servi) __(3)__. Elle me (demander)",
+    "right": ": - « Tu (se couper) __(5)__ les ongles ? » Il me sembla que le fait d'avouer un oubli (confirmer)",
+    "flags": []
+  },
+  {
+    "id": "2019-V05",
+    "answer": "t’es coupé",
+    "alternatives": [],
+    "left": "; en face de lui, ma mère buvait son café. Mon café au lait (être servi) __(3)__. Elle me (demander) __(4)__ : - « Tu (se couper)",
+    "right": "les ongles ? » Il me sembla que le fait d'avouer un oubli (confirmer) __(6)__ la réalité du reste.",
+    "flags": []
+  },
+  {
+    "id": "2019-V06",
+    "answer": "confirmerait",
+    "alternatives": [],
+    "left": "__. Elle me (demander) __(4)__ : - « Tu (se couper) __(5)__ les ongles ? » Il me sembla que le fait d'avouer un oubli (confirmer)",
+    "right": "la réalité du reste. - « Non, (dire) __(7)__ -je, je ~~ne pas y penser~~ __(8)__. Mais je les (tail",
+    "flags": []
+  },
+  {
+    "id": "2019-V07",
+    "answer": "dis",
+    "alternatives": [],
+    "left": "ouper) __(5)__ les ongles ? » Il me sembla que le fait d'avouer un oubli (confirmer) __(6)__ la réalité du reste. - « Non, (dire)",
+    "right": "-je, je ~~ne pas y penser~~ __(8)__. Mais je les (tailler) __(9)__ déjà dimanche. » Pendant que je",
+    "flags": []
+  },
+  {
+    "id": "2019-V08",
+    "answer": "n’y ai pas pensé",
+    "alternatives": [],
+    "left": "sembla que le fait d'avouer un oubli (confirmer) __(6)__ la réalité du reste. - « Non, (dire) __(7)__ -je, je ~~ne pas y penser~~",
+    "right": ". Mais je les (tailler) __(9)__ déjà dimanche. » Pendant que je (croquer) __(10)__ mes tartines, mon",
+    "flags": []
+  },
+  {
+    "id": "2019-V09",
+    "answer": "ai taillés",
+    "alternatives": [],
+    "left": "oubli (confirmer) __(6)__ la réalité du reste. - « Non, (dire) __(7)__ -je, je ~~ne pas y penser~~ __(8)__. Mais je les (tailler)",
+    "right": "déjà dimanche. » Pendant que je (croquer) __(10)__ mes tartines, mon père dit : - « Tu (ne pas savo",
+    "flags": []
+  },
+  {
+    "id": "2019-V10",
+    "answer": "croquais",
+    "alternatives": [],
+    "left": "Non, (dire) __(7)__ -je, je ~~ne pas y penser~~ __(8)__. Mais je les (tailler) __(9)__ déjà dimanche. » Pendant que je (croquer)",
+    "right": "mes tartines, mon père dit : - « Tu (ne pas savoir) __(11)__ où nous allons ? Eh bien, voilà. Ta mè",
+    "flags": []
+  },
+  {
+    "id": "2019-V11",
+    "answer": "ne sais pas",
+    "alternatives": [],
+    "left": "s je les (tailler) __(9)__ déjà dimanche. » Pendant que je (croquer) __(10)__ mes tartines, mon père dit : - « Tu (ne pas savoir)",
+    "right": "où nous allons ? Eh bien, voilà. Ta mère a besoin d'un peu de campagne. Je (louer) __(12)__ donc un",
+    "flags": []
+  },
+  {
+    "id": "2019-V12",
+    "answer": "ai loué",
+    "alternatives": [],
+    "left": "mon père dit : - « Tu (ne pas savoir) __(11)__ où nous allons ? Eh bien, voilà. Ta mère a besoin d'un peu de campagne. Je (louer)",
+    "right": "donc une villa dans la colline, et nous y (passer) __(13)__ les grandes vacances ». -150- --- Je",
+    "flags": []
+  },
+  {
+    "id": "2019-V13",
+    "answer": "passerons",
+    "alternatives": [],
+    "left": "s ? Eh bien, voilà. Ta mère a besoin d'un peu de campagne. Je (louer) __(12)__ donc une villa dans la colline, et nous y (passer)",
+    "right": "les grandes vacances ». -150- --- Je (être émerveillé) __(14)__ : « Où est-elle cette villa",
+    "flags": []
+  },
+  {
+    "id": "2019-V14",
+    "answer": "fus émerveillé",
+    "alternatives": [],
+    "left": "_(12)__ donc une villa dans la colline, et nous y (passer) __(13)__ les grandes vacances ». -150- --- Je (être émerveillé)",
+    "right": ": « Où est-elle cette villa ? C'est loin ? Est-ce qu'il y (avoir) __(15)__ des chameaux ? »... Je",
+    "flags": []
+  },
+  {
+    "id": "2019-V15",
+    "answer": "a",
+    "alternatives": [],
+    "left": "ndes vacances ». -150- --- Je (être émerveillé) __(14)__ : « Où est-elle cette villa ? C'est loin ? Est-ce qu'il y (avoir)",
+    "right": "des chameaux ? »... Je (poser) __(16)__ mille questions, lorsque ma mère me dit : « (Manger) __(17",
+    "flags": []
+  },
+  {
+    "id": "2019-V16",
+    "answer": "allais poser",
+    "alternatives": [],
+    "left": "émerveillé) __(14)__ : « Où est-elle cette villa ? C'est loin ? Est-ce qu'il y (avoir) __(15)__ des chameaux ? »... Je (poser)",
+    "right": "mille questions, lorsque ma mère me dit : « (Manger) __(17)__ ». Et comme j'oubliais ma tartine, e",
+    "flags": []
+  },
+  {
+    "id": "2019-V17",
+    "answer": "Mange",
+    "alternatives": [],
+    "left": "n ? Est-ce qu'il y (avoir) __(15)__ des chameaux ? »... Je (poser) __(16)__ mille questions, lorsque ma mère me dit : « (Manger)",
+    "right": "». Et comme j'oubliais ma tartine, elle (pousser) __(18)__ ma main vers ma bouche. Puis, elle se t",
+    "flags": []
+  },
+  {
+    "id": "2019-V18",
+    "answer": "poussa",
+    "alternatives": [],
+    "left": "(poser) __(16)__ mille questions, lorsque ma mère me dit : « (Manger) __(17)__ ». Et comme j'oubliais ma tartine, elle (pousser)",
+    "right": "ma main vers ma bouche. Puis, elle se tourna vers Paul : - « Toi, (aller) __(19)__ d'abord (mettre",
+    "flags": []
+  },
+  {
+    "id": "2019-V19",
+    "answer": "va",
+    "alternatives": [],
+    "left": "t comme j'oubliais ma tartine, elle (pousser) __(18)__ ma main vers ma bouche. Puis, elle se tourna vers Paul : - « Toi, (aller)",
+    "right": "d'abord (mettre) __(20)__ tes pantoufles. Allez, file ! »",
+    "flags": []
+  },
+  {
+    "id": "2019-V20",
+    "answer": "mettre",
+    "alternatives": [],
+    "left": "ine, elle (pousser) __(18)__ ma main vers ma bouche. Puis, elle se tourna vers Paul : - « Toi, (aller) __(19)__ d'abord (mettre)",
+    "right": "tes pantoufles. Allez, file ! »",
+    "flags": []
+  },
+  {
+    "id": "2021-05-V01",
+    "answer": "avoir passé",
+    "alternatives": [],
+    "left": "## Joyeux anniversaire Il était minuit et demi et je rentrais chez moi en métro, après (passer)",
+    "right": "la soirée avec des amis qui (organiser) (2) une fête pour mon anniversaire. Une demi-heure plus tar",
+    "flags": []
+  },
+  {
+    "id": "2021-05-V02",
+    "answer": "avaient organisé",
+    "alternatives": [],
+    "left": "nniversaire Il était minuit et demi et je rentrais chez moi en métro, après (passer) (1) la soirée avec des amis qui (organiser)",
+    "right": "une fête pour mon anniversaire. Une demi-heure plus tard, la rame est arrivée dans ma station. La r",
+    "flags": []
+  },
+  {
+    "id": "2021-05-V03",
+    "answer": "était",
+    "alternatives": [],
+    "left": "qui (organiser) (2) une fête pour mon anniversaire. Une demi-heure plus tard, la rame est arrivée dans ma station. La rue (être)",
+    "right": "déserte. Tout à coup, je (j') (remarquer) (4) qu'un homme me (m') (suivre) (5). Je (J') (presser) (",
+    "flags": []
+  },
+  {
+    "id": "2021-05-V04",
+    "answer": "ai remarqué",
+    "alternatives": [],
+    "left": "saire. Une demi-heure plus tard, la rame est arrivée dans ma station. La rue (être) (3) déserte. Tout à coup, je (j') (remarquer)",
+    "right": "qu'un homme me (m') (suivre) (5). Je (J') (presser) (6) le pas. Lui aussi. Je (se mettre) (7) à cou",
+    "flags": []
+  },
+  {
+    "id": "2021-05-V05",
+    "answer": "suivait",
+    "alternatives": [],
+    "left": "la rame est arrivée dans ma station. La rue (être) (3) déserte. Tout à coup, je (j') (remarquer) (4) qu'un homme me (m') (suivre)",
+    "right": ". Je (J') (presser) (6) le pas. Lui aussi. Je (se mettre) (7) à courir et devant ma porte, je (j') (",
+    "flags": []
+  },
+  {
+    "id": "2021-05-V06",
+    "answer": "ai pressé",
+    "alternatives": [],
+    "left": "s ma station. La rue (être) (3) déserte. Tout à coup, je (j') (remarquer) (4) qu'un homme me (m') (suivre) (5). Je (J') (presser)",
+    "right": "le pas. Lui aussi. Je (se mettre) (7) à courir et devant ma porte, je (j') (composer) (8) rapidemen",
+    "flags": []
+  },
+  {
+    "id": "2021-05-V07",
+    "answer": "me suis mise",
+    "alternatives": [],
+    "left": "e. Tout à coup, je (j') (remarquer) (4) qu'un homme me (m') (suivre) (5). Je (J') (presser) (6) le pas. Lui aussi. Je (se mettre)",
+    "right": "à courir et devant ma porte, je (j') (composer) (8) rapidement le code qui (commander) (9) l'ouvert",
+    "flags": []
+  },
+  {
+    "id": "2021-05-V08",
+    "answer": "ai composé",
+    "alternatives": [],
+    "left": "me (m') (suivre) (5). Je (J') (presser) (6) le pas. Lui aussi. Je (se mettre) (7) à courir et devant ma porte, je (j') (composer)",
+    "right": "rapidement le code qui (commander) (9) l'ouverture. Je (J') (ouvrir) (10) la porte et je (j') (alle",
+    "flags": []
+  },
+  {
+    "id": "2021-05-V09",
+    "answer": "commandait",
+    "alternatives": [],
+    "left": "(6) le pas. Lui aussi. Je (se mettre) (7) à courir et devant ma porte, je (j') (composer) (8) rapidement le code qui (commander)",
+    "right": "l'ouverture. Je (J') (ouvrir) (10) la porte et je (j') (aller) (11) la refermer quand l'homme la (l",
+    "flags": []
+  },
+  {
+    "id": "2021-05-V10",
+    "answer": "ai ouvert",
+    "alternatives": [],
+    "left": "tre) (7) à courir et devant ma porte, je (j') (composer) (8) rapidement le code qui (commander) (9) l'ouverture. Je (J') (ouvrir)",
+    "right": "la porte et je (j') (aller) (11) la refermer quand l'homme la (l') (pousser) (12) brutalement et (e",
+    "flags": []
+  },
+  {
+    "id": "2021-05-V11",
+    "answer": "allais",
+    "alternatives": [],
+    "left": "rte, je (j') (composer) (8) rapidement le code qui (commander) (9) l'ouverture. Je (J') (ouvrir) (10) la porte et je (j') (aller)",
+    "right": "la refermer quand l'homme la (l') (pousser) (12) brutalement et (entrer) (13). Là, il (venir) (14)",
+    "flags": []
+  },
+  {
+    "id": "2021-05-V12",
+    "answer": "a poussée",
+    "alternatives": [],
+    "left": "i (commander) (9) l'ouverture. Je (J') (ouvrir) (10) la porte et je (j') (aller) (11) la refermer quand l'homme la (l') (pousser)",
+    "right": "brutalement et (entrer) (13). Là, il (venir) (14) vers moi et d'un ton menaçant me (m') (demander)",
+    "flags": []
+  },
+  {
+    "id": "2021-05-V13",
+    "answer": "est entré",
+    "alternatives": [],
+    "left": ". Je (J') (ouvrir) (10) la porte et je (j') (aller) (11) la refermer quand l'homme la (l') (pousser) (12) brutalement et (entrer)",
+    "right": ". Là, il (venir) (14) vers moi et d'un ton menaçant me (m') (demander) (15) : « Ton argent, et vite",
+    "flags": []
+  },
+  {
+    "id": "2021-05-V14",
+    "answer": "est venu",
+    "alternatives": [],
+    "left": "0) la porte et je (j') (aller) (11) la refermer quand l'homme la (l') (pousser) (12) brutalement et (entrer) (13). Là, il (venir)",
+    "right": "vers moi et d'un ton menaçant me (m') (demander) (15) : « Ton argent, et vite ! » J'ai dit (pleurer",
+    "flags": []
+  },
+  {
+    "id": "2021-05-V15",
+    "answer": "a demandé",
+    "alternatives": [],
+    "left": "l'homme la (l') (pousser) (12) brutalement et (entrer) (13). Là, il (venir) (14) vers moi et d'un ton menaçant me (m') (demander)",
+    "right": ": « Ton argent, et vite ! » J'ai dit (pleurer) (16) que moi, une simple étudiante, je (ne pas avoir",
+    "flags": []
+  },
+  {
+    "id": "2021-05-V16",
+    "answer": "en pleurant",
+    "alternatives": [],
+    "left": "r) (13). Là, il (venir) (14) vers moi et d'un ton menaçant me (m') (demander) (15) : « Ton argent, et vite ! » J'ai dit (pleurer)",
+    "right": "que moi, une simple étudiante, je (ne pas avoir) (17) d'argent et que ce (c') (être) (18) mon anniv",
+    "flags": []
+  },
+  {
+    "id": "2021-05-V17",
+    "answer": "n’avais pas",
+    "alternatives": [],
+    "left": "çant me (m') (demander) (15) : « Ton argent, et vite ! » J'ai dit (pleurer) (16) que moi, une simple étudiante, je (ne pas avoir)",
+    "right": "d'argent et que ce (c') (être) (18) mon anniversaire. Lui, me (m') (regarder) (19) un moment et pui",
+    "flags": []
+  },
+  {
+    "id": "2021-05-V18",
+    "answer": "était",
+    "alternatives": [],
+    "left": "argent, et vite ! » J'ai dit (pleurer) (16) que moi, une simple étudiante, je (ne pas avoir) (17) d'argent et que ce (c') (être)",
+    "right": "mon anniversaire. Lui, me (m') (regarder) (19) un moment et puis il a dit : « Bon eh ben, bon anniv",
+    "flags": []
+  },
+  {
+    "id": "2021-05-V19",
+    "answer": "a regardée",
+    "alternatives": [],
+    "left": "e moi, une simple étudiante, je (ne pas avoir) (17) d'argent et que ce (c') (être) (18) mon anniversaire. Lui, me (m') (regarder)",
+    "right": "un moment et puis il a dit : « Bon eh ben, bon anniversaire », et il (partir) (20).",
+    "flags": []
+  },
+  {
+    "id": "2021-05-V20",
+    "answer": "est parti",
+    "alternatives": [],
+    "left": "(18) mon anniversaire. Lui, me (m') (regarder) (19) un moment et puis il a dit : « Bon eh ben, bon anniversaire », et il (partir)",
+    "right": ".",
+    "flags": []
+  },
+  {
+    "id": "2021-06-V01",
+    "answer": "étaient",
+    "alternatives": [],
+    "left": "au temps et au mode qui conviennent. Autrefois, il n'était pas facile de traverser la France car les moyens de transport (être)",
+    "right": "incertains. Jusqu'au moment où la découverte des chemins de fer (transformer) __(2)__ les condition",
+    "flags": []
+  },
+  {
+    "id": "2021-06-V02",
+    "answer": "a transformé",
+    "alternatives": [],
+    "left": "a France car les moyens de transport (être) __(1)__ incertains. Jusqu'au moment où la découverte des chemins de fer (transformer)",
+    "right": "les conditions de voyage, il (falloir) __(3)__ beaucoup de courage pour (se mettre) __(4)__ en rout",
+    "flags": []
+  },
+  {
+    "id": "2021-06-V03",
+    "answer": "fallait",
+    "alternatives": [],
+    "left": "1)__ incertains. Jusqu'au moment où la découverte des chemins de fer (transformer) __(2)__ les conditions de voyage, il (falloir)",
+    "right": "beaucoup de courage pour (se mettre) __(4)__ en route. Et pourtant l'inconfort (ne pas arrêter) __(",
+    "flags": []
+  },
+  {
+    "id": "2021-06-V04",
+    "answer": "se mettre",
+    "alternatives": [],
+    "left": "erte des chemins de fer (transformer) __(2)__ les conditions de voyage, il (falloir) __(3)__ beaucoup de courage pour (se mettre)",
+    "right": "en route. Et pourtant l'inconfort (ne pas arrêter) __(5)__ les voyageurs puisque les routes (être)",
+    "flags": []
+  },
+  {
+    "id": "2021-06-V05",
+    "answer": "n’arrêtait pas",
+    "alternatives": [],
+    "left": "s de voyage, il (falloir) __(3)__ beaucoup de courage pour (se mettre) __(4)__ en route. Et pourtant l'inconfort (ne pas arrêter)",
+    "right": "les voyageurs puisque les routes (être) __(6)__ constamment traversées par des marchands, des explo",
+    "flags": []
+  },
+  {
+    "id": "2021-06-V06",
+    "answer": "étaient",
+    "alternatives": [],
+    "left": "urage pour (se mettre) __(4)__ en route. Et pourtant l'inconfort (ne pas arrêter) __(5)__ les voyageurs puisque les routes (être)",
+    "right": "constamment traversées par des marchands, des explorateurs, des musiciens. Le temps ne (compter) __",
+    "flags": []
+  },
+  {
+    "id": "2021-06-V07",
+    "answer": "comptait",
+    "alternatives": [],
+    "left": "uisque les routes (être) __(6)__ constamment traversées par des marchands, des explorateurs, des musiciens. Le temps ne (compter)",
+    "right": "pas. On (pouvoir) __(8)__ mettre trois jours pour faire quarante kilomètres dans une diligence (马车)",
+    "flags": []
+  },
+  {
+    "id": "2021-06-V08",
+    "answer": "pouvait",
+    "alternatives": [],
+    "left": "_(6)__ constamment traversées par des marchands, des explorateurs, des musiciens. Le temps ne (compter) __(7)__ pas. On (pouvoir)",
+    "right": "mettre trois jours pour faire quarante kilomètres dans une diligence (马车) inconfortable : tout (êtr",
+    "flags": []
+  },
+  {
+    "id": "2021-06-V09",
+    "answer": "était",
+    "alternatives": [],
+    "left": "_ pas. On (pouvoir) __(8)__ mettre trois jours pour faire quarante kilomètres dans une diligence (马车) inconfortable : tout (être)",
+    "right": "bon pour ces hommes courageux qui ne (craindre) __(10)__ ni la fatigue, ni la pluie, ni la neige, n",
+    "flags": []
+  },
+  {
+    "id": "2021-06-V10",
+    "answer": "craignaient",
+    "alternatives": [],
+    "left": "e quarante kilomètres dans une diligence (马车) inconfortable : tout (être) __(9)__ bon pour ces hommes courageux qui ne (craindre)",
+    "right": "ni la fatigue, ni la pluie, ni la neige, ni --- le soleil. De nos jours, les récits de ces inter",
+    "flags": []
+  },
+  {
+    "id": "2021-06-V11",
+    "answer": "intéressent",
+    "alternatives": [],
+    "left": ", ni --- le soleil. De nos jours, les récits de ces interminables voyages au XVIIe siècle nous (intéresser)",
+    "right": "vivement par des détails qui nous (amuser) __(12)__ ou nous (faire rire) __(13)__. L'un de",
+    "flags": []
+  },
+  {
+    "id": "2021-06-V12",
+    "answer": "amusent",
+    "alternatives": [],
+    "left": "nterminables voyages au XVIIe siècle nous (intéresser) __(11)__ vivement par des détails qui nous (amuser)",
+    "right": "ou nous (faire rire) __(13)__. L'un de ces voyageurs anonymes, un musicien pauvre, (noter)",
+    "flags": []
+  },
+  {
+    "id": "2021-06-V13",
+    "answer": "font rire",
+    "alternatives": [],
+    "left": ">e siècle nous (intéresser) __(11)__ vivement par des détails qui nous (amuser) __(12)__ ou nous (faire rire)",
+    "right": ". L'un de ces voyageurs anonymes, un musicien pauvre, (noter) __(14)__ tous les détails de son",
+    "flags": []
+  },
+  {
+    "id": "2021-06-V14",
+    "answer": "a noté",
+    "alternatives": [],
+    "left": "ui nous (amuser) __(12)__ ou nous (faire rire) __(13)__. L'un de ces voyageurs anonymes, un musicien pauvre, (noter)",
+    "right": "tous les détails de son parcours entre Paris et Chalon-sur-Saône. En attendant le moment de départ,",
+    "flags": []
+  },
+  {
+    "id": "2021-06-V15",
+    "answer": "était",
+    "alternatives": [],
+    "left": "on-sur-Saône. En attendant le moment de départ, il avait dû s'installer longtemps à l'avance dans un petit hôtel où il (être)",
+    "right": "obligatoire de (consommer) __(16)__ des boissons d'un prix très élevé si bien qu'avant même de",
+    "flags": []
+  },
+  {
+    "id": "2021-06-V16",
+    "answer": "consommer",
+    "alternatives": [],
+    "left": "départ, il avait dû s'installer longtemps à l'avance dans un petit hôtel où il (être) __(15)__ obligatoire de (consommer)",
+    "right": "des boissons d'un prix très élevé si bien qu'avant même de (mettre) __(17)__ le pied à l'intéri",
+    "flags": []
+  },
+  {
+    "id": "2021-06-V17",
+    "answer": "avoir mis",
+    "alternatives": [
+      "mettre"
+    ],
+    "left": "être) __(15)__ obligatoire de (consommer) __(16)__ des boissons d'un prix très élevé si bien qu'avant même de (mettre)",
+    "right": "le pied à l'intérieur de la voiture, il (dépenser) __(18)__ déjà la plus grande partie de son a",
+    "flags": []
+  },
+  {
+    "id": "2021-06-V18",
+    "answer": "avait dépensé",
+    "alternatives": [],
+    "left": "issons d'un prix très élevé si bien qu'avant même de (mettre) __(17)__ le pied à l'intérieur de la voiture, il (dépenser)",
+    "right": "déjà la plus grande partie de son argent. Malgré tant d'incidents, ce pauvre musicien (finir) _",
+    "flags": []
+  },
+  {
+    "id": "2021-06-V19",
+    "answer": "a fini",
+    "alternatives": [],
+    "left": "ure, il (dépenser) __(18)__ déjà la plus grande partie de son argent. Malgré tant d'incidents, ce pauvre musicien (finir)",
+    "right": "par (arriver) __(20)__ à sa destination au bout d'un trajet de plusieurs jours.",
+    "flags": []
+  },
+  {
+    "id": "2021-06-V20",
+    "answer": "arriver",
+    "alternatives": [],
+    "left": "8)__ déjà la plus grande partie de son argent. Malgré tant d'incidents, ce pauvre musicien (finir) __(19)__ par (arriver)",
+    "right": "à sa destination au bout d'un trajet de plusieurs jours.",
+    "flags": []
+  },
+  {
+    "id": "2022-V01",
+    "answer": "soupirait",
+    "alternatives": [],
+    "left": "J'ai passé le week-end avec maman, faisant semblant de ne pas entendre son chagrin. Maman ne disait rien, parfois elle (soupirer)",
+    "right": "et aussitôt ses yeux (s'emplir) (2) de larmes, alors elle (se retourner) (3) pour que jc (ne pas la",
+    "flags": []
+  },
+  {
+    "id": "2022-V02",
+    "answer": "s'emplissaient",
+    "alternatives": [],
+    "left": "aisant semblant de ne pas entendre son chagrin. Maman ne disait rien, parfois elle (soupirer) (1) et aussitôt ses yeux (s'emplir)",
+    "right": "de larmes, alors elle (se retourner) (3) pour que jc (ne pas la voir) (4). Au milieu de l'après-mi",
+    "flags": []
+  },
+  {
+    "id": "2022-V03",
+    "answer": "s'est retournée",
+    "alternatives": [],
+    "left": "agrin. Maman ne disait rien, parfois elle (soupirer) (1) et aussitôt ses yeux (s'emplir) (2) de larmes, alors elle (se retourner)",
+    "right": "pour que jc (ne pas la voir) (4). Au milieu de l'après-midi, nous nous sommes rendus au supermarch",
+    "flags": []
+  },
+  {
+    "id": "2022-V04",
+    "answer": "ne la voie pas",
+    "alternatives": [],
+    "left": "ois elle (soupirer) (1) et aussitôt ses yeux (s'emplir) (2) de larmes, alors elle (se retourner) (3) pour que jc (ne pas la voir)",
+    "right": ". Au milieu de l'après-midi, nous nous sommes rendus au supermarché. Je(J') (remarquer) (5) depui",
+    "flags": []
+  },
+  {
+    "id": "2022-V05",
+    "answer": "j'ai remarqué",
+    "alternatives": [],
+    "left": "r) (3) pour que jc (ne pas la voir) (4). Au milieu de l'après-midi, nous nous sommes rendus au supermarché. Je(J') (remarquer)",
+    "right": "depuis longtemps que lorsque maman avait le cafard(感到沮丧), nous(aller) (6) faire des courses. Je(",
+    "flags": [
+      "空前省音候选"
+    ]
+  },
+  {
+    "id": "2022-V06",
+    "answer": "allions",
+    "alternatives": [],
+    "left": "us sommes rendus au supermarché. Je(J') (remarquer) (5) depuis longtemps que lorsque maman avait le cafard(感到沮丧), nous(aller)",
+    "right": "faire des courses. Je(ne jamais comprendre) (7) comment un paquet de céréales ou des légumes frai",
+    "flags": []
+  },
+  {
+    "id": "2022-V07",
+    "answer": "ne comprenais pas",
+    "alternatives": [],
+    "left": "r) (5) depuis longtemps que lorsque maman avait le cafard(感到沮丧), nous(aller) (6) faire des courses. Je(ne jamais comprendre)",
+    "right": "comment un paquet de céréales ou des légumes frais (pouvoir) (8) faire du bien au moral...Je la (",
+    "flags": []
+  },
+  {
+    "id": "2022-V08",
+    "answer": "puissent",
+    "alternatives": [],
+    "left": "ous(aller) (6) faire des courses. Je(ne jamais comprendre) (7) comment un paquet de céréales ou des légumes frais (pouvoir)",
+    "right": "faire du bien au moral...Je la (l')(regarder) (9) s'affairer(忙碌)dans les rayonnages, me demandant",
+    "flags": []
+  },
+  {
+    "id": "2022-V09",
+    "answer": "regardais",
+    "alternatives": [],
+    "left": "mprendre) (7) comment un paquet de céréales ou des légumes frais (pouvoir) (8) faire du bien au moral...Je la (l')(regarder)",
+    "right": "s'affairer(忙碌)dans les rayonnages, me demandant si elle se souvenait que je(j')(être) (10) à côté",
+    "flags": []
+  },
+  {
+    "id": "2022-V10",
+    "answer": "j'étais",
+    "alternatives": [],
+    "left": "ien au moral...Je la (l')(regarder) (9) s'affairer(忙碌)dans les rayonnages, me demandant si elle se souvenait que je(j')(être)",
+    "right": "à côté d'elle. Le caddie(购物推车)plein et le porte-monnaie vide, nous(retrer) (11) à la maison. Mama",
+    "flags": [
+      "空前省音候选"
+    ]
+  },
+  {
+    "id": "2022-V11",
+    "answer": "sommes rentrés",
+    "alternatives": [],
+    "left": "mandant si elle se souvenait que je(j')(être) (10) à côté d'elle. Le caddie(购物推车)plein et le porte-monnaie vide, nous(retrer)",
+    "right": "à la maison. Maman (passer) (12) un temps infini à (ranger) (13) les provisions. Ce jour-là, m",
+    "flags": []
+  },
+  {
+    "id": "2022-V12",
+    "answer": "a passé",
+    "alternatives": [],
+    "left": "(j')(être) (10) à côté d'elle. Le caddie(购物推车)plein et le porte-monnaie vide, nous(retrer) (11) à la maison. Maman (passer)",
+    "right": "un temps infini à (ranger) (13) les provisions. Ce jour-là, maman (faire) (14) un gâteau. Elle",
+    "flags": []
+  },
+  {
+    "id": "2022-V13",
+    "answer": "ranger",
+    "alternatives": [],
+    "left": "e caddie(购物推车)plein et le porte-monnaie vide, nous(retrer) (11) à la maison. Maman (passer) (12) un temps infini à (ranger)",
+    "right": "les provisions. Ce jour-là, maman (faire) (14) un gâteau. Elle(mettre) (15) deux couverts sur",
+    "flags": []
+  },
+  {
+    "id": "2022-V14",
+    "answer": "a fait",
+    "alternatives": [],
+    "left": "(retrer) (11) à la maison. Maman (passer) (12) un temps infini à (ranger) (13) les provisions. Ce jour-là, maman (faire)",
+    "right": "un gâteau. Elle(mettre) (15) deux couverts sur la table de la cuisine, (descendre) (16) la chai",
+    "flags": []
+  },
+  {
+    "id": "2022-V15",
+    "answer": "a mis",
+    "alternatives": [],
+    "left": "man (passer) (12) un temps infini à (ranger) (13) les provisions. Ce jour-là, maman (faire) (14) un gâteau. Elle(mettre)",
+    "right": "deux couverts sur la table de la cuisine, (descendre) (16) la chaise de mon père à la cave et ell",
+    "flags": []
+  },
+  {
+    "id": "2022-V16",
+    "answer": "a descendu",
+    "alternatives": [],
+    "left": "visions. Ce jour-là, maman (faire) (14) un gâteau. Elle(mettre) (15) deux couverts sur la table de la cuisine, (descendre)",
+    "right": "la chaise de mon père à la cave et elle (remonter) (17) s'asseoir en face de moi. Elle (sortir)",
+    "flags": []
+  },
+  {
+    "id": "2022-V17",
+    "answer": "est remontée",
+    "alternatives": [],
+    "left": "(mettre) (15) deux couverts sur la table de la cuisine, (descendre) (16) la chaise de mon père à la cave et elle (remonter)",
+    "right": "s'asseoir en face de moi. Elle (sortir) (18) du tiroir le paquet de bougis usées que j'avais souf",
+    "flags": []
+  },
+  {
+    "id": "2022-V18",
+    "answer": "a sorti",
+    "alternatives": [],
+    "left": "a cuisine, (descendre) (16) la chaise de mon père à la cave et elle (remonter) (17) s'asseoir en face de moi. Elle (sortir)",
+    "right": "du tiroir le paquet de bougis usées que j'avais soufflées à mon anniversaire, en a planté une au mi",
+    "flags": []
+  },
+  {
+    "id": "2022-V19",
+    "answer": "en souriant",
+    "alternatives": [],
+    "left": "versaire, en a planté une au milieu du gâteau et l'a allumée. 《C'est notre premier dîner en amoureux, m'a-t-elle dit (sourire)",
+    "right": ", il faudra que nous (s'en souvenir) (20) toujours toi et moi.》",
+    "flags": []
+  },
+  {
+    "id": "2022-V20",
+    "answer": "nous en souvenons",
+    "alternatives": [],
+    "left": "u et l'a allumée. 《C'est notre premier dîner en amoureux, m'a-t-elle dit (sourire) (19) , il faudra que nous (s'en souvenir)",
+    "right": "toujours toi et moi.》",
+    "flags": [
+      "空前重复候选"
+    ]
+  },
+  {
+    "id": "2023-V01",
+    "answer": "J'ai éteint",
+    "alternatives": [],
+    "left": "## La lampe de poche Maman est sortie. Je (J') (éteindre)",
+    "right": "la lumière et je (se mettre) ____(2)____ au travail. C'est très chouette de faire les devoirs ave",
+    "flags": [
+      "空前省音候选"
+    ]
+  },
+  {
+    "id": "2023-V02",
+    "answer": "me suis mis à",
+    "alternatives": [],
+    "left": "## La lampe de poche Maman est sortie. Je (J') (éteindre) ____(1)____ la lumière et je (se mettre)",
+    "right": "au travail. C'est très chouette de faire les devoirs avec une lampe de poche, même si c'est de l'ar",
+    "flags": []
+  },
+  {
+    "id": "2023-V03",
+    "answer": "est revenue",
+    "alternatives": [],
+    "left": "'est très chouette de faire les devoirs avec une lampe de poche, même si c'est de l'arithmétique (算术) ! Et puis Maman (revenir)",
+    "right": "dans la chambre et (allumer) ____(4)____ la grosse lumière : elle (ne pas être) ____(5)____ con",
+    "flags": []
+  },
+  {
+    "id": "2023-V04",
+    "answer": "a allumé",
+    "alternatives": [],
+    "left": "c une lampe de poche, même si c'est de l'arithmétique (算术) ! Et puis Maman (revenir) ____(3)____ dans la chambre et (allumer)",
+    "right": "la grosse lumière : elle (ne pas être) ____(5)____ contente du tout. - Je croyais (te dire) __",
+    "flags": []
+  },
+  {
+    "id": "2023-V05",
+    "answer": "n'était pas",
+    "alternatives": [],
+    "left": "(算术) ! Et puis Maman (revenir) ____(3)____ dans la chambre et (allumer) ____(4)____ la grosse lumière : elle (ne pas être)",
+    "right": "contente du tout. - Je croyais (te dire) ____(6)____ de faire les devoirs avant de jouer ? m'a d",
+    "flags": []
+  },
+  {
+    "id": "2023-V06",
+    "answer": "t'avoir dit",
+    "alternatives": [],
+    "left": "ambre et (allumer) ____(4)____ la grosse lumière : elle (ne pas être) ____(5)____ contente du tout. - Je croyais (te dire)",
+    "right": "de faire les devoirs avant de jouer ? m'a dit Maman. - Mais je (j') (être) ____(7)____ en train",
+    "flags": []
+  },
+  {
+    "id": "2023-V07",
+    "answer": "suis",
+    "alternatives": [],
+    "left": "nte du tout. - Je croyais (te dire) ____(6)____ de faire les devoirs avant de jouer ? m'a dit Maman. - Mais je (j') (être)",
+    "right": "en train de les faire, mes devoirs, lui ai-je expliqué. - Dans l'obscurité ? Avec cette petite lamp",
+    "flags": []
+  },
+  {
+    "id": "2023-V08",
+    "answer": "vas",
+    "alternatives": [],
+    "left": "en train de les faire, mes devoirs, lui ai-je expliqué. - Dans l'obscurité ? Avec cette petite lampe ridicule ? Mais tu (aller)",
+    "right": "te crever les yeux, Nicolas ! a crié Maman. J'ai dit à Maman que ce (ne pas être) ____(9)____ un",
+    "flags": []
+  },
+  {
+    "id": "2023-V09",
+    "answer": "n'est pas",
+    "alternatives": [],
+    "left": "mpe ridicule ? Mais tu (aller) ____(8)____ te crever les yeux, Nicolas ! a crié Maman. J'ai dit à Maman que ce (ne pas être)",
+    "right": "une petite lampe ridicule, et qu'elle (donner) ____(10)____ une lumière terrible, mais Maman n'a",
+    "flags": []
+  },
+  {
+    "id": "2023-V10",
+    "answer": "donne",
+    "alternatives": [],
+    "left": "ux, Nicolas ! a crié Maman. J'ai dit à Maman que ce (ne pas être) ____(9)____ une petite lampe ridicule, et qu'elle (donner)",
+    "right": "une lumière terrible, mais Maman n'a rien voulu savoir et elle (prendre) ____(11)____ ma lampe, e",
+    "flags": []
+  },
+  {
+    "id": "2023-V11",
+    "answer": "a pris",
+    "alternatives": [],
+    "left": "ite lampe ridicule, et qu'elle (donner) ____(10)____ une lumière terrible, mais Maman n'a rien voulu savoir et elle (prendre)",
+    "right": "ma lampe, et elle a dit qu'elle me la (l') (rendre) ____(12)____ quand je (j') (finir) ____(13)",
+    "flags": []
+  },
+  {
+    "id": "2023-V12",
+    "answer": "rendrait",
+    "alternatives": [],
+    "left": "terrible, mais Maman n'a rien voulu savoir et elle (prendre) ____(11)____ ma lampe, et elle a dit qu'elle me la (l') (rendre)",
+    "right": "quand je (j') (finir) ____(13)____ mes devoirs. Je (J') (essayer) ____(14)____ de pleurer un co",
+    "flags": []
+  },
+  {
+    "id": "2023-V13",
+    "answer": "aurais fini",
+    "alternatives": [],
+    "left": "avoir et elle (prendre) ____(11)____ ma lampe, et elle a dit qu'elle me la (l') (rendre) ____(12)____ quand je (j') (finir)",
+    "right": "mes devoirs. Je (J') (essayer) ____(14)____ de pleurer un coup, mais je sais qu'avec Maman ça (n",
+    "flags": []
+  },
+  {
+    "id": "2023-V14",
+    "answer": "J'ai essayé",
+    "alternatives": [],
+    "left": "e, et elle a dit qu'elle me la (l') (rendre) ____(12)____ quand je (j') (finir) ____(13)____ mes devoirs. Je (J') (essayer)",
+    "right": "de pleurer un coup, mais je sais qu'avec Maman ça (ne presque jamais servir) ____(15)____ à rien,",
+    "flags": [
+      "空前省音候选"
+    ]
+  },
+  {
+    "id": "2023-V15",
+    "answer": "ne sert presque jamais",
+    "alternatives": [],
+    "left": "____ mes devoirs. Je (J') (essayer) ____(14)____ de pleurer un coup, mais je sais qu'avec Maman ça (ne presque jamais servir)",
+    "right": "à rien, alors je (j') (faire) ____(16)____ mon problème le plus vite possible. Je suis descendu",
+    "flags": []
+  },
+  {
+    "id": "2023-V16",
+    "answer": "fais",
+    "alternatives": [],
+    "left": ")____ de pleurer un coup, mais je sais qu'avec Maman ça (ne presque jamais servir) ____(15)____ à rien, alors je (j') (faire)",
+    "right": "mon problème le plus vite possible. Je suis descendu (courir) ____(17)____ et je (j') (demander",
+    "flags": []
+  },
+  {
+    "id": "2023-V17",
+    "answer": "en courant",
+    "alternatives": [],
+    "left": "rvir) ____(15)____ à rien, alors je (j') (faire) ____(16)____ mon problème le plus vite possible. Je suis descendu (courir)",
+    "right": "et je (j') (demander) ____(18)____ à Maman qu'elle me (m') (rendre) ____(19)____ ma lampe de po",
+    "flags": []
+  },
+  {
+    "id": "2023-V18",
+    "answer": "j'ai demandé",
+    "alternatives": [],
+    "left": "(j') (faire) ____(16)____ mon problème le plus vite possible. Je suis descendu (courir) ____(17)____ et je (j') (demander)",
+    "right": "à Maman qu'elle me (m') (rendre) ____(19)____ ma lampe de poche. - Bon, mais (être) ____(20)__",
+    "flags": [
+      "空前省音候选"
+    ]
+  },
+  {
+    "id": "2023-V19",
+    "answer": "rende",
+    "alternatives": [],
+    "left": "vite possible. Je suis descendu (courir) ____(17)____ et je (j') (demander) ____(18)____ à Maman qu'elle me (m') (rendre)",
+    "right": "ma lampe de poche. - Bon, mais (être) ____(20)____ sage, m'a dit Maman.",
+    "flags": []
+  },
+  {
+    "id": "2023-V20",
+    "answer": "sois",
+    "alternatives": [],
+    "left": "___ et je (j') (demander) ____(18)____ à Maman qu'elle me (m') (rendre) ____(19)____ ma lampe de poche. - Bon, mais (être)",
+    "right": "sage, m'a dit Maman.",
+    "flags": []
+  },
+  {
+    "id": "2024-V01",
+    "answer": "portant",
+    "alternatives": [],
+    "left": "## Les deux frères Deux frères voyageaient ensemble. Vers midi, ils aperçurent une pierre (porter)",
+    "right": "une inscription （铭文）. Ils （lire）(2) ce qui (etre)(3) écrit : «Que celui qui trouvera cette pierre (",
+    "flags": []
+  },
+  {
+    "id": "2024-V02",
+    "answer": "lurent",
+    "alternatives": [],
+    "left": "s deux frères Deux frères voyageaient ensemble. Vers midi, ils aperçurent une pierre (porter)(1) une inscription （铭文）. Ils （lire）",
+    "right": "ce qui (etre)(3) écrit : «Que celui qui trouvera cette pierre (marcher) (4) dans la forêt vers l'or",
+    "flags": []
+  },
+  {
+    "id": "2024-V03",
+    "answer": "fut",
+    "alternatives": [],
+    "left": "ux frères voyageaient ensemble. Vers midi, ils aperçurent une pierre (porter)(1) une inscription （铭文）. Ils （lire）(2) ce qui (etre)",
+    "right": "écrit : «Que celui qui trouvera cette pierre (marcher) (4) dans la forêt vers l'orient. Dans ta for",
+    "flags": []
+  },
+  {
+    "id": "2024-V04",
+    "answer": "marche",
+    "alternatives": [],
+    "left": "ne pierre (porter)(1) une inscription （铭文）. Ils （lire）(2) ce qui (etre)(3) écrit : «Que celui qui trouvera cette pierre (marcher)",
+    "right": "dans la forêt vers l'orient. Dans ta forêt il (rencontrer) (5) une rivière, qu'il la traverse. Sur",
+    "flags": []
+  },
+  {
+    "id": "2024-V05",
+    "answer": "rencontrera",
+    "alternatives": [],
+    "left": "i (etre)(3) écrit : «Que celui qui trouvera cette pierre (marcher) (4) dans la forêt vers l'orient. Dans ta forêt il (rencontrer)",
+    "right": "une rivière, qu'il la traverse. Sur l'autre rive, il (voir) (6) une maison, et dans cette maison il",
+    "flags": []
+  },
+  {
+    "id": "2024-V06",
+    "answer": "verra",
+    "alternatives": [],
+    "left": "r) (4) dans la forêt vers l'orient. Dans ta forêt il (rencontrer) (5) une rivière, qu'il la traverse. Sur l'autre rive, il (voir)",
+    "right": "une maison, et dans cette maison il (trouver) (7) le bonheur.» Le cadet dit à l'aîné: «(aller) (8)",
+    "flags": []
+  },
+  {
+    "id": "2024-V07",
+    "answer": "trouvera",
+    "alternatives": [],
+    "left": "il (rencontrer) (5) une rivière, qu'il la traverse. Sur l'autre rive, il (voir) (6) une maison, et dans cette maison il (trouver)",
+    "right": "le bonheur.» Le cadet dit à l'aîné: «(aller) (8) ensemble pour trouver tous deux le bonheur.» Mais",
+    "flags": []
+  },
+  {
+    "id": "2024-V08",
+    "answer": "Allons",
+    "alternatives": [],
+    "left": ". Sur l'autre rive, il (voir) (6) une maison, et dans cette maison il (trouver) (7) le bonheur.» Le cadet dit à l'aîné: «(aller)",
+    "right": "ensemble pour trouver tous deux le bonheur.» Mais l'aîné répondit: Je n'irai pas. D'abord, on (ne p",
+    "flags": []
+  },
+  {
+    "id": "2024-V09",
+    "answer": "ne sait pas",
+    "alternatives": [],
+    "left": "'aîné: «(aller) (8) ensemble pour trouver tous deux le bonheur.» Mais l'aîné répondit: Je n'irai pas. D'abord, on (ne pas savoir)",
+    "right": "si cette inscription est vraie. Il est possible que nous le (I')(lire) (10) mal. Ensuite, en admett",
+    "flags": []
+  },
+  {
+    "id": "2024-V10",
+    "answer": "lisions",
+    "alternatives": [],
+    "left": "é répondit: Je n'irai pas. D'abord, on (ne pas savoir) (9) si cette inscription est vraie. Il est possible que nous le (I')(lire)",
+    "right": "mal. Ensuite, en admettant que ce (C') (être) (11) la vérité, nous passerons la nuit dans la foret,",
+    "flags": []
+  },
+  {
+    "id": "2024-V11",
+    "answer": "soit",
+    "alternatives": [],
+    "left": "ir) (9) si cette inscription est vraie. Il est possible que nous le (I')(lire) (10) mal. Ensuite, en admettant que ce (C') (être)",
+    "right": "la vérité, nous passerons la nuit dans la foret, et nous nous egarerons （迷路）. Moi. je (i') (aimer)",
+    "flags": []
+  },
+  {
+    "id": "2024-V12",
+    "answer": "aimerais",
+    "alternatives": [],
+    "left": "ettant que ce (C') (être) (11) la vérité, nous passerons la nuit dans la foret, et nous nous egarerons （迷路）. Moi. je (i') (aimer)",
+    "right": "plutôt rester ici.» Le cadet dit: Ne me dis pas: \"Je (J') (devoir) (13) aller avec toi!\" quand je",
+    "flags": []
+  },
+  {
+    "id": "2024-V13",
+    "answer": "aurais dû",
+    "alternatives": [],
+    "left": "foret, et nous nous egarerons （迷路）. Moi. je (i') (aimer) (12) plutôt rester ici.» Le cadet dit: Ne me dis pas: \"Je (J') (devoir)",
+    "right": "aller avec toi!\" quand je trouverai le bonheur !» L'aîné lui répondit : « Tu sais le proverbe \"Qui",
+    "flags": []
+  },
+  {
+    "id": "2024-V14",
+    "answer": "n'a rien",
+    "alternatives": [],
+    "left": ") (13) aller avec toi!\" quand je trouverai le bonheur !» L'aîné lui répondit : « Tu sais le proverbe \"Qui veut trop (n'avoir rien)",
+    "right": "\".» Le cadet repliqua （反驳）: «Et moi, je (j') (entendre dire) (15)\"Qui (craindre)(16) la feuille n'ai",
+    "flags": []
+  },
+  {
+    "id": "2024-V15",
+    "answer": "ai entendu dire",
+    "alternatives": [],
+    "left": "ui répondit : « Tu sais le proverbe \"Qui veut trop (n'avoir rien)(14)\".» Le cadet repliqua （反驳）: «Et moi, je (j') (entendre dire)",
+    "right": "\"Qui (craindre)(16) la feuille n'aille point au bois\". Bon, il est temps que je (j') (partir) (17).»",
+    "flags": []
+  },
+  {
+    "id": "2024-V16",
+    "answer": "craint",
+    "alternatives": [],
+    "left": "sais le proverbe \"Qui veut trop (n'avoir rien)(14)\".» Le cadet repliqua （反驳）: «Et moi, je (j') (entendre dire) (15)\"Qui (craindre)",
+    "right": "la feuille n'aille point au bois\". Bon, il est temps que je (j') (partir) (17).» Le cadet (s'éloig",
+    "flags": []
+  },
+  {
+    "id": "2024-V17",
+    "answer": "parte",
+    "alternatives": [],
+    "left": "Et moi, je (j') (entendre dire) (15)\"Qui (craindre)(16) la feuille n'aille point au bois\". Bon, il est temps que je (j') (partir)",
+    "right": ".» Le cadet (s'éloigner) (18). À peine eut-il atteint l'autre rive de la rivière qu'une foule de ge",
+    "flags": []
+  },
+  {
+    "id": "2024-V18",
+    "answer": "s'eloigna",
+    "alternatives": [],
+    "left": ") (15)\"Qui (craindre)(16) la feuille n'aille point au bois\". Bon, il est temps que je (j') (partir) (17).» Le cadet (s'éloigner)",
+    "right": ". À peine eut-il atteint l'autre rive de la rivière qu'une foule de gens (venir) (19) à sa rencontre",
+    "flags": []
+  },
+  {
+    "id": "2024-V19",
+    "answer": "vinrent",
+    "alternatives": [],
+    "left": "(j') (partir) (17).» Le cadet (s'éloigner) (18). À peine eut-il atteint l'autre rive de la rivière qu'une foule de gens (venir)",
+    "right": "à sa rencontre et le transportèrent à la ville ou on le (I') (nommer) (20) roi.",
+    "flags": []
+  },
+  {
+    "id": "2024-V20",
+    "answer": "nomma",
+    "alternatives": [],
+    "left": "'autre rive de la rivière qu'une foule de gens (venir) (19) à sa rencontre et le transportèrent à la ville ou on le (I') (nommer)",
+    "right": "roi.",
+    "flags": []
+  },
+  {
+    "id": "2025-V01",
+    "answer": "entrer",
+    "alternatives": [],
+    "left": "t entrée à l'hôpital à cause d'une chute. Tom, son petit voisin, venait lui rendre visite. Tom a frappé. En le voyant (entrer)",
+    "right": ", Madeleine (se pencher) __(2)__ en avant. Elle (rester) __(3)__ comme ça un moment. Quand enfin ell",
+    "flags": []
+  },
+  {
+    "id": "2025-V02",
+    "answer": "s’est penché",
+    "alternatives": [],
+    "left": "ne chute. Tom, son petit voisin, venait lui rendre visite. Tom a frappé. En le voyant (entrer) __(1)__, Madeleine (se pencher)",
+    "right": "en avant. Elle (rester) __(3)__ comme ça un moment. Quand enfin elle l'a reconnu, son visage s'est",
+    "flags": []
+  },
+  {
+    "id": "2025-V03",
+    "answer": "est restée",
+    "alternatives": [],
+    "left": "venait lui rendre visite. Tom a frappé. En le voyant (entrer) __(1)__, Madeleine (se pencher) __(2)__ en avant. Elle (rester)",
+    "right": "comme ça un moment. Quand enfin elle l'a reconnu, son visage s'est éclairé et elle (se mettre) __(4",
+    "flags": []
+  },
+  {
+    "id": "2025-V04",
+    "answer": "s’est mise",
+    "alternatives": [],
+    "left": "__ en avant. Elle (rester) __(3)__ comme ça un moment. Quand enfin elle l'a reconnu, son visage s'est éclairé et elle (se mettre)",
+    "right": "à sourire. Mais très vite, elle a caché sa bouche avec la main, (se rappeler) __(5)__ qu'elle n'ava",
+    "flags": []
+  },
+  {
+    "id": "2025-V05",
+    "answer": "se rappelant",
+    "alternatives": [],
+    "left": "on visage s'est éclairé et elle (se mettre) __(4)__ à sourire. Mais très vite, elle a caché sa bouche avec la main, (se rappeler)",
+    "right": "qu'elle n'avait pas son dentier (假牙). – Ah là là ! Qu'est-ce que tu (faire) __(6)__ ici ? Tom (pose",
+    "flags": []
+  },
+  {
+    "id": "2025-V06",
+    "answer": "fais",
+    "alternatives": [],
+    "left": "a caché sa bouche avec la main, (se rappeler) __(5)__ qu'elle n'avait pas son dentier (假牙). – Ah là là ! Qu'est-ce que tu (faire)",
+    "right": "ici ? Tom (poser) __(7)__ le bouquet sur le lit, mais il n'osait pas s'approcher. – Je vous (apport",
+    "flags": []
+  },
+  {
+    "id": "2025-V07",
+    "answer": "a posé",
+    "alternatives": [],
+    "left": "main, (se rappeler) __(5)__ qu'elle n'avait pas son dentier (假牙). – Ah là là ! Qu'est-ce que tu (faire) __(6)__ ici ? Tom (poser)",
+    "right": "le bouquet sur le lit, mais il n'osait pas s'approcher. – Je vous (apporter) __(8)__ des fleurs de",
+    "flags": []
+  },
+  {
+    "id": "2025-V08",
+    "answer": "ai apporté",
+    "alternatives": [],
+    "left": "-ce que tu (faire) __(6)__ ici ? Tom (poser) __(7)__ le bouquet sur le lit, mais il n'osait pas s'approcher. – Je vous (apporter)",
+    "right": "des fleurs de votre jardin. --- - Et mes bêtes, elles (aller) __ (9) __ bien ? Il (se gratter",
+    "flags": []
+  },
+  {
+    "id": "2025-V09",
+    "answer": "vont",
+    "alternatives": [],
+    "left": ", mais il n'osait pas s'approcher. – Je vous (apporter) __(8)__ des fleurs de votre jardin. --- - Et mes bêtes, elles (aller)",
+    "right": "bien ? Il (se gratter) __ (10) __ un peu la tête et (se lancer) __ (11) __ : - Vous savez, mada",
+    "flags": []
+  },
+  {
+    "id": "2025-V10",
+    "answer": "s’est gratté",
+    "alternatives": [],
+    "left": "– Je vous (apporter) __(8)__ des fleurs de votre jardin. --- - Et mes bêtes, elles (aller) __ (9) __ bien ? Il (se gratter)",
+    "right": "un peu la tête et (se lancer) __ (11) __ : - Vous savez, madame Madeleine, elles (sortir) __ (1",
+    "flags": []
+  },
+  {
+    "id": "2025-V11",
+    "answer": "s’est lancé",
+    "alternatives": [],
+    "left": "votre jardin. --- - Et mes bêtes, elles (aller) __ (9) __ bien ? Il (se gratter) __ (10) __ un peu la tête et (se lancer)",
+    "right": ": - Vous savez, madame Madeleine, elles (sortir) __ (12) __ tous les jours (se promener) __ (13",
+    "flags": []
+  },
+  {
+    "id": "2025-V12",
+    "answer": "sortent",
+    "alternatives": [],
+    "left": "bien ? Il (se gratter) __ (10) __ un peu la tête et (se lancer) __ (11) __ : - Vous savez, madame Madeleine, elles (sortir)",
+    "right": "tous les jours (se promener) __ (13) __ et elles mangent bien aussi. Alors, justement, je (j') (",
+    "flags": []
+  },
+  {
+    "id": "2025-V13",
+    "answer": "se promener",
+    "alternatives": [],
+    "left": "la tête et (se lancer) __ (11) __ : - Vous savez, madame Madeleine, elles (sortir) __ (12) __ tous les jours (se promener)",
+    "right": "et elles mangent bien aussi. Alors, justement, je (j') (venir) __ (14) __ vous voir parce que je",
+    "flags": []
+  },
+  {
+    "id": "2025-V14",
+    "answer": "suis venu",
+    "alternatives": [],
+    "left": "(sortir) __ (12) __ tous les jours (se promener) __ (13) __ et elles mangent bien aussi. Alors, justement, je (j') (venir)",
+    "right": "vous voir parce que je voulais savoir quand vous (renter) __ (15) __. Il va bientôt ne plus reste",
+    "flags": []
+  },
+  {
+    "id": "2025-V15",
+    "answer": "rentrerez",
+    "alternatives": [],
+    "left": "es mangent bien aussi. Alors, justement, je (j') (venir) __ (14) __ vous voir parce que je voulais savoir quand vous (renter)",
+    "right": ". Il va bientôt ne plus rester de croquettes (宠物粮)... - Mais c'est que je ne sais pas quand ils me (",
+    "flags": []
+  },
+  {
+    "id": "2025-V16",
+    "answer": "relâcheront",
+    "alternatives": [],
+    "left": "__ (15) __. Il va bientôt ne plus rester de croquettes (宠物粮)... - Mais c'est que je ne sais pas quand ils me (m') (relâcher 释放)",
+    "right": "! Ils me font marcher tous les jours. Je m'ennuie ici... L'infirmière (arriver) __ (17) __ et a d",
+    "flags": []
+  },
+  {
+    "id": "2025-V17",
+    "answer": "est arrivée",
+    "alternatives": [],
+    "left": "as quand ils me (m') (relâcher 释放) __ (16) __ ! Ils me font marcher tous les jours. Je m'ennuie ici... L'infirmière (arriver)",
+    "right": "et a dit que les visites (être terminé) __ (18) __. Tom (s'approcher) __ (19) __ de Madeleine.",
+    "flags": []
+  },
+  {
+    "id": "2025-V18",
+    "answer": "étaient terminées",
+    "alternatives": [],
+    "left": "me font marcher tous les jours. Je m'ennuie ici... L'infirmière (arriver) __ (17) __ et a dit que les visites (être terminé)",
+    "right": ". Tom (s'approcher) __ (19) __ de Madeleine. Il a hésité, puis la (l') (embrasser) __ (20) __.",
+    "flags": []
+  },
+  {
+    "id": "2025-V19",
+    "answer": "s’est approché",
+    "alternatives": [],
+    "left": "Je m'ennuie ici... L'infirmière (arriver) __ (17) __ et a dit que les visites (être terminé) __ (18) __. Tom (s'approcher)",
+    "right": "de Madeleine. Il a hésité, puis la (l') (embrasser) __ (20) __. D'après Barbara Constantine, To",
+    "flags": []
+  },
+  {
+    "id": "2025-V20",
+    "answer": "l’a embrassée",
+    "alternatives": [],
+    "left": "que les visites (être terminé) __ (18) __. Tom (s'approcher) __ (19) __ de Madeleine. Il a hésité, puis la (l') (embrasser)",
+    "right": ". D'après Barbara Constantine, Tom, petit Tom, tout petit homme, Tom",
+    "flags": [
+      "空前省音候选"
+    ]
+  }
+]

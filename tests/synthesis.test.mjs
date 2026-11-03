@@ -16,7 +16,7 @@ test('candidate snapshot supports scoped search without changing review or gradi
  const may=(await get('/questions/2021-05-Q001')).json(),june=(await get('/questions/2021-06-Q001')).json();assert.notEqual(may.id,june.id);assert.equal(may.sitting,'2021-05');assert.equal(june.sitting,'2021-06');
  assert.equal((await get('/questions?q=zzzzzzzzzzzz')).json().total,0);
  const explanation=(await get('/questions?q='+encodeURIComponent('avoir besoin de l’argent accepte'))).json();assert.ok(explanation.items.some(x=>x.id==='2005-Q041'));
- const recovered=(await get('/questions/2018-Q011')).json();assert.equal(recovered.mapping.material_status,'source_missing');assert.ok(recovered.mapping.source_record.sol_high_decision.stem);assert.equal(recovered.answer.answer_status,'source_letter_only_not_audio_verified');
+ const recovered=(await get('/questions/2018-Q011')).json();assert.equal(recovered.mapping.material_status,'source_missing');assert.ok(recovered.mapping.source_record.sol_high_decision.stem);assert.equal(recovered.answer.answer_status,'user-approved');assert.equal(recovered.answer.reference_version,'user-reference-v1');assert.equal(recovered.mapping.answer_status,'source_letter_only_not_audio_verified');
  const data=loadSynthesis();const item=data.items.find(i=>i.mapping.source_record?.terra_content?.explanation?.includes('未取得允许的音频'));assert.ok(item);assert.ok((await get('/questions?q='+encodeURIComponent('未取得允许的音频'))).json().total>0);
  const byDefinition=(await get('/questions?q='+encodeURIComponent('被替代事物的性数'))).json();assert.ok(byDefinition.items.some(x=>x.id==='2006-Q065'));
  const node=data.data.nodes.find(n=>n.id==='obj-possessive');assert.ok((await get('/nodes?q='+encodeURIComponent(node.name))).json().nodes.some(n=>n.id===node.id));assert.ok((await get('/nodes?q='+encodeURIComponent('被替代事物的性数'))).json().nodes.some(n=>n.id===node.id));
@@ -29,7 +29,7 @@ test('grouped question bank preserves passages, multi-type filters and subquesti
  const db=openDatabase(':memory:'),app=await createApp({db});try{
  await createUser(db,'admin-group','testing-password','admin');const login=await app.inject({method:'POST',url:'/api/auth/login',headers:{origin:'http://127.0.0.1:4174'},payload:{username:'admin-group',password:'testing-password'}});const cookie=login.headers['set-cookie'].split(';')[0];const get=async url=>(await app.inject({url:'/api/admin/synthesis'+url,headers:{cookie}})).json();
  const all=await get('/groups?years=2005&types=cloze,reading');assert.equal(all.total,5);assert.deepEqual(all.items.map(x=>x.items.length),[10,5,5,5,5]);assert.ok(all.items.every(x=>x.material));
- const verb=await get('/groups?years=2012&types=verb_blank');assert.equal(verb.total,1);assert.equal(verb.items[0].items.length,20);assert.equal(verb.items[0].items.filter(x=>x.missingBlank).length,4);
+ const verb=await get('/groups?years=2012&types=verb_blank');assert.equal(verb.total,1);assert.equal(verb.items[0].items.length,20);assert.equal(verb.items[0].items.filter(x=>x.missingBlank).length,0);
  const filtered=await get('/groups?years=2021,2023&types=cloze,reading');assert.equal(filtered.total,15);
  const hit=await get('/groups?q=2005-Q083');assert.equal(hit.total,1);assert.equal(hit.items[0].items.length,5);assert.ok(hit.items[0].matches.some(x=>x.id==='2005-Q083'));assert.ok(!JSON.stringify(hit).includes('answer_view'));
  const detail=await get('/groups/'+hit.items[0].id);assert.equal(detail.items.length,5);assert.ok(detail.items.every(i=>i.answer));

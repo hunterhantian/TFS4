@@ -1,0 +1,59 @@
+{
+  "version": "verb-context-forms-v2",
+  "items": {
+    "2005-V10": {
+      "accepted": [
+        "a dit"
+      ],
+      "evidence": "题面 on me (dire) [空]；me 已在空前。"
+    },
+    "2013-V01": {
+      "accepted": [
+        "ont amenée"
+      ],
+      "evidence": "题面 ils la (amener) [空]；la 已在空前，对应答案中的 l’。"
+    },
+    "2023-V01": {
+      "accepted": [
+        "ai éteint"
+      ],
+      "evidence": "题面 Je (J') (éteindre) [空]；主语已在空前。"
+    },
+    "2023-V02": {
+      "accepted": [
+        "me suis mis"
+      ],
+      "evidence": "题面 je (se mettre) [空] au travail；au 包含 à，空内不再重复。"
+    },
+    "2009-V01": {
+      "accepted": [
+        "a demandé"
+      ],
+      "evidence": "题面 Marie ... me (demander) [空]，me 已在空前。"
+    },
+    "2009-V03": {
+      "accepted": [
+        "ai dit"
+      ],
+      "evidence": "题面 Je (dire) [空]；答案原文开头为省音残片。"
+    },
+    "2009-V04": {
+      "accepted": [
+        "était"
+      ],
+      "evidence": "题面 cela me (être) [空]，me 已在空前。"
+    },
+    "2009-V08": {
+      "accepted": [
+        "ai répondu"
+      ],
+      "evidence": "题面 Je (répondre) [空]；答案原文开头为省音残片。"
+    },
+    "2009-V09": {
+      "accepted": [
+        "avais déjà fait"
+      ],
+      "evidence": "题面 je le (déjà faire) [空]，le 已在空前。"
+    }
+  }
+}

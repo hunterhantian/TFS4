@@ -19,7 +19,7 @@ export function fullExamCatalog(file=path.join(projectRoot,'.local/synthesis/sna
    if(m.material_status==='source_missing'){if(!source?.stem||!(source?.options?.length))issues.push(`第 ${no} 题原始题面缺失`);else warnings.push(`第 ${no} 题使用后续恢复的题面，来源待核验`);}
    const candidate=choiceAnswer(m.itemId,options);if(typeof candidate!=='string'||!Object.hasOwn(options,candidate))warnings.push(`第 ${no} 题候选答案缺失或不确定`);
    const part=type==='listening'?'II':type==='grammar'?'IV':type==='reading'?'VI':'III';const pageKey=type==='reading'?`reading-${materialId}`:`${type}-${Math.floor((no-1)/10)}`;
-   return {id:m.itemId,version:1,originalNo:no,text:stem,options,component:type,formalPart:part,materialId,responseType:'choice',pageKey,answer:{version:1,value:candidate,status:'user-reference',accepted:[],conditional:[]}};
+   return {id:m.itemId,version:1,originalNo:no,text:stem,options,component:type,formalPart:part,materialId,responseType:'choice',pageKey,answer:{version:1,value:candidate,status:'user-approved',accepted:[],conditional:[]}};
   });
   if(questions.length!==100||questions.some((q,i)=>q.originalNo!==i+1))issues.push('客观题未完整覆盖第 1—100 题');
   const cloze=questions.filter(q=>q.component==='cloze'),reading=questions.filter(q=>q.component==='reading');if(new Set(cloze.map(q=>q.materialId)).size!==1||!cloze[0]?.materialId)issues.push('完形填空文章不完整');const groups=new Map();for(const q of reading)groups.set(q.materialId,(groups.get(q.materialId)||0)+1);if(groups.size!==4||[...groups.values()].some(n=>n!==5)||groups.has(null))issues.push('阅读文章或题组不完整');

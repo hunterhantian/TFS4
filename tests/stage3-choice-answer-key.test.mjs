@@ -8,7 +8,7 @@ import {miniCatalog} from '../server/mini-exam.mjs';
 import {makeReport} from '../server/domain.mjs';
 
 test('all published choice answers match the user document and every catalog option',()=>{
- const key=JSON.parse(fs.readFileSync('data/stage3-choice-answer-key-v1.json'));const raw=fs.readFileSync(key.source);assert.equal(crypto.createHash('sha256').update(raw).digest('hex'),key.sourceSha256);
+ const key=JSON.parse(fs.readFileSync('data/stage3-choice-answer-key-v1.json'));const raw=fs.readFileSync(key.source);const digest=b=>crypto.createHash('sha256').update(b).digest('hex');const lf=raw.toString('utf8').replace(/\r\n/g,'\n');assert.ok([digest(raw),digest(Buffer.from(lf.replace(/\n/g,'\r\n')))].includes(key.sourceSha256),'source hash differs beyond line endings');
  const sections=raw.toString().split(/^## (\d{4}(?:-\d{2})?)\s*$/m);assert.equal(sections.length,43);
  for(let i=1;i<sections.length;i+=2){const y=sections[i],body=sections[i+1];const entries=[...body.matchAll(/(?<!\d)(\d{2,3})=([A-D])\*?/g)];assert.equal(entries.length,100);for(const [,n,a] of entries)assert.equal(key.answers[`${y}-Q${n.padStart(3,'0')}`],a);}
  for(const p of fullExamCatalog())for(const q of p.snapshot.questions)assert.equal(q.answer.value,key.answers[q.id]);

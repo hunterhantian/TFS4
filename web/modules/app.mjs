@@ -1,3 +1,7 @@
+import {mountMastery} from './learning-mastery.mjs';
+import {mountPractice} from './learning-practice.mjs';
+import {mountMistakes} from './learning-mistakes.mjs';
+import {mountLearningTree} from './learning-tree.mjs';
 import {initStage2} from './stage2.mjs';
 import {mountRelated} from './bank.mjs';
 import {newClientId} from './client-id.mjs';
@@ -16,7 +20,7 @@ async function run(fn){try{return await fn();}catch(e){message(e.message);if(e.s
 function destroy(){if(sync){sync.destroy();sync=null;}$('#listening-audio').pause();}
 function clearAccountViews(){
  stage2.reset();destroy();closeReportQuestion();reportRequest++;reportScope='mine';for(const scope of ['mine','all'])Object.assign(reportFilters[scope],{range:'all',from:'',to:'',ownerId:''});
- for(const id of ['report-content','report-list','user-list','attempt-list','draft-list','questions'])$('#'+id).replaceChildren();$('#report-content').onclick=null;
+ for(const id of ['report-content','report-list','user-list','attempt-list','draft-list','questions','learning-content','learning-sub-content'])$('#'+id).replaceChildren();$('#report-content').onclick=null;
  $('#archive-owner').innerHTML='<option value="">全部考生</option>';$('#report-owner').textContent='';$('#report-owner').hidden=true;$('#report-title').textContent='';$('#report-user-filter').hidden=true;
 }
 const trashIcon='<svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7h16M9 7V4h6v3M7 7l1 13h8l1-13M10 10v7M14 10v7"/></svg>';
@@ -65,6 +69,27 @@ $('#login-form').onsubmit=e=>{e.preventDefault();run(async()=>{const form=e.curr
 $('#logout').onclick=()=>run(async()=>{if(sync){sync.stop();sync.persist();}if(sync&&!sync.frozen){try{await sync.flush('pause');}catch{message('进度尚未同步，已保留本机备份。');}}await api('POST','/auth/logout',{});clearAccountViews();setCsrf('');user=null;$('#account-name').textContent='';$('#logout').hidden=true;show('login-view');message('已退出；未同步内容仍保存在原账号的本机缓存中。');});
 $('#brand-home').onclick=()=>run(()=>user?home():Promise.resolve(show('login-view')));document.querySelectorAll('[data-home]').forEach(b=>b.onclick=()=>run(home));
 const selectTestMode=mode=>{for(const name of ['mini','listening','full-exam']){$('#'+name+'-setup').hidden=name!==mode;$('#choose-'+name).setAttribute('aria-pressed',String(name===mode));}};
+let learningRequest=0;
+async function startMistakeRetry(selection){createRequest||=newClientId();const a=await api('POST','/learning/mistakes/retry',{...selection,deviceId,requestId:createRequest});createRequest=null;await openAttempt(a.id,true);}
+async function startLearningTraining(nodeId,kind='targeted'){
+ createRequest||=newClientId();const a=await api('POST','/learning/training',{nodeId,kind,deviceId,requestId:createRequest});createRequest=null;await openAttempt(a.id,true);
+}
+async function startLearningMixed(planId){
+ createRequest||=newClientId();const a=await api('POST','/learning/training',{nodeId:'plan',kind:'mixed',planId,deviceId,requestId:createRequest});createRequest=null;await openAttempt(a.id,true);
+}
+async function showLearning(){
+ destroy();++learningRequest;show('learning-view');message('');const root=$('#learning-content');
+ root.innerHTML=`<nav class="learning-sections" aria-label="软柿子变硬功能"><button type="button" data-learning-page="tree"><b>知识树诊断</b><small>逐级查看知识点和学习依据</small><span aria-hidden="true">↗</span></button><button type="button" data-learning-page="mistakes"><b>我的错题</b><small>按时间回看和重做错题</small><span aria-hidden="true">↗</span></button><button type="button" data-learning-page="practice"><b>知识点掌握程度</b><small>按时间查看知识点正确率</small><span aria-hidden="true">↗</span></button><button type="button" data-learning-page="recent"><b>最近作答</b><small>按时间回看最近的题目</small><span aria-hidden="true">↗</span></button></nav><p class="muted learning-note">根据已保存的作答记录展示；知识点关联状态会影响判断。</p>`;
+ root.querySelectorAll('[data-learning-page]').forEach(b=>b.onclick=()=>run(()=>showLearningPage(b.dataset.learningPage)));
+}
+async function showLearningPage(page){
+ const titles={tree:'知识树诊断',mistakes:'我的错题',practice:'知识点掌握程度',recent:'最近作答'};if(!titles[page])throw Error('页面不存在');const request=++learningRequest;show('learning-subview');message('');$('#learning-subtitle').textContent=titles[page];const host=$('#learning-sub-content'),root=document.createElement('div');host.replaceChildren(root);root.textContent='正在读取…';
+ if(page==='tree'){await mountLearningTree(root,{run,onTrain:startLearningTraining});}
+ else if(page==='mistakes'){root.replaceChildren();await mountMistakes(root,{run,onRetry:startMistakeRetry});}
+ else if(page==='practice'){root.replaceChildren();await mountMastery(root,{run});}
+ else{const data=await api('GET','/learning/overview');if(request!==learningRequest)return;root.innerHTML=data.recent.length?data.recent.map(e=>`<article class="synthesis-card"><strong>${escape(e.questionId)}</strong><p>${e.result==='wrong'?'答错':'答对'} · ${escape(e.time.slice(0,10))}</p></article>`).join(''):'<p class="learning-empty">暂无已判定的作答记录。</p>';}
+}
+$('#open-learning').onclick=()=>run(showLearning);$('#learning-back').onclick=()=>run(showLearning);
 $('#open-tests').onclick=()=>run(async()=>{show('test-setup-view');selectTestMode('');message('');});
 $('#choose-listening').onclick=()=>run(async()=>{selectTestMode('listening');const data=await api('GET','/listening-sittings');const select=$('#listening-sitting');select.innerHTML=data.sittings.map(s=>`<option value="${escape(s.sitting)}" ${s.available?'':'disabled'} data-format="${escape(s.format)}">${escape(s.title)}${s.available?'':'（题面不完整）'}</option>`).join('');$('#start-listening').disabled=!data.sittings.some(s=>s.available);select.onchange=()=>{$('#listening-format-hint').textContent=select.selectedOptions[0]?.dataset.format==='wma'?'该场次录音为 WMA 格式，部分浏览器可能无法播放。':'';};select.onchange();});
 async function loadMiniSheets(){const sitting=$('#mini-sitting').value;const target=$('#mini-sheets');if(!sitting){target.replaceChildren();return;}const data=await api('GET','/mini-sittings/'+encodeURIComponent(sitting));if($('#mini-sitting').value!==sitting)return;target.innerHTML=data.sheets.map(s=>`<article class="attempt-card"><h3>Mini ${s.number} / 5</h3><p>${s.number===1?'语法 8 · 词汇 2 · 完形 1 篇 10 题':'语法 8 · 词汇 2 · 阅读 1 篇 5 题 · 动词填空 5 空'}</p><p>${s.status==='submitted'?`已交卷 · 已答 ${s.answered}/20`:s.status==='active'||s.status==='paused'?`未完成 · 已答 ${s.answered}/20`:'未开始'}${!s.available?' · '+escape(s.issues.join('；')):''}</p><button type="button" class="primary" data-mini="${s.number}" data-attempt="${escape(s.attemptId||'')}" ${!s.available&&!s.attemptId?'disabled':''}>${s.status==='submitted'?'查看结果':s.attemptId?'继续考试':'开始这一份'}</button></article>`).join('');target.querySelectorAll('[data-mini]').forEach(b=>b.onclick=()=>run(async()=>{b.disabled=true;try{if(b.dataset.attempt)await openAttempt(b.dataset.attempt);else{createRequest||=newClientId();const a=await api('POST','/attempts',{sourceId:sitting+':'+b.dataset.mini,mode:'mini',deviceId,requestId:createRequest});createRequest=null;await openAttempt(a.id,true);}}finally{if(b.isConnected)b.disabled=false;}}));}
@@ -73,6 +98,7 @@ $('#mini-sitting').onchange=()=>run(loadMiniSheets);
 $('#choose-full-exam').onclick=()=>run(async()=>{selectTestMode('full-exam');const data=await api('GET','/full-exam-sittings'),select=$('#full-exam-sitting');select.innerHTML='<option value="">请选择年份</option>'+data.sittings.map(s=>`<option value="${escape(s.sitting)}">${escape(s.title)}${s.available?'':'（暂不可开始）'}</option>`).join('');select.onchange=()=>{const current=data.sittings.find(s=>s.sitting===select.value);$('#start-full-exam').disabled=!current?.available;$('#full-exam-hint').textContent=current?(!current.available?'暂不可开始：'+current.issues.join('；'):current.warnings.length?'提示：'+current.warnings.join('；'):''):'';};select.onchange();});
 $('#start-full-exam').onclick=()=>run(async()=>{const b=$('#start-full-exam');b.disabled=true;createRequest||=newClientId();try{const a=await api('POST','/attempts',{sourceId:$('#full-exam-sitting').value,mode:'full_candidate',deviceId,requestId:createRequest});createRequest=null;await openAttempt(a.id,true);}finally{if(b.isConnected)b.disabled=false;}});
 $('#start-listening').onclick=()=>run(async()=>{const b=$('#start-listening');b.disabled=true;createRequest||=newClientId();try{const a=await api('POST','/attempts',{sourceId:$('#listening-sitting').value,mode:'listening',deviceId,requestId:createRequest});createRequest=null;await openAttempt(a.id,true);}finally{b.disabled=false;}});
+$('#return-learning').onclick=()=>run(async()=>{if(!sync||sync.attempt.mode!=='training')return;if(sync.frozen){message('请先处理同步冲突，当前内容已保存在本机。');return;}const button=$('#return-learning');button.disabled=true;$('#listening-audio').pause();sync.stop();updateExam(sync);try{await sync.flush('pause');await showLearning();}catch(e){$('#conflict').hidden=false;$('#conflict-message').textContent=e.message;$('#takeover').hidden=e.status!==409;message('暂停尚未同步，作答已保留在本机，请重试。');}finally{button.disabled=false;}});
 $('#pause-exam').onclick=()=>run(pause);$('#open-reports').onclick=()=>run(showReports);$('#report-back').onclick=()=>run(()=>showReports(reportScope));$('#open-all-reports').onclick=()=>run(()=>showReports('all'));
 $('#submit').onclick=()=>run(async()=>{if(!sync||sync.frozen)return;sync.advance();const answered=sync.progress.answers.filter(a=>a.choice).length;if(!confirm(`已答${answered}/${sync.attempt.questions.length}题。${answered<sync.attempt.questions.length?'含未作答题，仍然提交？':'确认交卷？'}`))return;$('#listening-audio').pause();sync.stop();updateExam(sync);$('#submit').disabled=true;try{await sync.flush('submit');}finally{$('#submit').disabled=false;}});
 $('#retry-sync').onclick=()=>run(async()=>{if(!sync)return;if(sync.frozen){await openAttempt(sync.attempt.id);return;}const paused=sync.pendingAction==='pause';await sync.flush();if(paused)await home();});

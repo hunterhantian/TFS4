@@ -1,0 +1,263 @@
+{
+  "version": "verb-fill-corrections-v1",
+  "date": "2026-11-03",
+  "baseVersion": "user-pdf-verb-reference-v1",
+  "answers": {
+    "2007-V13": {
+      "sourceValue": "(j')essaierais",
+      "value": "essaierais",
+      "accepted": [
+        "essayerais"
+      ],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2007-V14": {
+      "sourceValue": "(m')étant",
+      "value": "est",
+      "accepted": [],
+      "basis": "题面为 rien ne (être) ... moins sûr；修复为 est，构成 rien n’est moins sûr。来源 étant 与其解析的句法说明相矛盾，保留来源原文供追溯。"
+    },
+    "2008-V02": {
+      "sourceValue": "(n')était",
+      "value": "était",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2008-V04": {
+      "sourceValue": "(j')ai salué",
+      "value": "ai salué",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2008-V05": {
+      "sourceValue": "(j')étais",
+      "value": "étais",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2008-V12": {
+      "sourceValue": "(j')aie fait (fasse)",
+      "value": "aie fait",
+      "accepted": [
+        "fasse"
+      ],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2008-V18": {
+      "sourceValue": "(m')a fait asseoir",
+      "value": "m’a fait asseoir",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2011-V01": {
+      "sourceValue": "(j’) attendais",
+      "value": "attendais",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2011-V02": {
+      "sourceValue": "(j’) habitais",
+      "value": "habitais",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2011-V04": {
+      "sourceValue": "(c’) était",
+      "value": "était",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2012-V04": {
+      "sourceValue": "(j’)avais",
+      "value": "avais",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2012-V13": {
+      "sourceValue": "(m’) a répondu",
+      "value": "a répondu",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2016-V02": {
+      "sourceValue": "(n’) osais",
+      "value": "osais",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2016-V03": {
+      "sourceValue": "(j’) ai été",
+      "value": "ai été",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2016-V05": {
+      "sourceValue": "(j’) ai passé",
+      "value": "ai passé",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2016-V09": {
+      "sourceValue": "(n’) ose",
+      "value": "ose",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2016-V11": {
+      "sourceValue": "(j’) y aille",
+      "value": "y aille",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2016-V12": {
+      "sourceValue": "(j’) y suis allée",
+      "value": "y suis allée",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2016-V14": {
+      "sourceValue": "(j’) ai été étonnée",
+      "value": "ai été étonnée",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2017-V04": {
+      "sourceValue": "satisfît / satisfasse",
+      "value": "satisfît",
+      "accepted": [
+        "satisfasse"
+      ],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2017-V05": {
+      "sourceValue": "(c’) est",
+      "value": "est",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2017-V07": {
+      "sourceValue": "fût / soit",
+      "value": "fût",
+      "accepted": [
+        "soit"
+      ],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2017-V20": {
+      "sourceValue": "(d’) être écouté",
+      "value": "être écouté",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2018-V05": {
+      "sourceValue": "(n’)en avait",
+      "value": "en avait",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2018-V14": {
+      "sourceValue": "fussent (soient)",
+      "value": "fussent",
+      "accepted": [
+        "soient"
+      ],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2018-V16": {
+      "sourceValue": "passa (a passé)",
+      "value": "passa",
+      "accepted": [
+        "a passé"
+      ],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2018-V19": {
+      "sourceValue": "grommela (a grommelé)",
+      "value": "grommela",
+      "accepted": [
+        "a grommelé"
+      ],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2019-V09": {
+      "sourceValue": "ai (déjà) taillés",
+      "value": "ai taillés",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2021-05-V04": {
+      "sourceValue": "(j’)ai remarqué",
+      "value": "ai remarqué",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2021-05-V06": {
+      "sourceValue": "(j’)ai pressé",
+      "value": "ai pressé",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2021-05-V08": {
+      "sourceValue": "(j’)ai composé",
+      "value": "ai composé",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2021-05-V10": {
+      "sourceValue": "(j’)ai ouvert",
+      "value": "ai ouvert",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2021-05-V11": {
+      "sourceValue": "(j’)allais",
+      "value": "allais",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2021-05-V12": {
+      "sourceValue": "(l’)a poussée",
+      "value": "a poussée",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2021-05-V15": {
+      "sourceValue": "(m’)a demandé",
+      "value": "a demandé",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2021-05-V18": {
+      "sourceValue": "(c’)était",
+      "value": "était",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2021-05-V19": {
+      "sourceValue": "(m’)a regardée",
+      "value": "a regardée",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2021-06-V17": {
+      "sourceValue": "(d’) avoir mis / mettre",
+      "value": "avoir mis",
+      "accepted": [
+        "mettre"
+      ],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2021-06-V18": {
+      "sourceValue": "avait (déjà) dépensé",
+      "value": "avait dépensé",
+      "accepted": [],
+      "basis": "按当前题面提取空内形式，保留用户指定答案原文"
+    },
+    "2014-V13": {
+      "sourceValue": "avait toujours été",
+      "value": "avait été",
+      "accepted": [],
+      "basis": "题面空外已有 toujours，空内填写 avait été，避免重复。"
+    }
+  }
+}

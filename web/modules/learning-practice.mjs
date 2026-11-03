@@ -1,0 +1,7 @@
+import {api} from './api.mjs';import {escape as esc} from './ui.mjs';
+export async function mountPractice(root,{run,onStart,onResume}){
+ const section=document.createElement('section');section.innerHTML='<h2>待练与训练记录</h2><p class="muted">完成训练后可以加入待练列表；建议隔几天再做混合检验，时间由你决定。</p><div data-plans></div><h3>近期训练</h3><div data-history></div>';root.append(section);const data=await api('GET','/learning/practice');
+ section.querySelector('[data-plans]').innerHTML=data.plans.map(p=>`<article class="synthesis-card"><strong>${esc(p.nodeName)}</strong><p>${p.status==='completed'?'混合检验已完成':p.attemptId?'混合检验进行中':'已加入待练'}</p>${p.status!=='completed'?`<button data-plan="${esc(p.id)}" data-attempt="${esc(p.attemptId||'')}">${p.attemptId?'继续混合检验':'开始混合检验'}</button>`:''}</article>`).join('')||'<p>暂无待练项目。</p>';
+ section.querySelector('[data-history]').innerHTML=data.histories.map(h=>`<article class="synthesis-card"><strong>${esc(h.title)}</strong><p>${esc(h.submittedAt.slice(0,10))}</p><button class="secondary" data-add="${esc(h.id)}">加入待练列表</button></article>`).join('')||'<p>完成训练后可在这里查看。</p>';
+ section.querySelectorAll('[data-add]').forEach(b=>b.onclick=()=>run(async()=>{b.disabled=true;try{await api('POST','/learning/plans',{attemptId:b.dataset.add});section.remove();await mountPractice(root,{run,onStart,onResume});}finally{if(b.isConnected)b.disabled=false;}}));section.querySelectorAll('[data-plan]').forEach(b=>b.onclick=()=>run(()=>b.dataset.attempt?onResume(b.dataset.attempt):onStart(b.dataset.plan)));
+}

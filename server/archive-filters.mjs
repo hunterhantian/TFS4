@@ -8,10 +8,10 @@ function midnight(value){
 export function archiveFilters(query,now,administrator=false){
  exact(query,['range','from','to','ownerId'],[]);
  if(!administrator&&query.ownerId!==undefined)fail(403,'ADMIN_REQUIRED');
- const range=query.range||'all';if(!['last7','last_week','last30','all','custom'].includes(range))fail(400,'INVALID_RANGE');
+ const range=query.range||'all';if(!['last7','last14','last_week','last30','all','custom'].includes(range))fail(400,'INVALID_RANGE');
  let start=null,end=null;const today=Math.floor((now+OFFSET)/DAY)*DAY-OFFSET;
  if(range==='custom'){start=midnight(query.from);const last=midnight(query.to);if(start>last)fail(400,'INVALID_RANGE','开始日期不能晚于结束日期');end=last+DAY;}
- else {if(query.from!==undefined||query.to!==undefined)fail(400,'INVALID_RANGE');if(range==='last7'){start=today-6*DAY;end=today+DAY;}if(range==='last30'){start=today-29*DAY;end=today+DAY;}if(range==='last_week'){const weekday=new Date(today+OFFSET).getUTCDay();end=today-((weekday+6)%7)*DAY;start=end-7*DAY;}}
+ else {if(query.from!==undefined||query.to!==undefined)fail(400,'INVALID_RANGE');if(range==='last7'){start=today-6*DAY;end=today+DAY;}if(range==='last14'){start=today-13*DAY;end=today+DAY;}if(range==='last30'){start=today-29*DAY;end=today+DAY;}if(range==='last_week'){const weekday=new Date(today+OFFSET).getUTCDay();end=today-((weekday+6)%7)*DAY;start=end-7*DAY;}}
  let ownerId=null;if(administrator&&query.ownerId){string(query.ownerId,1,128);ownerId=query.ownerId;}
  return {range,ownerId,start:start===null?null:new Date(start).toISOString(),end:end===null?null:new Date(end).toISOString(),fromDate:start===null?null:dayString(start),toDate:end===null?null:dayString(end-DAY),timezone:'Asia/Shanghai'};
 }

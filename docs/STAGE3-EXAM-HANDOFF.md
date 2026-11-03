@@ -1,4 +1,4 @@
-# Stage 3 Exam 开发交接：听力与答案 MD 资产
+# Stage 3 Exam 开发交接：听力、答案与解析 MD 资产
 
 更新日期：2026-11-03
 Git 分支：`stage-3-exam`
@@ -110,3 +110,13 @@ find /home/ubuntu/stage3-audio-v1 -maxdepth 1 -type f \( -iname '*.mp3' -o -inam
 | 2015 | [2015.md](https://193.112.151.236/answer-md/2015.md) |  |  |
 
 **明确未公开：** `data/explanations/` 下的任何解析 MD、解析 PDF、真题 MD及“真题及答案”合并版 MD。本次发布源限定为 `*-answers` 目录，2020年仓库无独立答案 MD，因此本批共21份。
+
+## 2026-11-03 解析 MD 公网交付
+
+- 应用户最新要求，另行发布 `data/explanations/` 中经 LlamaParse 生成的 **23份解析正文 MD**，合计 **3,797,618 bytes**。这是一条独立于答案 MD 的公开路径，不改变上文答案批次当时的发布边界。
+- 版本构成：22份 fast 输出（合计覆盖1,850页），另含历史保留的 `2025/v1` 输出；包括2023年的 `fast-main` 与 `fast-supplement` 两个版本，以及2025年的 `fast` 和 `v1` 两个版本。源目录层级与文件名保留在公开 URL 中。
+- 公网目录：`/var/lib/ruanshizi/documents/explanations/`；Nginx公开路由：`/explanation-md/`；无需登录。入口：[解析 MD 索引](https://193.112.151.236/explanation-md/)，逐文件映射、源路径和 SHA-256：[manifest.json](https://193.112.151.236/explanation-md/manifest.json)。
+- 逐一从公网下载23份 MD 后核对字节数及 SHA-256，均与本地源文件一致；响应类型为 `text/markdown`。总校验结果：`files=23 bytes=3797618`。
+- **内容状态：未审阅的解析器输出。** 解析 MD 仅用于查阅和后续人工处理，不能当作官方答案或已校订解析。
+- 本次只公开解析正文 MD，以及用于浏览的索引和机器清单；没有上传解析 PDF、`pages.json`、`provenance.json`、README、审计报告或其他辅助文件。答案 MD 位于独立的 `/answer-md/` 路由。
+- Nginx配置采用独立 `/explanation-md/` 静态路由，目录索引关闭；修改前配置备份为 `/etc/nginx/sites-available/default.before-explanation-md`。公开目录为 `/var/lib/ruanshizi/documents/explanations/`。

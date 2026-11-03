@@ -5,7 +5,7 @@ export function archiveDateParts(value){
  return {day:`${parts.year}-${parts.month}-${parts.day}`,time:`${parts.hour}:${parts.minute}:${parts.second}`};
 }
 export function renderArchiveCards(reports){
- if(!reports.length)return '<p>当前筛选条件下暂无存档。</p>';
+ if(!reports.length)return '<p>暂无匹配记录。</p>';
  return reports.map(r=>{
   const stamp=archiveDateParts(r.submittedAt);const total=r.stats?.total,answered=r.stats?.answered;
   const completion=Number.isInteger(total)&&total>0&&Number.isInteger(answered)?`已答 ${answered}/${total} · ${Math.round(answered/total*100)}%`:'未记录';

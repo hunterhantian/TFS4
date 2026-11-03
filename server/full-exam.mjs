@@ -3,6 +3,7 @@ import path from 'node:path';
 import {createHash} from 'node:crypto';
 import {projectRoot} from './db.mjs';
 import {fail} from './security.mjs';
+import {choiceAnswer,choiceAnswerVersion} from './stage3-choice-answer-key.mjs';
 
 export function fullExamCatalog(file=path.join(projectRoot,'.local/synthesis/snapshot.json')){
  if(!fs.existsSync(file))fail(503,'SYNTHESIS_NOT_IMPORTED','历年真题尚未导入，请联系管理员。');
@@ -16,12 +17,12 @@ export function fullExamCatalog(file=path.join(projectRoot,'.local/synthesis/sna
    if(['reading','cloze'].includes(type)){const mat=m.material;if(!mat?.text)issues.push(`第 ${no} 题原文缺失`);else{const key=JSON.stringify([mat.source,mat.line_start,mat.line_end,mat.text]);if(!ids.has(key)){const id=`m${ids.size+1}`;ids.set(key,id);materials.push({id,version:1,text:mat.text});}materialId=ids.get(key);}}
    if(!stem||optionsArr.length<2||optionsArr.some(o=>!o.label||!o.text)||Object.keys(options).length!==optionsArr.length)issues.push(`第 ${no} 题题面或选项不完整`);
    if(m.material_status==='source_missing'){if(!source?.stem||!(source?.options?.length))issues.push(`第 ${no} 题原始题面缺失`);else warnings.push(`第 ${no} 题使用后续恢复的题面，来源待核验`);}
-   const candidate=a?.answer_view??null;if(typeof candidate!=='string'||!Object.hasOwn(options,candidate))warnings.push(`第 ${no} 题候选答案缺失或不确定`);
+   const candidate=choiceAnswer(m.itemId,options);if(typeof candidate!=='string'||!Object.hasOwn(options,candidate))warnings.push(`第 ${no} 题候选答案缺失或不确定`);
    const part=type==='listening'?'II':type==='grammar'?'IV':type==='reading'?'VI':'III';const pageKey=type==='reading'?`reading-${materialId}`:`${type}-${Math.floor((no-1)/10)}`;
-   return {id:m.itemId,version:1,originalNo:no,text:stem,options,component:type,formalPart:part,materialId,responseType:'choice',pageKey,answer:{version:1,value:candidate,status:a?.answer_status??'unverified',accepted:a?.accepted_references??[],conditional:a?.conditional_references??[]}};
+   return {id:m.itemId,version:1,originalNo:no,text:stem,options,component:type,formalPart:part,materialId,responseType:'choice',pageKey,answer:{version:1,value:candidate,status:'user-reference',accepted:[],conditional:[]}};
   });
   if(questions.length!==100||questions.some((q,i)=>q.originalNo!==i+1))issues.push('客观题未完整覆盖第 1—100 题');
   const cloze=questions.filter(q=>q.component==='cloze'),reading=questions.filter(q=>q.component==='reading');if(new Set(cloze.map(q=>q.materialId)).size!==1||!cloze[0]?.materialId)issues.push('完形填空文章不完整');const groups=new Map();for(const q of reading)groups.set(q.materialId,(groups.get(q.materialId)||0)+1);if(groups.size!==4||[...groups.values()].some(n=>n!==5)||groups.has(null))issues.push('阅读文章或题组不完整');
-  return {sitting,title:`${label}完整客观题模拟考试`,available:issues.length===0,issues:[...new Set(issues)],warnings:[...new Set(warnings)],snapshot:{id:`full-objective-${sitting}`,title:`${label}完整客观题模拟考试`,sourceRevision:revision,answerKeyVersion:'unverified-candidate',contentNotes:[...new Set(warnings)],questions,materials}};
+  return {sitting,title:`${label}完整客观题模拟考试`,available:issues.length===0,issues:[...new Set(issues)],warnings:[...new Set(warnings)],snapshot:{id:`full-objective-${sitting}`,title:`${label}完整客观题模拟考试`,sourceRevision:revision,answerKeyVersion:choiceAnswerVersion,contentNotes:[...new Set(warnings)],questions,materials}};
  });
 }

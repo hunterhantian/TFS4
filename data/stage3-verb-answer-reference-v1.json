@@ -1,0 +1,3786 @@
+{
+  "version": "user-pdf-verb-reference-v1",
+  "sourceManifestSha256": "153bbf9bb4bd8f3c80371aa3c6b6177f2a75675d99cb152dee10b1261e14329c",
+  "answers": {
+    "2005-V01": {
+      "value": "m'appelle",
+      "sourceFile": "05年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "1e327f3f2aba17ca8763eb2b9b06ca6ee3dda7fa88a618888cefa7d28ca145d1"
+    },
+    "2005-V02": {
+      "value": "suis libéré",
+      "sourceFile": "05年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "1e327f3f2aba17ca8763eb2b9b06ca6ee3dda7fa88a618888cefa7d28ca145d1"
+    },
+    "2005-V03": {
+      "value": "marche",
+      "sourceFile": "05年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "1e327f3f2aba17ca8763eb2b9b06ca6ee3dda7fa88a618888cefa7d28ca145d1"
+    },
+    "2005-V04": {
+      "value": "ai fait",
+      "sourceFile": "05年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "1e327f3f2aba17ca8763eb2b9b06ca6ee3dda7fa88a618888cefa7d28ca145d1"
+    },
+    "2005-V05": {
+      "value": "en arrivant",
+      "sourceFile": "05年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "1e327f3f2aba17ca8763eb2b9b06ca6ee3dda7fa88a618888cefa7d28ca145d1"
+    },
+    "2005-V06": {
+      "value": "ai été",
+      "sourceFile": "05年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "1e327f3f2aba17ca8763eb2b9b06ca6ee3dda7fa88a618888cefa7d28ca145d1"
+    },
+    "2005-V07": {
+      "value": "a envoyé",
+      "sourceFile": "05年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "1e327f3f2aba17ca8763eb2b9b06ca6ee3dda7fa88a618888cefa7d28ca145d1"
+    },
+    "2005-V08": {
+      "value": "avait montré",
+      "sourceFile": "05年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "1e327f3f2aba17ca8763eb2b9b06ca6ee3dda7fa88a618888cefa7d28ca145d1"
+    },
+    "2005-V09": {
+      "value": "ai été",
+      "sourceFile": "05年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "1e327f3f2aba17ca8763eb2b9b06ca6ee3dda7fa88a618888cefa7d28ca145d1"
+    },
+    "2005-V10": {
+      "value": "m'a dit",
+      "sourceFile": "05年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "1e327f3f2aba17ca8763eb2b9b06ca6ee3dda7fa88a618888cefa7d28ca145d1"
+    },
+    "2005-V11": {
+      "value": "Va-t'en",
+      "sourceFile": "05年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "1e327f3f2aba17ca8763eb2b9b06ca6ee3dda7fa88a618888cefa7d28ca145d1"
+    },
+    "2005-V12": {
+      "value": "a voulu",
+      "sourceFile": "05年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "1e327f3f2aba17ca8763eb2b9b06ca6ee3dda7fa88a618888cefa7d28ca145d1"
+    },
+    "2005-V13": {
+      "value": "ai été",
+      "sourceFile": "05年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "1e327f3f2aba17ca8763eb2b9b06ca6ee3dda7fa88a618888cefa7d28ca145d1"
+    },
+    "2005-V14": {
+      "value": "a mordu",
+      "sourceFile": "05年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "1e327f3f2aba17ca8763eb2b9b06ca6ee3dda7fa88a618888cefa7d28ca145d1"
+    },
+    "2005-V15": {
+      "value": "avait été",
+      "sourceFile": "05年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "1e327f3f2aba17ca8763eb2b9b06ca6ee3dda7fa88a618888cefa7d28ca145d1"
+    },
+    "2005-V16": {
+      "value": "aurait dit",
+      "sourceFile": "05年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "1e327f3f2aba17ca8763eb2b9b06ca6ee3dda7fa88a618888cefa7d28ca145d1"
+    },
+    "2005-V17": {
+      "value": "savait",
+      "sourceFile": "05年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "1e327f3f2aba17ca8763eb2b9b06ca6ee3dda7fa88a618888cefa7d28ca145d1"
+    },
+    "2005-V18": {
+      "value": "étais",
+      "sourceFile": "05年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "1e327f3f2aba17ca8763eb2b9b06ca6ee3dda7fa88a618888cefa7d28ca145d1"
+    },
+    "2005-V19": {
+      "value": "n'y avait pas",
+      "sourceFile": "05年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "1e327f3f2aba17ca8763eb2b9b06ca6ee3dda7fa88a618888cefa7d28ca145d1"
+    },
+    "2005-V20": {
+      "value": "pleuvrait",
+      "sourceFile": "05年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "1e327f3f2aba17ca8763eb2b9b06ca6ee3dda7fa88a618888cefa7d28ca145d1"
+    },
+    "2006-V01": {
+      "value": "arriverait",
+      "sourceFile": "06年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "ce19a19c59dabcd7dc7ab6f668ccf31d0b9494a11fc1f59fb3db997909703265"
+    },
+    "2006-V02": {
+      "value": "serait",
+      "sourceFile": "06年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "ce19a19c59dabcd7dc7ab6f668ccf31d0b9494a11fc1f59fb3db997909703265"
+    },
+    "2006-V03": {
+      "value": "connaissait",
+      "sourceFile": "06年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "ce19a19c59dabcd7dc7ab6f668ccf31d0b9494a11fc1f59fb3db997909703265"
+    },
+    "2006-V04": {
+      "value": "puisse",
+      "sourceFile": "06年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "ce19a19c59dabcd7dc7ab6f668ccf31d0b9494a11fc1f59fb3db997909703265"
+    },
+    "2006-V05": {
+      "value": "viendrait",
+      "sourceFile": "06年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "ce19a19c59dabcd7dc7ab6f668ccf31d0b9494a11fc1f59fb3db997909703265"
+    },
+    "2006-V06": {
+      "value": "sache",
+      "sourceFile": "06年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "ce19a19c59dabcd7dc7ab6f668ccf31d0b9494a11fc1f59fb3db997909703265"
+    },
+    "2006-V07": {
+      "value": "est arrivé",
+      "sourceFile": "06年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "ce19a19c59dabcd7dc7ab6f668ccf31d0b9494a11fc1f59fb3db997909703265"
+    },
+    "2006-V08": {
+      "value": "devait",
+      "sourceFile": "06年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "ce19a19c59dabcd7dc7ab6f668ccf31d0b9494a11fc1f59fb3db997909703265"
+    },
+    "2006-V09": {
+      "value": "était",
+      "sourceFile": "06年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "ce19a19c59dabcd7dc7ab6f668ccf31d0b9494a11fc1f59fb3db997909703265"
+    },
+    "2006-V10": {
+      "value": "avait laissé",
+      "sourceFile": "06年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "ce19a19c59dabcd7dc7ab6f668ccf31d0b9494a11fc1f59fb3db997909703265"
+    },
+    "2006-V11": {
+      "value": "voyais",
+      "sourceFile": "06年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "ce19a19c59dabcd7dc7ab6f668ccf31d0b9494a11fc1f59fb3db997909703265"
+    },
+    "2006-V12": {
+      "value": "connaissais",
+      "sourceFile": "06年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "ce19a19c59dabcd7dc7ab6f668ccf31d0b9494a11fc1f59fb3db997909703265"
+    },
+    "2006-V13": {
+      "value": "ignorais",
+      "sourceFile": "06年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "ce19a19c59dabcd7dc7ab6f668ccf31d0b9494a11fc1f59fb3db997909703265"
+    },
+    "2006-V14": {
+      "value": "prenne",
+      "sourceFile": "06年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "ce19a19c59dabcd7dc7ab6f668ccf31d0b9494a11fc1f59fb3db997909703265"
+    },
+    "2006-V15": {
+      "value": "fournisse",
+      "sourceFile": "06年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "ce19a19c59dabcd7dc7ab6f668ccf31d0b9494a11fc1f59fb3db997909703265"
+    },
+    "2006-V16": {
+      "value": "avait appelé",
+      "sourceFile": "06年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "ce19a19c59dabcd7dc7ab6f668ccf31d0b9494a11fc1f59fb3db997909703265"
+    },
+    "2006-V17": {
+      "value": "avait téléphoné",
+      "sourceFile": "06年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "ce19a19c59dabcd7dc7ab6f668ccf31d0b9494a11fc1f59fb3db997909703265"
+    },
+    "2006-V18": {
+      "value": "souffrait",
+      "sourceFile": "06年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "ce19a19c59dabcd7dc7ab6f668ccf31d0b9494a11fc1f59fb3db997909703265"
+    },
+    "2006-V19": {
+      "value": "enverrait",
+      "sourceFile": "06年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "ce19a19c59dabcd7dc7ab6f668ccf31d0b9494a11fc1f59fb3db997909703265"
+    },
+    "2006-V20": {
+      "value": "n'avons plus eu",
+      "sourceFile": "06年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "ce19a19c59dabcd7dc7ab6f668ccf31d0b9494a11fc1f59fb3db997909703265"
+    },
+    "2007-V01": {
+      "value": "avons reçu",
+      "sourceFile": "07年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "dff11fbc9ce261b3d2f03d1286abb22c7599f9656288e8235fd12c8ddf1952d9"
+    },
+    "2007-V02": {
+      "value": "remercions",
+      "sourceFile": "07年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "dff11fbc9ce261b3d2f03d1286abb22c7599f9656288e8235fd12c8ddf1952d9"
+    },
+    "2007-V03": {
+      "value": "avons été",
+      "sourceFile": "07年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "dff11fbc9ce261b3d2f03d1286abb22c7599f9656288e8235fd12c8ddf1952d9"
+    },
+    "2007-V04": {
+      "value": "est",
+      "sourceFile": "07年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "dff11fbc9ce261b3d2f03d1286abb22c7599f9656288e8235fd12c8ddf1952d9"
+    },
+    "2007-V05": {
+      "value": "serions",
+      "sourceFile": "07年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "dff11fbc9ce261b3d2f03d1286abb22c7599f9656288e8235fd12c8ddf1952d9"
+    },
+    "2007-V06": {
+      "value": "puissions",
+      "sourceFile": "07年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "dff11fbc9ce261b3d2f03d1286abb22c7599f9656288e8235fd12c8ddf1952d9"
+    },
+    "2007-V07": {
+      "value": "soit",
+      "sourceFile": "07年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "dff11fbc9ce261b3d2f03d1286abb22c7599f9656288e8235fd12c8ddf1952d9"
+    },
+    "2007-V08": {
+      "value": "ne pourra pas",
+      "sourceFile": "07年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "dff11fbc9ce261b3d2f03d1286abb22c7599f9656288e8235fd12c8ddf1952d9"
+    },
+    "2007-V09": {
+      "value": "soit",
+      "sourceFile": "07年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "dff11fbc9ce261b3d2f03d1286abb22c7599f9656288e8235fd12c8ddf1952d9"
+    },
+    "2007-V10": {
+      "value": "risquerait",
+      "sourceFile": "07年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "dff11fbc9ce261b3d2f03d1286abb22c7599f9656288e8235fd12c8ddf1952d9"
+    },
+    "2007-V11": {
+      "value": "aurait plu",
+      "sourceFile": "07年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "dff11fbc9ce261b3d2f03d1286abb22c7599f9656288e8235fd12c8ddf1952d9"
+    },
+    "2007-V12": {
+      "value": "revenait",
+      "sourceFile": "07年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "dff11fbc9ce261b3d2f03d1286abb22c7599f9656288e8235fd12c8ddf1952d9"
+    },
+    "2007-V13": {
+      "value": "(j')essaierais",
+      "sourceFile": "07年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "dff11fbc9ce261b3d2f03d1286abb22c7599f9656288e8235fd12c8ddf1952d9"
+    },
+    "2007-V14": {
+      "value": "(m')étant",
+      "sourceFile": "07年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "dff11fbc9ce261b3d2f03d1286abb22c7599f9656288e8235fd12c8ddf1952d9"
+    },
+    "2007-V15": {
+      "value": "tiens",
+      "sourceFile": "07年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "dff11fbc9ce261b3d2f03d1286abb22c7599f9656288e8235fd12c8ddf1952d9"
+    },
+    "2007-V16": {
+      "value": "sachiez",
+      "sourceFile": "07年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "dff11fbc9ce261b3d2f03d1286abb22c7599f9656288e8235fd12c8ddf1952d9"
+    },
+    "2007-V17": {
+      "value": "puisse",
+      "sourceFile": "07年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "dff11fbc9ce261b3d2f03d1286abb22c7599f9656288e8235fd12c8ddf1952d9"
+    },
+    "2007-V18": {
+      "value": "tomberont",
+      "sourceFile": "07年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "dff11fbc9ce261b3d2f03d1286abb22c7599f9656288e8235fd12c8ddf1952d9"
+    },
+    "2007-V19": {
+      "value": "rencontrions",
+      "sourceFile": "07年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "dff11fbc9ce261b3d2f03d1286abb22c7599f9656288e8235fd12c8ddf1952d9"
+    },
+    "2007-V20": {
+      "value": "puisse",
+      "sourceFile": "07年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "dff11fbc9ce261b3d2f03d1286abb22c7599f9656288e8235fd12c8ddf1952d9"
+    },
+    "2008-V01": {
+      "value": "avoir dîné",
+      "sourceFile": "08年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "b4eb5010a752c189faa6da681e328416253a4d599feb6c057a118665283039b3"
+    },
+    "2008-V02": {
+      "value": "(n')était",
+      "sourceFile": "08年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "b4eb5010a752c189faa6da681e328416253a4d599feb6c057a118665283039b3"
+    },
+    "2008-V03": {
+      "value": "avait",
+      "sourceFile": "08年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "b4eb5010a752c189faa6da681e328416253a4d599feb6c057a118665283039b3"
+    },
+    "2008-V04": {
+      "value": "(j')ai salué",
+      "sourceFile": "08年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "b4eb5010a752c189faa6da681e328416253a4d599feb6c057a118665283039b3"
+    },
+    "2008-V05": {
+      "value": "(j')étais",
+      "sourceFile": "08年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "b4eb5010a752c189faa6da681e328416253a4d599feb6c057a118665283039b3"
+    },
+    "2008-V06": {
+      "value": "envoyée",
+      "sourceFile": "08年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "b4eb5010a752c189faa6da681e328416253a4d599feb6c057a118665283039b3"
+    },
+    "2008-V07": {
+      "value": "est venue",
+      "sourceFile": "08年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "b4eb5010a752c189faa6da681e328416253a4d599feb6c057a118665283039b3"
+    },
+    "2008-V08": {
+      "value": "désirait",
+      "sourceFile": "08年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "b4eb5010a752c189faa6da681e328416253a4d599feb6c057a118665283039b3"
+    },
+    "2008-V09": {
+      "value": "est venu",
+      "sourceFile": "08年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "b4eb5010a752c189faa6da681e328416253a4d599feb6c057a118665283039b3"
+    },
+    "2008-V10": {
+      "value": "préoccupé",
+      "sourceFile": "08年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "b4eb5010a752c189faa6da681e328416253a4d599feb6c057a118665283039b3"
+    },
+    "2008-V11": {
+      "value": "Attendez",
+      "sourceFile": "08年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "b4eb5010a752c189faa6da681e328416253a4d599feb6c057a118665283039b3"
+    },
+    "2008-V12": {
+      "value": "(j')aie fait (fasse)",
+      "sourceFile": "08年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核；PDF同时列出 fasse",
+      "sourceSha256": "b4eb5010a752c189faa6da681e328416253a4d599feb6c057a118665283039b3"
+    },
+    "2008-V13": {
+      "value": "aurons",
+      "sourceFile": "08年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "b4eb5010a752c189faa6da681e328416253a4d599feb6c057a118665283039b3"
+    },
+    "2008-V14": {
+      "value": "sera parti",
+      "sourceFile": "08年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "b4eb5010a752c189faa6da681e328416253a4d599feb6c057a118665283039b3"
+    },
+    "2008-V15": {
+      "value": "communiquer",
+      "sourceFile": "08年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "b4eb5010a752c189faa6da681e328416253a4d599feb6c057a118665283039b3"
+    },
+    "2008-V16": {
+      "value": "a pris",
+      "sourceFile": "08年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "b4eb5010a752c189faa6da681e328416253a4d599feb6c057a118665283039b3"
+    },
+    "2008-V17": {
+      "value": "s'est assis",
+      "sourceFile": "08年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "b4eb5010a752c189faa6da681e328416253a4d599feb6c057a118665283039b3"
+    },
+    "2008-V18": {
+      "value": "(m')a fait asseoir",
+      "sourceFile": "08年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "b4eb5010a752c189faa6da681e328416253a4d599feb6c057a118665283039b3"
+    },
+    "2008-V19": {
+      "value": "s'est mis",
+      "sourceFile": "08年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "b4eb5010a752c189faa6da681e328416253a4d599feb6c057a118665283039b3"
+    },
+    "2008-V20": {
+      "value": "tenir compte",
+      "sourceFile": "08年专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "b4eb5010a752c189faa6da681e328416253a4d599feb6c057a118665283039b3"
+    },
+    "2009-V01": {
+      "value": "m’a demandé",
+      "sourceFile": "2009年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "4eca1b9c82c0ae181c62a9ea82f9f9ac522b5270117a4f16f75c7beb03a5b087"
+    },
+    "2009-V02": {
+      "value": "voulais",
+      "sourceFile": "2009年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "4eca1b9c82c0ae181c62a9ea82f9f9ac522b5270117a4f16f75c7beb03a5b087"
+    },
+    "2009-V03": {
+      "value": "’ ai dit",
+      "sourceFile": "2009年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核；PDF印有开头撇号但无 j，需核对题面",
+      "sourceSha256": "4eca1b9c82c0ae181c62a9ea82f9f9ac522b5270117a4f16f75c7beb03a5b087"
+    },
+    "2009-V04": {
+      "value": "m’était",
+      "sourceFile": "2009年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "4eca1b9c82c0ae181c62a9ea82f9f9ac522b5270117a4f16f75c7beb03a5b087"
+    },
+    "2009-V05": {
+      "value": "pouvions",
+      "sourceFile": "2009年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "4eca1b9c82c0ae181c62a9ea82f9f9ac522b5270117a4f16f75c7beb03a5b087"
+    },
+    "2009-V06": {
+      "value": "faire",
+      "sourceFile": "2009年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "4eca1b9c82c0ae181c62a9ea82f9f9ac522b5270117a4f16f75c7beb03a5b087"
+    },
+    "2009-V07": {
+      "value": "voulait",
+      "sourceFile": "2009年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "4eca1b9c82c0ae181c62a9ea82f9f9ac522b5270117a4f16f75c7beb03a5b087"
+    },
+    "2009-V08": {
+      "value": "’ ai répondu",
+      "sourceFile": "2009年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核；PDF印有开头撇号但无 j，需核对题面",
+      "sourceSha256": "4eca1b9c82c0ae181c62a9ea82f9f9ac522b5270117a4f16f75c7beb03a5b087"
+    },
+    "2009-V09": {
+      "value": "l’avais déjà fait",
+      "sourceFile": "2009年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "4eca1b9c82c0ae181c62a9ea82f9f9ac522b5270117a4f16f75c7beb03a5b087"
+    },
+    "2009-V10": {
+      "value": "signifiais",
+      "sourceFile": "2009年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "4eca1b9c82c0ae181c62a9ea82f9f9ac522b5270117a4f16f75c7beb03a5b087"
+    },
+    "2009-V11": {
+      "value": "m’épouser",
+      "sourceFile": "2009年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "4eca1b9c82c0ae181c62a9ea82f9f9ac522b5270117a4f16f75c7beb03a5b087"
+    },
+    "2009-V12": {
+      "value": "désirait",
+      "sourceFile": "2009年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "4eca1b9c82c0ae181c62a9ea82f9f9ac522b5270117a4f16f75c7beb03a5b087"
+    },
+    "2009-V13": {
+      "value": "me contenais",
+      "sourceFile": "2009年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "4eca1b9c82c0ae181c62a9ea82f9f9ac522b5270117a4f16f75c7beb03a5b087"
+    },
+    "2009-V14": {
+      "value": "s’est tue",
+      "sourceFile": "2009年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "4eca1b9c82c0ae181c62a9ea82f9f9ac522b5270117a4f16f75c7beb03a5b087"
+    },
+    "2009-V15": {
+      "value": "aurais accepté",
+      "sourceFile": "2009年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "4eca1b9c82c0ae181c62a9ea82f9f9ac522b5270117a4f16f75c7beb03a5b087"
+    },
+    "2009-V16": {
+      "value": "venant",
+      "sourceFile": "2009年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "4eca1b9c82c0ae181c62a9ea82f9f9ac522b5270117a4f16f75c7beb03a5b087"
+    },
+    "2009-V17": {
+      "value": "serais attaché",
+      "sourceFile": "2009年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "4eca1b9c82c0ae181c62a9ea82f9f9ac522b5270117a4f16f75c7beb03a5b087"
+    },
+    "2009-V18": {
+      "value": "s’est demandé",
+      "sourceFile": "2009年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "4eca1b9c82c0ae181c62a9ea82f9f9ac522b5270117a4f16f75c7beb03a5b087"
+    },
+    "2009-V19": {
+      "value": "dégoûterais",
+      "sourceFile": "2009年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "4eca1b9c82c0ae181c62a9ea82f9f9ac522b5270117a4f16f75c7beb03a5b087"
+    },
+    "2009-V20": {
+      "value": "en souriant",
+      "sourceFile": "2009年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "4eca1b9c82c0ae181c62a9ea82f9f9ac522b5270117a4f16f75c7beb03a5b087"
+    },
+    "2010-V01": {
+      "value": "s’était mariée",
+      "sourceFile": "2010年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "13c5667d9e13820586925d68b8024387d68bc877842c87920ac1e97fc53b1d69"
+    },
+    "2010-V02": {
+      "value": "avait eu",
+      "sourceFile": "2010年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "13c5667d9e13820586925d68b8024387d68bc877842c87920ac1e97fc53b1d69"
+    },
+    "2010-V03": {
+      "value": "s’était occupée",
+      "sourceFile": "2010年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "13c5667d9e13820586925d68b8024387d68bc877842c87920ac1e97fc53b1d69"
+    },
+    "2010-V04": {
+      "value": "gagnait",
+      "sourceFile": "2010年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "13c5667d9e13820586925d68b8024387d68bc877842c87920ac1e97fc53b1d69"
+    },
+    "2010-V05": {
+      "value": "était",
+      "sourceFile": "2010年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "13c5667d9e13820586925d68b8024387d68bc877842c87920ac1e97fc53b1d69"
+    },
+    "2010-V06": {
+      "value": "est né",
+      "sourceFile": "2010年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "13c5667d9e13820586925d68b8024387d68bc877842c87920ac1e97fc53b1d69"
+    },
+    "2010-V07": {
+      "value": "remplissait",
+      "sourceFile": "2010年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "13c5667d9e13820586925d68b8024387d68bc877842c87920ac1e97fc53b1d69"
+    },
+    "2010-V08": {
+      "value": "aimait",
+      "sourceFile": "2010年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "13c5667d9e13820586925d68b8024387d68bc877842c87920ac1e97fc53b1d69"
+    },
+    "2010-V09": {
+      "value": "a eu",
+      "sourceFile": "2010年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "13c5667d9e13820586925d68b8024387d68bc877842c87920ac1e97fc53b1d69"
+    },
+    "2010-V10": {
+      "value": "s’est inscrite",
+      "sourceFile": "2010年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "13c5667d9e13820586925d68b8024387d68bc877842c87920ac1e97fc53b1d69"
+    },
+    "2010-V11": {
+      "value": "a obtenu",
+      "sourceFile": "2010年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "13c5667d9e13820586925d68b8024387d68bc877842c87920ac1e97fc53b1d69"
+    },
+    "2010-V12": {
+      "value": "est intervenue",
+      "sourceFile": "2010年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "13c5667d9e13820586925d68b8024387d68bc877842c87920ac1e97fc53b1d69"
+    },
+    "2010-V13": {
+      "value": "cherchait",
+      "sourceFile": "2010年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "13c5667d9e13820586925d68b8024387d68bc877842c87920ac1e97fc53b1d69"
+    },
+    "2010-V14": {
+      "value": "s’est présentée",
+      "sourceFile": "2010年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "13c5667d9e13820586925d68b8024387d68bc877842c87920ac1e97fc53b1d69"
+    },
+    "2010-V15": {
+      "value": "a signé",
+      "sourceFile": "2010年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "13c5667d9e13820586925d68b8024387d68bc877842c87920ac1e97fc53b1d69"
+    },
+    "2010-V16": {
+      "value": "occupe",
+      "sourceFile": "2010年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "13c5667d9e13820586925d68b8024387d68bc877842c87920ac1e97fc53b1d69"
+    },
+    "2010-V17": {
+      "value": "s’y sent",
+      "sourceFile": "2010年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "13c5667d9e13820586925d68b8024387d68bc877842c87920ac1e97fc53b1d69"
+    },
+    "2010-V18": {
+      "value": "est aidée",
+      "sourceFile": "2010年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "13c5667d9e13820586925d68b8024387d68bc877842c87920ac1e97fc53b1d69"
+    },
+    "2010-V19": {
+      "value": "participe",
+      "sourceFile": "2010年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "13c5667d9e13820586925d68b8024387d68bc877842c87920ac1e97fc53b1d69"
+    },
+    "2010-V20": {
+      "value": "a réussi",
+      "sourceFile": "2010年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "13c5667d9e13820586925d68b8024387d68bc877842c87920ac1e97fc53b1d69"
+    },
+    "2011-V01": {
+      "value": "(j’) attendais",
+      "sourceFile": "2011年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "98ac3ae31e029456c823c914076ddcb2ddb2c4b23402de8643b333594a0ea46c"
+    },
+    "2011-V02": {
+      "value": "(j’) habitais",
+      "sourceFile": "2011年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "98ac3ae31e029456c823c914076ddcb2ddb2c4b23402de8643b333594a0ea46c"
+    },
+    "2011-V03": {
+      "value": "était",
+      "sourceFile": "2011年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "98ac3ae31e029456c823c914076ddcb2ddb2c4b23402de8643b333594a0ea46c"
+    },
+    "2011-V04": {
+      "value": "(c’) était",
+      "sourceFile": "2011年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "98ac3ae31e029456c823c914076ddcb2ddb2c4b23402de8643b333594a0ea46c"
+    },
+    "2011-V05": {
+      "value": "faisait",
+      "sourceFile": "2011年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "98ac3ae31e029456c823c914076ddcb2ddb2c4b23402de8643b333594a0ea46c"
+    },
+    "2011-V06": {
+      "value": "m’étais habillée",
+      "sourceFile": "2011年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "98ac3ae31e029456c823c914076ddcb2ddb2c4b23402de8643b333594a0ea46c"
+    },
+    "2011-V07": {
+      "value": "s’est ouverte",
+      "sourceFile": "2011年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "98ac3ae31e029456c823c914076ddcb2ddb2c4b23402de8643b333594a0ea46c"
+    },
+    "2011-V08": {
+      "value": "m’a regardée",
+      "sourceFile": "2011年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "98ac3ae31e029456c823c914076ddcb2ddb2c4b23402de8643b333594a0ea46c"
+    },
+    "2011-V09": {
+      "value": "est sorti",
+      "sourceFile": "2011年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "98ac3ae31e029456c823c914076ddcb2ddb2c4b23402de8643b333594a0ea46c"
+    },
+    "2011-V10": {
+      "value": "avoir mis",
+      "sourceFile": "2011年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "98ac3ae31e029456c823c914076ddcb2ddb2c4b23402de8643b333594a0ea46c"
+    },
+    "2011-V11": {
+      "value": "ressemblait",
+      "sourceFile": "2011年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "98ac3ae31e029456c823c914076ddcb2ddb2c4b23402de8643b333594a0ea46c"
+    },
+    "2011-V12": {
+      "value": "était",
+      "sourceFile": "2011年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "98ac3ae31e029456c823c914076ddcb2ddb2c4b23402de8643b333594a0ea46c"
+    },
+    "2011-V13": {
+      "value": "est allé",
+      "sourceFile": "2011年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "98ac3ae31e029456c823c914076ddcb2ddb2c4b23402de8643b333594a0ea46c"
+    },
+    "2011-V14": {
+      "value": "s’est garé",
+      "sourceFile": "2011年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "98ac3ae31e029456c823c914076ddcb2ddb2c4b23402de8643b333594a0ea46c"
+    },
+    "2011-V15": {
+      "value": "m’a dit",
+      "sourceFile": "2011年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "98ac3ae31e029456c823c914076ddcb2ddb2c4b23402de8643b333594a0ea46c"
+    },
+    "2011-V16": {
+      "value": "Monte",
+      "sourceFile": "2011年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "98ac3ae31e029456c823c914076ddcb2ddb2c4b23402de8643b333594a0ea46c"
+    },
+    "2011-V17": {
+      "value": "Arrivé",
+      "sourceFile": "2011年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "98ac3ae31e029456c823c914076ddcb2ddb2c4b23402de8643b333594a0ea46c"
+    },
+    "2011-V18": {
+      "value": "s’est serré",
+      "sourceFile": "2011年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "98ac3ae31e029456c823c914076ddcb2ddb2c4b23402de8643b333594a0ea46c"
+    },
+    "2011-V19": {
+      "value": "m’en suis allée",
+      "sourceFile": "2011年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "98ac3ae31e029456c823c914076ddcb2ddb2c4b23402de8643b333594a0ea46c"
+    },
+    "2011-V20": {
+      "value": "attendaient",
+      "sourceFile": "2011年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "98ac3ae31e029456c823c914076ddcb2ddb2c4b23402de8643b333594a0ea46c"
+    },
+    "2012-V01": {
+      "value": "raconte",
+      "sourceFile": "2012年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "PDF中有明确空线；此前MD漏失",
+      "sourceSha256": "14f912e3ea078f161ba5da56be9fda33700d597a8788cfd25a85d70edc257d69"
+    },
+    "2012-V02": {
+      "value": "me souviendrai",
+      "sourceFile": "2012年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "14f912e3ea078f161ba5da56be9fda33700d597a8788cfd25a85d70edc257d69"
+    },
+    "2012-V03": {
+      "value": "a eu",
+      "sourceFile": "2012年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "14f912e3ea078f161ba5da56be9fda33700d597a8788cfd25a85d70edc257d69"
+    },
+    "2012-V04": {
+      "value": "(j’)avais",
+      "sourceFile": "2012年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "14f912e3ea078f161ba5da56be9fda33700d597a8788cfd25a85d70edc257d69"
+    },
+    "2012-V05": {
+      "value": "Ayant réussi",
+      "sourceFile": "2012年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "14f912e3ea078f161ba5da56be9fda33700d597a8788cfd25a85d70edc257d69"
+    },
+    "2012-V06": {
+      "value": "habitaient",
+      "sourceFile": "2012年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "14f912e3ea078f161ba5da56be9fda33700d597a8788cfd25a85d70edc257d69"
+    },
+    "2012-V07": {
+      "value": "me suis aventuré",
+      "sourceFile": "2012年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "14f912e3ea078f161ba5da56be9fda33700d597a8788cfd25a85d70edc257d69"
+    },
+    "2012-V08": {
+      "value": "avait plu",
+      "sourceFile": "2012年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "14f912e3ea078f161ba5da56be9fda33700d597a8788cfd25a85d70edc257d69"
+    },
+    "2012-V09": {
+      "value": "était",
+      "sourceFile": "2012年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "14f912e3ea078f161ba5da56be9fda33700d597a8788cfd25a85d70edc257d69"
+    },
+    "2012-V10": {
+      "value": "pouvait",
+      "sourceFile": "2012年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "14f912e3ea078f161ba5da56be9fda33700d597a8788cfd25a85d70edc257d69"
+    },
+    "2012-V11": {
+      "value": "murmurer",
+      "sourceFile": "2012年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "14f912e3ea078f161ba5da56be9fda33700d597a8788cfd25a85d70edc257d69"
+    },
+    "2012-V12": {
+      "value": "est apparue",
+      "sourceFile": "2012年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "14f912e3ea078f161ba5da56be9fda33700d597a8788cfd25a85d70edc257d69"
+    },
+    "2012-V13": {
+      "value": "(m’) a répondu",
+      "sourceFile": "2012年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "14f912e3ea078f161ba5da56be9fda33700d597a8788cfd25a85d70edc257d69"
+    },
+    "2012-V14": {
+      "value": "était sorti",
+      "sourceFile": "2012年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "14f912e3ea078f161ba5da56be9fda33700d597a8788cfd25a85d70edc257d69"
+    },
+    "2012-V15": {
+      "value": "parvenu",
+      "sourceFile": "2012年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "PDF中有明确空线；此前MD漏失",
+      "sourceSha256": "14f912e3ea078f161ba5da56be9fda33700d597a8788cfd25a85d70edc257d69"
+    },
+    "2012-V16": {
+      "value": "portant",
+      "sourceFile": "2012年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "PDF中有明确空线；此前MD漏失",
+      "sourceSha256": "14f912e3ea078f161ba5da56be9fda33700d597a8788cfd25a85d70edc257d69"
+    },
+    "2012-V17": {
+      "value": "lisait",
+      "sourceFile": "2012年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "PDF中有明确空线；此前MD漏失",
+      "sourceSha256": "14f912e3ea078f161ba5da56be9fda33700d597a8788cfd25a85d70edc257d69"
+    },
+    "2012-V18": {
+      "value": "tamisée",
+      "sourceFile": "2012年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "14f912e3ea078f161ba5da56be9fda33700d597a8788cfd25a85d70edc257d69"
+    },
+    "2012-V19": {
+      "value": "caressait",
+      "sourceFile": "2012年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "14f912e3ea078f161ba5da56be9fda33700d597a8788cfd25a85d70edc257d69"
+    },
+    "2012-V20": {
+      "value": "n’aurais pas dû",
+      "sourceFile": "2012年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "14f912e3ea078f161ba5da56be9fda33700d597a8788cfd25a85d70edc257d69"
+    },
+    "2013-V01": {
+      "value": "l’ont amenée",
+      "sourceFile": "2013年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "真题已有 la；答案PDF写 l’ont amenée，直接代入会重复代词，需确认可接受填入形式",
+      "sourceSha256": "fff9719bafd333bd17ad6b37b3dc64ae05cefd0e362814a7b5e09510b5641e9d"
+    },
+    "2013-V02": {
+      "value": "était",
+      "sourceFile": "2013年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "PDF中有明确空线；此前MD漏失",
+      "sourceSha256": "fff9719bafd333bd17ad6b37b3dc64ae05cefd0e362814a7b5e09510b5641e9d"
+    },
+    "2013-V03": {
+      "value": "se souvient",
+      "sourceFile": "2013年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "fff9719bafd333bd17ad6b37b3dc64ae05cefd0e362814a7b5e09510b5641e9d"
+    },
+    "2013-V04": {
+      "value": "disaient",
+      "sourceFile": "2013年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "fff9719bafd333bd17ad6b37b3dc64ae05cefd0e362814a7b5e09510b5641e9d"
+    },
+    "2013-V05": {
+      "value": "devons",
+      "sourceFile": "2013年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "fff9719bafd333bd17ad6b37b3dc64ae05cefd0e362814a7b5e09510b5641e9d"
+    },
+    "2013-V06": {
+      "value": "sera",
+      "sourceFile": "2013年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "fff9719bafd333bd17ad6b37b3dc64ae05cefd0e362814a7b5e09510b5641e9d"
+    },
+    "2013-V07": {
+      "value": "pourra",
+      "sourceFile": "2013年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "fff9719bafd333bd17ad6b37b3dc64ae05cefd0e362814a7b5e09510b5641e9d"
+    },
+    "2013-V08": {
+      "value": "voyait",
+      "sourceFile": "2013年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "fff9719bafd333bd17ad6b37b3dc64ae05cefd0e362814a7b5e09510b5641e9d"
+    },
+    "2013-V09": {
+      "value": "serait",
+      "sourceFile": "2013年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "fff9719bafd333bd17ad6b37b3dc64ae05cefd0e362814a7b5e09510b5641e9d"
+    },
+    "2013-V10": {
+      "value": "pleuvait",
+      "sourceFile": "2013年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "fff9719bafd333bd17ad6b37b3dc64ae05cefd0e362814a7b5e09510b5641e9d"
+    },
+    "2013-V11": {
+      "value": "faisait",
+      "sourceFile": "2013年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "fff9719bafd333bd17ad6b37b3dc64ae05cefd0e362814a7b5e09510b5641e9d"
+    },
+    "2013-V12": {
+      "value": "sont allés",
+      "sourceFile": "2013年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "fff9719bafd333bd17ad6b37b3dc64ae05cefd0e362814a7b5e09510b5641e9d"
+    },
+    "2013-V13": {
+      "value": "pensaient",
+      "sourceFile": "2013年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "fff9719bafd333bd17ad6b37b3dc64ae05cefd0e362814a7b5e09510b5641e9d"
+    },
+    "2013-V14": {
+      "value": "en attendant",
+      "sourceFile": "2013年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "fff9719bafd333bd17ad6b37b3dc64ae05cefd0e362814a7b5e09510b5641e9d"
+    },
+    "2013-V15": {
+      "value": "trouver",
+      "sourceFile": "2013年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "fff9719bafd333bd17ad6b37b3dc64ae05cefd0e362814a7b5e09510b5641e9d"
+    },
+    "2013-V16": {
+      "value": "a été",
+      "sourceFile": "2013年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "fff9719bafd333bd17ad6b37b3dc64ae05cefd0e362814a7b5e09510b5641e9d"
+    },
+    "2013-V17": {
+      "value": "fallait",
+      "sourceFile": "2013年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "fff9719bafd333bd17ad6b37b3dc64ae05cefd0e362814a7b5e09510b5641e9d"
+    },
+    "2013-V18": {
+      "value": "était",
+      "sourceFile": "2013年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "fff9719bafd333bd17ad6b37b3dc64ae05cefd0e362814a7b5e09510b5641e9d"
+    },
+    "2013-V19": {
+      "value": "se demandait",
+      "sourceFile": "2013年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "fff9719bafd333bd17ad6b37b3dc64ae05cefd0e362814a7b5e09510b5641e9d"
+    },
+    "2013-V20": {
+      "value": "existait",
+      "sourceFile": "2013年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "fff9719bafd333bd17ad6b37b3dc64ae05cefd0e362814a7b5e09510b5641e9d"
+    },
+    "2014-V01": {
+      "value": "semblait",
+      "sourceFile": "2014年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核；该卷有空位标记缺失，需核对题面",
+      "sourceSha256": "1d8205a8fc966edd08a578a02c9ae183b1e150abffa54290a523d793cef61da1"
+    },
+    "2014-V02": {
+      "value": "vivre",
+      "sourceFile": "2014年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "1d8205a8fc966edd08a578a02c9ae183b1e150abffa54290a523d793cef61da1"
+    },
+    "2014-V03": {
+      "value": "s’envolaient",
+      "sourceFile": "2014年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "1d8205a8fc966edd08a578a02c9ae183b1e150abffa54290a523d793cef61da1"
+    },
+    "2014-V04": {
+      "value": "dériver",
+      "sourceFile": "2014年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "1d8205a8fc966edd08a578a02c9ae183b1e150abffa54290a523d793cef61da1"
+    },
+    "2014-V05": {
+      "value": "se paraient",
+      "sourceFile": "2014年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "1d8205a8fc966edd08a578a02c9ae183b1e150abffa54290a523d793cef61da1"
+    },
+    "2014-V06": {
+      "value": "scintillaient",
+      "sourceFile": "2014年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "1d8205a8fc966edd08a578a02c9ae183b1e150abffa54290a523d793cef61da1"
+    },
+    "2014-V07": {
+      "value": "venu",
+      "sourceFile": "2014年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "1d8205a8fc966edd08a578a02c9ae183b1e150abffa54290a523d793cef61da1"
+    },
+    "2014-V08": {
+      "value": "étaient",
+      "sourceFile": "2014年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "1d8205a8fc966edd08a578a02c9ae183b1e150abffa54290a523d793cef61da1"
+    },
+    "2014-V09": {
+      "value": "étaient",
+      "sourceFile": "2014年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "1d8205a8fc966edd08a578a02c9ae183b1e150abffa54290a523d793cef61da1"
+    },
+    "2014-V10": {
+      "value": "accouraient",
+      "sourceFile": "2014年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "1d8205a8fc966edd08a578a02c9ae183b1e150abffa54290a523d793cef61da1"
+    },
+    "2014-V11": {
+      "value": "observer",
+      "sourceFile": "2014年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "1d8205a8fc966edd08a578a02c9ae183b1e150abffa54290a523d793cef61da1"
+    },
+    "2014-V12": {
+      "value": "s’écoulait",
+      "sourceFile": "2014年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "1d8205a8fc966edd08a578a02c9ae183b1e150abffa54290a523d793cef61da1"
+    },
+    "2014-V13": {
+      "value": "avait toujours été",
+      "sourceFile": "2014年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "1d8205a8fc966edd08a578a02c9ae183b1e150abffa54290a523d793cef61da1"
+    },
+    "2014-V14": {
+      "value": "avaient édifié",
+      "sourceFile": "2014年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "1d8205a8fc966edd08a578a02c9ae183b1e150abffa54290a523d793cef61da1"
+    },
+    "2014-V15": {
+      "value": "s’insinua",
+      "sourceFile": "2014年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "1d8205a8fc966edd08a578a02c9ae183b1e150abffa54290a523d793cef61da1"
+    },
+    "2014-V16": {
+      "value": "commencèrent",
+      "sourceFile": "2014年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "1d8205a8fc966edd08a578a02c9ae183b1e150abffa54290a523d793cef61da1"
+    },
+    "2014-V17": {
+      "value": "sembla",
+      "sourceFile": "2014年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "1d8205a8fc966edd08a578a02c9ae183b1e150abffa54290a523d793cef61da1"
+    },
+    "2014-V18": {
+      "value": "s’être abattu",
+      "sourceFile": "2014年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "1d8205a8fc966edd08a578a02c9ae183b1e150abffa54290a523d793cef61da1"
+    },
+    "2014-V19": {
+      "value": "frappés",
+      "sourceFile": "2014年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "1d8205a8fc966edd08a578a02c9ae183b1e150abffa54290a523d793cef61da1"
+    },
+    "2014-V20": {
+      "value": "moururent",
+      "sourceFile": "2014年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "1d8205a8fc966edd08a578a02c9ae183b1e150abffa54290a523d793cef61da1"
+    },
+    "2015-V01": {
+      "value": "l’a recouverte",
+      "sourceFile": "2015年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "92f2ba15d3454070a6183c2f4bc9bc16d344e6c47ed28bbc6192895ecc1be2b5"
+    },
+    "2015-V02": {
+      "value": "venez voir",
+      "sourceFile": "2015年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "92f2ba15d3454070a6183c2f4bc9bc16d344e6c47ed28bbc6192895ecc1be2b5"
+    },
+    "2015-V03": {
+      "value": "finissait",
+      "sourceFile": "2015年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "92f2ba15d3454070a6183c2f4bc9bc16d344e6c47ed28bbc6192895ecc1be2b5"
+    },
+    "2015-V04": {
+      "value": "devait mettre",
+      "sourceFile": "2015年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "92f2ba15d3454070a6183c2f4bc9bc16d344e6c47ed28bbc6192895ecc1be2b5"
+    },
+    "2015-V05": {
+      "value": "admirèrent",
+      "sourceFile": "2015年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "92f2ba15d3454070a6183c2f4bc9bc16d344e6c47ed28bbc6192895ecc1be2b5"
+    },
+    "2015-V06": {
+      "value": "voie",
+      "sourceFile": "2015年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "92f2ba15d3454070a6183c2f4bc9bc16d344e6c47ed28bbc6192895ecc1be2b5"
+    },
+    "2015-V07": {
+      "value": "brisée",
+      "sourceFile": "2015年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "92f2ba15d3454070a6183c2f4bc9bc16d344e6c47ed28bbc6192895ecc1be2b5"
+    },
+    "2015-V08": {
+      "value": "fondus",
+      "sourceFile": "2015年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "92f2ba15d3454070a6183c2f4bc9bc16d344e6c47ed28bbc6192895ecc1be2b5"
+    },
+    "2015-V09": {
+      "value": "cassé",
+      "sourceFile": "2015年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "92f2ba15d3454070a6183c2f4bc9bc16d344e6c47ed28bbc6192895ecc1be2b5"
+    },
+    "2015-V10": {
+      "value": "recouvrirent",
+      "sourceFile": "2015年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "92f2ba15d3454070a6183c2f4bc9bc16d344e6c47ed28bbc6192895ecc1be2b5"
+    },
+    "2015-V11": {
+      "value": "plaça",
+      "sourceFile": "2015年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "92f2ba15d3454070a6183c2f4bc9bc16d344e6c47ed28bbc6192895ecc1be2b5"
+    },
+    "2015-V12": {
+      "value": "avait fait faire",
+      "sourceFile": "2015年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "92f2ba15d3454070a6183c2f4bc9bc16d344e6c47ed28bbc6192895ecc1be2b5"
+    },
+    "2015-V13": {
+      "value": "porter",
+      "sourceFile": "2015年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "92f2ba15d3454070a6183c2f4bc9bc16d344e6c47ed28bbc6192895ecc1be2b5"
+    },
+    "2015-V14": {
+      "value": "poussés",
+      "sourceFile": "2015年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "92f2ba15d3454070a6183c2f4bc9bc16d344e6c47ed28bbc6192895ecc1be2b5"
+    },
+    "2015-V15": {
+      "value": "disputés",
+      "sourceFile": "2015年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "92f2ba15d3454070a6183c2f4bc9bc16d344e6c47ed28bbc6192895ecc1be2b5"
+    },
+    "2015-V16": {
+      "value": "décida",
+      "sourceFile": "2015年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "92f2ba15d3454070a6183c2f4bc9bc16d344e6c47ed28bbc6192895ecc1be2b5"
+    },
+    "2015-V17": {
+      "value": "porteraient",
+      "sourceFile": "2015年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "92f2ba15d3454070a6183c2f4bc9bc16d344e6c47ed28bbc6192895ecc1be2b5"
+    },
+    "2015-V18": {
+      "value": "marcheraient",
+      "sourceFile": "2015年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "92f2ba15d3454070a6183c2f4bc9bc16d344e6c47ed28bbc6192895ecc1be2b5"
+    },
+    "2015-V19": {
+      "value": "portant",
+      "sourceFile": "2015年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "92f2ba15d3454070a6183c2f4bc9bc16d344e6c47ed28bbc6192895ecc1be2b5"
+    },
+    "2015-V20": {
+      "value": "devait jeter",
+      "sourceFile": "2015年法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "92f2ba15d3454070a6183c2f4bc9bc16d344e6c47ed28bbc6192895ecc1be2b5"
+    },
+    "2016-V01": {
+      "value": "connaissais",
+      "sourceFile": "2016年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "465ddeed45b5dcebd780cadc745cc0ca6c6d9cbcf49729d410fdc7ab829ea959"
+    },
+    "2016-V02": {
+      "value": "(n’) osais",
+      "sourceFile": "2016年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "465ddeed45b5dcebd780cadc745cc0ca6c6d9cbcf49729d410fdc7ab829ea959"
+    },
+    "2016-V03": {
+      "value": "(j’) ai été",
+      "sourceFile": "2016年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "465ddeed45b5dcebd780cadc745cc0ca6c6d9cbcf49729d410fdc7ab829ea959"
+    },
+    "2016-V04": {
+      "value": "s’est mal passé",
+      "sourceFile": "2016年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "465ddeed45b5dcebd780cadc745cc0ca6c6d9cbcf49729d410fdc7ab829ea959"
+    },
+    "2016-V05": {
+      "value": "(j’) ai passé",
+      "sourceFile": "2016年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "465ddeed45b5dcebd780cadc745cc0ca6c6d9cbcf49729d410fdc7ab829ea959"
+    },
+    "2016-V06": {
+      "value": "est enfermée",
+      "sourceFile": "2016年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "465ddeed45b5dcebd780cadc745cc0ca6c6d9cbcf49729d410fdc7ab829ea959"
+    },
+    "2016-V07": {
+      "value": "se créer",
+      "sourceFile": "2016年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "465ddeed45b5dcebd780cadc745cc0ca6c6d9cbcf49729d410fdc7ab829ea959"
+    },
+    "2016-V08": {
+      "value": "reprendre",
+      "sourceFile": "2016年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "465ddeed45b5dcebd780cadc745cc0ca6c6d9cbcf49729d410fdc7ab829ea959"
+    },
+    "2016-V09": {
+      "value": "(n’) ose",
+      "sourceFile": "2016年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "465ddeed45b5dcebd780cadc745cc0ca6c6d9cbcf49729d410fdc7ab829ea959"
+    },
+    "2016-V10": {
+      "value": "me suis dit",
+      "sourceFile": "2016年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "465ddeed45b5dcebd780cadc745cc0ca6c6d9cbcf49729d410fdc7ab829ea959"
+    },
+    "2016-V11": {
+      "value": "(j’) y aille",
+      "sourceFile": "2016年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "465ddeed45b5dcebd780cadc745cc0ca6c6d9cbcf49729d410fdc7ab829ea959"
+    },
+    "2016-V12": {
+      "value": "(j’) y suis allée",
+      "sourceFile": "2016年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "465ddeed45b5dcebd780cadc745cc0ca6c6d9cbcf49729d410fdc7ab829ea959"
+    },
+    "2016-V13": {
+      "value": "pensais",
+      "sourceFile": "2016年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "465ddeed45b5dcebd780cadc745cc0ca6c6d9cbcf49729d410fdc7ab829ea959"
+    },
+    "2016-V14": {
+      "value": "(j’) ai été étonnée",
+      "sourceFile": "2016年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "465ddeed45b5dcebd780cadc745cc0ca6c6d9cbcf49729d410fdc7ab829ea959"
+    },
+    "2016-V15": {
+      "value": "étaient",
+      "sourceFile": "2016年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "465ddeed45b5dcebd780cadc745cc0ca6c6d9cbcf49729d410fdc7ab829ea959"
+    },
+    "2016-V16": {
+      "value": "avaient",
+      "sourceFile": "2016年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "465ddeed45b5dcebd780cadc745cc0ca6c6d9cbcf49729d410fdc7ab829ea959"
+    },
+    "2016-V17": {
+      "value": "avais",
+      "sourceFile": "2016年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "465ddeed45b5dcebd780cadc745cc0ca6c6d9cbcf49729d410fdc7ab829ea959"
+    },
+    "2016-V18": {
+      "value": "avaient eu",
+      "sourceFile": "2016年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "465ddeed45b5dcebd780cadc745cc0ca6c6d9cbcf49729d410fdc7ab829ea959"
+    },
+    "2016-V19": {
+      "value": "recoupaient",
+      "sourceFile": "2016年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "465ddeed45b5dcebd780cadc745cc0ca6c6d9cbcf49729d410fdc7ab829ea959"
+    },
+    "2016-V20": {
+      "value": "m’y serais retrouvée",
+      "sourceFile": "2016年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "465ddeed45b5dcebd780cadc745cc0ca6c6d9cbcf49729d410fdc7ab829ea959"
+    },
+    "2017-V01": {
+      "value": "corrige",
+      "sourceFile": "2017年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "ec84956022e3d74e23728aacbc95c2e6af2f54d9805147e42048bc35bcd31191"
+    },
+    "2017-V02": {
+      "value": "arrivait",
+      "sourceFile": "2017年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "ec84956022e3d74e23728aacbc95c2e6af2f54d9805147e42048bc35bcd31191"
+    },
+    "2017-V03": {
+      "value": "réécrire",
+      "sourceFile": "2017年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "ec84956022e3d74e23728aacbc95c2e6af2f54d9805147e42048bc35bcd31191"
+    },
+    "2017-V04": {
+      "value": "satisfît / satisfasse",
+      "sourceFile": "2017年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "ec84956022e3d74e23728aacbc95c2e6af2f54d9805147e42048bc35bcd31191"
+    },
+    "2017-V05": {
+      "value": "(c’) est",
+      "sourceFile": "2017年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "ec84956022e3d74e23728aacbc95c2e6af2f54d9805147e42048bc35bcd31191"
+    },
+    "2017-V06": {
+      "value": "détestait",
+      "sourceFile": "2017年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "ec84956022e3d74e23728aacbc95c2e6af2f54d9805147e42048bc35bcd31191"
+    },
+    "2017-V07": {
+      "value": "fût / soit",
+      "sourceFile": "2017年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "ec84956022e3d74e23728aacbc95c2e6af2f54d9805147e42048bc35bcd31191"
+    },
+    "2017-V08": {
+      "value": "échappait",
+      "sourceFile": "2017年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "ec84956022e3d74e23728aacbc95c2e6af2f54d9805147e42048bc35bcd31191"
+    },
+    "2017-V09": {
+      "value": "fit",
+      "sourceFile": "2017年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "ec84956022e3d74e23728aacbc95c2e6af2f54d9805147e42048bc35bcd31191"
+    },
+    "2017-V10": {
+      "value": "a commis",
+      "sourceFile": "2017年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "ec84956022e3d74e23728aacbc95c2e6af2f54d9805147e42048bc35bcd31191"
+    },
+    "2017-V11": {
+      "value": "dit",
+      "sourceFile": "2017年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "ec84956022e3d74e23728aacbc95c2e6af2f54d9805147e42048bc35bcd31191"
+    },
+    "2017-V12": {
+      "value": "a relu",
+      "sourceFile": "2017年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "ec84956022e3d74e23728aacbc95c2e6af2f54d9805147e42048bc35bcd31191"
+    },
+    "2017-V13": {
+      "value": "disait",
+      "sourceFile": "2017年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "ec84956022e3d74e23728aacbc95c2e6af2f54d9805147e42048bc35bcd31191"
+    },
+    "2017-V14": {
+      "value": "veux",
+      "sourceFile": "2017年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "ec84956022e3d74e23728aacbc95c2e6af2f54d9805147e42048bc35bcd31191"
+    },
+    "2017-V15": {
+      "value": "verrai",
+      "sourceFile": "2017年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "ec84956022e3d74e23728aacbc95c2e6af2f54d9805147e42048bc35bcd31191"
+    },
+    "2017-V16": {
+      "value": "aurez",
+      "sourceFile": "2017年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "ec84956022e3d74e23728aacbc95c2e6af2f54d9805147e42048bc35bcd31191"
+    },
+    "2017-V17": {
+      "value": "obligeait",
+      "sourceFile": "2017年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "ec84956022e3d74e23728aacbc95c2e6af2f54d9805147e42048bc35bcd31191"
+    },
+    "2017-V18": {
+      "value": "exposer",
+      "sourceFile": "2017年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "ec84956022e3d74e23728aacbc95c2e6af2f54d9805147e42048bc35bcd31191"
+    },
+    "2017-V19": {
+      "value": "donnait",
+      "sourceFile": "2017年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "ec84956022e3d74e23728aacbc95c2e6af2f54d9805147e42048bc35bcd31191"
+    },
+    "2017-V20": {
+      "value": "(d’) être écouté",
+      "sourceFile": "2017年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "ec84956022e3d74e23728aacbc95c2e6af2f54d9805147e42048bc35bcd31191"
+    },
+    "2018-V01": {
+      "value": "Réunie",
+      "sourceFile": "2018年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "4e0caff00ce3f3cd30ce00ade880845b463e02a0e33d4b00bb5f37ead86dbfe5"
+    },
+    "2018-V02": {
+      "value": "était",
+      "sourceFile": "2018年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "4e0caff00ce3f3cd30ce00ade880845b463e02a0e33d4b00bb5f37ead86dbfe5"
+    },
+    "2018-V03": {
+      "value": "mangeaient",
+      "sourceFile": "2018年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "4e0caff00ce3f3cd30ce00ade880845b463e02a0e33d4b00bb5f37ead86dbfe5"
+    },
+    "2018-V04": {
+      "value": "étaient",
+      "sourceFile": "2018年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "4e0caff00ce3f3cd30ce00ade880845b463e02a0e33d4b00bb5f37ead86dbfe5"
+    },
+    "2018-V05": {
+      "value": "(n’)en avait",
+      "sourceFile": "2018年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "4e0caff00ce3f3cd30ce00ade880845b463e02a0e33d4b00bb5f37ead86dbfe5"
+    },
+    "2018-V06": {
+      "value": "se tenait",
+      "sourceFile": "2018年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "4e0caff00ce3f3cd30ce00ade880845b463e02a0e33d4b00bb5f37ead86dbfe5"
+    },
+    "2018-V07": {
+      "value": "mendiant",
+      "sourceFile": "2018年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "4e0caff00ce3f3cd30ce00ade880845b463e02a0e33d4b00bb5f37ead86dbfe5"
+    },
+    "2018-V08": {
+      "value": "semblait",
+      "sourceFile": "2018年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "4e0caff00ce3f3cd30ce00ade880845b463e02a0e33d4b00bb5f37ead86dbfe5"
+    },
+    "2018-V09": {
+      "value": "songeait",
+      "sourceFile": "2018年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "4e0caff00ce3f3cd30ce00ade880845b463e02a0e33d4b00bb5f37ead86dbfe5"
+    },
+    "2018-V10": {
+      "value": "devait",
+      "sourceFile": "2018年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "4e0caff00ce3f3cd30ce00ade880845b463e02a0e33d4b00bb5f37ead86dbfe5"
+    },
+    "2018-V11": {
+      "value": "perdre",
+      "sourceFile": "2018年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核；PDF给出 pendre → perdre，需核对题面",
+      "sourceSha256": "4e0caff00ce3f3cd30ce00ade880845b463e02a0e33d4b00bb5f37ead86dbfe5"
+    },
+    "2018-V12": {
+      "value": "souriait",
+      "sourceFile": "2018年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "4e0caff00ce3f3cd30ce00ade880845b463e02a0e33d4b00bb5f37ead86dbfe5"
+    },
+    "2018-V13": {
+      "value": "n’aurait jamais cru",
+      "sourceFile": "2018年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "4e0caff00ce3f3cd30ce00ade880845b463e02a0e33d4b00bb5f37ead86dbfe5"
+    },
+    "2018-V14": {
+      "value": "fussent (soient)",
+      "sourceFile": "2018年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "4e0caff00ce3f3cd30ce00ade880845b463e02a0e33d4b00bb5f37ead86dbfe5"
+    },
+    "2018-V15": {
+      "value": "parlait",
+      "sourceFile": "2018年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "4e0caff00ce3f3cd30ce00ade880845b463e02a0e33d4b00bb5f37ead86dbfe5"
+    },
+    "2018-V16": {
+      "value": "passa (a passé)",
+      "sourceFile": "2018年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "4e0caff00ce3f3cd30ce00ade880845b463e02a0e33d4b00bb5f37ead86dbfe5"
+    },
+    "2018-V17": {
+      "value": "t’ai déjà dit",
+      "sourceFile": "2018年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "4e0caff00ce3f3cd30ce00ade880845b463e02a0e33d4b00bb5f37ead86dbfe5"
+    },
+    "2018-V18": {
+      "value": "sommes",
+      "sourceFile": "2018年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "4e0caff00ce3f3cd30ce00ade880845b463e02a0e33d4b00bb5f37ead86dbfe5"
+    },
+    "2018-V19": {
+      "value": "grommela (a grommelé)",
+      "sourceFile": "2018年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "4e0caff00ce3f3cd30ce00ade880845b463e02a0e33d4b00bb5f37ead86dbfe5"
+    },
+    "2018-V20": {
+      "value": "Tâche",
+      "sourceFile": "2018年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "4e0caff00ce3f3cd30ce00ade880845b463e02a0e33d4b00bb5f37ead86dbfe5"
+    },
+    "2019-V01": {
+      "value": "assis",
+      "sourceFile": "2019年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "83c7c43e72c6dd540b0cf00493777be3206edc5dc0ab7f609eb988dcaab76ac2"
+    },
+    "2019-V02": {
+      "value": "était",
+      "sourceFile": "2019年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "83c7c43e72c6dd540b0cf00493777be3206edc5dc0ab7f609eb988dcaab76ac2"
+    },
+    "2019-V03": {
+      "value": "était servi",
+      "sourceFile": "2019年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "83c7c43e72c6dd540b0cf00493777be3206edc5dc0ab7f609eb988dcaab76ac2"
+    },
+    "2019-V04": {
+      "value": "demanda",
+      "sourceFile": "2019年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "83c7c43e72c6dd540b0cf00493777be3206edc5dc0ab7f609eb988dcaab76ac2"
+    },
+    "2019-V05": {
+      "value": "t’es coupé",
+      "sourceFile": "2019年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "83c7c43e72c6dd540b0cf00493777be3206edc5dc0ab7f609eb988dcaab76ac2"
+    },
+    "2019-V06": {
+      "value": "confirmerait",
+      "sourceFile": "2019年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "83c7c43e72c6dd540b0cf00493777be3206edc5dc0ab7f609eb988dcaab76ac2"
+    },
+    "2019-V07": {
+      "value": "dis",
+      "sourceFile": "2019年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "83c7c43e72c6dd540b0cf00493777be3206edc5dc0ab7f609eb988dcaab76ac2"
+    },
+    "2019-V08": {
+      "value": "n’y ai pas pensé",
+      "sourceFile": "2019年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "83c7c43e72c6dd540b0cf00493777be3206edc5dc0ab7f609eb988dcaab76ac2"
+    },
+    "2019-V09": {
+      "value": "ai (déjà) taillés",
+      "sourceFile": "2019年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "83c7c43e72c6dd540b0cf00493777be3206edc5dc0ab7f609eb988dcaab76ac2"
+    },
+    "2019-V10": {
+      "value": "croquais",
+      "sourceFile": "2019年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "83c7c43e72c6dd540b0cf00493777be3206edc5dc0ab7f609eb988dcaab76ac2"
+    },
+    "2019-V11": {
+      "value": "ne sais pas",
+      "sourceFile": "2019年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "83c7c43e72c6dd540b0cf00493777be3206edc5dc0ab7f609eb988dcaab76ac2"
+    },
+    "2019-V12": {
+      "value": "ai loué",
+      "sourceFile": "2019年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "83c7c43e72c6dd540b0cf00493777be3206edc5dc0ab7f609eb988dcaab76ac2"
+    },
+    "2019-V13": {
+      "value": "passerons",
+      "sourceFile": "2019年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "83c7c43e72c6dd540b0cf00493777be3206edc5dc0ab7f609eb988dcaab76ac2"
+    },
+    "2019-V14": {
+      "value": "fus émerveillé",
+      "sourceFile": "2019年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "83c7c43e72c6dd540b0cf00493777be3206edc5dc0ab7f609eb988dcaab76ac2"
+    },
+    "2019-V15": {
+      "value": "a",
+      "sourceFile": "2019年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "83c7c43e72c6dd540b0cf00493777be3206edc5dc0ab7f609eb988dcaab76ac2"
+    },
+    "2019-V16": {
+      "value": "allais poser",
+      "sourceFile": "2019年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "83c7c43e72c6dd540b0cf00493777be3206edc5dc0ab7f609eb988dcaab76ac2"
+    },
+    "2019-V17": {
+      "value": "Mange",
+      "sourceFile": "2019年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "83c7c43e72c6dd540b0cf00493777be3206edc5dc0ab7f609eb988dcaab76ac2"
+    },
+    "2019-V18": {
+      "value": "poussa",
+      "sourceFile": "2019年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "83c7c43e72c6dd540b0cf00493777be3206edc5dc0ab7f609eb988dcaab76ac2"
+    },
+    "2019-V19": {
+      "value": "va",
+      "sourceFile": "2019年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "83c7c43e72c6dd540b0cf00493777be3206edc5dc0ab7f609eb988dcaab76ac2"
+    },
+    "2019-V20": {
+      "value": "mettre",
+      "sourceFile": "2019年法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "83c7c43e72c6dd540b0cf00493777be3206edc5dc0ab7f609eb988dcaab76ac2"
+    },
+    "2021-05-V01": {
+      "value": "avoir passé",
+      "sourceFile": "2021年5月法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "52ab1f660e5591f6efa78f4b371acfc9c55ed5180b20a18eeab60ec05b5e3f6e"
+    },
+    "2021-05-V02": {
+      "value": "avaient organisé",
+      "sourceFile": "2021年5月法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "52ab1f660e5591f6efa78f4b371acfc9c55ed5180b20a18eeab60ec05b5e3f6e"
+    },
+    "2021-05-V03": {
+      "value": "était",
+      "sourceFile": "2021年5月法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "52ab1f660e5591f6efa78f4b371acfc9c55ed5180b20a18eeab60ec05b5e3f6e"
+    },
+    "2021-05-V04": {
+      "value": "(j’)ai remarqué",
+      "sourceFile": "2021年5月法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "题面已有 je (j’) 提示；答案PDF括号内容保留",
+      "sourceSha256": "52ab1f660e5591f6efa78f4b371acfc9c55ed5180b20a18eeab60ec05b5e3f6e"
+    },
+    "2021-05-V05": {
+      "value": "suivait",
+      "sourceFile": "2021年5月法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "题面已有 me (m’) 提示，答案PDF只写 suivait",
+      "sourceSha256": "52ab1f660e5591f6efa78f4b371acfc9c55ed5180b20a18eeab60ec05b5e3f6e"
+    },
+    "2021-05-V06": {
+      "value": "(j’)ai pressé",
+      "sourceFile": "2021年5月法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "题面已有 je (j’) 提示；答案PDF括号内容保留",
+      "sourceSha256": "52ab1f660e5591f6efa78f4b371acfc9c55ed5180b20a18eeab60ec05b5e3f6e"
+    },
+    "2021-05-V07": {
+      "value": "me suis mise",
+      "sourceFile": "2021年5月法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "52ab1f660e5591f6efa78f4b371acfc9c55ed5180b20a18eeab60ec05b5e3f6e"
+    },
+    "2021-05-V08": {
+      "value": "(j’)ai composé",
+      "sourceFile": "2021年5月法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "题面已有 je (j’) 提示；答案PDF括号内容保留",
+      "sourceSha256": "52ab1f660e5591f6efa78f4b371acfc9c55ed5180b20a18eeab60ec05b5e3f6e"
+    },
+    "2021-05-V09": {
+      "value": "commandait",
+      "sourceFile": "2021年5月法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "52ab1f660e5591f6efa78f4b371acfc9c55ed5180b20a18eeab60ec05b5e3f6e"
+    },
+    "2021-05-V10": {
+      "value": "(j’)ai ouvert",
+      "sourceFile": "2021年5月法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "题面已有 Je (J’) 提示；答案PDF括号内容保留",
+      "sourceSha256": "52ab1f660e5591f6efa78f4b371acfc9c55ed5180b20a18eeab60ec05b5e3f6e"
+    },
+    "2021-05-V11": {
+      "value": "(j’)allais",
+      "sourceFile": "2021年5月法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "题面已有 je (j’) 提示；答案PDF括号内容保留",
+      "sourceSha256": "52ab1f660e5591f6efa78f4b371acfc9c55ed5180b20a18eeab60ec05b5e3f6e"
+    },
+    "2021-05-V12": {
+      "value": "(l’)a poussée",
+      "sourceFile": "2021年5月法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "题面已有 la (l’) 提示；答案PDF括号内容保留",
+      "sourceSha256": "52ab1f660e5591f6efa78f4b371acfc9c55ed5180b20a18eeab60ec05b5e3f6e"
+    },
+    "2021-05-V13": {
+      "value": "est entré",
+      "sourceFile": "2021年5月法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "52ab1f660e5591f6efa78f4b371acfc9c55ed5180b20a18eeab60ec05b5e3f6e"
+    },
+    "2021-05-V14": {
+      "value": "est venu",
+      "sourceFile": "2021年5月法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "52ab1f660e5591f6efa78f4b371acfc9c55ed5180b20a18eeab60ec05b5e3f6e"
+    },
+    "2021-05-V15": {
+      "value": "(m’)a demandé",
+      "sourceFile": "2021年5月法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "题面已有 me (m’) 提示；答案PDF括号内容保留",
+      "sourceSha256": "52ab1f660e5591f6efa78f4b371acfc9c55ed5180b20a18eeab60ec05b5e3f6e"
+    },
+    "2021-05-V16": {
+      "value": "en pleurant",
+      "sourceFile": "2021年5月法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "52ab1f660e5591f6efa78f4b371acfc9c55ed5180b20a18eeab60ec05b5e3f6e"
+    },
+    "2021-05-V17": {
+      "value": "n’avais pas",
+      "sourceFile": "2021年5月法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "52ab1f660e5591f6efa78f4b371acfc9c55ed5180b20a18eeab60ec05b5e3f6e"
+    },
+    "2021-05-V18": {
+      "value": "(c’)était",
+      "sourceFile": "2021年5月法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "题面已有 ce (c’) 提示；答案PDF括号内容保留",
+      "sourceSha256": "52ab1f660e5591f6efa78f4b371acfc9c55ed5180b20a18eeab60ec05b5e3f6e"
+    },
+    "2021-05-V19": {
+      "value": "(m’)a regardée",
+      "sourceFile": "2021年5月法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "题面已有 me (m’) 提示；答案PDF括号内容保留",
+      "sourceSha256": "52ab1f660e5591f6efa78f4b371acfc9c55ed5180b20a18eeab60ec05b5e3f6e"
+    },
+    "2021-05-V20": {
+      "value": "est parti",
+      "sourceFile": "2021年5月法语专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "52ab1f660e5591f6efa78f4b371acfc9c55ed5180b20a18eeab60ec05b5e3f6e"
+    },
+    "2021-06-V01": {
+      "value": "étaient",
+      "sourceFile": "2021年6月法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "445da767ab8d475be4b24fc983a9a5cc4b8055dfba6fc6b6f04cbb5a8e866e1d"
+    },
+    "2021-06-V02": {
+      "value": "a transformé",
+      "sourceFile": "2021年6月法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "445da767ab8d475be4b24fc983a9a5cc4b8055dfba6fc6b6f04cbb5a8e866e1d"
+    },
+    "2021-06-V03": {
+      "value": "fallait",
+      "sourceFile": "2021年6月法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "445da767ab8d475be4b24fc983a9a5cc4b8055dfba6fc6b6f04cbb5a8e866e1d"
+    },
+    "2021-06-V04": {
+      "value": "se mettre",
+      "sourceFile": "2021年6月法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "445da767ab8d475be4b24fc983a9a5cc4b8055dfba6fc6b6f04cbb5a8e866e1d"
+    },
+    "2021-06-V05": {
+      "value": "n’arrêtait pas",
+      "sourceFile": "2021年6月法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "445da767ab8d475be4b24fc983a9a5cc4b8055dfba6fc6b6f04cbb5a8e866e1d"
+    },
+    "2021-06-V06": {
+      "value": "étaient",
+      "sourceFile": "2021年6月法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "445da767ab8d475be4b24fc983a9a5cc4b8055dfba6fc6b6f04cbb5a8e866e1d"
+    },
+    "2021-06-V07": {
+      "value": "comptait",
+      "sourceFile": "2021年6月法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "445da767ab8d475be4b24fc983a9a5cc4b8055dfba6fc6b6f04cbb5a8e866e1d"
+    },
+    "2021-06-V08": {
+      "value": "pouvait",
+      "sourceFile": "2021年6月法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "445da767ab8d475be4b24fc983a9a5cc4b8055dfba6fc6b6f04cbb5a8e866e1d"
+    },
+    "2021-06-V09": {
+      "value": "était",
+      "sourceFile": "2021年6月法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "445da767ab8d475be4b24fc983a9a5cc4b8055dfba6fc6b6f04cbb5a8e866e1d"
+    },
+    "2021-06-V10": {
+      "value": "craignaient",
+      "sourceFile": "2021年6月法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "445da767ab8d475be4b24fc983a9a5cc4b8055dfba6fc6b6f04cbb5a8e866e1d"
+    },
+    "2021-06-V11": {
+      "value": "intéressent",
+      "sourceFile": "2021年6月法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "445da767ab8d475be4b24fc983a9a5cc4b8055dfba6fc6b6f04cbb5a8e866e1d"
+    },
+    "2021-06-V12": {
+      "value": "amusent",
+      "sourceFile": "2021年6月法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "445da767ab8d475be4b24fc983a9a5cc4b8055dfba6fc6b6f04cbb5a8e866e1d"
+    },
+    "2021-06-V13": {
+      "value": "font rire",
+      "sourceFile": "2021年6月法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "445da767ab8d475be4b24fc983a9a5cc4b8055dfba6fc6b6f04cbb5a8e866e1d"
+    },
+    "2021-06-V14": {
+      "value": "a noté",
+      "sourceFile": "2021年6月法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "445da767ab8d475be4b24fc983a9a5cc4b8055dfba6fc6b6f04cbb5a8e866e1d"
+    },
+    "2021-06-V15": {
+      "value": "était",
+      "sourceFile": "2021年6月法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "445da767ab8d475be4b24fc983a9a5cc4b8055dfba6fc6b6f04cbb5a8e866e1d"
+    },
+    "2021-06-V16": {
+      "value": "consommer",
+      "sourceFile": "2021年6月法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "445da767ab8d475be4b24fc983a9a5cc4b8055dfba6fc6b6f04cbb5a8e866e1d"
+    },
+    "2021-06-V17": {
+      "value": "(d’) avoir mis / mettre",
+      "sourceFile": "2021年6月法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "445da767ab8d475be4b24fc983a9a5cc4b8055dfba6fc6b6f04cbb5a8e866e1d"
+    },
+    "2021-06-V18": {
+      "value": "avait (déjà) dépensé",
+      "sourceFile": "2021年6月法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "445da767ab8d475be4b24fc983a9a5cc4b8055dfba6fc6b6f04cbb5a8e866e1d"
+    },
+    "2021-06-V19": {
+      "value": "a fini",
+      "sourceFile": "2021年6月法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "445da767ab8d475be4b24fc983a9a5cc4b8055dfba6fc6b6f04cbb5a8e866e1d"
+    },
+    "2021-06-V20": {
+      "value": "arriver",
+      "sourceFile": "2021年6月法语专四答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已转录，题面映射待复核",
+      "note": "PDF答案表从上到下逐列转录；空位映射及可接受形式需结合题面复核",
+      "sourceSha256": "445da767ab8d475be4b24fc983a9a5cc4b8055dfba6fc6b6f04cbb5a8e866e1d"
+    },
+    "2022-V01": {
+      "value": "soupirait",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面；解析MD提示该卷时态答案存在错误，按用户规则记录答案PDF，冲突待核",
+      "sourceSha256": "f7aab9defab1426075122a1374b0c97fc06b820f6042d11abece2923569ac434"
+    },
+    "2022-V02": {
+      "value": "s'emplissaient",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面；解析MD提示该卷时态答案存在错误，按用户规则记录答案PDF，冲突待核",
+      "sourceSha256": "f7aab9defab1426075122a1374b0c97fc06b820f6042d11abece2923569ac434"
+    },
+    "2022-V03": {
+      "value": "s'est retournée",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面；解析MD提示该卷时态答案存在错误，按用户规则记录答案PDF，冲突待核",
+      "sourceSha256": "f7aab9defab1426075122a1374b0c97fc06b820f6042d11abece2923569ac434"
+    },
+    "2022-V04": {
+      "value": "ne la voie pas",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面；解析MD提示该卷时态答案存在错误，按用户规则记录答案PDF，冲突待核",
+      "sourceSha256": "f7aab9defab1426075122a1374b0c97fc06b820f6042d11abece2923569ac434"
+    },
+    "2022-V05": {
+      "value": "j'ai remarqué",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面；解析MD提示该卷时态答案存在错误，按用户规则记录答案PDF，冲突待核",
+      "sourceSha256": "f7aab9defab1426075122a1374b0c97fc06b820f6042d11abece2923569ac434"
+    },
+    "2022-V06": {
+      "value": "allions",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面；解析MD提示该卷时态答案存在错误，按用户规则记录答案PDF，冲突待核",
+      "sourceSha256": "f7aab9defab1426075122a1374b0c97fc06b820f6042d11abece2923569ac434"
+    },
+    "2022-V07": {
+      "value": "ne comprenais pas",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面；解析MD提示该卷时态答案存在错误，按用户规则记录答案PDF，冲突待核",
+      "sourceSha256": "f7aab9defab1426075122a1374b0c97fc06b820f6042d11abece2923569ac434"
+    },
+    "2022-V08": {
+      "value": "puissent",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面；解析MD提示该卷时态答案存在错误，按用户规则记录答案PDF，冲突待核",
+      "sourceSha256": "f7aab9defab1426075122a1374b0c97fc06b820f6042d11abece2923569ac434"
+    },
+    "2022-V09": {
+      "value": "regardais",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面；解析MD提示该卷时态答案存在错误，按用户规则记录答案PDF，冲突待核",
+      "sourceSha256": "f7aab9defab1426075122a1374b0c97fc06b820f6042d11abece2923569ac434"
+    },
+    "2022-V10": {
+      "value": "j'étais",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面；解析MD提示该卷时态答案存在错误，按用户规则记录答案PDF，冲突待核",
+      "sourceSha256": "f7aab9defab1426075122a1374b0c97fc06b820f6042d11abece2923569ac434"
+    },
+    "2022-V11": {
+      "value": "sommes rentrés",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面；解析MD提示该卷时态答案存在错误，按用户规则记录答案PDF，冲突待核",
+      "sourceSha256": "f7aab9defab1426075122a1374b0c97fc06b820f6042d11abece2923569ac434"
+    },
+    "2022-V12": {
+      "value": "a passé",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面；解析MD提示该卷时态答案存在错误，按用户规则记录答案PDF，冲突待核",
+      "sourceSha256": "f7aab9defab1426075122a1374b0c97fc06b820f6042d11abece2923569ac434"
+    },
+    "2022-V13": {
+      "value": "ranger",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面；解析MD提示该卷时态答案存在错误，按用户规则记录答案PDF，冲突待核",
+      "sourceSha256": "f7aab9defab1426075122a1374b0c97fc06b820f6042d11abece2923569ac434"
+    },
+    "2022-V14": {
+      "value": "a fait",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面；解析MD提示该卷时态答案存在错误，按用户规则记录答案PDF，冲突待核",
+      "sourceSha256": "f7aab9defab1426075122a1374b0c97fc06b820f6042d11abece2923569ac434"
+    },
+    "2022-V15": {
+      "value": "a mis",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面；解析MD提示该卷时态答案存在错误，按用户规则记录答案PDF，冲突待核",
+      "sourceSha256": "f7aab9defab1426075122a1374b0c97fc06b820f6042d11abece2923569ac434"
+    },
+    "2022-V16": {
+      "value": "a descendu",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面；解析MD提示该卷时态答案存在错误，按用户规则记录答案PDF，冲突待核",
+      "sourceSha256": "f7aab9defab1426075122a1374b0c97fc06b820f6042d11abece2923569ac434"
+    },
+    "2022-V17": {
+      "value": "est remontée",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面；解析MD提示该卷时态答案存在错误，按用户规则记录答案PDF，冲突待核",
+      "sourceSha256": "f7aab9defab1426075122a1374b0c97fc06b820f6042d11abece2923569ac434"
+    },
+    "2022-V18": {
+      "value": "a sorti",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面；解析MD提示该卷时态答案存在错误，按用户规则记录答案PDF，冲突待核",
+      "sourceSha256": "f7aab9defab1426075122a1374b0c97fc06b820f6042d11abece2923569ac434"
+    },
+    "2022-V19": {
+      "value": "en souriant",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面；解析MD提示该卷时态答案存在错误，按用户规则记录答案PDF，冲突待核",
+      "sourceSha256": "f7aab9defab1426075122a1374b0c97fc06b820f6042d11abece2923569ac434"
+    },
+    "2022-V20": {
+      "value": "nous en souvenons",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面；解析MD提示该卷时态答案存在错误，按用户规则记录答案PDF，冲突待核",
+      "sourceSha256": "f7aab9defab1426075122a1374b0c97fc06b820f6042d11abece2923569ac434"
+    },
+    "2023-V01": {
+      "value": "J'ai éteint",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面",
+      "sourceSha256": "1e5d86717578726f9126ec05bb7c8295ea80697829ae221be96508dc95a3c1e7"
+    },
+    "2023-V02": {
+      "value": "me suis mis à",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面；答案含 à，题面衔接需核对",
+      "sourceSha256": "1e5d86717578726f9126ec05bb7c8295ea80697829ae221be96508dc95a3c1e7"
+    },
+    "2023-V03": {
+      "value": "est revenue",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面",
+      "sourceSha256": "1e5d86717578726f9126ec05bb7c8295ea80697829ae221be96508dc95a3c1e7"
+    },
+    "2023-V04": {
+      "value": "a allumé",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面",
+      "sourceSha256": "1e5d86717578726f9126ec05bb7c8295ea80697829ae221be96508dc95a3c1e7"
+    },
+    "2023-V05": {
+      "value": "n'était pas",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面",
+      "sourceSha256": "1e5d86717578726f9126ec05bb7c8295ea80697829ae221be96508dc95a3c1e7"
+    },
+    "2023-V06": {
+      "value": "t'avoir dit",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面",
+      "sourceSha256": "1e5d86717578726f9126ec05bb7c8295ea80697829ae221be96508dc95a3c1e7"
+    },
+    "2023-V07": {
+      "value": "suis",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面",
+      "sourceSha256": "1e5d86717578726f9126ec05bb7c8295ea80697829ae221be96508dc95a3c1e7"
+    },
+    "2023-V08": {
+      "value": "vas",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面",
+      "sourceSha256": "1e5d86717578726f9126ec05bb7c8295ea80697829ae221be96508dc95a3c1e7"
+    },
+    "2023-V09": {
+      "value": "n'est pas",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面",
+      "sourceSha256": "1e5d86717578726f9126ec05bb7c8295ea80697829ae221be96508dc95a3c1e7"
+    },
+    "2023-V10": {
+      "value": "donne",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面",
+      "sourceSha256": "1e5d86717578726f9126ec05bb7c8295ea80697829ae221be96508dc95a3c1e7"
+    },
+    "2023-V11": {
+      "value": "a pris",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面",
+      "sourceSha256": "1e5d86717578726f9126ec05bb7c8295ea80697829ae221be96508dc95a3c1e7"
+    },
+    "2023-V12": {
+      "value": "rendrait",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面",
+      "sourceSha256": "1e5d86717578726f9126ec05bb7c8295ea80697829ae221be96508dc95a3c1e7"
+    },
+    "2023-V13": {
+      "value": "aurais fini",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面",
+      "sourceSha256": "1e5d86717578726f9126ec05bb7c8295ea80697829ae221be96508dc95a3c1e7"
+    },
+    "2023-V14": {
+      "value": "J'ai essayé",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面",
+      "sourceSha256": "1e5d86717578726f9126ec05bb7c8295ea80697829ae221be96508dc95a3c1e7"
+    },
+    "2023-V15": {
+      "value": "ne sert presque jamais",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面",
+      "sourceSha256": "1e5d86717578726f9126ec05bb7c8295ea80697829ae221be96508dc95a3c1e7"
+    },
+    "2023-V16": {
+      "value": "fais",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面",
+      "sourceSha256": "1e5d86717578726f9126ec05bb7c8295ea80697829ae221be96508dc95a3c1e7"
+    },
+    "2023-V17": {
+      "value": "en courant",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面",
+      "sourceSha256": "1e5d86717578726f9126ec05bb7c8295ea80697829ae221be96508dc95a3c1e7"
+    },
+    "2023-V18": {
+      "value": "j'ai demandé",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面",
+      "sourceSha256": "1e5d86717578726f9126ec05bb7c8295ea80697829ae221be96508dc95a3c1e7"
+    },
+    "2023-V19": {
+      "value": "rende",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面",
+      "sourceSha256": "1e5d86717578726f9126ec05bb7c8295ea80697829ae221be96508dc95a3c1e7"
+    },
+    "2023-V20": {
+      "value": "sois",
+      "sourceFile": "best-ocr.pdf",
+      "sourcePage": 1,
+      "sourceKind": "ocr-pdf-copy",
+      "status": "OCR答案PDF视觉转录，题面映射待复核",
+      "note": "本地仅定位到OCR处理后的答案PDF副本；需核对原始PDF与题面",
+      "sourceSha256": "1e5d86717578726f9126ec05bb7c8295ea80697829ae221be96508dc95a3c1e7"
+    },
+    "2024-V01": {
+      "value": "portant",
+      "sourceFile": "2024年法语专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "8564fc7f358fc1a0413c6ad59f686ef4e378a03087ca3189c010030524316819"
+    },
+    "2024-V02": {
+      "value": "lurent",
+      "sourceFile": "2024年法语专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "8564fc7f358fc1a0413c6ad59f686ef4e378a03087ca3189c010030524316819"
+    },
+    "2024-V03": {
+      "value": "fut",
+      "sourceFile": "2024年法语专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "8564fc7f358fc1a0413c6ad59f686ef4e378a03087ca3189c010030524316819"
+    },
+    "2024-V04": {
+      "value": "marche",
+      "sourceFile": "2024年法语专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "8564fc7f358fc1a0413c6ad59f686ef4e378a03087ca3189c010030524316819"
+    },
+    "2024-V05": {
+      "value": "rencontrera",
+      "sourceFile": "2024年法语专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "8564fc7f358fc1a0413c6ad59f686ef4e378a03087ca3189c010030524316819"
+    },
+    "2024-V06": {
+      "value": "verra",
+      "sourceFile": "2024年法语专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "8564fc7f358fc1a0413c6ad59f686ef4e378a03087ca3189c010030524316819"
+    },
+    "2024-V07": {
+      "value": "trouvera",
+      "sourceFile": "2024年法语专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "8564fc7f358fc1a0413c6ad59f686ef4e378a03087ca3189c010030524316819"
+    },
+    "2024-V08": {
+      "value": "Allons",
+      "sourceFile": "2024年法语专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "8564fc7f358fc1a0413c6ad59f686ef4e378a03087ca3189c010030524316819"
+    },
+    "2024-V09": {
+      "value": "ne sait pas",
+      "sourceFile": "2024年法语专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "8564fc7f358fc1a0413c6ad59f686ef4e378a03087ca3189c010030524316819"
+    },
+    "2024-V10": {
+      "value": "lisions",
+      "sourceFile": "2024年法语专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "8564fc7f358fc1a0413c6ad59f686ef4e378a03087ca3189c010030524316819"
+    },
+    "2024-V11": {
+      "value": "soit",
+      "sourceFile": "2024年法语专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "8564fc7f358fc1a0413c6ad59f686ef4e378a03087ca3189c010030524316819"
+    },
+    "2024-V12": {
+      "value": "aimerais",
+      "sourceFile": "2024年法语专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "8564fc7f358fc1a0413c6ad59f686ef4e378a03087ca3189c010030524316819"
+    },
+    "2024-V13": {
+      "value": "aurais dû",
+      "sourceFile": "2024年法语专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "8564fc7f358fc1a0413c6ad59f686ef4e378a03087ca3189c010030524316819"
+    },
+    "2024-V14": {
+      "value": "n'a rien",
+      "sourceFile": "2024年法语专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "8564fc7f358fc1a0413c6ad59f686ef4e378a03087ca3189c010030524316819"
+    },
+    "2024-V15": {
+      "value": "ai entendu dire",
+      "sourceFile": "2024年法语专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "8564fc7f358fc1a0413c6ad59f686ef4e378a03087ca3189c010030524316819"
+    },
+    "2024-V16": {
+      "value": "craint",
+      "sourceFile": "2024年法语专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "8564fc7f358fc1a0413c6ad59f686ef4e378a03087ca3189c010030524316819"
+    },
+    "2024-V17": {
+      "value": "parte",
+      "sourceFile": "2024年法语专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "8564fc7f358fc1a0413c6ad59f686ef4e378a03087ca3189c010030524316819"
+    },
+    "2024-V18": {
+      "value": "s'eloigna",
+      "sourceFile": "2024年法语专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核；PDF印为 s'eloigna，法语重音形式待核",
+      "sourceSha256": "8564fc7f358fc1a0413c6ad59f686ef4e378a03087ca3189c010030524316819"
+    },
+    "2024-V19": {
+      "value": "vinrent",
+      "sourceFile": "2024年法语专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "8564fc7f358fc1a0413c6ad59f686ef4e378a03087ca3189c010030524316819"
+    },
+    "2024-V20": {
+      "value": "nomma",
+      "sourceFile": "2024年法语专四真题答案.pdf",
+      "sourcePage": 2,
+      "sourceKind": "answer-pdf",
+      "status": "答案PDF已视觉转录，题面映射待复核",
+      "note": "本轮从答案PDF视觉转录；判分输入形式与题面对应待核",
+      "sourceSha256": "8564fc7f358fc1a0413c6ad59f686ef4e378a03087ca3189c010030524316819"
+    },
+    "2025-V01": {
+      "value": "entrer",
+      "sourceFile": "2025专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "61a764af553e0fa0900e5d36705bb0ef59b795ef289ec1221ccd27fc3f925f45"
+    },
+    "2025-V02": {
+      "value": "s’est penché",
+      "sourceFile": "2025专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "答案PDF印为 s’est penché；主语 Madeleine，词尾性数需复核，暂保留PDF原文",
+      "sourceSha256": "61a764af553e0fa0900e5d36705bb0ef59b795ef289ec1221ccd27fc3f925f45"
+    },
+    "2025-V03": {
+      "value": "est restée",
+      "sourceFile": "2025专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "61a764af553e0fa0900e5d36705bb0ef59b795ef289ec1221ccd27fc3f925f45"
+    },
+    "2025-V04": {
+      "value": "s’est mise",
+      "sourceFile": "2025专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "61a764af553e0fa0900e5d36705bb0ef59b795ef289ec1221ccd27fc3f925f45"
+    },
+    "2025-V05": {
+      "value": "se rappelant",
+      "sourceFile": "2025专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "61a764af553e0fa0900e5d36705bb0ef59b795ef289ec1221ccd27fc3f925f45"
+    },
+    "2025-V06": {
+      "value": "fais",
+      "sourceFile": "2025专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "61a764af553e0fa0900e5d36705bb0ef59b795ef289ec1221ccd27fc3f925f45"
+    },
+    "2025-V07": {
+      "value": "a posé",
+      "sourceFile": "2025专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "61a764af553e0fa0900e5d36705bb0ef59b795ef289ec1221ccd27fc3f925f45"
+    },
+    "2025-V08": {
+      "value": "ai apporté",
+      "sourceFile": "2025专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "61a764af553e0fa0900e5d36705bb0ef59b795ef289ec1221ccd27fc3f925f45"
+    },
+    "2025-V09": {
+      "value": "vont",
+      "sourceFile": "2025专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "61a764af553e0fa0900e5d36705bb0ef59b795ef289ec1221ccd27fc3f925f45"
+    },
+    "2025-V10": {
+      "value": "s’est gratté",
+      "sourceFile": "2025专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "61a764af553e0fa0900e5d36705bb0ef59b795ef289ec1221ccd27fc3f925f45"
+    },
+    "2025-V11": {
+      "value": "s’est lancé",
+      "sourceFile": "2025专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "61a764af553e0fa0900e5d36705bb0ef59b795ef289ec1221ccd27fc3f925f45"
+    },
+    "2025-V12": {
+      "value": "sortent",
+      "sourceFile": "2025专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "61a764af553e0fa0900e5d36705bb0ef59b795ef289ec1221ccd27fc3f925f45"
+    },
+    "2025-V13": {
+      "value": "se promener",
+      "sourceFile": "2025专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "61a764af553e0fa0900e5d36705bb0ef59b795ef289ec1221ccd27fc3f925f45"
+    },
+    "2025-V14": {
+      "value": "suis venu",
+      "sourceFile": "2025专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "真题已有 je (j’) 提示；保留答案PDF原文",
+      "sourceSha256": "61a764af553e0fa0900e5d36705bb0ef59b795ef289ec1221ccd27fc3f925f45"
+    },
+    "2025-V15": {
+      "value": "rentrerez",
+      "sourceFile": "2025专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "真题PDF原词为 rentrer；此前MD误识为 renter",
+      "sourceSha256": "61a764af553e0fa0900e5d36705bb0ef59b795ef289ec1221ccd27fc3f925f45"
+    },
+    "2025-V16": {
+      "value": "relâcheront",
+      "sourceFile": "2025专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "真题已有 me (m’) 提示；保留答案PDF原文",
+      "sourceSha256": "61a764af553e0fa0900e5d36705bb0ef59b795ef289ec1221ccd27fc3f925f45"
+    },
+    "2025-V17": {
+      "value": "est arrivée",
+      "sourceFile": "2025专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "61a764af553e0fa0900e5d36705bb0ef59b795ef289ec1221ccd27fc3f925f45"
+    },
+    "2025-V18": {
+      "value": "étaient terminées",
+      "sourceFile": "2025专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "61a764af553e0fa0900e5d36705bb0ef59b795ef289ec1221ccd27fc3f925f45"
+    },
+    "2025-V19": {
+      "value": "s’est approché",
+      "sourceFile": "2025专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "",
+      "sourceSha256": "61a764af553e0fa0900e5d36705bb0ef59b795ef289ec1221ccd27fc3f925f45"
+    },
+    "2025-V20": {
+      "value": "l’a embrassée",
+      "sourceFile": "2025专四真题答案.pdf",
+      "sourcePage": 1,
+      "sourceKind": "answer-pdf",
+      "status": "真题与答案PDF已转录，判分形式待整理",
+      "note": "真题已有 la (l’) 提示；答案PDF含 l’，填入边界需复核",
+      "sourceSha256": "61a764af553e0fa0900e5d36705bb0ef59b795ef289ec1221ccd27fc3f925f45"
+    }
+  }
+}

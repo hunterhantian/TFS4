@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import {projectRoot} from './db.mjs';
 import {fail} from './security.mjs';
+import {verbReference,verbReferenceVersion} from './stage3-verb-answer-reference.mjs';
 function fields(value, prefix='', out=[]){if(value===null||value===undefined)return out;if(typeof value==='object'){for(const [k,v] of Object.entries(value))fields(v,prefix?prefix+'.'+k:k,out);}else out.push({field:prefix,text:String(value)});return out;}
 const norm=s=>String(s??'').normalize('NFKD').replace(/\p{M}/gu,'').toLocaleLowerCase('fr').replace(/\s+/g,' ').trim();
 export function loadSynthesis(file=path.join(projectRoot,'.local/synthesis/snapshot.json')){
@@ -10,7 +11,7 @@ export function loadSynthesis(file=path.join(projectRoot,'.local/synthesis/snaps
  const nodes=new Map(data.nodes.map(n=>[n.id,n]));
  const paths=new Map();for(const n of data.nodes){let p=n,parts=[],seen=new Set();while(p){if(seen.has(p.id))throw Error('Tree cycle');seen.add(p.id);parts.unshift(p);p=nodes.get(p.parentId);}paths.set(n.id,parts);}
  const links=new Map();for(const n of data.nodes)for(const id of new Set(Object.values(n.itemIds_by_type||{}).flat())){if(!links.has(id))links.set(id,[]);links.get(id).push(n);}
- const items=data.items.map(({mapping:m,answer:a})=>{const linked=links.get(m.itemId)||[];const knowledge=linked.map(n=>({id:n.id,name:n.name,definition:n.definition,path:paths.get(n.id).map(x=>x.name).join(' › ')}));const knowledgeFields=linked.map(({itemIds_by_type,representative_items,conditional_itemIds,counts,...n})=>n);const searchable=fields({mapping:m,answer:a,knowledge:knowledgeFields,paths:knowledge.map(n=>n.path)}).map(x=>({...x,normalized:norm(x.text)}));return {id:m.itemId,year:m.itemId.slice(0,4),sitting:m.itemId.replace(/-[QV]\d+$/, ''),mapping:m,answer:a,knowledge,searchable};});
+ const items=data.items.map(({mapping:m,answer:original})=>{let a=original;if(/^(?:200[5-9]|201\d|202[2-5]|2021-0[56])-V\d{2}$/.test(m.itemId)){const ref=verbReference(m.itemId);a={...original,answer_view:ref.value,answer_status:ref.status,accepted_references:[],conditional_references:[],reference_version:verbReferenceVersion,reference_source:ref};}const linked=links.get(m.itemId)||[];const knowledge=linked.map(n=>({id:n.id,name:n.name,definition:n.definition,path:paths.get(n.id).map(x=>x.name).join(' › ')}));const knowledgeFields=linked.map(({itemIds_by_type,representative_items,conditional_itemIds,counts,...n})=>n);const searchable=fields({mapping:m,answer:a,knowledge:knowledgeFields,paths:knowledge.map(n=>n.path)}).map(x=>({...x,normalized:norm(x.text)}));return {id:m.itemId,year:m.itemId.slice(0,4),sitting:m.itemId.replace(/-[QV]\d+$/, ''),mapping:m,answer:a,knowledge,searchable};});
  const groups=new Map();for(const item of items){const m=item.mapping,category=categoryOf(m.type),material=m.material;const grouped=['cloze','reading','verb_blank'].includes(category)&&material?.text;const key=grouped?JSON.stringify([item.sitting,category,material.source,material.line_start,material.line_end,material.text]):item.id;if(!groups.has(key))groups.set(key,{id:item.id,year:item.year,sitting:item.sitting,type:category,material:grouped?material:null,items:[]});groups.get(key).items.push(item);}
  return {data,nodes,paths,items,groups:[...groups.values()]};
 }

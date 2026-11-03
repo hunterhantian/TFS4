@@ -91,7 +91,7 @@ async function showLearningPage(page){
  const titles={tree:'知识树诊断',mistakes:'我的错题',practice:'知识点掌握程度',recent:'最近作答'};if(!titles[page])throw Error('页面不存在');const request=++learningRequest;show('learning-subview');message('');$('#learning-subtitle').textContent=titles[page];const host=$('#learning-sub-content'),root=document.createElement('div');host.replaceChildren(root);root.textContent='正在加载…';
  if(page==='tree'){await mountLearningTree(root,{run,onTrain:startLearningTraining});}
  else if(page==='mistakes'){root.replaceChildren();await mountMistakes(root,{run,onRetry:startMistakeRetry});}
- else if(page==='practice'){root.replaceChildren();await mountMastery(root,{run});}
+ else if(page==='practice'){root.replaceChildren();await mountMastery(root,{run,onRetry:startMistakeRetry});}
  else{const data=await api('GET','/learning/overview');if(request!==learningRequest)return;const groups=new Map();for(const e of data.recent){const day=new Date(e.time).toLocaleDateString('zh-CN',{timeZone:'Asia/Shanghai'});if(!groups.has(day))groups.set(day,[]);groups.get(day).push(e);}const modeNames={full:'完整考试',full_candidate:'完整考试',mini:'Mini 考试',listening:'听力测试',training:'专项训练'};root.innerHTML=groups.size?[...groups].map(([day,events])=>`<section class="recent-day"><h2>${escape(day)}</h2><div>${events.map(e=>`<article class="recent-row"><strong>${escape(e.questionId)}</strong><span>${escape(modeNames[e.mode]||'考试')}</span><b class="${e.result==='wrong'?'recent-wrong':'recent-correct'}">${e.result==='wrong'?'答错':'答对'}</b></article>`).join('')}</div></section>`).join(''):'<p class="learning-empty">暂无已判定的作答记录。</p>';}
 }
 $('#open-learning').onclick=()=>run(showLearning);$('#learning-back').onclick=()=>run(showLearning);

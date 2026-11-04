@@ -1,0 +1,59 @@
+/* Theme switch remains available on every page, including during an exam. */
+#theme-toggle{display:inline-flex;align-items:center;justify-content:center;gap:7px;min-height:40px;padding:0 12px;border:1px solid var(--ui-line);border-radius:9px;background:var(--ui-button);color:var(--ui-text);font-size:13px;white-space:nowrap}
+#theme-toggle:hover{background:var(--ui-hover)}
+#theme-toggle span[aria-hidden]{font-size:18px;line-height:1}
+@media(max-width:540px){.topbar-actions{gap:5px!important}#theme-toggle{min-width:42px;padding:0 9px}.theme-toggle-label{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}#account-name{max-width:5.5em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}}
+
+/* Daylight: quiet neutral surfaces with deeper purple and amber accents. */
+:root[data-theme=light]{--ui-bg:#f2f2f5;--ui-sidebar:#e9e9ee;--ui-panel:#fff;--ui-button:#e8e7ed;--ui-hover:#dcd9e4;--ui-line:#7f7b87;--ui-text:#24232a;--ui-muted:#585660;--ui-selected:#e9e1f5;--ui-focus:#674099;--ui-primary:#674099;--ui-primary-text:#fff;--ui-heart:#865500;--ui-success:#20693f;--ui-error:#ad2538;--ui-warning:#795000;--green:#20693f;--red:#ad2538;--yellow:#795000;--info-date:#674099;--info-time:#795000;--info-completion:#20693f;--info-type:#773d75;--s5-bg:var(--ui-bg);--s5-text:var(--ui-text);color-scheme:light}
+:root[data-theme=light] body{color-scheme:light}
+:root[data-theme=light] .topbar #account-name,:root[data-theme=light] .topbar #logout{color:var(--ui-muted)}
+:root[data-theme=light] .view-title h1,:root[data-theme=light] #learning-sub-content h2,:root[data-theme=light] .test-option-copy b,:root[data-theme=light] .test-panel-heading h2,:root[data-theme=light] #mini-sheets .attempt-card h3,:root[data-theme=light] .candidate-metrics strong,:root[data-theme=light] .report-stat{color:var(--ui-text)}
+:root[data-theme=light] #learning-sub-content label,:root[data-theme=light] #create-user-form label,:root[data-theme=light] #admin-view .user-card label,:root[data-theme=light] .test-select,:root[data-theme=light] .test-panel-note,:root[data-theme=light] .test-panel-heading>p:last-child,:root[data-theme=light] #mini-sheets .attempt-card p,:root[data-theme=light] .candidate-dates,:root[data-theme=light] .candidate-progress,:root[data-theme=light] .learning-overview-metrics span,:root[data-theme=light] .learning-overview-metrics small,:root[data-theme=light] .muted{color:var(--ui-muted)}
+:root[data-theme=light] .page-eyebrow,:root[data-theme=light] #learning-subview .view-title .page-eyebrow,:root[data-theme=light] #learning-sub-content .synthesis-card h3,:root[data-theme=light] .learning-overview-card h3{color:#674099}
+:root[data-theme=light] .workspace-sidebar nav button[aria-current=page]{box-shadow:inset 3px 0 #674099}
+:root[data-theme=light] .home-link.learning-entry .learning-heart,:root[data-theme=light] .workspace-sidebar nav button .learning-heart{color:var(--ui-heart)}
+:root[data-theme=light] #learning-sub-content .synthesis-card strong,:root[data-theme=light] .learning-overview-metrics strong.learning-overview-attention{color:#795000}
+:root[data-theme=light] #learning-sub-content .learning-period{background:#f6eddb;color:#795000}
+:root[data-theme=light] .learning-attention-count{background:#f1dfb6;color:#684200}
+:root[data-theme=light] .learning-tree-column button[aria-pressed=true],:root[data-theme=light] .synthesis-tree-node[aria-pressed=true],:root[data-theme=light] .test-option[aria-pressed=true],:root[data-theme=light] .option.selected,:root[data-theme=light] .learning-quick button[aria-pressed=true]{border-color:#674099!important;background:#e9e1f5!important;color:#30223f!important}
+:root[data-theme=light] .primary:hover{background:#53327e;color:white}
+:root[data-theme=light] input,:root[data-theme=light] select,:root[data-theme=light] textarea{color-scheme:light;accent-color:#674099}
+:root[data-theme=light] textarea{background:#fff;color:var(--ui-text);border:1px solid var(--ui-line)}
+:root[data-theme=light] input[type=date]{color-scheme:light}
+:root[data-theme=light] .question,:root[data-theme=light] .reading,:root[data-theme=light] #listening-player,:root[data-theme=light] .exam-navigation,:root[data-theme=light] .review-question,:root[data-theme=light] .review-option,:root[data-theme=light] .report-part-header,:root[data-theme=light] .report-part-body,:root[data-theme=light] .candidate-metrics>div,:root[data-theme=light] .report-card,:root[data-theme=light] dialog{background:var(--ui-panel);color:var(--ui-text);border-color:var(--ui-line)}
+:root[data-theme=light] .option b,:root[data-theme=light] .q-no,:root[data-theme=light] .confidence button,:root[data-theme=light] .page-dots button{color:var(--ui-text)}
+:root[data-theme=light] .confidence button,:root[data-theme=light] .page-dots button{background:var(--ui-button)}
+:root[data-theme=light] .confidence button.selected{background:var(--ui-selected);border-color:#674099;color:#30223f}
+:root[data-theme=light] .submit,:root[data-theme=light] .home-attempt .home-delete{color:#a42336;border-color:#ad5360}
+:root[data-theme=light] .score-table thead{background:#eae8ee;color:#35313d}
+:root[data-theme=light] .score-table tbody tr:nth-child(even){background:#f5f4f7}
+:root[data-theme=light] .score-table tbody tr:hover,:root[data-theme=light] .score-table tr.expanded{background:#eae7f0!important}
+:root[data-theme=light] .score-table th,:root[data-theme=light] .score-table td{border-color:#dedce3;color:var(--ui-text)}
+:root[data-theme=light] .score-table tr.correct .report-choice{color:#20693f}
+:root[data-theme=light] .score-table tr.wrong .report-choice,:root[data-theme=light] .score-table td.candidate-answer.answer-wrong{color:#ad2538}
+:root[data-theme=light] .score-table .answer-pending,:root[data-theme=light] .candidate-reference,:root[data-theme=light] .candidate-detail-answers,:root[data-theme=light] .report-time{color:#795000}
+:root[data-theme=light] .candidate-disclaimer,:root[data-theme=light] #sync-status[data-state=pending],:root[data-theme=light] #sync-status[data-state=saving]{color:#795000}
+:root[data-theme=light] .review-option.standard-option{background:#e4f3e9;border-color:#438258}
+:root[data-theme=light] .review-option.wrong-option{background:#fae7e9;border-color:#ad5360}
+:root[data-theme=light] .review-material>div,:root[data-theme=light] .review-option-legend,:root[data-theme=light] .report-table-note{color:var(--ui-muted)}
+:root[data-theme=light] .user-answer-marker{color:#674099}:root[data-theme=light] .standard-answer-marker{color:#20693f}
+:root[data-theme=light] #learning-sub-content details summary,:root[data-theme=light] .synthesis-detail h3{color:#674099}
+:root[data-theme=light] .sidebar-backdrop:not([hidden]){background:#0008}
+:root[data-theme=light] #message,:root[data-theme=light] .date-range-error{color:#ad2538}
+:root[data-theme=light] .archive-title,:root[data-theme=light] .report-part-header h2,:root[data-theme=light] .candidate-metrics strong small,:root[data-theme=light] .report-part-header strong small{color:var(--ui-text)}
+:root[data-theme=light] .report-part-header p,:root[data-theme=light] .candidate-metrics span{color:var(--ui-muted)}
+:root[data-theme=light] .part-progress-card{--part-accent:#674099!important;background:#f8f7fa;border-color:#c6c2ce;border-top-color:#674099;color:var(--ui-text)}
+:root[data-theme=light] .part-progress-card:hover{background:#ece9f1}
+:root[data-theme=light] .progress-card-title b,:root[data-theme=light] .progress-card-title strong{color:#674099}
+:root[data-theme=light] .progress-card-title>span small,:root[data-theme=light] .progress-card-title strong small{color:var(--ui-muted)}
+:root[data-theme=light] .part-progress-card progress,:root[data-theme=light] .part-progress-card progress::-webkit-progress-bar{background:#ddd9e3}
+:root[data-theme=light] .part-progress-card progress::-webkit-progress-value{background:#674099}
+:root[data-theme=light] .part-progress-card progress::-moz-progress-bar{background:#674099}
+:root[data-theme=light] .test-panel-warning{color:#795000}
+@media(max-width:580px){.progress-row>div:first-child{min-width:0}.progress-row>div:last-child{flex:0 0 auto;min-width:75px;text-align:right}#clock{white-space:nowrap;font-variant-numeric:tabular-nums}}
+/* Archive filters and diagnostic counts need explicit light-mode contrast. */
+:root[data-theme=light] .report-filters select{background:var(--ui-sidebar);color:var(--ui-text);border-color:var(--ui-line);color-scheme:light}
+:root[data-theme=light] .learning-overview-metrics strong{color:var(--ui-text)}
+:root[data-theme=light] .learning-overview-metrics strong small,:root[data-theme=light] .learning-overview-metrics span,:root[data-theme=light] .learning-overview-metrics>div>small{color:var(--ui-muted)}
+:root[data-theme=light] .learning-overview-metrics strong.learning-overview-attention{color:#795000}
